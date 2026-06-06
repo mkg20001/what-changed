@@ -494,6 +494,7 @@
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.1 to 2.1.2</code>](https://github.com/krille-chan/fluffychat/commit/8dc7e84c2ef2f74d68723c5068f0942af9dd7cce)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -787,6 +788,7 @@
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.1 to 2.1.2</code>](https://github.com/krille-chan/fluffychat/commit/8dc7e84c2ef2f74d68723c5068f0942af9dd7cce)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1363,6 +1365,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: consolidate dbengine retention sizing guidance (#22517)</code>](https://github.com/netdata/netdata.git/commit/f340a0e3ffb77f2d6ea3a02ffa6528ce7fd93dcf)
 - [ ] [<code>chore(go/pkg/prometheus):  unified single-pass stream parser (#22640)</code>](https://github.com/netdata/netdata.git/commit/415f0fcf8d4bf35956182b158140b60ab25e5ede)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-332-nightly.</code>](https://github.com/netdata/netdata.git/commit/363e90bec68d16a154c0afe29b51c54b1615cf4a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2571,6 +2574,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): clarify that Q30 and Life Q30 are the same thing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0cb16d18df5a5b17fcc6565d1f813a61253cce7)
 - [ ] [<code>fix(lib): repeated Soundcore word in a3959 device name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9c78aaf82d41e08ae70426977bb386506ccb5f9)
+- [ ] [<code>docs(cli): fix man page formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce69aae3ab3f368f6eaa39e8b10760888786e884)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.5.12 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.5.12...HEAD)
 
@@ -14766,6 +14771,85 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(google): preserve Vertex ADC catalog auth (#90609)</code>](https://github.com/openclaw/openclaw/commit/a4f7e4cbb94658d1fcae49a1dfd0e4f1dd230cb3)
 - [ ] [<code>fix: refresh prompt fence after compaction writes</code>](https://github.com/openclaw/openclaw/commit/bbfe8ccaf60e87e84a3c695e56f4bee7c687c5b0)
 - [ ] [<code>test(codex): cover thread abandonment after completion-idle timeout (#90027)</code>](https://github.com/openclaw/openclaw/commit/e5d1fadea7e2fa6282430e4fac96bb502559ab99)
+- [ ] [<code>fix(telegram): suppress post-final tool error noise</code>](https://github.com/openclaw/openclaw/commit/3a2f54e6a866ed6fc8738aa39cf1a1167efe92b9)
+- [ ] [<code>fix(voice-call): track Twilio streams after connect (#90607)</code>](https://github.com/openclaw/openclaw/commit/9e29375cecab8267633f0a73ae971f164af04dae)
+- [ ] [<code>fix(agents): coerce non-text/image MCP tool-result blocks to text (fixes #90710) (#90728)</code>](https://github.com/openclaw/openclaw/commit/b1e4b6b65e2cc1dac0de9ba1ed4e218c14efeef2)
+- [ ] [<code>fix(llm): defer Anthropic stream start event until after message_start (#90697)</code>](https://github.com/openclaw/openclaw/commit/aa8070a76f925b15fec9912dd88f3b1e7f954b5f)
+- [ ] [<code>fix(memory): resolve adapter default model in plain status identity check (#90816)</code>](https://github.com/openclaw/openclaw/commit/50aaf1f9b6344026ee218db8391f740bae3c5376)
+- [ ] [<code>fix #90668: [Bug]: macOS node mode can silently self-reconnect in a healthy direct gateway session (#90815)</code>](https://github.com/openclaw/openclaw/commit/9cbf18293bb457b5cbb534ef637ad7e8b818817f)
+- [ ] [<code>docs(changelog): refresh 2026.6.5 notes</code>](https://github.com/openclaw/openclaw/commit/af4ba6221ba48b6ade16a332e06c5f12f079ec59)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): complete 2026.6.5 notes</code>](https://github.com/openclaw/openclaw/commit/04ecc1aae929f826f082da65c26f47d1b9cbbecd)
+- [ ] [<code>docs(changelog): complete 2026.6.5 release refs</code>](https://github.com/openclaw/openclaw/commit/092075534e545ab4e0fe7824a3abe7e9784b3df7)
+- [ ] [<code>Fix OpenAI audio auth to use API keys (#90793)</code>](https://github.com/openclaw/openclaw/commit/6f909f64544ecfd0335bd9c78673d0e5fe8631bb)
+- [ ] [<code>test(gateway): stabilize channel restart fake timers</code>](https://github.com/openclaw/openclaw/commit/8e9c377971bbb855c5f0f022479ec532e8403634)
+- [ ] [<code>fix(codex): preserve completed replies after client close (#90790)</code>](https://github.com/openclaw/openclaw/commit/2f46a27b40442f9b367c1dfc8ba24c3599d9076b)
+- [ ] [<code>fix(plugins): strengthen registry root memo fingerprint</code>](https://github.com/openclaw/openclaw/commit/9313471fa579eec9da1814fac9f0be32e148e666)
+- [ ] [<code>fix(release): retry provider-throttled cross-os agent turns</code>](https://github.com/openclaw/openclaw/commit/2fc4511eebc1c7a9d61205c1e3c1c9bbd25bb108)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): report completion timeout diagnostics</code>](https://github.com/openclaw/openclaw/commit/ab7c922825229e05834100b905f69295c11922f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(imessage): frame rpc stdout on LF only (#90845)</code>](https://github.com/openclaw/openclaw/commit/37aaa5cc2b81f1270584d39fda034ef1f18630a8)
+- [ ] [<code>fix(release): extend live Docker image pull timeout</code>](https://github.com/openclaw/openclaw/commit/153a2badb05697c05a9462668b21de965a7f6fec)
+- [ ] [<code>fix(uninstall): refuse to remove current working directory during cleanup (#90813)</code>](https://github.com/openclaw/openclaw/commit/743051d400ff0d9125f358a5ccd6eac7e31c8640)
+- [ ] [<code>fix(test): route extension tests through scoped paths</code>](https://github.com/openclaw/openclaw/commit/92242f4f681d19759a039726ded8d5bd02249c86)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(installer): print npm debug logs on Windows install failure</code>](https://github.com/openclaw/openclaw/commit/c72c82726f206f15dd868e437062369995e53fa1)
+- [ ] [<code>test(pairing): isolate store state tests</code>](https://github.com/openclaw/openclaw/commit/f94e4f85f07065525703a9beeea3ad8ec2723a8b)
+- [ ] [<code>fix(plugins): preserve core embedding providers</code>](https://github.com/openclaw/openclaw/commit/d4b4a658094e50ce964a479bd3d117b9067681af)
+- [ ] [<code>fix(ios): use safe area inset for settings scroll</code>](https://github.com/openclaw/openclaw/commit/c29cc7f82fe11a4d571717455f60890405243474)
+- [ ] [<code>fix ios onboarding mode row hit targets</code>](https://github.com/openclaw/openclaw/commit/88f6857c2e0a35e63b11be30bfc400dfd009eeab)
+- [ ] [<code>fix ios chat error banner overlap</code>](https://github.com/openclaw/openclaw/commit/73f056a0a472672b599588a845755d4f0e9e5160)
+- [ ] [<code>fix ios talk controls hit targets</code>](https://github.com/openclaw/openclaw/commit/762540aa0410fa5a6ebc20154d58d1322164b369)
+- [ ] [<code>fix ios quick setup suppression toggle</code>](https://github.com/openclaw/openclaw/commit/0ee7cf970cfa3d5cc02b1798b06895bb2ed76743)
+- [ ] [<code>fix ios diagnostics toggle hit targets</code>](https://github.com/openclaw/openclaw/commit/33cb1c18aca1ca8859dd51273291597e355eb935)
+- [ ] [<code>fix ios gateway settings control hit targets</code>](https://github.com/openclaw/openclaw/commit/fbaa5a6f0a579ca50cb5884afa2319f54f4f2f87)
+- [ ] [<code>fix ios settings bottom scroll inset</code>](https://github.com/openclaw/openclaw/commit/2fb5ff303451ffa2e3813171a3bdb849471f5e12)
+- [ ] [<code>fix ios onboarding developer toggle hit target</code>](https://github.com/openclaw/openclaw/commit/7e6134cb12958fc2a7cb0e0e79b00f6dcd83fadd)
+- [ ] [<code>fix ios onboarding tls toggle hit targets</code>](https://github.com/openclaw/openclaw/commit/f1cf89846018a57cfbc3d3423b3c4fcfd9c213f4)
+- [ ] [<code>fix ios operator admin scope requests</code>](https://github.com/openclaw/openclaw/commit/19e827c969d9ee94694873257d9577cafc005739)
+- [ ] [<code>fix ios operator scope upgrade state</code>](https://github.com/openclaw/openclaw/commit/1746319db566843d9c81c14241c8f6adbdcfad5d)
+- [ ] [<code>fix ios operator recovery live activity</code>](https://github.com/openclaw/openclaw/commit/8f6f18b6e7c2a52bae41bf51585738e66267c6fd)
+- [ ] [<code>fix ios skill editor toggle hit target</code>](https://github.com/openclaw/openclaw/commit/472a30bd3f27fac6444676acfd3b035f45ad7fb0)
+- [ ] [<code>fix ios onboarding success screen</code>](https://github.com/openclaw/openclaw/commit/af50a5959d3abd0c2c8550b8d76799c16ddbaaed)
+- [ ] [<code>Fix iOS selected agent chat routing</code>](https://github.com/openclaw/openclaw/commit/5c07f7ccf04d7d97e68fcf77b5a5b8824c58872e)
+- [ ] [<code>Fix iOS chat background presentation</code>](https://github.com/openclaw/openclaw/commit/83a6bce835ef5bb9fffbf3ace2940afd4d2611ec)
+- [ ] [<code>Fix chat session sync ownership</code>](https://github.com/openclaw/openclaw/commit/7478e6e485a78cbee2f8ea0e7701f87b55c311fd)
+- [ ] [<code>Fix chat history races across agent switches</code>](https://github.com/openclaw/openclaw/commit/ea7e214bd4ef4d05d1d7ba0969d8f3d78ace0ddd)
+- [ ] [<code>fix(ios): show recent sessions preview</code>](https://github.com/openclaw/openclaw/commit/be537060ce4c8a9648ecd76a6abcda4bf027e527)
+- [ ] [<code>fix(ios): show focused session agent</code>](https://github.com/openclaw/openclaw/commit/67dc71983c94028014655119802b706f45aa07dd)
+- [ ] [<code>fix(ios): clarify agent chat session</code>](https://github.com/openclaw/openclaw/commit/e8c0d9201534f0aa975b4cea7ee69823836bed1e)
+- [ ] [<code>fix(ios): remove command start work button</code>](https://github.com/openclaw/openclaw/commit/81d099f0e9f6c5e8fffa72e945ea5f74ecec056b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ios): move approvals to settings</code>](https://github.com/openclaw/openclaw/commit/14f018e7946f7fd53747612a1d475f8e3fc3a381)
+- [ ] [<code>fix(ios): remove command live activity section</code>](https://github.com/openclaw/openclaw/commit/0b8799032811e634b5e60603ac30a8e0190dd544)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ios): keep chat messages above composer</code>](https://github.com/openclaw/openclaw/commit/dc5c24fbe6c05f8f8ee03c4116dfd758291c040d)
+- [ ] [<code>fix(ios): hide agent sessions from recent sessions</code>](https://github.com/openclaw/openclaw/commit/2ef0d274faad81633d1be6890659c54463103e1d)
+- [ ] [<code>fix(ios): stop marking scheduled agents busy</code>](https://github.com/openclaw/openclaw/commit/a9a2c3429394fc752440e1dd77c33a0b522a15cc)
+- [ ] [<code>fix(ios): remove extra root tab bottom insets</code>](https://github.com/openclaw/openclaw/commit/a6582f787c3f53ffc0288b2f5b765a5393b9a608)
+- [ ] [<code>style(ios): align command section header padding</code>](https://github.com/openclaw/openclaw/commit/f40680c826047d22a6b156bc1d086b78635260be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ios): disable chat composer while offline</code>](https://github.com/openclaw/openclaw/commit/9942428df00174fad2b0b953f81a9dddcfab8b1a)
+- [ ] [<code>style(ios): use app logo on onboarding intro</code>](https://github.com/openclaw/openclaw/commit/32b0b5886806d9b1454eaef96d500b4f1d856aee)
+- [ ] [<code>test(live): skip DeepInfra V4 Flash tool sentinel drift</code>](https://github.com/openclaw/openclaw/commit/98f52dcc00d2d6594aff8b115bac38a74b2670ec)
+- [ ] [<code>chore(android): fix ktlint formatting</code>](https://github.com/openclaw/openclaw/commit/efea9ca0f5b1885d99c552b8ec4dffdbcbc8bf85)
+- [ ] [<code>fix(android): surface voice provider attention</code>](https://github.com/openclaw/openclaw/commit/b7cafb56fae6307488280656a8462c1a85a609bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): defer runtime startup after first draw</code>](https://github.com/openclaw/openclaw/commit/9413a5aba5d9c7f06e7473f213bbae197e3078c8)
+- [ ] [<code>fix(android): show flavor channel in about</code>](https://github.com/openclaw/openclaw/commit/e4583b4f57fff73fbecf47f76cd582318fedc0be)
+- [ ] [<code>fix(android): keep gateway pairing off main thread</code>](https://github.com/openclaw/openclaw/commit/a2455fcc09ef6500afe288e94b0f9250e58e2a3d)
+- [ ] [<code>fix(android): pause gateway pairing retries</code>](https://github.com/openclaw/openclaw/commit/81f4fe6c113bb2a50a11ee8aad86467048eb5744)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): keep sent chat messages in history</code>](https://github.com/openclaw/openclaw/commit/485446af8c956e9dfafd24fd02ea6761823b0fc0)
+- [ ] [<code>fix(android): reconnect saved gateway after disconnect</code>](https://github.com/openclaw/openclaw/commit/53e50ec12747b5063ead006bc44b4f855b161163)
+- [ ] [<code>chore(android): remove model catalog section</code>](https://github.com/openclaw/openclaw/commit/81312e7aa3618bcdc61c47054e5fa296180eb35f)
+- [ ] [<code>chore(android): remove provider setup footer</code>](https://github.com/openclaw/openclaw/commit/44a72cde586edd9b2af743ec689071980c75a336)
+- [ ] [<code>fix(android): show configured provider readiness</code>](https://github.com/openclaw/openclaw/commit/72b387ad488ce6764565ef4b2edeb6eec4c5de28)
+- [ ] [<code>chore(android): simplify onboarding entry actions</code>](https://github.com/openclaw/openclaw/commit/b80893f30dc27de1d3aa25be2e7380d6faac1b5b)
+- [ ] [<code>fix(android): clarify nearby gateway discovery state</code>](https://github.com/openclaw/openclaw/commit/109806378347115c860f9ee8470f68b2b5952a84)
+- [ ] [<code>feat(android): brand onboarding welcome screen</code>](https://github.com/openclaw/openclaw/commit/f4a5e5762e27daa5456d5ec43af28573a2048d5b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
