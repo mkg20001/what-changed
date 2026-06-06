@@ -1366,6 +1366,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go/pkg/prometheus):  unified single-pass stream parser (#22640)</code>](https://github.com/netdata/netdata.git/commit/415f0fcf8d4bf35956182b158140b60ab25e5ede)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-332-nightly.</code>](https://github.com/netdata/netdata.git/commit/363e90bec68d16a154c0afe29b51c54b1615cf4a)
+- [ ] [<code>test(go.d/prometheus): add V1 compatibility manifest golden tests (#22641)</code>](https://github.com/netdata/netdata.git/commit/369a28ba0b8569f0c56d81d566131d978b050f5d)
+- [ ] [<code>feat(go.d/framework/chartengine): apply context_namespace to autogen chart contexts (#22642)</code>](https://github.com/netdata/netdata.git/commit/35e8d07e5e56754ef3790d5cb9aed851b4311515)
+- [ ] [<code>Add offline Function test modes for NetFlow and systemd journal (#22638)</code>](https://github.com/netdata/netdata.git/commit/22b9a36eceeb6389275e9f2a64478256ca63c62e)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14849,6 +14853,139 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(android): simplify onboarding entry actions</code>](https://github.com/openclaw/openclaw/commit/b80893f30dc27de1d3aa25be2e7380d6faac1b5b)
 - [ ] [<code>fix(android): clarify nearby gateway discovery state</code>](https://github.com/openclaw/openclaw/commit/109806378347115c860f9ee8470f68b2b5952a84)
 - [ ] [<code>feat(android): brand onboarding welcome screen</code>](https://github.com/openclaw/openclaw/commit/f4a5e5762e27daa5456d5ec43af28573a2048d5b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(live): tolerate ARM provider drift</code>](https://github.com/openclaw/openclaw/commit/74331f632b937cd0076aad33d6444b837a895b65)
+- [ ] [<code>fix(agents): emit terminal abort lifecycle metadata</code>](https://github.com/openclaw/openclaw/commit/0a08625d795fa19bd9f968eab716eedd6aacef9b)
+- [ ] [<code>fix(agents): keep safe tool images without native backend</code>](https://github.com/openclaw/openclaw/commit/6b2af6c1ee0190e867ee6c7bf54239b145e5bbf0)
+- [ ] [<code>fix(memory): fail fast when embeddings provider is unavailable</code>](https://github.com/openclaw/openclaw/commit/0aea58ab66d403484ae181ab99bbe36a6cc0498e)
+- [ ] [<code>fix(talk): resolve realtime provider secret refs (#90914)</code>](https://github.com/openclaw/openclaw/commit/a547010a957546d3e1c573cf2fed6aac9295f315)
+- [ ] [<code>fix(gateway): dedupe delivery mirror history rows</code>](https://github.com/openclaw/openclaw/commit/f5eddc2b6d1f5dffb12ed576c801bec00a30fd13)
+- [ ] [<code>test(live): keep voice-note preflight inside plugins</code>](https://github.com/openclaw/openclaw/commit/31c3e0c3f330fdcdbde67549afe2765ab76de566)
+- [ ] [<code>fix(agents): stream phased text deltas incrementally</code>](https://github.com/openclaw/openclaw/commit/4ee50ce18e35dc21bbd2c4039161e3eb58d86673)
+- [ ] [<code>test(agents): keep camera media service mock complete</code>](https://github.com/openclaw/openclaw/commit/5b84ebfc56c9aedcbe506260b3e5105419ad7de1)
+- [ ] [<code>fix(agents): count streamed model deltas incrementally</code>](https://github.com/openclaw/openclaw/commit/4af444ab30e007d876be282b506cbe1c09512189)
+- [ ] [<code>test(gateway): add small model live profile</code>](https://github.com/openclaw/openclaw/commit/51488bf91459dd7f0f1107cea8329d499dc21ccb)
+- [ ] [<code>test(live): require Android node core commands</code>](https://github.com/openclaw/openclaw/commit/a210a53c1975afdafe39564ddc1182fb89aa6242)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(live): require CLI backend provider proof</code>](https://github.com/openclaw/openclaw/commit/10fb3e110db95c7c2f508f317f8b4911889c76b1)
+- [ ] [<code>fix(update): hand off supervised auto-updates</code>](https://github.com/openclaw/openclaw/commit/fc2a7be0bc959ab9c60ba85597ba3b50940dfc4a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): reject invalid kitchen sink RPC guardrails</code>](https://github.com/openclaw/openclaw/commit/e0e3012c84d81dbcfc0e9c3a051c7d4d11217498)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): reject empty Docker lane plans</code>](https://github.com/openclaw/openclaw/commit/2a48a2655bf3f096c017d2387d2d66a4f453b0e9)
+- [ ] [<code>fix(docker): allow spaces in setup mount paths</code>](https://github.com/openclaw/openclaw/commit/f02750d162abda5abb63f0b75fac1ae32312bd51)
+- [ ] [<code>fix(scripts): fail gateway CPU QA summary failures</code>](https://github.com/openclaw/openclaw/commit/4ff0aa99690902af7c473910ef8b7a36708323b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): fail missing test group reports</code>](https://github.com/openclaw/openclaw/commit/205d00bf821d55528b80647cbf3acd8a49aaa245)
+- [ ] [<code>fix(e2e): require TCP gateway readiness</code>](https://github.com/openclaw/openclaw/commit/bb056dca843fc578c4027e38d4c5f4808dbb86cc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[codex] Add iOS Apple Review demo mode (#90919)</code>](https://github.com/openclaw/openclaw/commit/59ed6413d9cf3fc12b92a74013237fe7244ed9d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(agents): keep shell env mock current</code>](https://github.com/openclaw/openclaw/commit/da98896f0c21441a7e4b6a952d2c738a86ed6aaa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(e2e): require gateway network TCP readiness</code>](https://github.com/openclaw/openclaw/commit/779fb9efe30f4c71fdf0b7069952b3daee6fa974)
+- [ ] [<code>fix(auth): prefer agent-local auth profiles</code>](https://github.com/openclaw/openclaw/commit/cee432f0f038eddd685db7bd503cc7f7466ac9fd)
+- [ ] [<code>fix(gateway): close chat abort send race</code>](https://github.com/openclaw/openclaw/commit/6ace7a6ca8d47d9553dca5a4d910c5e1b91787dc)
+- [ ] [<code>fix(gateway): count slugged daily memory status</code>](https://github.com/openclaw/openclaw/commit/7a62cd5efc4de5b6490b515d129161b5c566be39)
+- [ ] [<code>fix(tui): show models loading feedback</code>](https://github.com/openclaw/openclaw/commit/7b4b2385669b1c178dd93579f3713a5703638c55)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(channels): strip dangling progress italics</code>](https://github.com/openclaw/openclaw/commit/d90a94ad165b9e49fda18f2f92aefdf950ba8b03)
+- [ ] [<code>fix(e2e): reject invalid bundled runtime limits</code>](https://github.com/openclaw/openclaw/commit/97758910fa0d09df0acd7fa488380d8a61e727b2)
+- [ ] [<code>fix(ui): allow short tweakcn theme ids</code>](https://github.com/openclaw/openclaw/commit/16921dba7d60dfc691bb46d23876b4e8ea71022f)
+- [ ] [<code>fix(memory-wiki): accept wiki apply op aliases</code>](https://github.com/openclaw/openclaw/commit/ffea7fa6479cbd449fc650db6a077176a11982f2)
+- [ ] [<code>fix(e2e): preserve docker cleanup failure artifacts</code>](https://github.com/openclaw/openclaw/commit/69a406118cbbd96364bc3ab20031870a7e538d62)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(scripts): require rtt readyz readiness</code>](https://github.com/openclaw/openclaw/commit/f00e7af3e39c23fc62b95a17c85db18580eb25f7)
+- [ ] [<code>fix(doctor): stop repeating talk normalization</code>](https://github.com/openclaw/openclaw/commit/b77ef4d6df347aa38c8ffba202469d12239c0433)
+- [ ] [<code>test(gateway): include aborted chat run state in mock</code>](https://github.com/openclaw/openclaw/commit/ac9d4ff2f0e72d564dfa54050321cdd0c1da112d)
+- [ ] [<code>fix(e2e): require shared gateway readyz proof</code>](https://github.com/openclaw/openclaw/commit/9c2d243803244f1f06f3d8df0f9fff0e59b3734b)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): require kitchen sink ready body</code>](https://github.com/openclaw/openclaw/commit/ec4c79cb388e685a2470ad0cb8c2c7ffbb618be7)
+- [ ] [<code>fix(e2e): assert kitchen sink rpc status payloads</code>](https://github.com/openclaw/openclaw/commit/125329cde7341543902a39f097073baf0f8093df)
+- [ ] [<code>fix(e2e): require full kitchen sink tool surface</code>](https://github.com/openclaw/openclaw/commit/e099c01a8c48c238688ee9e28a6f3b884ab4a2c0)
+- [ ] [<code>fix(cron): require HTTP context for server_error retries</code>](https://github.com/openclaw/openclaw/commit/63fba5d2fe1175d6a044ba5de21877b80f947cd7)
+- [ ] [<code>test(e2e): cover mcp code mode validation</code>](https://github.com/openclaw/openclaw/commit/bc996d3dfa90610e8bf12a25e84601c20e44ef09)
+- [ ] [<code>test(gateway): cover smoke health path</code>](https://github.com/openclaw/openclaw/commit/539f745d127c39f64dde391c3f2dcfca1db6b2f1)
+- [ ] [<code>test(e2e): exercise gateway network health client</code>](https://github.com/openclaw/openclaw/commit/98498f2579191ee00223698c0eb92bffa0d21fcc)
+- [ ] [<code>fix(build): ship export session html assets</code>](https://github.com/openclaw/openclaw/commit/09d647968148fe9b93e19f87c4436b8cee42abeb)
+- [ ] [<code>test(e2e): share mcp code mode validation</code>](https://github.com/openclaw/openclaw/commit/52adf91b6f6d1d721604c0f390e95384bbc58b24)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): require valid Kova partial reports</code>](https://github.com/openclaw/openclaw/commit/cf152fe76e45a78631c7c5198741e20bb6a27b51)
+- [ ] [<code>fix(test): fail filtered live media no-op runs</code>](https://github.com/openclaw/openclaw/commit/9ac685b5fe2206bd58ff70dd2b06c7376f3a3a46)
+- [ ] [<code>docs: improve plugin inventory layout (#90922)</code>](https://github.com/openclaw/openclaw/commit/47cfacbb87efc5883b805e50b864e231ccb7519b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): fail skipped explicit live media suites</code>](https://github.com/openclaw/openclaw/commit/0b591acd77d0edd053cdaf9b024bb9f777e92dd1)
+- [ ] [<code>fix(plugins): load memory embedding provider owners at startup</code>](https://github.com/openclaw/openclaw/commit/daab68efc8f1c733dfa16ce2e0293300e452d4ff)
+- [ ] [<code>fix(test): fail stale Crabbox broker auth</code>](https://github.com/openclaw/openclaw/commit/6f2cb53fc4a4a9089e0f8101f770d5fa4fcee78b)
+- [ ] [<code>fix(test): fail unready gateway watch runs</code>](https://github.com/openclaw/openclaw/commit/eac192c170781c7f7659c06101173548685330fe)
+- [ ] [<code>fix(test): reject malformed group reports</code>](https://github.com/openclaw/openclaw/commit/6324abbe53cc272b8777832a441e0be70f326174)
+- [ ] [<code>fix(gateway): notify session changes from goal commands</code>](https://github.com/openclaw/openclaw/commit/c682919808806f3eb3e221efd2b4010a6fdc0c72)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): surface advisory release QA failures</code>](https://github.com/openclaw/openclaw/commit/e1d18e5d027fc29dc16224e3a955bbf59bab5425)
+- [ ] [<code>fix(test): remove stale deadcode allowlist entries</code>](https://github.com/openclaw/openclaw/commit/a9ef3adeb3c86e1eb058605b1e44b423c3f371f6)
+- [ ] [<code>fix(agents): read inbound media refs</code>](https://github.com/openclaw/openclaw/commit/96c5d33d2b16f2285f11d5883826c13377ee7416)
+- [ ] [<code>fix(mac): scope restart process cleanup</code>](https://github.com/openclaw/openclaw/commit/4d142b185ea92a7056e2d481d7a37fe866037f9d)
+- [ ] [<code>fix(mac): fail closed when restart cleanup stalls</code>](https://github.com/openclaw/openclaw/commit/b8956b6a564499c3c3ad66c8854e620bf385f0db)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(mac): fail closed when packaging app shutdown stalls</code>](https://github.com/openclaw/openclaw/commit/c13cf917873e58a35cc43fb77da5d2f3b8b99570)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(mac): fail closed on invalid release build floors</code>](https://github.com/openclaw/openclaw/commit/705622228895bff54a9c8b1da13870707304c85f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(mac): derive app build metadata from repo root</code>](https://github.com/openclaw/openclaw/commit/44fbe63bcffc95b9656f72f8f41c759fcaa313ce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(test): anchor startup memory checks to repo root</code>](https://github.com/openclaw/openclaw/commit/559d723a139d0456996ba018450011582be8fcca)
+- [ ] [<code>fix(test): report mac changed-bench RSS correctly</code>](https://github.com/openclaw/openclaw/commit/198002b579d23b5e7d341a88fc0223d1b4bc0609)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): fail startup bench timed-out samples</code>](https://github.com/openclaw/openclaw/commit/59365959d3b00697e598cf4b158039e96453dfc0)
+- [ ] [<code>fix(agents): stabilize user-turn serialization across turns to preserve prompt cache (#90811)</code>](https://github.com/openclaw/openclaw/commit/1af55bc6654f898fc4c39bad3204eb504d160089)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): fail extension memory import failures</code>](https://github.com/openclaw/openclaw/commit/46c000a34f472a566a5075e3e9637aae0bb25b2b)
+- [ ] [<code>fix(test): reject timed-out startup bench reports</code>](https://github.com/openclaw/openclaw/commit/a1ffaafc1208dc4c79812d3040b140302d493c23)
+- [ ] [<code>fix(test): fail startup bench missing RSS samples</code>](https://github.com/openclaw/openclaw/commit/77f8b1671629afaff180d2dd38eeec26d205853a)
+- [ ] [<code>fix(test): require gateway CPU startup reports</code>](https://github.com/openclaw/openclaw/commit/d5f5cb2430c27d1a02c74d124ccfedb1ffe0b93d)
+- [ ] [<code>fix(test): require Vitest JSON reports</code>](https://github.com/openclaw/openclaw/commit/4b2e3656af4f8d092a92c7e0ac5c6e0e29825630)
+- [ ] [<code>fix(test): parse RPC RTT iteration counts strictly</code>](https://github.com/openclaw/openclaw/commit/bf5e0e9f10c7e2c5296be47c3d8bba2fbf482c12)
+- [ ] [<code>fix(test): reject zero RSS resource samples</code>](https://github.com/openclaw/openclaw/commit/c4b64de0174a2f12784b39045744ede86c704ea2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(imessage): send TTS audio as voice messages (#90853)</code>](https://github.com/openclaw/openclaw/commit/cd806101cdf74a4978ed639824d210f30355837f)
+- [ ] [<code>fix(test): require startup bench report overlap</code>](https://github.com/openclaw/openclaw/commit/f2677d55ecf07710f16da30efc55ba49a0a563aa)
+- [ ] [<code>fix(test): preserve kitchen sink log scans</code>](https://github.com/openclaw/openclaw/commit/7cd7a4f438958f32487ecc9bec184b7f7c2d53f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): avoid zero rpc rtt artifacts</code>](https://github.com/openclaw/openclaw/commit/c6ee13529f0487cc5c10246709d220e5d197735c)
+- [ ] [<code>fix(test): reject missing gateway bench flag values</code>](https://github.com/openclaw/openclaw/commit/e974d988113c657af324ceb3878158e717dd5994)
+- [ ] [<code>fix(mac): fail release packaging without Swift compat lib</code>](https://github.com/openclaw/openclaw/commit/8086c440434fbc69f49ff3730d0db9f9bfca5ccf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(test): require perf budget report evidence</code>](https://github.com/openclaw/openclaw/commit/e1e203ce1192d60c1b04561b0480d9ff191f6203)
+- [ ] [<code>fix(test): reject empty Kova summaries</code>](https://github.com/openclaw/openclaw/commit/dfd52e72b3785a8ff951fa9d5e299ea412f0b189)
+- [ ] [<code>fix(test): require passing Telegram evidence reports</code>](https://github.com/openclaw/openclaw/commit/cc2ed8dbf600d7f76172b1e5087d565d74b96a32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): require restart bench resource evidence</code>](https://github.com/openclaw/openclaw/commit/3f18c71ac46443e7dc0106605b29bc5874be1159)
+- [ ] [<code>fix(perf): reject empty cpu profiles</code>](https://github.com/openclaw/openclaw/commit/6ce51825228edef43fe2fe0b89fc21f70e5a4e3f)
+- [ ] [<code>fix(ci): reject empty timing job payloads</code>](https://github.com/openclaw/openclaw/commit/15cb26e6cbeddcc050efd2d809cf8a18cabdad5e)
+- [ ] [<code>fix(release): use monthly patch versions</code>](https://github.com/openclaw/openclaw/commit/f5a7f613ee4df8f0cec2016b79c00fe52a881cd9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): reject zero startup RSS samples</code>](https://github.com/openclaw/openclaw/commit/e3d402427c493dc30c295ca0da87901614cc2cb0)
+- [ ] [<code>fix(test): reject missing startup memory paths</code>](https://github.com/openclaw/openclaw/commit/a791636160aed00bed1580e0437867952c108105)
+- [ ] [<code>fix(docs): reject missing mdx report paths</code>](https://github.com/openclaw/openclaw/commit/59a8137b04a530c68f75904c78dda19cb2540bab)
+- [ ] [<code>fix(rtt): reject missing path option values</code>](https://github.com/openclaw/openclaw/commit/71f8b9c41e61b0392c27ac9fc1f0cf1e9ee0e083)
+- [ ] [<code>fix(test): reject missing env mutation roots</code>](https://github.com/openclaw/openclaw/commit/98c45aa8b5990a1015e9803840fdc45515a83813)
+- [ ] [<code>fix(report): reject missing dependency report paths</code>](https://github.com/openclaw/openclaw/commit/53044e87177996c59cc4d4d0b9b5c1d6db9bc484)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(test): reject missing group report values</code>](https://github.com/openclaw/openclaw/commit/4bce3553183253ed452de0e6dffe5704f98ce6eb)
+- [ ] [<code>fix(test): reject missing dependency evidence values</code>](https://github.com/openclaw/openclaw/commit/4b19f820e1c23abd243b09234e6e813e039865a2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(test): reject missing report artifact paths</code>](https://github.com/openclaw/openclaw/commit/457c76964d65aa811ed7cdab5ac12171a5d50c1f)
+- [ ] [<code>fix(ci): reject missing release metadata refs</code>](https://github.com/openclaw/openclaw/commit/66a1cfb7be3bdc55457877f7000e76cd50e973b1)
+- [ ] [<code>fix(test): require vitest profile output dir</code>](https://github.com/openclaw/openclaw/commit/c2af0475fe9a3c82a45f99e8f5b7ebccef7e2b63)
+- [ ] [<code>fix(report): require ownership markdown path</code>](https://github.com/openclaw/openclaw/commit/bedb3e61c6d300da8d7acdcc295d0948ffbc9ea4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(security): require audit severity values</code>](https://github.com/openclaw/openclaw/commit/9f5fc455935f8ec6c8243e56154890ae85e19696)
+- [ ] [<code>fix(ci): reject missing changed scope refs</code>](https://github.com/openclaw/openclaw/commit/1549172816b4075189fa1f92c3061eb9fd33408a)
+- [ ] [<code>fix(docs): reject missing glossary diff refs</code>](https://github.com/openclaw/openclaw/commit/f47f32db46a77b6566392ed02d9c171c842d59f3)
+- [ ] [<code>fix(ci): reject missing merge diff refs</code>](https://github.com/openclaw/openclaw/commit/b8f5950fe3dfb0323008ad6bf1eac34fd6553658)
+- [ ] [<code>fix(package): require package root values</code>](https://github.com/openclaw/openclaw/commit/bd7f65d4456bba4ec0090501398badd41c6232b7)
+- [ ] [<code>fix(plugin): require runtime build package targets</code>](https://github.com/openclaw/openclaw/commit/3f3b757e50e37dfdf68c69cb545a710fb2ced409)
+- [ ] [<code>fix(plugin): require package manifest run target</code>](https://github.com/openclaw/openclaw/commit/b5b73bd362ee553e15f69633e35e1c4489794b19)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
