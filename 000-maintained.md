@@ -495,6 +495,8 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.1 to 2.1.2</code>](https://github.com/krille-chan/fluffychat/commit/8dc7e84c2ef2f74d68723c5068f0942af9dd7cce)
+- [ ] [<code>build: (deps): bump chewie, wakelock_plus, package_info_plus, share_plus, device_info_plus and file_picker</code>](https://github.com/krille-chan/fluffychat/commit/97e1f2886cc120dedcf9c3beafaca6c01762e2eb)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -789,6 +791,8 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.1 to 2.1.2</code>](https://github.com/krille-chan/fluffychat/commit/8dc7e84c2ef2f74d68723c5068f0942af9dd7cce)
+- [ ] [<code>build: (deps): bump chewie, wakelock_plus, package_info_plus, share_plus, device_info_plus and file_picker</code>](https://github.com/krille-chan/fluffychat/commit/97e1f2886cc120dedcf9c3beafaca6c01762e2eb)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4896,6 +4900,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(e2e): bound release scenario JSON artifacts</code>](https://github.com/openclaw/openclaw/commit/9bafa2a2b605a99bcd4d5c03664e7891c4bb775d)
 - [ ] [<code>fix(inbound-meta): preserve reply-context body tails</code>](https://github.com/openclaw/openclaw/commit/3753c5e2c8f2b1ede25a14ccadce56d2dc8947dc)
 - [ ] [<code>fix(e2e): bound release user journey JSON artifacts</code>](https://github.com/openclaw/openclaw/commit/66b91d78feb33d62e2f82ae1d8689c48519f5530)
+- [ ] [<code>feat(ios): clarify talk realtime fallback (#91201)</code>](https://github.com/openclaw/openclaw/commit/47dbc675e95363828c0537fd21b0cfdd93052ece)
+- [ ] [<code>fix: stabilize docker stats heartbeat test</code>](https://github.com/openclaw/openclaw/commit/0c33f4e0786e79f92b14766979f945ebbb1eb4a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): prevent ReDoS in background-session name derivation (#91233)</code>](https://github.com/openclaw/openclaw/commit/e498d39bedaae2d9b23fbaf88914ebdf95b18d63)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
