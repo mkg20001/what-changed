@@ -4905,6 +4905,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(agents): prevent ReDoS in background-session name derivation (#91233)</code>](https://github.com/openclaw/openclaw/commit/e498d39bedaae2d9b23fbaf88914ebdf95b18d63)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: make sandbox skills readable in writable sandboxes</code>](https://github.com/openclaw/openclaw/commit/3b6bcbfb50452fdf3c98fa0f17cfdd4ab332c38c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve live Ollama catalog metadata</code>](https://github.com/openclaw/openclaw/commit/af79cd6a9d35ac3463293b678fbc7bdb153cb599)
+- [ ] [<code>fix(imessage): self-explaining private-API failures and dedicated send timeout (#91041)</code>](https://github.com/openclaw/openclaw/commit/6c35c0d965a0808e211ee90f2aee3d40053038c6)
+- [ ] [<code>feat: add live provider model catalog helper</code>](https://github.com/openclaw/openclaw/commit/57e0bdaabe0adc5949816dff63a7a2e5743303ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): add theme mode selection (#90752)</code>](https://github.com/openclaw/openclaw/commit/3c73ff7689f046c07547c5d1f26975825ebc2dd0)
+- [ ] [<code>fix: gate owner-only HTTP tools (#90261)</code>](https://github.com/openclaw/openclaw/commit/2a21de63223963d4a36792a75d69df958bc4e2a5)
+- [ ] [<code>fix(android): remove inert appearance palette preview</code>](https://github.com/openclaw/openclaw/commit/5c5391836b1eaca048f7ae9ef0b72333b90169ef)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
