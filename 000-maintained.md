@@ -489,6 +489,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/e6933503786db2e34b468702ebe4dc9d31a784da)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
+- [ ] [<code>build(deps): bump jwt in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/49d4a3814e5d4cce5d3dd241d27d528af30feedc)
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 - [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
@@ -785,6 +786,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/e6933503786db2e34b468702ebe4dc9d31a784da)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
+- [ ] [<code>build(deps): bump jwt in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/49d4a3814e5d4cce5d3dd241d27d528af30feedc)
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 - [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
@@ -925,6 +927,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>codec_libgav1.c: Remove #include <string.h></code>](https://github.com/AOMediaCodec/libavif/commit/ed2839513419ead71dfdfe44faaf129d8a705fd3)
 - [ ] [<code>Relax SampleTransformZeroInputItemsRejected error</code>](https://github.com/AOMediaCodec/libavif/commit/76fb86e4d569863da8df63e7327168cc23f35709)
 - [ ] [<code>Explain why avifImageCopy() disallows self copy</code>](https://github.com/AOMediaCodec/libavif/commit/96ec013de9c565d0fa474139ca25fec001145392)
+- [ ] [<code>cast to unsigned char before ctype calls in image readers (#3245)</code>](https://github.com/AOMediaCodec/libavif/commit/253f0d0f04e771dd94b37682a211b10a9cfe702e)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1381,6 +1384,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/Azure/azure-sdk-for-go/sdk/azcore from 1.21.1 to 1.22.0 in /src/go (#22647)</code>](https://github.com/netdata/netdata.git/commit/593d039b30ccc83b0f872680d0e2d6a63f10fae8)
 - [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.9.2 to 5.10.0 in /src/go (#22646)</code>](https://github.com/netdata/netdata.git/commit/9fe5093ce5339bef566ce790ae9a1ee38d6c8fd6)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.68.0 to 0.68.1 in /src/go (#22644)</code>](https://github.com/netdata/netdata.git/commit/9a0b61c0a543db0c6625b35c99391ada6115f80e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-342-nightly.</code>](https://github.com/netdata/netdata.git/commit/4fab7862702090d678d0e2ef016030a61053759f)
+- [ ] [<code>docs: fix Hyper-V integration overview in metadata.yaml (#22522)</code>](https://github.com/netdata/netdata.git/commit/b8676d744b918b3a6c1d745e6e774274a443f75b)
+- [ ] [<code>Update vendored NetIPC library (#22649)</code>](https://github.com/netdata/netdata.git/commit/36cf14dabb3348b8522d9390ce65edea419c29a1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(go.d/prometheus): migrate to framework v2 (#22651)</code>](https://github.com/netdata/netdata.git/commit/762744214db37e417aa92f48c7c1f80ae7c20103)
+- [ ] [<code>Fix sum on incremental dimensions for archived dims (#22580)</code>](https://github.com/netdata/netdata.git/commit/211914432845e855c08e525270068b9e2a1a1515)
+- [ ] [<code>Add slot bounds check and unit tests for pluginsd_parser (#22598)</code>](https://github.com/netdata/netdata.git/commit/883928b21d077bee9e8ee46d1066c3e7677652c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(deps): update go toolchain to v1.26.4 (#22654)</code>](https://github.com/netdata/netdata.git/commit/398155392c9377828cb46383db77f2b418130391)
+- [ ] [<code>docs(go.d): add V1-to-V2 parity-manifest recipe and V2-collector patterns (#22656)</code>](https://github.com/netdata/netdata.git/commit/a5c633dd02ec2de9897f7f2f08fd354ffa5a9685)
+- [ ] [<code>Silence output from curl in netdata-updater.sh (#22639)</code>](https://github.com/netdata/netdata.git/commit/53f7d8c5c3079082a16ae7dc7f2ff472f9f24b15)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4914,6 +4929,38 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): add theme mode selection (#90752)</code>](https://github.com/openclaw/openclaw/commit/3c73ff7689f046c07547c5d1f26975825ebc2dd0)
 - [ ] [<code>fix: gate owner-only HTTP tools (#90261)</code>](https://github.com/openclaw/openclaw/commit/2a21de63223963d4a36792a75d69df958bc4e2a5)
 - [ ] [<code>fix(android): remove inert appearance palette preview</code>](https://github.com/openclaw/openclaw/commit/5c5391836b1eaca048f7ae9ef0b72333b90169ef)
+- [ ] [<code>fix(codex): quarantine unreadable dynamic tools (#90022)</code>](https://github.com/openclaw/openclaw/commit/3ffb3609a141c24b43bca1b7d465672ce016e040)
+- [ ] [<code>fix(agents): compact lean local tool catalogs</code>](https://github.com/openclaw/openclaw/commit/8b03fd1f5f832759acbcc66e3f826047aaab11aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): guard prompt cache tool names</code>](https://github.com/openclaw/openclaw/commit/b16a43597d49c4b9921943150b1032af97e4ee0f)
+- [ ] [<code>fix(outbound): preserve retries for budget-deferred deliveries (#91241)</code>](https://github.com/openclaw/openclaw/commit/75c1790b504cdc7774edf30ece3350ca856a8f7a)
+- [ ] [<code>fix(agents): do not refresh lastUsedAt on MCP lease release (#91124)</code>](https://github.com/openclaw/openclaw/commit/f2530de8320eb1de67f3c7280b96aa820a06e7ba)
+- [ ] [<code>fix(imessage): gate split-send coalescing on imsg balloon metadata with back-compat (#90858)</code>](https://github.com/openclaw/openclaw/commit/9caff5f873cd9d590e5efd95d00d469485fc234e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): preserve native subagent completion results (#91235)</code>](https://github.com/openclaw/openclaw/commit/766c5b3d32ba033c13e58086b95e126b379041a1)
+- [ ] [<code>fix(cron): preserve isolated agent turn payload message (#91230)</code>](https://github.com/openclaw/openclaw/commit/4780546c124de2144b0ddbfbd9c1125aa1572dd4)
+- [ ] [<code>feat(whatsapp): expand live QA coverage (#90480)</code>](https://github.com/openclaw/openclaw/commit/181238fb5304cb999e613bcd4d47ddd8d620ccf6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(cron): support command jobs</code>](https://github.com/openclaw/openclaw/commit/b8adc11977ab9dc1eb558dc070bfe63df75911c5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): preserve stale channel restart diagnostics (#90937)</code>](https://github.com/openclaw/openclaw/commit/a4f0e508dfcb667f68b37458777b2675a40362ec)
+- [ ] [<code>fix(anthropic): drop reasoning_content replay signatures (#91231)</code>](https://github.com/openclaw/openclaw/commit/ccb9f2ca2be068943ad97be28346602421a706b5)
+- [ ] [<code>fix #90452: Regression: Heartbeat exec completion still shows generic fallback text instead of actual output (#90897)</code>](https://github.com/openclaw/openclaw/commit/b2c1de77acc7f332365baeb046b2d72ff3ed7bde)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: move session metadata to SQLite (#91322)</code>](https://github.com/openclaw/openclaw/commit/538d36eaaaa6349a6539a2ad3d13dac7ed4c1f1d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(imessage): always-on inbound recovery and dedupe (#91335)</code>](https://github.com/openclaw/openclaw/commit/fc6400ede389e4b5f313afe6c6b49c24a14a7576)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): route account-scoped topic agents</code>](https://github.com/openclaw/openclaw/commit/733152127b38a3f7eb97c733597dda1790230567)
+- [ ] [<code>fix(telegram): satisfy topic reply lint</code>](https://github.com/openclaw/openclaw/commit/e2db55373d14482f344569e0896d9df968a9aab2)
+- [ ] [<code>fix(telegram): keep forum topic sessions stable</code>](https://github.com/openclaw/openclaw/commit/b75d1a0b85b0651ae9d5bd60071bd1f66dd86e0d)
+- [ ] [<code>Preserve Telegram block previews across assistant boundaries</code>](https://github.com/openclaw/openclaw/commit/3fdc17b921bf7dcef858c599de09acfa598dc1c1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Preserve stale Telegram block drafts before rotation</code>](https://github.com/openclaw/openclaw/commit/4f319671412e2fbbc8c66880af97f5469e91ccfc)
+- [ ] [<code>refactor(telegram): distill streamed block rotation cleanup</code>](https://github.com/openclaw/openclaw/commit/5b0061e7a2ec112140a0633cd9b8f4987b8a4e1b)
+- [ ] [<code>test(telegram): trim block rotation coverage</code>](https://github.com/openclaw/openclaw/commit/310d28f719b89312924b32ee34456a34e61d0eaa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: clarify provider quota errors (#91390)</code>](https://github.com/openclaw/openclaw/commit/439dcbde3b1fd1058b695ca260f7466541b17337)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
