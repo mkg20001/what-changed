@@ -17,7 +17,7 @@
 
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.5/dbeaver-ce-26.0.5-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.5/dbeaver-ce-26.0.5-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.0/dbeaver-ce-26.1.0-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.0/dbeaver-ce-26.1.0-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
@@ -507,6 +507,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/e17eba9acd1f0c6a4d31f2ce0e3dd1084c0bbd0d)
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/57a737dc3a8375ca84a631e8846d331daf851d33)
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/337d059748eb83e904d2105f655ba884d9637655)
+- [ ] [<code>chore: Modernize legacy icon</code>](https://github.com/krille-chan/fluffychat/commit/badee32b0cc82d00095f9f2a09b994746ad8abcf)
+- [ ] [<code>build: Increase deployment target for iOS</code>](https://github.com/krille-chan/fluffychat/commit/12342e89af8afd8053f191279301bdb2002ceed8)
+- [ ] [<code>chore: Follow up modernized logo</code>](https://github.com/krille-chan/fluffychat/commit/259ee890c3307873793082d8df02f556ebdd7033)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -812,6 +815,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/e17eba9acd1f0c6a4d31f2ce0e3dd1084c0bbd0d)
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/57a737dc3a8375ca84a631e8846d331daf851d33)
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/337d059748eb83e904d2105f655ba884d9637655)
+- [ ] [<code>chore: Modernize legacy icon</code>](https://github.com/krille-chan/fluffychat/commit/badee32b0cc82d00095f9f2a09b994746ad8abcf)
+- [ ] [<code>build: Increase deployment target for iOS</code>](https://github.com/krille-chan/fluffychat/commit/12342e89af8afd8053f191279301bdb2002ceed8)
+- [ ] [<code>chore: Follow up modernized logo</code>](https://github.com/krille-chan/fluffychat/commit/259ee890c3307873793082d8df02f556ebdd7033)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1432,6 +1438,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(json): validate json_object before processing in json_walk function (#22309)</code>](https://github.com/netdata/netdata.git/commit/06934c90f614df27f27d12cd3016b9b35c3d0524)
 - [ ] [<code>Protect v2 journal populate walk from SIGBUS (#22514)</code>](https://github.com/netdata/netdata.git/commit/b5e92cb4862c5034c57e84888294d14f71b70f56)
+- [ ] [<code>Bump aclk-schemas and adapt to Buf v2 proto layout (#22662)</code>](https://github.com/netdata/netdata.git/commit/0cec5fface0f4901b21daad9c17413aa65777a5d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Networ Viewer (FreeBSD) (#22632)</code>](https://github.com/netdata/netdata.git/commit/487e1a3d377fff990f62e935ab9ac37af9b92710)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5235,6 +5245,57 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix #88009: [Feature]: batched memory embedding should batch over files (#89138)</code>](https://github.com/openclaw/openclaw/commit/a36e05050a9de2515675fd89b94857f0abfb9dc0)
 - [ ] [<code>fix(plugin-sdk): align Discord component edit facade types (#91679)</code>](https://github.com/openclaw/openclaw/commit/73ce4fdcbbcc441223d25bd584effdf5b57e81e3)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: consolidate wrapper facade coverage</code>](https://github.com/openclaw/openclaw/commit/66749a37136352ea5a10e4a528d50b75b0f3e36f)
+- [ ] [<code>test(memory): drop backend config bridge test</code>](https://github.com/openclaw/openclaw/commit/9ef67ea40508d288f5d2b5d1b4e836157a6560aa)
+- [ ] [<code>fix(discord): restore runtime timeout compatibility exports (#91686)</code>](https://github.com/openclaw/openclaw/commit/65848d0b4524ebc692f5eaa1e9191f67e96ee5e0)
+- [ ] [<code>fix(agents): keep compaction notices additive</code>](https://github.com/openclaw/openclaw/commit/98d5c465308af892f4c2370c478085c938bebb0b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: expand unsafe host env denylist (#91618)</code>](https://github.com/openclaw/openclaw/commit/9f413acc183df1edf82da1426aaebc95e47cb989)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: block rustup toolchain env overrides [AI] (#91615)</code>](https://github.com/openclaw/openclaw/commit/7cdec2870604d56dc55c0dc64c511daa8321a991)
+- [ ] [<code>fix(gateway): support Streamable HTTP MCP transport (GET/SSE + DELETE)</code>](https://github.com/openclaw/openclaw/commit/7f69fe009a78d5870b459198d449caa018bb8ac0)
+- [ ] [<code>fix: flush SSE response and gate DELETE behind auth + browser-origin check</code>](https://github.com/openclaw/openclaw/commit/cfe0bac99a1ef9bf16f492faf3f582a51830aca0)
+- [ ] [<code>fix: route GET SSE through browser-origin gate</code>](https://github.com/openclaw/openclaw/commit/48b3cb69b7c4852e209532f1993454eb10ad970d)
+- [ ] [<code>fix: remove DELETE handler — loopback MCP is stateless, no sessions to terminate</code>](https://github.com/openclaw/openclaw/commit/cc0a18da4fedff43407a750e75a1f9b1b9e4078a)
+- [ ] [<code>fix(gateway): keep MCP loopback stateless; add DELETE no-op + transport tests</code>](https://github.com/openclaw/openclaw/commit/224ea76d29d0c235f8caf4e1cdb8c43332ffc38d)
+- [ ] [<code>fix(gateway): validate Origin before auth on GET/DELETE; merge-safe test token</code>](https://github.com/openclaw/openclaw/commit/7269b26926d301f4057b3668f4f5cc95ef42de1f)
+- [ ] [<code>test: strengthen mcp loopback transport coverage</code>](https://github.com/openclaw/openclaw/commit/d86069ded09f4cd9267a7d3efc11099fcc430672)
+- [ ] [<code>fix: close mcp loopback streams on shutdown</code>](https://github.com/openclaw/openclaw/commit/2dcfd9f21866a5c441127be08e53ef4943150f57)
+- [ ] [<code>fix: avoid mcp shutdown response snapshot allocation</code>](https://github.com/openclaw/openclaw/commit/d2a6529f0431176787425cebdf8ef03f078a7393)
+- [ ] [<code>fix: block git protocol env controls [AI] (#91619)</code>](https://github.com/openclaw/openclaw/commit/86bab9699d0d238eb3358acbec0b1f1ae53e57ae)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(mattermost): keep default replies in existing threads</code>](https://github.com/openclaw/openclaw/commit/8c3ba3346311ff5a60e60f4ef31629afde46a773)
+- [ ] [<code>fix(models): persist agent catalog cache</code>](https://github.com/openclaw/openclaw/commit/4106f446bdad3314d6fb0a5913fb3c0eb9417efe)
+- [ ] [<code>fix(models): refresh persisted catalog cache keys</code>](https://github.com/openclaw/openclaw/commit/cc856cde1b8e21f4e6ec28d3a9553b59f81bf7df)
+- [ ] [<code>fix: keep model catalog cache keys current</code>](https://github.com/openclaw/openclaw/commit/55156a1241c19ff570a9e8b1ae55a9da16c70a83)
+- [ ] [<code>fix: isolate model catalog cache contexts</code>](https://github.com/openclaw/openclaw/commit/da7f9c51df9ca33168d33bdda94481f1b1c8c92e)
+- [ ] [<code>fix: bound model catalog state cache</code>](https://github.com/openclaw/openclaw/commit/61e93a800ddd9e9d7fb94fd2464dcfa461834dfd)
+- [ ] [<code>fix(status): restore Codex synthetic usage line</code>](https://github.com/openclaw/openclaw/commit/1893a0727a37c15dc1a5915d9d6064e21aeb7c4a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(tui): show connection host in footer</code>](https://github.com/openclaw/openclaw/commit/479e2aaae3d2f7dad4bf4fef43bb09d13aed9365)
+- [ ] [<code>fix: gate tui host footer behind config</code>](https://github.com/openclaw/openclaw/commit/d48778994fb2f83aed8ec1a53e03f36b5b8e5db3)
+- [ ] [<code>fix: avoid gateway restart for tui footer config</code>](https://github.com/openclaw/openclaw/commit/9bb68b55ddb58a5bc4d7f02284e3fc43f76e55c8)
+- [ ] [<code>fix: retry workflow sanity checkout fetches</code>](https://github.com/openclaw/openclaw/commit/56d201fa670bb8c39ce2c0087d56295664026649)
+- [ ] [<code>perf(config): dedupe plugin auto-enable fanout work</code>](https://github.com/openclaw/openclaw/commit/f13b6ea1514291e3c9225861327f8bc3f03ebdc3)
+- [ ] [<code>perf(config): avoid stale implicit auto-enable cache</code>](https://github.com/openclaw/openclaw/commit/439b0582e29aec20bda6ba80af265e265420d6a8)
+- [ ] [<code>test: cover auto-enable cache freshness</code>](https://github.com/openclaw/openclaw/commit/2da7dc9f2c3805055606dd57ddc80834d74704fe)
+- [ ] [<code>fix(gateway): skip deleted-agent guard for ACP harness session keys</code>](https://github.com/openclaw/openclaw/commit/696c1ecd2068b1cf9a785faa80e544f18632dda4)
+- [ ] [<code>test(gateway): add store integration proof for ACP deleted-agent guard</code>](https://github.com/openclaw/openclaw/commit/3853eb15af5e8b78dc3e0b10386e5b8cb635de25)
+- [ ] [<code>fix: preserve configured ACP deleted-agent guard</code>](https://github.com/openclaw/openclaw/commit/52154eda0dd111265d982b1a5d50669ee73cd1dc)
+- [ ] [<code>perf(tui): prewarm runtime plugins before first send (#90782)</code>](https://github.com/openclaw/openclaw/commit/8b84e951e5a613464d6b5d78747016c44ced1bfb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): update appcast for 2026.6.5</code>](https://github.com/openclaw/openclaw/commit/5b9cb3bd3a365a13acea258e7e63b385a8c43581)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(config): warn for retired skill-workshop plugin entry instead of failing validation (#90244) (#90838)</code>](https://github.com/openclaw/openclaw/commit/443115c6328ab7f0e14dcc87552153805637b326)
+- [ ] [<code>docs: clarify matrix plugin upgrade repair (#91753)</code>](https://github.com/openclaw/openclaw/commit/a2dd8219087a136f43a6f5e7f82ecd6b48d3d37e)
+- [ ] [<code>docs: align Feishu DM policy defaults (#91755)</code>](https://github.com/openclaw/openclaw/commit/370cef2e3bdc7ab9c6a55296277e8e08fd0a22eb)
+- [ ] [<code>fix(discord): require sender for moderation actions (#91745)</code>](https://github.com/openclaw/openclaw/commit/264906454800cc3265a1af98a961f0378ee550c5)
+- [ ] [<code>docs: clarify trusted-proxy websocket scopes (#85950)</code>](https://github.com/openclaw/openclaw/commit/96a49caffa50b2c986e49335a040c3712c5beea5)
+- [ ] [<code>fix(msteams): require admin for group actions (#91746)</code>](https://github.com/openclaw/openclaw/commit/d2ddc26e89bf57b71accd9bf79afee627555e424)
+- [ ] [<code>feat(diagnostics-otel): capture tool input/output content via trusted channel (#91256)</code>](https://github.com/openclaw/openclaw/commit/bf9588381271ec2580a1e7929a6ad6cc33c8e875)
+- [ ] [<code>fix(gateway): restrict non-owner loopback tools (#91749)</code>](https://github.com/openclaw/openclaw/commit/b6a3f2988c664d739d2bd21ed8c03bd64bf4c6fe)
+- [ ] [<code>fix(elevated): reject group ids as senders (#91748)</code>](https://github.com/openclaw/openclaw/commit/a4e02cd1dd4818975d0a9f17b1dd11e8960269cc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
