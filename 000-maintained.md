@@ -52,6 +52,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Only ignore missing images for delete events</code>](https://github.com/stepchowfun/docuum/commit/cb91abfb250cd37c11954a9cece67ac8d93c69e8)
 - [ ] [<code>Tolerate missing images for untag events</code>](https://github.com/stepchowfun/docuum/commit/169f9b6b9f2cd9f1c83d332dbe78d7951b9394a0)
+- [ ] [<code>Bump Rust to 1.96.0 (#372)</code>](https://github.com/stepchowfun/docuum/commit/3016cfa959f37526ce67eae1059d1fca0a4ebb93)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -501,6 +502,11 @@
 - [ ] [<code>chore: Follow up android summary notification</code>](https://github.com/krille-chan/fluffychat/commit/e18b3e4078a6dcaa3503994bd90e547cc5f7143b)
 - [ ] [<code>chore: Follow up tofu dialog</code>](https://github.com/krille-chan/fluffychat/commit/c175d299e12ab953c0c97a74ef16f97af61cc50f)
 - [ ] [<code>build: Add multi_json to fastlane</code>](https://github.com/krille-chan/fluffychat/commit/62cbc8de1db55686ae7994803b6a2d2622c6cf30)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 21.0.0 to 22.0.0</code>](https://github.com/krille-chan/fluffychat/commit/4d6fe7e609d0bd704380e2d2395aa2433332d7e8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/e17eba9acd1f0c6a4d31f2ce0e3dd1084c0bbd0d)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/57a737dc3a8375ca84a631e8846d331daf851d33)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/337d059748eb83e904d2105f655ba884d9637655)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -801,6 +807,11 @@
 - [ ] [<code>chore: Follow up android summary notification</code>](https://github.com/krille-chan/fluffychat/commit/e18b3e4078a6dcaa3503994bd90e547cc5f7143b)
 - [ ] [<code>chore: Follow up tofu dialog</code>](https://github.com/krille-chan/fluffychat/commit/c175d299e12ab953c0c97a74ef16f97af61cc50f)
 - [ ] [<code>build: Add multi_json to fastlane</code>](https://github.com/krille-chan/fluffychat/commit/62cbc8de1db55686ae7994803b6a2d2622c6cf30)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 21.0.0 to 22.0.0</code>](https://github.com/krille-chan/fluffychat/commit/4d6fe7e609d0bd704380e2d2395aa2433332d7e8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/e17eba9acd1f0c6a4d31f2ce0e3dd1084c0bbd0d)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/57a737dc3a8375ca84a631e8846d331daf851d33)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/337d059748eb83e904d2105f655ba884d9637655)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1416,6 +1427,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>feat(go.d/prometheus): add relabeling engine (#22660)</code>](https://github.com/netdata/netdata.git/commit/fbde7e01709ee069ee017933af81e841bb944ab3)
 - [ ] [<code>refactor(go/pkg/prometheus): extract the scrape transport into a fetcher (#22664)</code>](https://github.com/netdata/netdata.git/commit/36455a7475f52544b304e46326831697892a1331)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-354-nightly.</code>](https://github.com/netdata/netdata.git/commit/23728d6144205accaf497d650894cee9c4a32ba5)
+- [ ] [<code>Bound alert notification execution wait (#22626)</code>](https://github.com/netdata/netdata.git/commit/4381b68aa843821edb76726be10ce521f082a555)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(json): validate json_object before processing in json_walk function (#22309)</code>](https://github.com/netdata/netdata.git/commit/06934c90f614df27f27d12cd3016b9b35c3d0524)
+- [ ] [<code>Protect v2 journal populate walk from SIGBUS (#22514)</code>](https://github.com/netdata/netdata.git/commit/b5e92cb4862c5034c57e84888294d14f71b70f56)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5122,6 +5138,103 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: unwind timeout-disabled cron cancellation</code>](https://github.com/openclaw/openclaw/commit/24196e05f59b6b83952788c3e2c729aaf4a69f8c)
 - [ ] [<code>fix: unblock timed cron cancellation</code>](https://github.com/openclaw/openclaw/commit/9082233a433c524bee31ff28a3d550f184033cd0)
 - [ ] [<code>test: satisfy cron cancellation lint</code>](https://github.com/openclaw/openclaw/commit/5b76436c452a594a84bc0671b1d28be322cf5e49)
+- [ ] [<code>fix(doctor): report managed plugin version drift</code>](https://github.com/openclaw/openclaw/commit/72e40833bac72badd80a94dbff5edd3777c2a519)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(control-ui): reuse startup model metadata (#91531)</code>](https://github.com/openclaw/openclaw/commit/2c6bdc8b28310d99f064b2a07008a1a5cb3a31c9)
+- [ ] [<code>fix(infra): fail fast for sync sqlite facade execution</code>](https://github.com/openclaw/openclaw/commit/80f1ae6ffe3e033def33f3852274e810fdc4c9e6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(acpx): normalize Claude ACP model refs</code>](https://github.com/openclaw/openclaw/commit/dfb44912ed285a0163c576c727632d00cfdf39f3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(agents): cache subagent registry reads</code>](https://github.com/openclaw/openclaw/commit/c4a0ca0b7a413207ded7b8d07c86cc30e004ebdd)
+- [ ] [<code>perf(control-ui): avoid startup catalog wait</code>](https://github.com/openclaw/openclaw/commit/79c6136a9e17db28af54c50caf4932f62a1024c6)
+- [ ] [<code>test(whatsapp): seed group activation store via facade</code>](https://github.com/openclaw/openclaw/commit/27189b3e74f949f14957efd53fe570745ab7e00b)
+- [ ] [<code>fix: canonicalize codex protocol JSON assets (#91507)</code>](https://github.com/openclaw/openclaw/commit/5097749de32c5afd2be80c4464c532020cc97a39)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: bound native hook relay lifetime (#91550)</code>](https://github.com/openclaw/openclaw/commit/14b1ebd640c6c584ec7baa8cb2d1ab08878ed343)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(auto-reply): deliver queued compaction notices</code>](https://github.com/openclaw/openclaw/commit/280d1cb977c481856691d271fc7c0d754dc5f955)
+- [ ] [<code>fix(telegram): classify generic control commands as text slash</code>](https://github.com/openclaw/openclaw/commit/1559c16a76c5892461d662d1168148950fe3f778)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): deliver native /compact ack directly, bypassing dispatch pipeline</code>](https://github.com/openclaw/openclaw/commit/38a11944f4d43bcfcd57b9b6a6c85365417fc91f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: resolve CI lint/type/deadcode failures</code>](https://github.com/openclaw/openclaw/commit/5ef0d6c693fc1830282607fec71e7af2dc12bced)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): keep compact acknowledgements in dispatcher</code>](https://github.com/openclaw/openclaw/commit/fff5261ade58e9d9f4f02149f2221c4137219dbf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): keep compact command replies visible</code>](https://github.com/openclaw/openclaw/commit/aa935ddeb23fcc4a8cfaccf7197b86a827644201)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): use Start-Process -FilePath for Windows config opener (#90157)</code>](https://github.com/openclaw/openclaw/commit/82afc4678ace1ae52e81bd8faaefb71780414a3d)
+- [ ] [<code>Fix transcript image redaction (#91529)</code>](https://github.com/openclaw/openclaw/commit/aef1fad58d25161295367d20723c6d997af1277a)
+- [ ] [<code>fix(memory-core): write deep sleep summaries to dreams</code>](https://github.com/openclaw/openclaw/commit/329fa44d23f4bc969eb6690d98820738308d8897)
+- [ ] [<code>Fix config.patch explicit array replacement (#91551)</code>](https://github.com/openclaw/openclaw/commit/9f48254f099af5077392c4a165419145dc54f867)
+- [ ] [<code>fix(sdk): surface event pump failures</code>](https://github.com/openclaw/openclaw/commit/0933726574e8acac865c0f9e2db1d37427c166fd)
+- [ ] [<code>perf(control-ui): trace first assistant event</code>](https://github.com/openclaw/openclaw/commit/c9050c982d951f5e755c2f340ae9e3a7280da542)
+- [ ] [<code>fix(whatsapp): route captured replies through successor controller after restart (#85823)</code>](https://github.com/openclaw/openclaw/commit/9210d8f7d99f094b9ea8b44376ef5910d7d7d16b)
+- [ ] [<code>feat: dogfood reusable ClawHub package publish</code>](https://github.com/openclaw/openclaw/commit/e8cf6df3a358fac2505efddc70f9045620e760e0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>perf(control-ui): warn on slow first replies (#91583)</code>](https://github.com/openclaw/openclaw/commit/099abea0897ea6e9494beb562c87449c70a792b5)
+- [ ] [<code>fix(skills): avoid per-file skill watchers</code>](https://github.com/openclaw/openclaw/commit/9bbde704582019e1a4918ea0908a683cb027a8e8)
+- [ ] [<code>fix(feishu): retry on send rate-limit errors (230020/230006) (#89659)</code>](https://github.com/openclaw/openclaw/commit/84acb74a6a775caa93903153aa3c43a8f5598e77)
+- [ ] [<code>fix docker store seed target packages (#91547)</code>](https://github.com/openclaw/openclaw/commit/c8a8152cd767d9c5c802c2fd142b0c5998cdef4f)
+- [ ] [<code>fix: make docs i18n frontmatter translation resilient (#91578)</code>](https://github.com/openclaw/openclaw/commit/162957565a3f848860329dd6609e53d01730b188)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): guard WebRTC Talk startup cancellation</code>](https://github.com/openclaw/openclaw/commit/4c55dd85499b1b7cb2384318ad42e2cc6db45814)
+- [ ] [<code>fix(openai): require api-key auth for realtime voice (#91567)</code>](https://github.com/openclaw/openclaw/commit/9fdd56da21067057fa649e9c0a417bcd1ecf5911)
+- [ ] [<code>fix: let clawhub dry runs skip publish approval (#91591)</code>](https://github.com/openclaw/openclaw/commit/f05e9873c6d2ea0505eb3cd6921f03a09a1c78b5)
+- [ ] [<code>perf(control-ui): lazy load slash commands</code>](https://github.com/openclaw/openclaw/commit/b3c946999d71db0e767d943af1f6edd6729c6e61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): trim dense text delta snapshots</code>](https://github.com/openclaw/openclaw/commit/6fcc9457020e5a9cb21ba2dbceb010a765a3335d)
+- [ ] [<code>fix(memory-lancedb): guard memory recall output [AI] (#91425)</code>](https://github.com/openclaw/openclaw/commit/03a8d18cd4341d9cc62bfbab6e593282938e1e5c)
+- [ ] [<code>fix(imessage): persist echo markers before send (#88969)</code>](https://github.com/openclaw/openclaw/commit/7e3100a1202263828d9c66f68b9d2ba503a6cbe9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix main session startup recovery (#91566)</code>](https://github.com/openclaw/openclaw/commit/e1978cf73cbdc8dd9cb8caee06ed6e6669957f9b)
+- [ ] [<code>docs: clarify external app integration path</code>](https://github.com/openclaw/openclaw/commit/634bcf6667558c475ed46c018ccf6ddf211bf206)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: redirect retired app sdk pages</code>](https://github.com/openclaw/openclaw/commit/4c98a547d09afbfbd8da94e2275b8f72fdc7d3eb)
+- [ ] [<code>fix(memory): move local llama.cpp runtime to provider plugin</code>](https://github.com/openclaw/openclaw/commit/31371101678d18a3a374a9c6f69160d4c9664c94)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat(microsoft-foundry): classify MAI model metadata</code>](https://github.com/openclaw/openclaw/commit/1ba782f286b012ef40a50c3e4d7faa1a58049e74)
+- [ ] [<code>feat(microsoft-foundry): add MAI image provider</code>](https://github.com/openclaw/openclaw/commit/d0a84089a07d21ce9ee1f00c86566d7f7dee9bf8)
+- [ ] [<code>docs(microsoft-foundry): document MAI image support</code>](https://github.com/openclaw/openclaw/commit/5f13d0c81780a7682666768d7b10cc553ece77e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(microsoft-foundry): allow MAI deployment ids for image generation</code>](https://github.com/openclaw/openclaw/commit/a172db54b462f679ebd878750bb3bda55b67554e)
+- [ ] [<code>fix(microsoft-foundry): require MAI image deployment defaults</code>](https://github.com/openclaw/openclaw/commit/0c60bad8909bd94a93dc577efa9179e077d0092b)
+- [ ] [<code>fix(microsoft-foundry): honor MAI image timeout deadlines</code>](https://github.com/openclaw/openclaw/commit/33cac9092b19f475b7aed3cde7d08357fb66eb98)
+- [ ] [<code>fix(image-generation): allow explicit defaultless model refs</code>](https://github.com/openclaw/openclaw/commit/5e4a160f548a5b638a9976aa986cf396e4a26ff1)
+- [ ] [<code>fix(microsoft-foundry): trust only distinct MAI model metadata</code>](https://github.com/openclaw/openclaw/commit/9cf46d7e5ad1722d5f08f1c8e1e0d8fe72a09cc2)
+- [ ] [<code>fix(microsoft-foundry): require deployment refs for MAI images</code>](https://github.com/openclaw/openclaw/commit/c93e837336f84915d7de8b0b4255a0c5999255be)
+- [ ] [<code>fix(microsoft-foundry): expose auth for image setup</code>](https://github.com/openclaw/openclaw/commit/09a5cdaca33c332767fd2620c704ff0a1bd8d0c0)
+- [ ] [<code>fix(microsoft-foundry): configure MAI image setup defaults</code>](https://github.com/openclaw/openclaw/commit/090c492759f5325cb55b2e8bf93839846aa62a8e)
+- [ ] [<code>test(image-generation): include Foundry in live image sweep</code>](https://github.com/openclaw/openclaw/commit/34e76e6e6f4535cab213d071bdcbed4ad43e9845)
+- [ ] [<code>fix(microsoft-foundry): allow MAI image deployment prefixes</code>](https://github.com/openclaw/openclaw/commit/ea51c3ea500e7029a14ff71b10e88032e90fa6e8)
+- [ ] [<code>test(image-generation): load live provider sources</code>](https://github.com/openclaw/openclaw/commit/a1fb8cf3045b3a8efc34f3f72fd3ded022f603a4)
+- [ ] [<code>fix(microsoft-foundry): classify manual MAI image setup</code>](https://github.com/openclaw/openclaw/commit/e103d1231d9caba238e65e54fa8ac7aa327afeb4)
+- [ ] [<code>fix(image-generation): preserve explicit model defaults</code>](https://github.com/openclaw/openclaw/commit/7128fa8832d71d7d0cef5ba4acc3b9a5132e4912)
+- [ ] [<code>docs: include plugin prerelease in release validation approval (#91637)</code>](https://github.com/openclaw/openclaw/commit/56fe1e0c95ee7521a2a584faa66504ba8cee3119)
+- [ ] [<code>fix(microsoft-foundry): repair CI validation issues</code>](https://github.com/openclaw/openclaw/commit/f57c3b55fdc4b714300480ed8240c988e85a83c7)
+- [ ] [<code>fix(line): canonicalize trailing-slash webhook paths (#91649)</code>](https://github.com/openclaw/openclaw/commit/994f4f99fe25fd7258dbcd2ba81f69f9687fafe6)
+- [ ] [<code>feat(qqbot): add /bot-group-allways command to toggle mention requirement (#91423)</code>](https://github.com/openclaw/openclaw/commit/d12b7b055189ab84ba359986c824527871c76402)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(azure): support Responses text stream events</code>](https://github.com/openclaw/openclaw/commit/b08e1109c67eb132ef8ad75a07a33cd089d29de9)
+- [ ] [<code>fix(azure): use OpenAI-compatible client for Foundry Responses</code>](https://github.com/openclaw/openclaw/commit/1727ec7b2dcab349afa9259891a72173cd7dc78b)
+- [ ] [<code>test(azure): keep reasoning replay assertions focused</code>](https://github.com/openclaw/openclaw/commit/93d540d67b29fcc1f2143d50e4c21993b152d9ef)
+- [ ] [<code>fix(microsoft-foundry): filter unsupported Anthropic deployments</code>](https://github.com/openclaw/openclaw/commit/1240de7588d4a290b0b55d906f7594f65e347458)
+- [ ] [<code>fix(azure): narrow Foundry Responses client detection</code>](https://github.com/openclaw/openclaw/commit/c5171625369e8362ed97e5cae303ec884044b61e)
+- [ ] [<code>fix(docs): continue partial i18n batches after file errors (#91642)</code>](https://github.com/openclaw/openclaw/commit/257b251e26905f7dd8eb5c4b31615093876c8aa8)
+- [ ] [<code>test(ui): prune duplicate presenter coverage</code>](https://github.com/openclaw/openclaw/commit/446936d600288dd35545476e7b89244b7c65bd6d)
+- [ ] [<code>test(vitest): prune duplicate include wrapper coverage</code>](https://github.com/openclaw/openclaw/commit/0a1cf8a77690aa73a59459c01ad050fd133f1c35)
+- [ ] [<code>test(qqbot): reduce group allways command scaffolding</code>](https://github.com/openclaw/openclaw/commit/cd0bca0823adcf3863f262150bdfe0d8bc935d24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(agents): drop duplicate prompt template wrapper coverage</code>](https://github.com/openclaw/openclaw/commit/af5c7c5fd0fff4d608435b91e478b9161ccc3530)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(runner): skip deleted changed test targets</code>](https://github.com/openclaw/openclaw/commit/25160515e05e7d947e3799d4b677a11b0d994894)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline hash (#91661)</code>](https://github.com/openclaw/openclaw/commit/e949809f6e3b9d5cbedce7ae259d2cdae8d4d785)
+- [ ] [<code>docs: clarify Android opt-in for release CI (#91665)</code>](https://github.com/openclaw/openclaw/commit/5e1fbca3cbc60b1a4d4fa8c937dad22b826899b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: harden legacy session SQLite migration</code>](https://github.com/openclaw/openclaw/commit/2f02bbcbb3ef8b0f6d45decb97bf7e0e45ec9f5f)
+- [ ] [<code>fix #88009: [Feature]: batched memory embedding should batch over files (#89138)</code>](https://github.com/openclaw/openclaw/commit/a36e05050a9de2515675fd89b94857f0abfb9dc0)
+- [ ] [<code>fix(plugin-sdk): align Discord component edit facade types (#91679)</code>](https://github.com/openclaw/openclaw/commit/73ce4fdcbbcc441223d25bd584effdf5b57e81e3)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
