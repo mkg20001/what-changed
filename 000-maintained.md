@@ -965,6 +965,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(serve): document per-server HTTP endpoints</code>](https://github.com/steipete/mcporter/commit/0fb13581fb54475fdcd31d040c4aa06b02c88d7d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(deps): refresh development tooling</code>](https://github.com/steipete/mcporter/commit/8f74252a4d89bb1499c56cdd631f2085afaaac5f)
+- [ ] [<code>fix(runtime): preserve disableOAuth across headless paths (#198)</code>](https://github.com/steipete/mcporter/commit/3e27b64021c9b06ccceab58149174b16ffe81304)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5060,6 +5062,66 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(browser): accept statement evaluate bodies</code>](https://github.com/openclaw/openclaw/commit/b0998f7d152d0e82de20dd28377b52b08d9618d9)
 - [ ] [<code>chore: update dependencies</code>](https://github.com/openclaw/openclaw/commit/9aa6bfccce2af842c42b3722e1e767ba3a69e70f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Revert "docs: add maturity scorecard mirror (#91317)" (#91508)</code>](https://github.com/openclaw/openclaw/commit/4c5d8afa38c036024115ad303eabd6f3edbef612)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix: remove extension-owned root dependency</code>](https://github.com/openclaw/openclaw/commit/b14923d1f3b32ca788684821b7b4bfdaaf0062a7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: refresh npm shrinkwrap</code>](https://github.com/openclaw/openclaw/commit/6c4fb997e52e80ebbb6d8d615bbd432517a7402a)
+- [ ] [<code>build(deps): bump github.com/steipete/peekaboo (#91364)</code>](https://github.com/openclaw/openclaw/commit/b875c812f7dd5a45e6beb78c237b781e888a3096)
+- [ ] [<code>build(deps): bump actions/github-script from 8 to 9 (#91368)</code>](https://github.com/openclaw/openclaw/commit/f9f7475dbf1edea3a5f417a6c22f99549242f696)
+- [ ] [<code>chore: add taxonomy file (#91512)</code>](https://github.com/openclaw/openclaw/commit/a54f50a41ba01511a888a9ed5defd4586c4c0656)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>build(deps): bump actions/cache from 4 to 5 (#91369)</code>](https://github.com/openclaw/openclaw/commit/6aa89bb5f8b54da69e0e0bc623dd8a7b0ace616d)
+- [ ] [<code>build(deps): bump the actions group with 2 updates (#91367)</code>](https://github.com/openclaw/openclaw/commit/c967172f694e6fe44ed24a4b0a7ecd3987f25c3d)
+- [ ] [<code>build(deps): bump the android-deps group in /apps/android with 3 updates (#91365)</code>](https://github.com/openclaw/openclaw/commit/646bc0d274fce752ee3464efe54ae369471fff8b)
+- [ ] [<code>chore: bump codex app-server to 0.137.0 (#91496)</code>](https://github.com/openclaw/openclaw/commit/112e98faa274471bc5e5592926547628ad11a5bd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(discord): seed think autocomplete session store</code>](https://github.com/openclaw/openclaw/commit/fb97b3b4b35f0d70b0e2a9a75d80e586efe3d905)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(telegram): seed approval session store</code>](https://github.com/openclaw/openclaw/commit/a0f76b2b25ada271734df08c41c0d153b72743e9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(memory-core): seed dreaming session store</code>](https://github.com/openclaw/openclaw/commit/20604f7a8fee3c309b71e125d0c2b41dca14e118)
+- [ ] [<code>fix(release): cap docker e2e cpus</code>](https://github.com/openclaw/openclaw/commit/5496044f6d7f240424c514437065e0ede30f0829)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(release): clear beta validation blockers</code>](https://github.com/openclaw/openclaw/commit/505b23a1372bffa6d5c198af269088384fcef204)
+- [ ] [<code>test(release): keep workshop state mocks current</code>](https://github.com/openclaw/openclaw/commit/55de547b5214ed151955d4dc2562c4ab4635f0bf)
+- [ ] [<code>fix(release): satisfy control ui registry lint</code>](https://github.com/openclaw/openclaw/commit/cff8154954eb5a1fc2b5a74eb5ff6a2526e9a263)
+- [ ] [<code>test(release): stabilize beta validation checks</code>](https://github.com/openclaw/openclaw/commit/9cdf85340936f62cbd92f11a678bf766cb7838d9)
+- [ ] [<code>test(release): clear beta validation blockers</code>](https://github.com/openclaw/openclaw/commit/4b55a0e04d411585ddd0e88cc86ff4f9fa3165e3)
+- [ ] [<code>test(release): stabilize beta three validation</code>](https://github.com/openclaw/openclaw/commit/3a2176267c759aa3f4b62cdd92a6d3a02d008b42)
+- [ ] [<code>test(release): stabilize task maintenance checks</code>](https://github.com/openclaw/openclaw/commit/2d5bf186c15ef2f3ae423a366929e9d5de9b3f28)
+- [ ] [<code>fix(tasks): keep maintenance migration scoped</code>](https://github.com/openclaw/openclaw/commit/3ed8d5f2c39ba0619d6fb8035ace8ac149c5495c)
+- [ ] [<code>test(release): stabilize beta three validation</code>](https://github.com/openclaw/openclaw/commit/06b226e8b575149c95838271cd4997814b0e9e6c)
+- [ ] [<code>test(release): stabilize beta three command shards</code>](https://github.com/openclaw/openclaw/commit/37c1e2725a71848b087bd43db9cde1808340c765)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(release): isolate sessions command migration tests</code>](https://github.com/openclaw/openclaw/commit/95c72dde0f60b05044b3c92242411ba714ca3df9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(release): isolate sessions tail migration checks</code>](https://github.com/openclaw/openclaw/commit/dc51c57e290ea6e28783e7a4279bd9a3581dc584)
+- [ ] [<code>test(release): isolate default session store migration tests</code>](https://github.com/openclaw/openclaw/commit/9faa74153612eb1f2df062fe0e5107d9cc6035b8)
+- [ ] [<code>test(release): isolate sandbox explain migration checks</code>](https://github.com/openclaw/openclaw/commit/f1a1fce9826277af1789774b9447ef2f2096512a)
+- [ ] [<code>test(release): isolate trajectory export migration checks</code>](https://github.com/openclaw/openclaw/commit/04b8c4f313995714a53cadec4a85d1b1b888d54b)
+- [ ] [<code>ci(release): retry transient registry build failures</code>](https://github.com/openclaw/openclaw/commit/f29248fa62fc44b8fb202ed0fda60e542cc70ca0)
+- [ ] [<code>ci(release): retry Docker BuildKit bootstrap</code>](https://github.com/openclaw/openclaw/commit/ff5fac143973859c8f154c98a070873d9e8558b4)
+- [ ] [<code>test(release): stabilize qa gateway restart readiness</code>](https://github.com/openclaw/openclaw/commit/1019b591d55f517ec77ca3f54f9e58d57ff3afc3)
+- [ ] [<code>ci(release): retry Docker E2E image builds</code>](https://github.com/openclaw/openclaw/commit/2a611865f4807ef1c298647c9c531401ca890baa)
+- [ ] [<code>test(release): align kitchen sink rpc descriptors</code>](https://github.com/openclaw/openclaw/commit/bad449301ffccf489b50e8ca3f42633f4238e5ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(release): stabilize qa runtime parity gate</code>](https://github.com/openclaw/openclaw/commit/c7b01cf201f736a3be7e98256d13db9775aec548)
+- [ ] [<code>test(release): ignore terminal docker stats samples</code>](https://github.com/openclaw/openclaw/commit/7a0e65773a6f97eb5d93dff051c21c343e4cd9b4)
+- [ ] [<code>test(release): align qa tool coverage gate</code>](https://github.com/openclaw/openclaw/commit/50130d32a997d3ccdc7734010f522118934fa605)
+- [ ] [<code>chore(release): keep main changelog release-owned</code>](https://github.com/openclaw/openclaw/commit/0df7fe3056d5bd443f27be7441ff5f017b245527)
+- [ ] [<code>test(release): dedupe gateway migration mock</code>](https://github.com/openclaw/openclaw/commit/ebb9c6a013b539040b0109aa27a537c4431932cc)
+- [ ] [<code>fix(release): prepare ClawHub publish deps after target checkout</code>](https://github.com/openclaw/openclaw/commit/5f6ee9f913c7fe3023dcaaea9631ea6d2a92f92a)
+- [ ] [<code>fix(cron): cancel active cron task runs</code>](https://github.com/openclaw/openclaw/commit/c3cdd4971b09d1a53c7896b1236e05271735ac12)
+- [ ] [<code>fix(cron): preserve timeout cleanup after cancel</code>](https://github.com/openclaw/openclaw/commit/c13802c912fb04ee2e49a5a24f10ec54a4f9e65d)
+- [ ] [<code>test(cron): type unresolved runner mock</code>](https://github.com/openclaw/openclaw/commit/f45cd5e57ef36fee2c5c2e20ed8c46d2ab868aea)
+- [ ] [<code>fix(cron): keep main-session cron cancel honest</code>](https://github.com/openclaw/openclaw/commit/3cf94309d9a35e45dd8a82b20a163d6b638bc3ad)
+- [ ] [<code>fix: avoid cron cancel runtime cycle</code>](https://github.com/openclaw/openclaw/commit/372f85d368d89eeb41f6d2cd9da200b56a523eef)
+- [ ] [<code>test: remove stale cron cancel harness hook</code>](https://github.com/openclaw/openclaw/commit/be5bfdccd1f71388ef0b03006357f88a77582b1b)
+- [ ] [<code>fix: preserve cron timeout terminal state</code>](https://github.com/openclaw/openclaw/commit/93313c95a50357dade031ef5a14a92dbe3670f86)
+- [ ] [<code>fix: unwind timeout-disabled cron cancellation</code>](https://github.com/openclaw/openclaw/commit/24196e05f59b6b83952788c3e2c729aaf4a69f8c)
+- [ ] [<code>fix: unblock timed cron cancellation</code>](https://github.com/openclaw/openclaw/commit/9082233a433c524bee31ff28a3d550f184033cd0)
+- [ ] [<code>test: satisfy cron cancellation lint</code>](https://github.com/openclaw/openclaw/commit/5b76436c452a594a84bc0671b1d28be322cf5e49)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
