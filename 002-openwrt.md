@@ -88,11 +88,53 @@
 - [ ] [<code>bridge: remove kernel member on teardown regardless of device claim state</code>](https://git.openwrt.org/project/netifd.git/commit/52c7db3a2beb44a0214cae96f9ae6626b525ae84)
 - [ ] [<code>bridge: attempt delbr unconditionally on bridge destroy</code>](https://git.openwrt.org/project/netifd.git/commit/741fd3c162dfa94d4db97f2153748c4595f5929a)
 - [ ] [<code>system-linux: detach device from stale bridge before adding it</code>](https://git.openwrt.org/project/netifd.git/commit/2909720f8cf111e21e3ef366b58f759148462dff)
-> Failed to clone https://git.openwrt.org/project/ubus.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/ubus.git /home/runner/work/what-changed/what-changed/src/../work/ubus.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
-fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': The requested URL returned error: 504
-'
+
+#### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
+
+- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/ubus.git/commit/0d4bcb56f5e1386e7dc99f1ec9f3b6c9211c8ab6)
+- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/ubus.git/commit/966c82b2197c139e2b199254a243214c3a803879)
+- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/ubus.git/commit/c4d7aff97bbe3af36af969564a02bf928932c4f8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ubus: add a simple build script</code>](https://git.openwrt.org/project/ubus.git/commit/00010b8af022552eeb9e313cc3db5f45c6afff04)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/ubus.git/commit/1eab20d6cda2603bef26aaaac9f4405dd870267a)
+- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/ubus.git/commit/f79ddca648068f8b4529dc88a5b062cec2b1ddc4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: install ubus</code>](https://git.openwrt.org/project/ubus.git/commit/5c7eea7fc090120a6912a99fd244847270ad49b9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/ubus.git/commit/2737da3819fefafa5b63d5f82efb77ff0032a5d8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/ubus.git/commit/3cc98db1a422dcf560f2d6347fd410f17565a89d)
+- [ ] [<code>libubus: fix NULL dereference on OOM in ubus_queue_msg</code>](https://git.openwrt.org/project/ubus.git/commit/4b274055ede3d58ceaf2ddb21bd20bcb3d26532f)
+- [ ] [<code>libubus-acl: fix dangling pointers on blob_memdup failure in acl_recv_cb</code>](https://git.openwrt.org/project/ubus.git/commit/8b5be570f13e49adf0ccc1c4fb77b0649992842d)
+- [ ] [<code>ubusd_acl: fix NULL dereference on OOM in ubusd_acl_alloc_obj</code>](https://git.openwrt.org/project/ubus.git/commit/9105ea2a349a2f0de334e8b661baa76e21e47d13)
+- [ ] [<code>ubusd_acl: handle allocation failures in ubusd_acl_init_client</code>](https://git.openwrt.org/project/ubus.git/commit/07d7f34ac278c28817b41c8814df2cc1d303495f)
+- [ ] [<code>ubusd_acl: fix NULL dereference on OOM in ubusd_acl_init</code>](https://git.openwrt.org/project/ubus.git/commit/497321a5ea90093fbf05d786a120afd3f8bdb6fb)
+- [ ] [<code>ubusd_event: fix OOM handling in ubusd_send_event_msg</code>](https://git.openwrt.org/project/ubus.git/commit/f66d52ba983fc588f25d56c419a9101fe24a0e53)
+- [ ] [<code>ubusd_main: fix async-signal-unsafe SIGHUP handler</code>](https://git.openwrt.org/project/ubus.git/commit/11ea1b3bdbea5ec5bd27fefff661a5f1b970d384)
+- [ ] [<code>ubusd_proto: fix resource leaks and ID tree corruption in ubusd_proto_new_client</code>](https://git.openwrt.org/project/ubus.git/commit/0c095592ccb79053dd02a57bf006dde2bd26ad28)
+- [ ] [<code>ubusd_proto: fix NULL dereference for user/group in ubusd_handle_add_watch</code>](https://git.openwrt.org/project/ubus.git/commit/f61695e6e12a622f6d6408c444f162ea6f13fdac)
+- [ ] [<code>ubusd_proto: fix NULL dereference on OOM in ubusd_proto_init_retmsg</code>](https://git.openwrt.org/project/ubus.git/commit/7ecacfadd9bca05fae69690207c11ab894489e3f)
+- [ ] [<code>lua: fix inverted argument check in ubus_lua_add</code>](https://git.openwrt.org/project/ubus.git/commit/3ab9d77595457f56ed1f26350ce15d308e50f09f)
+- [ ] [<code>lua: fix unchecked calloc and memory leak in ubus_lua_load_object</code>](https://git.openwrt.org/project/ubus.git/commit/43051ca73aec19c53d20e17e0e37a8ebd7d52d56)
+- [ ] [<code>ubusd_id: use getrandom(2) unconditionally on Linux</code>](https://git.openwrt.org/project/ubus.git/commit/4ca0b141e9a72a8a87feff3aa6f3ae57a9827177)
+- [ ] [<code>ubusd_monitor: fix NULL dereference on OOM in ubusd_monitor_message</code>](https://git.openwrt.org/project/ubus.git/commit/7e4356da8abea2351643962376bc91bbc9e8ad5c)
+- [ ] [<code>libubus-req: fix file descriptor leaks in ubus_process_req_msg</code>](https://git.openwrt.org/project/ubus.git/commit/5849870f2251e7ca67804510446a4d6ca9e9dba2)
+- [ ] [<code>libubus: fix file descriptor leaks in ubus_process_msg</code>](https://git.openwrt.org/project/ubus.git/commit/f29767f90af112040cdf8a1ee402e5d3d48115b3)
+- [ ] [<code>libubus: make ubus_shutdown idempotent</code>](https://git.openwrt.org/project/ubus.git/commit/b099d050b59d83f6f0962ac0cf8e5afd80678049)
+- [ ] [<code>ubusd_main: check strdup return value in mkdir_sockdir</code>](https://git.openwrt.org/project/ubus.git/commit/a564b8dcb395738be3d24750ea41f1dc3a42809d)
+- [ ] [<code>ubusd_id: fix continue in do-while skipping random ID retry</code>](https://git.openwrt.org/project/ubus.git/commit/239edcbaaac85fe2dd80c985823a826ad18adabc)
+- [ ] [<code>ubusd: fix NULL dereference on OOM in ubus_msg_enqueue</code>](https://git.openwrt.org/project/ubus.git/commit/09d2df45bf3862fc259d5b1e1527c8777e2e5d23)
+- [ ] [<code>libubus: actually set FD_CLOEXEC on the ubus socket</code>](https://git.openwrt.org/project/ubus.git/commit/bcc45ca981fd61e11934776bcee18f628156a7f7)
+- [ ] [<code>libubus-io: close recv_fd captured before get_next_msg failure</code>](https://git.openwrt.org/project/ubus.git/commit/8188f5ce8564e7f4114e2db2dded1e6361957b2a)
+- [ ] [<code>libubus-io: byte-swap peer in HELLO when storing as local_id</code>](https://git.openwrt.org/project/ubus.git/commit/7a068bac5a9b877805f94797915d8d14fd434fb0)
+- [ ] [<code>libubus-io: reset sock.fd to -1 after close on ubus_reconnect error path</code>](https://git.openwrt.org/project/ubus.git/commit/747013f6ea05a168d000531553f8de90f8b87b7f)
+- [ ] [<code>ubusd_acl: use size_t for strlen result in ubusd_acl_alloc_obj</code>](https://git.openwrt.org/project/ubus.git/commit/020a64b9b1693295a3fde34147aef48bf47c76ae)
+- [ ] [<code>ubusd: use size_t for string and blob length variables</code>](https://git.openwrt.org/project/ubus.git/commit/f92ffd289dcc07b20d0fcf34e10e5c685240e5bd)
+- [ ] [<code>ubusd: use fixed-width types for sequence counters</code>](https://git.openwrt.org/project/ubus.git/commit/795b32bb96b611493f423666236e9c1e49e0736c)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
