@@ -5296,6 +5296,41 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gateway): restrict non-owner loopback tools (#91749)</code>](https://github.com/openclaw/openclaw/commit/b6a3f2988c664d739d2bd21ed8c03bd64bf4c6fe)
 - [ ] [<code>fix(elevated): reject group ids as senders (#91748)</code>](https://github.com/openclaw/openclaw/commit/a4e02cd1dd4818975d0a9f17b1dd11e8960269cc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): guard sandbox http requests (#91752)</code>](https://github.com/openclaw/openclaw/commit/21410d1c3247ec988fa2a71995def1231f876b47)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: require ACP metadata for deleted-agent bypass</code>](https://github.com/openclaw/openclaw/commit/b502a92bf1ef770978308841ee382392c275021b)
+- [ ] [<code>fix: read canonical ACP metadata for deleted-agent guard</code>](https://github.com/openclaw/openclaw/commit/a93bc61a845eb44a31d51b4e7b3dad2e2aac5178)
+- [ ] [<code>fix: align session resolve deleted-agent entry type</code>](https://github.com/openclaw/openclaw/commit/a82abc771a6b352c8c90f7d75b5fcfdcabe98c60)
+- [ ] [<code>fix: preserve ACP metadata key during deleted-agent checks</code>](https://github.com/openclaw/openclaw/commit/784e86433c62dccf0e8a755d780c7748288de960)
+- [ ] [<code>fix: rekey ACP metadata during session key migration</code>](https://github.com/openclaw/openclaw/commit/440284f87955f6e87fc4d9a4628a1e9cb103889e)
+- [ ] [<code>fix: validate migrated ACP metadata at canonical key</code>](https://github.com/openclaw/openclaw/commit/d31d26ef420e6f11cee786bd7ff27a81c05f2a4b)
+- [ ] [<code>fix: make ACP metadata key repair idempotent</code>](https://github.com/openclaw/openclaw/commit/09854d9de74083e6f16ef2e455562d684e3084a8)
+- [ ] [<code>fix: repair ACP metadata in deleted-agent guard</code>](https://github.com/openclaw/openclaw/commit/ef2ca9e50eaf4abfa955b68f1eb1c24a9d6abea1)
+- [ ] [<code>test: require ACP metadata in resolve unit fixture</code>](https://github.com/openclaw/openclaw/commit/31d49c59d73a664e928ae8110c69d021c977ad10)
+- [ ] [<code>fix: skip ACP metadata probe for configured agents</code>](https://github.com/openclaw/openclaw/commit/e16193bad54cb4bf9c30671c9f12b0111866393f)
+- [ ] [<code>test: use valid configured ACP bridge fixture</code>](https://github.com/openclaw/openclaw/commit/6ab084e89da76a0ca2c0eaa02b42715e85060f33)
+- [ ] [<code>test: use valid deleted ACP bridge fixture</code>](https://github.com/openclaw/openclaw/commit/21104cd52eb1c07f39cc0c2f6179dd89b8d075b0)
+- [ ] [<code>perf: bound ACP metadata key repair lookup</code>](https://github.com/openclaw/openclaw/commit/3b7631e50db998569eda0b8ece015defab7eb640)
+- [ ] [<code>chore: fix ACP guard lint issues</code>](https://github.com/openclaw/openclaw/commit/4648701fc13a40a6e73adff44c971def9c8f2fd6)
+- [ ] [<code>fix(mcp): harden stdio env filtering (#91751)</code>](https://github.com/openclaw/openclaw/commit/314de694c4fddd96f7f07727fabd09ba5cab8b71)
+- [ ] [<code>docs(security): clarify env var report scope (#91765)</code>](https://github.com/openclaw/openclaw/commit/e9bd90d20912939b1f38a764d133a6114856edd4)
+- [ ] [<code>fix(ui): require user intent for chat sessions (#91480)</code>](https://github.com/openclaw/openclaw/commit/9833f3ea9bf8f3faec25edc4593954832543a4a9)
+- [ ] [<code>docs: remove superpowers spec draft</code>](https://github.com/openclaw/openclaw/commit/4ca6ac326e0a9e612472e5b083f934266a1af649)
+- [ ] [<code>fix(mcp): lowercase SSE event-source header keys to prevent duplicate Authorization (401) (#91773)</code>](https://github.com/openclaw/openclaw/commit/468db12c217708a1ee7f6c254343571d9d13c912)
+- [ ] [<code>Harden sandbox bind source validation (#91741)</code>](https://github.com/openclaw/openclaw/commit/a90eb93452f1bec99bfa39ea8c998b742bde9704)
+- [ ] [<code>fix(imessage): skip idle approval discovery scans (#88530)</code>](https://github.com/openclaw/openclaw/commit/3a9ea1d85befa42ba7db481253d2ae6270af7662)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): drain restored chat queue after session switch (#91780)</code>](https://github.com/openclaw/openclaw/commit/54415d322f439141e0f53ee00676af7527b05651)
+- [ ] [<code>fix(search): enforce native web search tool policy (#91750)</code>](https://github.com/openclaw/openclaw/commit/f0d8048aa3b4bd90c83560c0e1e85a0cc3babc00)
+- [ ] [<code>fix(config): clarify retired skill workshop plugin warning (#91757)</code>](https://github.com/openclaw/openclaw/commit/ec0f311f7fccba8e7bbf750256462a82b5bc42e0)
+- [ ] [<code>fix(release): harden Parallels smoke validation</code>](https://github.com/openclaw/openclaw/commit/56dc53f6d24caee90f2a6e76fb4a6e1af9bccf8d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(release): allow QA capability restore patch</code>](https://github.com/openclaw/openclaw/commit/c350c35fada299f25c86183d6d6d59fc752fc444)
+- [ ] [<code>fix(release): guard Parallels skip-restore lanes</code>](https://github.com/openclaw/openclaw/commit/0a6a10193d2be939bbe9b9f98c351e2ae67e1320)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(doctor): keep TTS legacy migration on supported paths (#91787)</code>](https://github.com/openclaw/openclaw/commit/c0a4a7890df400d2939886423275355688173854)
+- [ ] [<code>fix(security): remediate openclaw alerts</code>](https://github.com/openclaw/openclaw/commit/48ec58a5844ff8b1a447d9beb5861221ca222048)
+- [ ] [<code>fix(security): audit oauth lock hash</code>](https://github.com/openclaw/openclaw/commit/5967ae61bdbecad9aae1faadf6ea6130b57d7ba7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
