@@ -513,6 +513,8 @@
 - [ ] [<code>build: Follow up use main branch of matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/9d1155ac67d6bf1bf88283062708933039968997)
 - [ ] [<code>feat: better crypto setup with custom passphrase</code>](https://github.com/krille-chan/fluffychat/commit/0771abe6cbbd3015b4b81086e852e828332fbb96)
 - [ ] [<code>chore: Follow up android notification icon</code>](https://github.com/krille-chan/fluffychat/commit/904de5a5a45f54afd7f0a2e8f61055cf6a394eec)
+- [ ] [<code>chore: Follow up login design</code>](https://github.com/krille-chan/fluffychat/commit/fa72bd5293262697da11ec52d9c74859fdfd8b18)
+- [ ] [<code>chore: Display tofu state in encryption page</code>](https://github.com/krille-chan/fluffychat/commit/1f11e43b4be8edc1104e82abaa72106fb266d37c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -824,6 +826,8 @@
 - [ ] [<code>build: Follow up use main branch of matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/9d1155ac67d6bf1bf88283062708933039968997)
 - [ ] [<code>feat: better crypto setup with custom passphrase</code>](https://github.com/krille-chan/fluffychat/commit/0771abe6cbbd3015b4b81086e852e828332fbb96)
 - [ ] [<code>chore: Follow up android notification icon</code>](https://github.com/krille-chan/fluffychat/commit/904de5a5a45f54afd7f0a2e8f61055cf6a394eec)
+- [ ] [<code>chore: Follow up login design</code>](https://github.com/krille-chan/fluffychat/commit/fa72bd5293262697da11ec52d9c74859fdfd8b18)
+- [ ] [<code>chore: Display tofu state in encryption page</code>](https://github.com/krille-chan/fluffychat/commit/1f11e43b4be8edc1104e82abaa72106fb266d37c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1459,6 +1463,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-360-nightly.</code>](https://github.com/netdata/netdata.git/commit/9497d52700e7aaf471234304a4714fbc471d6ce1)
 - [ ] [<code>Add safeguards against ML database corruption and streamline recovery process (#22478)</code>](https://github.com/netdata/netdata.git/commit/69520c15fb2934ea94d19e211442e74d09fa7c77)
 - [ ] [<code>docs: disclose silent-by-default streaming alerts and enabling (#22534)</code>](https://github.com/netdata/netdata.git/commit/8126e0d18389d3ff20d18528df4e876135f19aff)
+- [ ] [<code>ebpfgo.plugin (Basis of new plugin) (#22469)</code>](https://github.com/netdata/netdata.git/commit/a2ff60338df3d5a0ab37e56a784ba37715dfcc53)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>find_package</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2295,12 +2302,1669 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [nexa](https://github.com/NexaAI/nexa-sdk): [refs/tags/v0.2.73 → HEAD](https://github.com/NexaAI/nexa-sdk/compare/refs/tags/v0.2.73...HEAD)
 
-- [ ] [<code>feat: add tutorial for LFM2-24B-A2B-Preview-GGUF model and include related assets (#1049)</code>](https://github.com/NexaAI/nexa-sdk/commit/3dbb97f0a56b5824a2da4b29e4f4d347dd8797b2)
-- [ ] [<code>feat(android): add lfm moe (#1048)</code>](https://github.com/NexaAI/nexa-sdk/commit/2290372c3c300fe1e94dad92a707862c19b7586b)
+- [ ] [<code>init commit</code>](https://github.com/NexaAI/nexa-sdk/commit/dec311fe7b703bf72cb21c15487c0eacffe7413c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update</code>](https://github.com/NexaAI/nexa-sdk/commit/b255c29a4b43c4ebfd05c5919c91c2729580b24c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: use english</code>](https://github.com/NexaAI/nexa-sdk/commit/474692281054221dd67d11a478dfa0dd51b7f946)
+- [ ] [<code>prepare code structure for release</code>](https://github.com/NexaAI/nexa-sdk/commit/78f07f9136507758b311b68c89a6ffa3a3b57a29)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>add more folder structure</code>](https://github.com/NexaAI/nexa-sdk/commit/0a867907b354d9eaacff8024df43605f8c0c4f3e)
+- [ ] [<code>chore(sdk): remove legacy sdk before bridge import</code>](https://github.com/NexaAI/nexa-sdk/commit/29c1786f7c7771cbfcbe8ce1f80085475f5f3b96)
+- [ ] [<code>chore(sdk): import GenieX-bridge as sdk (squashed)</code>](https://github.com/NexaAI/nexa-sdk/commit/941f21517ac69f9e1b8b3e3f1011ab966fe02e64)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>chore(sdk): add submodules for llama.cpp, geniex-qairt, and geniex-proc</code>](https://github.com/NexaAI/nexa-sdk/commit/bd4c9e608e9289323f52a4e47bef0442e62c93bd)
+- [ ] [<code>chore: mv bindings and scrpts from sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/65354c75d041cccb7f8fbb78378d1e165eb1adf6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>wip: add cli</code>](https://github.com/NexaAI/nexa-sdk/commit/26061bbed7a94f776662c72a46fcab47175c448e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>feat: add Bazel module for SDK structure</code>](https://github.com/NexaAI/nexa-sdk/commit/a1e4207313fa1f491c14ec49f91066f5afb7c1a2)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>chore: remove local path overrides for bazel features and related modules</code>](https://github.com/NexaAI/nexa-sdk/commit/5bc065e1b9a8efb1fb7ced24bc2425d97064c5c9)
+- [ ] [<code>wip: update MODULE.bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/2c6839846f3e01c61706c05bcaa5dd2fb390e2d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: remove unused Bazel features and related files</code>](https://github.com/NexaAI/nexa-sdk/commit/ff84f46f2a80fd2ab75f9979dd6cdbe60b2329b7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore: support cli compile</code>](https://github.com/NexaAI/nexa-sdk/commit/3fe8f6bab4a10d70f9551c9bf3559dca45cec2b9)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore: update and lock go version</code>](https://github.com/NexaAI/nexa-sdk/commit/89e6a3f57781e3c75f4c2c8b1b04197b0bf8705e)
+- [ ] [<code>chore(cli): add tags and version inject</code>](https://github.com/NexaAI/nexa-sdk/commit/454f92c621164850f9175233991d7c405b950db8)
+- [ ] [<code>chore: lock bazel version</code>](https://github.com/NexaAI/nexa-sdk/commit/b3e2c6ec39f8b9c8504acee1fc8dd23b2a6a8f02)
+- [ ] [<code>feat: Add QAIRT plugin and associated components</code>](https://github.com/NexaAI/nexa-sdk/commit/5758bd152e66490dd658680f65b119aa5610e142)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix: bazel run params</code>](https://github.com/NexaAI/nexa-sdk/commit/8aec51c5108c045c21350fd390c7b42a8afbc5d7)
+- [ ] [<code>chore(cli): rename binding package name</code>](https://github.com/NexaAI/nexa-sdk/commit/b1206100da35b45fe1520d487cb0d8ede0ff6ce0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: Refactor SDK structure and update build configurations</code>](https://github.com/NexaAI/nexa-sdk/commit/22a73787a8c05221774208b732864f2ac142c3ce)
+- [ ] [<code>feat: Integrate rules_foreign_cc and update llama_cpp plugin configuration</code>](https://github.com/NexaAI/nexa-sdk/commit/5b80fc6ec50787d2bd7f4df7d12bf95ce8775fc9)
+- [ ] [<code>feat: build llamacpp on windows arm64</code>](https://github.com/NexaAI/nexa-sdk/commit/bc4dbb3dddc243dbf80abfd472d9a19a96757938)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat: enhance SDK plugin support for OpenCL and Hexagon backends</code>](https://github.com/NexaAI/nexa-sdk/commit/886cb053c566982bd86424f1752db5beb8a2ba6c)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: android links in readme (#1052)</code>](https://github.com/NexaAI/nexa-sdk/commit/9b0e5e6d8d93f57adb151f6bd867e07b045c0281)
-- [ ] [<code>ReadME update (#1063)</code>](https://github.com/NexaAI/nexa-sdk/commit/aca9544f46dfcd4088d4e336876b7af90c0ffc96)
-- [ ] [<code>feat: update token (#1065)</code>](https://github.com/NexaAI/nexa-sdk/commit/1915274c7ef6687fe68781973aada7d263783463)
+- [ ] [<code>feat: refactor llama_cpp build configuration and add artifact management for Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/fe3b49910c221a3b44094f7cbeb014d145697b50)
+- [ ] [<code>feat: enhance Windows ARM64 SDK build configurations and documentation</code>](https://github.com/NexaAI/nexa-sdk/commit/3ef24188a499418754464511aeb055da6af2f664)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(cli): clean old c lib</code>](https://github.com/NexaAI/nexa-sdk/commit/d6fe84d17eefbb14b93cd6b78961bcce8395d3d9)
+- [ ] [<code>feat: add qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/f48b5d05ee47162f48fe9c4e9a24f0bd6337915e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore(3rd): update qairt branch</code>](https://github.com/NexaAI/nexa-sdk/commit/3fd133f31697488138c0719236be1cfba5a1331d)
+- [ ] [<code>feat: llama.cpp for Linux and Windows ARM64</code>](https://github.com/NexaAI/nexa-sdk/commit/16d7b121eef42fb0f0aa8964b5a854ce03248b3c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat: add hermetic cc toolchain</code>](https://github.com/NexaAI/nexa-sdk/commit/bfca1d61b1360846aea307a3256875f24fd159fa)
+- [ ] [<code>chore: fix winget bazel command in the doc</code>](https://github.com/NexaAI/nexa-sdk/commit/7e9caf52fda72b3843f5a807e108c156ca1d7f60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: use SSH urls in .gitmodules</code>](https://github.com/NexaAI/nexa-sdk/commit/3c1d6e108af48154943a2fa8aab497617bb51a52)
+- [ ] [<code>chore: update g-proc hash</code>](https://github.com/NexaAI/nexa-sdk/commit/3a108520b46a79bcc999b62a9643ce8692859350)
+- [ ] [<code>chore: fix go version</code>](https://github.com/NexaAI/nexa-sdk/commit/81d54830779e70efe76be17664f683819bc3777a)
+- [ ] [<code>chore(sdk): remove sdk bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/bedabf3906299e49aa6e60192e3e9dcec971a73e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(cli): support download sdk from s3</code>](https://github.com/NexaAI/nexa-sdk/commit/47eb2f30373f165850fb2128cea76b89dffa94ca)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: refactor cmake for sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/b843c61747ee324cfd69fa6daaa36f21a98be76d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>find_package</code></sub>
+- [ ] [<code>fix(sdk): add windows s3 support</code>](https://github.com/NexaAI/nexa-sdk/commit/3a172b000b461f2c109675abfa3dce606cf42a44)
+- [ ] [<code>chore(sdk): simplify bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/b50c56ed7816274fb78c8764c8f6b6f697dcdba8)
+- [ ] [<code>chore: remove geniex-proc submodule and update geniex-qairt reference</code>](https://github.com/NexaAI/nexa-sdk/commit/80d9a00f9f8dc581b4c299eb4fd6fc5ddd48ff5a)
+- [ ] [<code>feat: add llm for qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/5fb4b1469070bbb93697e3575ef47541dd2e53b5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat: add vlm for qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/f0ae1887e5832ff5da61f951cd9ab8db996da372)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: optimzie qairt compile toolchain</code>](https://github.com/NexaAI/nexa-sdk/commit/b932cbbd3784333746818b0395e33c722d5b117f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(sdk): temp fix run path</code>](https://github.com/NexaAI/nexa-sdk/commit/ea1da57cc2d1e473f9fbe780aa3060ea3145b4c0)
+- [ ] [<code>fix(cli): update plugin id to llama_cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/810459c8133f99e71b14f708629a6ce334ad34e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(sdk): clean bazel code</code>](https://github.com/NexaAI/nexa-sdk/commit/d3431f0ca220977ee324fdabbda3d25e4d2c0966)
+- [ ] [<code>fix(sdk): llama_cpp plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/d4b1c4c1270e1c9fa86f8e21620200767c2377c0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(sdk): update build documentation and configuration for SDK and QAIRT plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/3afef8aa12439e2abfff439048d3b3a4d98065ec)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: blank empyt modelity for qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/ff4bdbe3e5e5b7cd9d6426dde5f3dd73858847ba)
+- [ ] [<code>chore(docs): add file structure of granite4 modelfiles</code>](https://github.com/NexaAI/nexa-sdk/commit/80a65dfda82405ed5b983dbe7d9ab6995dbbcac0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(sdk): add TODO notes and update model tokenizer paths in CMakeLists and llm.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/ac50c95165474080db78acd7cd6a5d817cf3c2bb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(todo): add htp versions todo</code>](https://github.com/NexaAI/nexa-sdk/commit/5f6c2668f41728a12aca29537c31138bc48dab8d)
+- [ ] [<code>chore(todo): add destruct panic</code>](https://github.com/NexaAI/nexa-sdk/commit/d5f5fc51f5eb780cec981300aca08ef75937fa26)
+- [ ] [<code>chore: update .gitignore to include .venv and .vscode</code>](https://github.com/NexaAI/nexa-sdk/commit/306e42b531ef4c770c357a462bb1fc4d7c56b1c5)
+- [ ] [<code>Update TODO items for genniex_qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/5219fa7007b90dc8367256528c9872c1cfffe21a)
+- [ ] [<code>chore(docs): add tips</code>](https://github.com/NexaAI/nexa-sdk/commit/3573c434bdee30e1defdf1031abccb64cd153ec9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: resty:v3 go dependency not found and update readme</code>](https://github.com/NexaAI/nexa-sdk/commit/9fb2f5c885a5db169eb49b61bd24a61cfd2c0319)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: update the hash of geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/b1d87327199713adcfbbb7522eb525db2ccfd16d)
+- [ ] [<code>docs: update build.md about createSymLink permission</code>](https://github.com/NexaAI/nexa-sdk/commit/0f16bd63768aa6d188b4af3b04d766beb2587a19)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: update geniex-qairt hash for the tokenizer-cpp hash</code>](https://github.com/NexaAI/nexa-sdk/commit/ed717d337dbd30ff1d365fe81c765f4c29083f0c)
+- [ ] [<code>chore: add openmp for windows</code>](https://github.com/NexaAI/nexa-sdk/commit/8376bae31cbb3a7fa541187af16d78a886a9e761)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(sdk): compile llama.cpp with opencl and hexagon</code>](https://github.com/NexaAI/nexa-sdk/commit/04cf3d6dff3a73cb9b5de66a1d71340374adf1e5)
+- [ ] [<code>fix(sdk): missing opencl and hexagon param</code>](https://github.com/NexaAI/nexa-sdk/commit/532f1d8dde923732c568c7309d084886f59e813f)
+- [ ] [<code>chroe: fix scan for openmp</code>](https://github.com/NexaAI/nexa-sdk/commit/a71497607fc83a685662714aaa094573e53001de)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: add cmake preset</code>](https://github.com/NexaAI/nexa-sdk/commit/0c6869f765f11426e8a5cd9d9d618ec684c0ea1b)
+- [ ] [<code>chore: add .clang-format configuration</code>](https://github.com/NexaAI/nexa-sdk/commit/f319909187adf05a9208370bb696fe4376bc974a)
+- [ ] [<code>chore(sdk): move flags to CMakePresets.json</code>](https://github.com/NexaAI/nexa-sdk/commit/1341d49254960d702938481d9fad7b8d036d6315)
+- [ ] [<code>feat(sdk): add installation commands for HTP skel libraries and dependencies</code>](https://github.com/NexaAI/nexa-sdk/commit/6964d1614acc256717fa9b0e75278e286456e339)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(build): add note on Hexagon toolchain path limit for Windows ARM64</code>](https://github.com/NexaAI/nexa-sdk/commit/fcf8c050982d5e972275faa9dbf6129d03757ced)
+- [ ] [<code>fix(sdk): add skel files and set ADSP_LIBRARY_PATH</code>](https://github.com/NexaAI/nexa-sdk/commit/551ec791d623fe2546a7a89730d3db9f1a567d6a)
+- [ ] [<code>fix(sdk): set ADSP_LIBRARY_PATH before loading hexagon backend</code>](https://github.com/NexaAI/nexa-sdk/commit/87614be59eea981ba93c202a91d5deab581e133d)
+- [ ] [<code>feat(sdk): update SDK installation process and add build script for AAR</code>](https://github.com/NexaAI/nexa-sdk/commit/e089e38be485cbdb5b55a52f4efdfaf7d6051e77)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(sdk): add script to build SDK and AAR in Docker environment</code>](https://github.com/NexaAI/nexa-sdk/commit/dd14c00f0d54db079e76fd877162a28148407726)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(sdk): disable BACKEND_DL to avoid gomp loading problem</code>](https://github.com/NexaAI/nexa-sdk/commit/276e3ebce72bd0180519af75ffe8c11c4c6d9a00)
+- [ ] [<code>fix(sdk): disable GGML_NATIVE to avoid crosscompile android error</code>](https://github.com/NexaAI/nexa-sdk/commit/cd7a93de68b5ce76b6631d10d18b1398f72ff22e)
+- [ ] [<code>chore: fix android build</code>](https://github.com/NexaAI/nexa-sdk/commit/37196feae3fc929f75a242d6a305c618cd48e51c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(docs): add deviceid settings</code>](https://github.com/NexaAI/nexa-sdk/commit/d076446ac97c4fb658a266e1f9de8b4b49a97a04)
+- [ ] [<code>refactor: align with new pipeline factory from g-qairt and htp lib detection logic</code>](https://github.com/NexaAI/nexa-sdk/commit/e262860a7321a2151665c13d9e042049e79ce377)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: copy htp-libs during install</code>](https://github.com/NexaAI/nexa-sdk/commit/121e0fe4c83f1b6ffbfb977a2be4de9405c03887)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(sdk): add qairt cat files to runtime</code>](https://github.com/NexaAI/nexa-sdk/commit/4afd59971f98e6b2ce0a65af70e67f46ca75e4b5)
+- [ ] [<code>chore: rm old bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/d56cc2b2ed930addaa0c2a673f13a584acbf64e9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>find_package</code></sub>
+- [ ] [<code>chore: update geniex-qairt hash</code>](https://github.com/NexaAI/nexa-sdk/commit/3f4b82f5238d07e3b606f78fdb9d34279ba1b00b)
+- [ ] [<code>refactor(sdk): simplify cmake files</code>](https://github.com/NexaAI/nexa-sdk/commit/a9fe3096bf38a14bd208ae572f93c818d1611266)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>bindings: add python binding</code>](https://github.com/NexaAI/nexa-sdk/commit/853a6c699493abcce1ed4ae63ef88f3f0cef2bfa)
+- [ ] [<code>fix: update ctypes field types from c_char_p to c_void_p for compatibility</code>](https://github.com/NexaAI/nexa-sdk/commit/c0b24c2a95421a025748cac68c3549184b3ed386)
+- [ ] [<code>feat: add minimal LLM example script for geniex bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/16f11f8a5c54e50a1f6b05970280124c3763831b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add BUILD.md for Python bindings setup and usage instructions</code>](https://github.com/NexaAI/nexa-sdk/commit/4a5fe0e80d2424e719ddd4a4f6578c2634a940d2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(cli): add dist target</code>](https://github.com/NexaAI/nexa-sdk/commit/1030bc6391c3bea8aa0a8522f4e88fee3d5b7542)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(cli): download model ignore exists maniftest</code>](https://github.com/NexaAI/nexa-sdk/commit/2d54a4d3139506269163897326c4dd3d982bf466)
+- [ ] [<code>chore(cli): skip check update on start</code>](https://github.com/NexaAI/nexa-sdk/commit/0bb3d0b05acb02cbf1f20339eef777348ead43ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add Python wheel support and update build instructions</code>](https://github.com/NexaAI/nexa-sdk/commit/2562c568e7279278fbc7f647d3af575d764ad35e)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore(sdk): remove qnn fields</code>](https://github.com/NexaAI/nexa-sdk/commit/cf04167787d11a8070e098d3db74b4f3c837c4f5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(cli): rename `geniex.manifest` to `geniex.json`</code>](https://github.com/NexaAI/nexa-sdk/commit/abcef0607494cf87d50a50812d092b4624b63720)
+- [ ] [<code>feat: optimize the lib path for the geniex pkg</code>](https://github.com/NexaAI/nexa-sdk/commit/6c6c72fef89bb40b80a577f595daa7c549069bbd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: restore geniex-qairt submodule pointer to match master</code>](https://github.com/NexaAI/nexa-sdk/commit/a53c4f9bd52f4f5d0bc3eecabd36dd535938c263)
+- [ ] [<code>feat: enhance LLM example and model path resolution in geniex bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/f4f239df988aa1ac106a411fe837355fc5047e44)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(docs): update build doc</code>](https://github.com/NexaAI/nexa-sdk/commit/660ad3e1fb2e24432fef834a8e6eb9e4312ce29b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(docs): update build doc</code>](https://github.com/NexaAI/nexa-sdk/commit/3e6ab1c3a012d922dbd06430f530355414621575)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(docs): update paths in run.md to use absolute paths</code>](https://github.com/NexaAI/nexa-sdk/commit/55ab7c95eb39b78c5433fb2f197a07074de00524)
+- [ ] [<code>fix(cli): disable sonic tag</code>](https://github.com/NexaAI/nexa-sdk/commit/b75b7a2d947c976ee313dddbb4083af71e2524b7)
+- [ ] [<code>refactor(types): remove unused fields from ml_ModelConfig</code>](https://github.com/NexaAI/nexa-sdk/commit/fb1f3cd701a13c08e38e8032e0b1416be3951288)
+- [ ] [<code>fix(python): lazy-bind C functions and fix VLM comment</code>](https://github.com/NexaAI/nexa-sdk/commit/05da90db1e216395cac8344b91dd49154fb1561a)
+- [ ] [<code>chore(python): fix Bazel wheel packaging and update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/719535fc1354430cbf2f96918239114f722fe91e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(python): improve missing native library error message</code>](https://github.com/NexaAI/nexa-sdk/commit/9acd149556b3a1b225acb0d4132c302b3e017bd4)
+- [ ] [<code>docs(python): document native library requirement and post-install usage</code>](https://github.com/NexaAI/nexa-sdk/commit/bdded16e30e63683795245ac9a241fcaf580b476)
+- [ ] [<code>feat(python): GENIEX_LIB_PATH accepts directory or file path</code>](https://github.com/NexaAI/nexa-sdk/commit/3017e48ae6f00f5f37caf00d047640ee6fc0af72)
+- [ ] [<code>docs(python): simplify BUILD.md</code>](https://github.com/NexaAI/nexa-sdk/commit/f3eb135778cac2021dbf7a3cc8de71d090097dcc)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore: remove CMakeUserPresets.json from tracking (local dev only)</code>](https://github.com/NexaAI/nexa-sdk/commit/6a52b78a3db94aabf744b076eb0029e76a57186a)
+- [ ] [<code>chore: ignore CMakeUserPresets.json</code>](https://github.com/NexaAI/nexa-sdk/commit/8de1b8cc22241c7f8c9c4a6067549c02daea846d)
+- [ ] [<code>chore: add .gitignore to exclude models directory in tests</code>](https://github.com/NexaAI/nexa-sdk/commit/64781007dc5a92af1c598f1b2c7a4bd4de5ed34e)
+- [ ] [<code>chore(deps): update qnn-run submodule and register nexaproc submodule</code>](https://github.com/NexaAI/nexa-sdk/commit/d054a7f0796d903754a9ea3302c775ba1b834bf4)
+- [ ] [<code>chore(deps): bump geniex-qairt (qnn-run) submodule to latest main (b2a14f6)</code>](https://github.com/NexaAI/nexa-sdk/commit/528a0f46ab4876262c90825955cb8fa870fc7b0f)
+- [ ] [<code>ci: support sdk and cli on windows arm64 (#19)</code>](https://github.com/NexaAI/nexa-sdk/commit/605aad1b79213462c5b77d86ffffaa0b5c785533)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>feat(cli): add windows release</code>](https://github.com/NexaAI/nexa-sdk/commit/472d6465c508c7856fcf8c949a4bda975c27ca18)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>chore(cli): simplify install script</code>](https://github.com/NexaAI/nexa-sdk/commit/7ad15e9f172f04d9d819236090f4669d7796efdd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: enforce SemVer 2.0 tags and enrich release assets</code>](https://github.com/NexaAI/nexa-sdk/commit/db69ae938f104a854fd9ebfb95379bb220434c0a)
+- [ ] [<code>ci(release): extract publish logic to scripts/release.js and simplify</code>](https://github.com/NexaAI/nexa-sdk/commit/7eb0d8d272379ef5c0ecc624490cfe957cb1ea92)
+- [ ] [<code>ci(release): temporarily disable linux-arm64 build</code>](https://github.com/NexaAI/nexa-sdk/commit/ec1ca90eb519b5da90f629daf1f80bb40f0fa110)
+- [ ] [<code>ci(release): switch to reusable-build-sdk.yml (matches build.yml)</code>](https://github.com/NexaAI/nexa-sdk/commit/8e3503da47a04bc9a8eb8f120ad7b492034e05a3)
+- [ ] [<code>refactor: rename ml.h to geniex.h and ml_ API prefix to geniex_</code>](https://github.com/NexaAI/nexa-sdk/commit/6fe38847bf1908e535e5f9c715dcda0c39304a41)
+- [ ] [<code>ci(release): upload all assets in a single script invocation</code>](https://github.com/NexaAI/nexa-sdk/commit/f9571c666a0e13297958a6b9556e9a5e38ada85f)
+- [ ] [<code>fix: complete ml_ → geniex_ rename (ML_ constants and CMake definitions)</code>](https://github.com/NexaAI/nexa-sdk/commit/72ae0c9209221cef74a4f241645aec7d9f7f4ba9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ci(lint): skip deleted/renamed files in cpp-format check</code>](https://github.com/NexaAI/nexa-sdk/commit/d904c43fc4eda0484bf4782b9542a2df66122fa7)
+- [ ] [<code>ci(release): ship CLI Windows installer alongside SDK</code>](https://github.com/NexaAI/nexa-sdk/commit/5f7c3c492b2af6419d6c91983bae265e753c9e14)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(build): drop check-tools-windows smoke job</code>](https://github.com/NexaAI/nexa-sdk/commit/46f1cdc74f98c7f51319553e7de434a151376ed0)
+- [ ] [<code>Merge pull request #21 from qcom-ai-hub/ci-release</code>](https://github.com/NexaAI/nexa-sdk/commit/cbd3a1bfbd9ab316bd92ce27f7f93261b4897f6e)
+  - <sub>Tags: <code>v0.0.1-alpha.1</code></sub>
+- [ ] [<code>ci(windows): enable hexagon npu, opencl, qairt build</code>](https://github.com/NexaAI/nexa-sdk/commit/163829cacf68a8f000e621674cc5742c80a39405)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): install WDK via winget so Inf2Cat can sign libggml-htp.cat</code>](https://github.com/NexaAI/nexa-sdk/commit/6d900263bacd5a6bcb544485e3357f968655c334)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): install WDK via official wdksetup.exe with silent flags</code>](https://github.com/NexaAI/nexa-sdk/commit/0be44d29f2124f63caa6be88b3613985704fd8d4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): dump hexagon build dir contents when SDK build fails</code>](https://github.com/NexaAI/nexa-sdk/commit/8502c30f104cf5a35fe96ae676542e0626f55df3)
+- [ ] [<code>ci(windows): force WDK reinstall when Catalogs dir is partial</code>](https://github.com/NexaAI/nexa-sdk/commit/1d52c896916a2d081b4d6f9ef732cef4b9201723)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): use direct MS CDN URL for wdksetup.exe (fwlink returns HTML)</code>](https://github.com/NexaAI/nexa-sdk/commit/5f6aa900833e79f68fe0dd5bb234386c07e770bc)
+- [ ] [<code>ci(windows): drop non-ascii em-dash that breaks powershell parser</code>](https://github.com/NexaAI/nexa-sdk/commit/4d16decb6c432044e1b0ec48b1d5fb599d7a3c0e)
+- [ ] [<code>ci: disable lint/check-tools/cli jobs while iterating on hexagon signing</code>](https://github.com/NexaAI/nexa-sdk/commit/bc63e26bbe1cf1def6d042f86eb324ac50a0e6c3)
+- [ ] [<code>ci(windows): probe WDK health via Inf2Cat on empty dir; clear partial install before reinstall</code>](https://github.com/NexaAI/nexa-sdk/commit/9576fa4c3eb979224c4351c146bb81558ceb381b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): use real dummy driver for Inf2Cat health probe</code>](https://github.com/NexaAI/nexa-sdk/commit/c4491da303705d85e232b128443aa1bb37b2396e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): use PowerShell array for probe inf to avoid YAML confusion with heredoc</code>](https://github.com/NexaAI/nexa-sdk/commit/20d442c9623f54a20adf847361e7f9b49b7df9ad)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(windows): two-phase build so Inf2Cat doesn't race htp ExternalProject workspaces</code>](https://github.com/NexaAI/nexa-sdk/commit/1af0b5fedca50309fe3faae5e0d3a4dbb7a48d83)
+- [ ] [<code>ci(release): ship ggml-htp-v1.cer alongside sdk for WoS hexagon signing</code>](https://github.com/NexaAI/nexa-sdk/commit/8c2556ad4439bd31bb450af5421f75a7c4561041)
+- [ ] [<code>ci: restore lint + build-cli-windows jobs and drop debug dump</code>](https://github.com/NexaAI/nexa-sdk/commit/e524027136fc357e398abb5ca71a5bcff9fa3924)
+  - <sub>Tags: <code>v0.0.1-alpha.2</code></sub>
+- [ ] [<code>chore(docs): add release command</code>](https://github.com/NexaAI/nexa-sdk/commit/51092bbf0af1544527f8f11c48d2786cae232877)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(sdk): suit for new htp-files folder</code>](https://github.com/NexaAI/nexa-sdk/commit/ec5748fb1b459ea5ad28c8d94af31d7fc134076d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #23 from qcom-ai-hub/ci-hexagon</code>](https://github.com/NexaAI/nexa-sdk/commit/16200be0e69261c868fa34456aa79b5e25430e58)
+  - <sub>Tags: <code>v0.0.2-alpha.1</code></sub>
+- [ ] [<code>ci: extract SDK build into scripts, matrix callers, drop dead action scaffolding</code>](https://github.com/NexaAI/nexa-sdk/commit/2654d63e54aa1cd18558532932636ebada5256d6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ci: source full vcvars env inside build-sdk.ps1</code>](https://github.com/NexaAI/nexa-sdk/commit/9cb9088034e1784f8be8975df96c316e0fbb4b9e)
+  - <sub>Tags: <code>v0.0.2-alpha.2</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(release): publish per-file .sha256 sidecars instead of combined SHA256SUMS</code>](https://github.com/NexaAI/nexa-sdk/commit/608cc6f437950c3799feffd8bd2f4bffc26d9014)
+  - <sub>Tags: <code>v0.0.2-alpha.3</code></sub>
+- [ ] [<code>ci: parallelize cmake --build across all runner cores</code>](https://github.com/NexaAI/nexa-sdk/commit/a24c203145879f7b64ac8cab4da8bf51c82cae27)
+- [ ] [<code>Merge pull request #20 from qcom-ai-hub/worktree-ci-refactor</code>](https://github.com/NexaAI/nexa-sdk/commit/f09824c00c10487e1dfb76c81b7891e31dee7244)
+  - <sub>Tags: <code>v0.0.2-rc.1</code></sub>
+- [ ] [<code>docs: add run instructions for CI released</code>](https://github.com/NexaAI/nexa-sdk/commit/8498fca69c0de472a21f4992d76b53ea50b1d219)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: update geniex-qairt url</code>](https://github.com/NexaAI/nexa-sdk/commit/78dde81677c6ee44395ee359c5d6bc0f8f67e383)
+- [ ] [<code>feat(python): ship sdist with install-time SDK download</code>](https://github.com/NexaAI/nexa-sdk/commit/f7ac15183e02bf52c989572ac8261c1eb1ab0fe4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(python): ruff format _sdk_fetch.py</code>](https://github.com/NexaAI/nexa-sdk/commit/a8326009d9d72913720905f927efffdb5a6ed061)
+- [ ] [<code>ci(python): use ubuntu-latest runner for sdist build</code>](https://github.com/NexaAI/nexa-sdk/commit/0b885472414082f9e4681890d2f5fdc68b4bb45e)
+- [ ] [<code>ci(python): auto-publish sdist to TestPyPI on pre-release tags</code>](https://github.com/NexaAI/nexa-sdk/commit/0083d003b993e69d8f084dd1628914ca9868f78f)
+- [ ] [<code>ci(python): pin pypi-publish action to v1.12.4</code>](https://github.com/NexaAI/nexa-sdk/commit/b92373a7b15e9e2cebb61815f37c6b03aac41922)
+  - <sub>Tags: <code>v0.0.3-alpha.1</code></sub>
+- [ ] [<code>docs(python): move install/build guide from BUILD.md to README.md</code>](https://github.com/NexaAI/nexa-sdk/commit/66b5d7b1f86c2ad243c55486636c39181f75022f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(python): call os.add_dll_directory before loading DLLs on Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/03ffc30bde262223a5517b4ba1a2e2b864129c60)
+- [ ] [<code>Merge pull request #31 from qcom-ai-hub/fix/windows-dll-directory</code>](https://github.com/NexaAI/nexa-sdk/commit/75777c15423eee372aa42ab01667fd95d986321e)
+  - <sub>Tags: <code>v0.0.3-rc.1</code></sub>
+- [ ] [<code>feat: add None-Hexagon None-opencl build preset, and claude.md</code>](https://github.com/NexaAI/nexa-sdk/commit/37946ee6e7a800c6ad6f4d093f74f60c5af17b59)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat(cli): disable non-LLM/VLM modalities</code>](https://github.com/NexaAI/nexa-sdk/commit/bfe1aee0249e1bcd84d7c2b2e5d52a9dbb81354f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(server): trim swagger to LLM/VLM endpoints only</code>](https://github.com/NexaAI/nexa-sdk/commit/b6b6da044ee687bf4c7ea2dbe96ef2ec87dede25)
+- [ ] [<code>docs(build): correct Windows Bazelisk installation command</code>](https://github.com/NexaAI/nexa-sdk/commit/afe37a01976f8f7f49e315436455c50009a34c64)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(release): swap in Microsoft-signed HTP bundle from S3 when available</code>](https://github.com/NexaAI/nexa-sdk/commit/7aa2a35d2b219c9cfdac61d8c4057793737b4542)
+- [ ] [<code>refactor(release): simplify HTP bundle packaging</code>](https://github.com/NexaAI/nexa-sdk/commit/b9ae64f3ddb2c8222d69380ab8f66a5be4097f96)
+- [ ] [<code>fix(release): only init the llama.cpp submodule, not the private qairt one</code>](https://github.com/NexaAI/nexa-sdk/commit/2a0c87387430db45569e521229577654415f8b0e)
+- [ ] [<code>fix(release): use nullglob so empty asset categories don't break ls</code>](https://github.com/NexaAI/nexa-sdk/commit/40059da52a26e0913fbb4c020d976447b7c3906e)
+- [ ] [<code>docs(release): document HTP signing flow and SemVer tagging policy</code>](https://github.com/NexaAI/nexa-sdk/commit/44bb0834020bfcd7f816fd5061a69f0b54fed4a3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: tighten release doc and add CLAUDE tag-cutting instructions</code>](https://github.com/NexaAI/nexa-sdk/commit/c74376e47d10c5bf5eb7fe2d1486e18934f5e760)
+  - <sub>Tags: <code>v0.0.4-alpha.1</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(release): overlay signed HTP bundle before build-cli so installer ships MS-signed DLLs</code>](https://github.com/NexaAI/nexa-sdk/commit/1cb87d5ba754c62ff3ae58f71714c7310f66d685)
+  - <sub>Tags: <code>v0.0.4-alpha.2</code></sub>
+- [ ] [<code>feat: successfully running Hexagon NPU and OpenCL GPU, and updated docs</code>](https://github.com/NexaAI/nexa-sdk/commit/f44c5ba96742145ee7e845aee83e31823ac0e74f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore: comment out legacy modality types</code>](https://github.com/NexaAI/nexa-sdk/commit/34552ab7268843fc35f03715f6e8b1300ce608f0)
+- [ ] [<code>feat: remove config as a command</code>](https://github.com/NexaAI/nexa-sdk/commit/bcefdfa1ca90771ef98abc17f952ada773fad20d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: remove functioncall as a command</code>](https://github.com/NexaAI/nexa-sdk/commit/02379ea3bc708a0f2646230e5091d4f6ea352956)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: remove modalities other than LLM/VLM</code>](https://github.com/NexaAI/nexa-sdk/commit/9d8372581c8f2a2946bd26f63eb6a273f6db1249)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: update build config after config and functioncall commands are removed</code>](https://github.com/NexaAI/nexa-sdk/commit/a1889ed3c06d0792bfe82d6e651a4416a3d769ee)
+- [ ] [<code>feat: supports llama3.2-3b running on android with qairt plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/8b337196f36fe00d315a7e6c2245e6bbdc1f3399)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: fixed formatting issues</code>](https://github.com/NexaAI/nexa-sdk/commit/ce51b7a20859fb0c7d2797789f70ffa7e3e54160)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #34 from qcom-ai-hub/feat/release-htp-signed-bundle</code>](https://github.com/NexaAI/nexa-sdk/commit/594a6718038fd16449c057a7288c608fdf3e0978)
+  - <sub>Tags: <code>v0.0.4-rc.1</code></sub>
+- [ ] [<code>chore: set CLAUDE.local.md</code>](https://github.com/NexaAI/nexa-sdk/commit/9bf74b1dfe9556caebe0f2743c6054b327027c9e)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: fixed merge conflicts</code>](https://github.com/NexaAI/nexa-sdk/commit/42dfcace94c9ff46ffe826bd8c16ac2004a95af6)
+- [ ] [<code>feat(sdk): support linux arm64 compile</code>](https://github.com/NexaAI/nexa-sdk/commit/23893a828adfd9b0ccb1895b6500ed7a77edc72b)
+- [ ] [<code>fix(sdk): package add linux softlink</code>](https://github.com/NexaAI/nexa-sdk/commit/324df3e2a4b5127761cd8d146c1c82898d19fcbb)
+- [ ] [<code>feat(examples): add RAG-LLM</code>](https://github.com/NexaAI/nexa-sdk/commit/1764c57af4004cc2c91c4189c4ed24da29e3c1a5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(examples): make android qairt work</code>](https://github.com/NexaAI/nexa-sdk/commit/3f18f6e8d058e2205fd8160cf212aa580b332a36)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix(examples): make android llama_cpp npu work</code>](https://github.com/NexaAI/nexa-sdk/commit/42602f5a1b44d50e0c1006107bd766283e95f853)
+- [ ] [<code>fix(android): update npu model detect</code>](https://github.com/NexaAI/nexa-sdk/commit/eded87c029cc36a0382640df8de1dc7ed72d9f31)
+- [ ] [<code>chore(docs): add android app build docs</code>](https://github.com/NexaAI/nexa-sdk/commit/9bca695a521e15ad66e1df491981c3afde5470cc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore(sdk): remove GENIEX_DL</code>](https://github.com/NexaAI/nexa-sdk/commit/19cc05b371fee3776ca7993f640526c72a07eee0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ci(sdk): add ccache to speed up SDK compilation</code>](https://github.com/NexaAI/nexa-sdk/commit/2b7b5f55cb2f4905ac30781994cf12afbe1f9197)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(sdk): isolate GENIEX_VERSION to version.cpp for ccache</code>](https://github.com/NexaAI/nexa-sdk/commit/e496a541141ba72f8cd4f740fcce5d7110fecb03)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ci: skip build for draft PRs</code>](https://github.com/NexaAI/nexa-sdk/commit/f3c585e62210844b24d7ef737659c290a8110531)
+- [ ] [<code>fix(android): set ADSP_LIBRARY_PATH when load qairt model</code>](https://github.com/NexaAI/nexa-sdk/commit/a1121c007107d3088a388a8c8a59803b45e3ccb7)
+- [ ] [<code>fix(android): windows build error</code>](https://github.com/NexaAI/nexa-sdk/commit/67999a967a6fffde07a050d308171326f2efa908)
+- [ ] [<code>feat(sdk): add Rust model manager with C FFI</code>](https://github.com/NexaAI/nexa-sdk/commit/b47956c111d1cf2c8f0be7ac5cd040cb403d6362)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>ci(sdk): enable model manager in windows-arm64 build</code>](https://github.com/NexaAI/nexa-sdk/commit/55019a76302e3593048725e5ec039ba06e8458bf)
+- [ ] [<code>test(sdk): add ignored HuggingFace live end-to-end test</code>](https://github.com/NexaAI/nexa-sdk/commit/f2f61b7410f4f017ce5eb471ee4011289a1ebba6)
+- [ ] [<code>fix(model-manager): honor pull quant hint when inferring manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/c95d1ffcfac63a5c64a687ad7869924981dc0966)
+- [ ] [<code>feat(python): model-manager integration, chat CLI, package cleanup</code>](https://github.com/NexaAI/nexa-sdk/commit/7e0410692bb7d88237844fcdc897f02f3e29e069)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci: exclude deleted files from python/cpp lint diff lists</code>](https://github.com/NexaAI/nexa-sdk/commit/653be9d198e901a1088dec638e537271c40f6004)
+- [ ] [<code>chore(dx): add Claude Code framework</code>](https://github.com/NexaAI/nexa-sdk/commit/a09047969e8823bd92adb3ae8f9828eb9a91c2b1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(aihub): Implement AI Hub model management and download functionality</code>](https://github.com/NexaAI/nexa-sdk/commit/75298c675168e444817962558f26eb60b8605c05)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>update git submodule</code>](https://github.com/NexaAI/nexa-sdk/commit/ccd447d4ff7d79cbe1548d5e3218d80aeb92b329)
+- [ ] [<code>feat: add geniex config command back for device selection</code>](https://github.com/NexaAI/nexa-sdk/commit/8f24e68898dc90caf38f069888ea4117bbe09b7b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: check in protobuf</code>](https://github.com/NexaAI/nexa-sdk/commit/a175c968c04862b6d4268dd595f77321d21bfa33)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: change from custom schema to protobuf</code>](https://github.com/NexaAI/nexa-sdk/commit/6163dce8e8f33aa10b44a8ab695ffd2a04eb39c9)
+- [ ] [<code>refactor: let cache TTL be a parameter to fetchJson()</code>](https://github.com/NexaAI/nexa-sdk/commit/c952a04a186c0d60b4ea526198c08cd2289d307f)
+- [ ] [<code>feat: pull platform.json if not exist in cache</code>](https://github.com/NexaAI/nexa-sdk/commit/5166efb17e916eb2940fa8818820f0d71c24e1a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: fully remove the --chipset argument</code>](https://github.com/NexaAI/nexa-sdk/commit/3dd3ecfef397d48e9640e5266746db8cc0e3ea1d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: trigger pickDevice() if a device has never been selected when calling pull</code>](https://github.com/NexaAI/nexa-sdk/commit/d1660e94d45efe6cbc8aee8f0b6536a1fec614a8)
+- [ ] [<code>chore: remove android as an acceptable host os</code>](https://github.com/NexaAI/nexa-sdk/commit/84e7bc7e0db33599f2751f8ea47c47c29067e7e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(sdk): add S3 upload step for packaged SDK release</code>](https://github.com/NexaAI/nexa-sdk/commit/7268f16342010b214e7e3fc0013b5046a514b7b1)
+- [ ] [<code>feat: new routing logic for AIHub</code>](https://github.com/NexaAI/nexa-sdk/commit/f6c5a247b1f607cd707df0bdf926670890b700f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: use original org name for local folder structure</code>](https://github.com/NexaAI/nexa-sdk/commit/ce167db0224d20806632532cb49ab9430366d0bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: use model id as the model name in llm model registry</code>](https://github.com/NexaAI/nexa-sdk/commit/3362f213dca0876484ce2eed578e44161fd00dc5)
+- [ ] [<code>feat(aws): implement AWS profile configuration and cleanup actions</code>](https://github.com/NexaAI/nexa-sdk/commit/5bab1630d37c556a4f0b7dae45dcf4359d3e26bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: remove HF fallback for QaiHub models</code>](https://github.com/NexaAI/nexa-sdk/commit/e6c49dc1c04dc3378d4e92c24ff962605ae9aff0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: disallow quant specification for qaihub models</code>](https://github.com/NexaAI/nexa-sdk/commit/133ef28ec40d319b6421042b9fb8ba8ecc140050)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update stale comments about HF fallback of qaihub model</code>](https://github.com/NexaAI/nexa-sdk/commit/8f4a095bbc5c8ec114441e061d931aa1e5e5c2e7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: error message for model not found</code>](https://github.com/NexaAI/nexa-sdk/commit/3ee02a108d4693a949791e720d859e8b6c1b3ca3)
+- [ ] [<code>refactor: remove schema.go and schema_test.go</code>](https://github.com/NexaAI/nexa-sdk/commit/2e8c3af61fa2b265c459d5885f4123e77dab340b)
+- [ ] [<code>enhance release workflow with SemVer validation and tag resolution</code>](https://github.com/NexaAI/nexa-sdk/commit/92a43f49ee6d6efc57f32e5dea156683b05b1a13)
+  - <sub>Tags: <code>v0.0.4-alpha.3</code></sub>
+- [ ] [<code>chore: remove the duplicate set GENIEX_QAIRT_DIR</code>](https://github.com/NexaAI/nexa-sdk/commit/a094b0d67c7e77d9e8c3516fb45d1eb48e045e59)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: allow precision to be selected for qairt models</code>](https://github.com/NexaAI/nexa-sdk/commit/c712483a5d6b59c3c657ee3596b517cb74e3bb4e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: extract common logic between the 2 StartDownload functions</code>](https://github.com/NexaAI/nexa-sdk/commit/23802d856769c9a9ba4cbc2a826b7896fee11d52)
+- [ ] [<code>ci(release): guard stable tags against overwrite, simplify S3 upload</code>](https://github.com/NexaAI/nexa-sdk/commit/1252a1b0cf67f217f64925622f3e59b6fe3b436c)
+  - <sub>Tags: <code>v0.0.4-alpha.4</code></sub>
+- [ ] [<code>chore(dx): add reshape-pr-commits skill</code>](https://github.com/NexaAI/nexa-sdk/commit/e29c3fbe3e456caabf4d00efacfd5447172f9a8c)
+- [ ] [<code>docs(build): link python bindings README</code>](https://github.com/NexaAI/nexa-sdk/commit/8095a86d93a0d10f142e796a07c246a67460d304)
+- [ ] [<code>docs(release): define bump semantics, channel meanings, and decision procedure</code>](https://github.com/NexaAI/nexa-sdk/commit/7bac2feadf4b79be95f7066f3679a1e5ba6b3131)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(dx): add CONTRIBUTING.md and consolidate contribution rules</code>](https://github.com/NexaAI/nexa-sdk/commit/342a91482f748721614865345d66644673669daa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(python): rename console script geniex -> geniex-py</code>](https://github.com/NexaAI/nexa-sdk/commit/41f84603835624654e8558fd9ae32da2955ba1f5)
+- [ ] [<code>chore: clean used code</code>](https://github.com/NexaAI/nexa-sdk/commit/6347e6584c2bfbda5ea58755318d6f61b40d1a2c)
+- [ ] [<code>chore(cli): use bazel to generate protobuf bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/0c219749dc4f0369abfcb1f38f42cc0e703c2f62)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(cli): remove aws dep</code>](https://github.com/NexaAI/nexa-sdk/commit/3b14d2ba0235408081747e384c0e6282982642d6)
+- [ ] [<code>feat(cli): add `//cli:gen` and `//cli:clean` target</code>](https://github.com/NexaAI/nexa-sdk/commit/1c88596568cf4e8868bbf5ef0bc5589cab8f98e2)
+- [ ] [<code>ci(workflows): retarget PR triggers from master to main</code>](https://github.com/NexaAI/nexa-sdk/commit/9d96a5c09d8040607e14dff9c5c804464d1c0181)
+- [ ] [<code>fix(python): drop empty pyi/py.typed globs from sdist srcs</code>](https://github.com/NexaAI/nexa-sdk/commit/b73e6b9ee995b9ed73f12067a1e812eb101e0288)
+- [ ] [<code>chore(scripts): reorg bazel scripts</code>](https://github.com/NexaAI/nexa-sdk/commit/d54f47c8f2a5a12224a8784a77fc3103e963254d)
+  - <sub>Keywords: <code>bin</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>feat(python): S3-first SDK fetch with GitHub fallback</code>](https://github.com/NexaAI/nexa-sdk/commit/d9dd263dfe68517d0615b5e88fd921cd3f954aaa)
+- [ ] [<code>fix(cli): make lint happy</code>](https://github.com/NexaAI/nexa-sdk/commit/af98443d69b189231a44a83f5b8c3b44b787f64e)
+- [ ] [<code>feat: no cache for model release assets</code>](https://github.com/NexaAI/nexa-sdk/commit/46f62d7b2210ad73b8cbd92a363b910702b61c13)
+- [ ] [<code>chore: rename noCache to skipCache</code>](https://github.com/NexaAI/nexa-sdk/commit/9c99c52f4851f87e95a3c9e6d3cff01c64347bd4)
+  - <sub>Tags: <code>v0.0.4-alpha.5</code></sub>
+- [ ] [<code>docs: improve comment</code>](https://github.com/NexaAI/nexa-sdk/commit/4ad61bedaa82c5d6038cb5e83144066bec6a7c1f)
+- [ ] [<code>feat(s3): update S3 sync command to include public-read ACL and adjust S3 base URL</code>](https://github.com/NexaAI/nexa-sdk/commit/b60e86e5edfe0070562fa0bc6fe9e12362f668fb)
+  - <sub>Tags: <code>v0.0.4-alpha.6</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: get rid of llm_model_registry and use it from geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/98cd3275479914cc76a296bf3884f4c73fa063c6)
+- [ ] [<code>feat: add an info print for unzipping</code>](https://github.com/NexaAI/nexa-sdk/commit/bf26430494cc1e1ac7009a1c33c7056c42082e03)
+- [ ] [<code>fix(cli): windows setup not uninstall old when upgrade</code>](https://github.com/NexaAI/nexa-sdk/commit/5dfa41ad0703a9d46a56a43f8893ac0fc3999a15)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>wip(cli): add linux release bazel target</code>](https://github.com/NexaAI/nexa-sdk/commit/a46a07e675ae08a8997893eace71d2fe01272af0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>chore(android): check in gradle-wrapper.jar</code>](https://github.com/NexaAI/nexa-sdk/commit/7085248f4ca7196dcfc0edeb6e6b513966a844ea)
+- [ ] [<code>feat(ci): build Android AAR in build and release workflows</code>](https://github.com/NexaAI/nexa-sdk/commit/e180b258a73b920d07c4c1defead23c4572f60cf)
+  - <sub>Tags: <code>v0.0.4-alpha.7</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(cli): simplify docker release</code>](https://github.com/NexaAI/nexa-sdk/commit/66a5d3342079ddf1b9c1fda12855a3f09a997419)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sdk): remove version so to avoid multi copy</code>](https://github.com/NexaAI/nexa-sdk/commit/87a3bd8040a335da12bc9ba405ba289b7471730c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(cli): upgrade base image to debian 13</code>](https://github.com/NexaAI/nexa-sdk/commit/3b84aef980ac0a968d7526f3f9a393ea323cb5ed)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(cli): add `ca-certificates` to docker image</code>](https://github.com/NexaAI/nexa-sdk/commit/afee943aa433359815a50b641be364746055e0fa)
+- [ ] [<code>feat(cli): add libcdsprpc and libdmabufheap</code>](https://github.com/NexaAI/nexa-sdk/commit/ca67f0273aab008186c1f2316609f3dab2fa9354)
+- [ ] [<code>fix(cli): missing bundle ca</code>](https://github.com/NexaAI/nexa-sdk/commit/ca1c535086cab5fd1992a8d6a31c900a104e96ae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(cli): use `QC_LINUX` on iot device</code>](https://github.com/NexaAI/nexa-sdk/commit/153309c73245f7c45e3a869d10b824de073edcdd)
+- [ ] [<code>ci(sdk): seed ccache on main push and fix max-size export (#233)</code>](https://github.com/NexaAI/nexa-sdk/commit/bcaa291d9697d0445ea762c7ee81d27870975b36)
+- [ ] [<code>fix(ci): scope lint push-event diff and reformat registry header (#234)</code>](https://github.com/NexaAI/nexa-sdk/commit/5d92704f71d0b3ae80d171cf9c63e2f2ccb80811)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: rewrite README and tighten docs/* for information density</code>](https://github.com/NexaAI/nexa-sdk/commit/0c2379c679b2c2f287b167963cf0af646d279715)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: rewrite README and tighten docs/* for information density (#236)</code>](https://github.com/NexaAI/nexa-sdk/commit/f84b8938975fd20fa0e9cedb2aaebc2dd1aadf80)
+- [ ] [<code>fix(cli): remove ffmpeg and sox in docker</code>](https://github.com/NexaAI/nexa-sdk/commit/14f6f9c42f3f316c41d9a3a1cdf0d5c8414be09a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): add missing libatomic1</code>](https://github.com/NexaAI/nexa-sdk/commit/ddfe3af22c72cd00a1e76ffa9cddec3b51744cf6)
+- [ ] [<code>feat(ci): publish linux-arm64 Docker image to GHCR</code>](https://github.com/NexaAI/nexa-sdk/commit/c8ecc1bb9634ee0dc8a64842ec5a7f5e91854a27)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): enable LFS pull in build-docker checkout</code>](https://github.com/NexaAI/nexa-sdk/commit/9c9c2bf319181688417c93c02145a60d9b7144ea)
+- [ ] [<code>Merge pull request #225 from qcom-ai-hub/feat/linux-docker-cicd</code>](https://github.com/NexaAI/nexa-sdk/commit/dd58f4c78e3df230907e843e8d7e0ea0f4df9348)
+  - <sub>Tags: <code>v0.1.0-beta.1</code></sub>
+- [ ] [<code>chore(ci): flatten scripts dir and rename workflows</code>](https://github.com/NexaAI/nexa-sdk/commit/e9713458c32bf3b0343f64a85cbc150f291d63cc)
+- [ ] [<code>feat(ci): extract changed-files action, slim lint, add rustfmt</code>](https://github.com/NexaAI/nexa-sdk/commit/50496698f9109f2a1223b0b68ccb2de52a07d85d)
+- [ ] [<code>feat(ci): add Bazel disk cache for CLI builds</code>](https://github.com/NexaAI/nexa-sdk/commit/b557c73fd006763a900960b9e45bcac79116bc7d)
+- [ ] [<code>feat(ci): add test.yml and _sign-windows.yml stubs</code>](https://github.com/NexaAI/nexa-sdk/commit/b11f76878c507e62445c605b9490ad8fc70a9931)
+- [ ] [<code>refactor(ci): split release.yml into parallel publish reusables</code>](https://github.com/NexaAI/nexa-sdk/commit/40bdf1c5c3ebe8693ecd13efa2da65e0e58eec2f)
+- [ ] [<code>chore(ci): unify artifact naming</code>](https://github.com/NexaAI/nexa-sdk/commit/6bfd9cf74eca2feab0352328e390946c5569177a)
+- [ ] [<code>chore: silence stale CI warnings (git init hint, MANIFEST globs)</code>](https://github.com/NexaAI/nexa-sdk/commit/ada6bce09285fa56f86ca1af3e3d3b15fa9b1f39)
+- [ ] [<code>chore(ci): remove ci.yml (superseded by pr-check.yml workflow_dispatch)</code>](https://github.com/NexaAI/nexa-sdk/commit/d04d870a23b30b90cbfead7bf6d21c0c01174a96)
+- [ ] [<code>refactor(ci): move build matrix into reusables, scope sign-windows deps</code>](https://github.com/NexaAI/nexa-sdk/commit/aacc9ccdd85d847da4eb33c0049a15d51fdf4b0c)
+- [ ] [<code>chore(ci): upgrade all github-owned actions to their Node 24 majors</code>](https://github.com/NexaAI/nexa-sdk/commit/b242f9e646b0531b363102ebfb9be72918f1b50c)
+- [ ] [<code>refactor(ci): make lint a reusable, skip builds on draft PRs</code>](https://github.com/NexaAI/nexa-sdk/commit/b1c8d971b499273a7a74cee7536c52fe9cc3e630)
+- [ ] [<code>chore(ci): strip noisy comments from workflows</code>](https://github.com/NexaAI/nexa-sdk/commit/6565a4d5c5ae2a6fe985aa2a14b609ba3b7bc214)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>perf(ci): shallow-clone build-sdk and build-python-sdist</code>](https://github.com/NexaAI/nexa-sdk/commit/b7151e3aebc763d90c1ea4b753339c48c8e5b352)
+  - <sub>Tags: <code>v0.1.1-alpha.1</code></sub>
+- [ ] [<code>refactor(ci): extract package-release job, run publish-github-release and publish-s3 in parallel</code>](https://github.com/NexaAI/nexa-sdk/commit/d4cf49408307a85d659bb7bc1cdc75471e22bb72)
+  - <sub>Tags: <code>v0.1.1-alpha.2</code></sub>
+- [ ] [<code>refactor(ci): inline single-use reusables into release.yml</code>](https://github.com/NexaAI/nexa-sdk/commit/1251b53552c503d06aab04df9fbf51dbe88771d4)
+  - <sub>Tags: <code>v0.1.1-alpha.3</code></sub>
+- [ ] [<code>perf(ci): skip Bazel disk cache on Windows CLI build</code>](https://github.com/NexaAI/nexa-sdk/commit/76511ff424d50be9567409e8ef4a5d302def3688)
+- [ ] [<code>Merge pull request #235 from qcom-ai-hub/feat/cicd-refactor</code>](https://github.com/NexaAI/nexa-sdk/commit/1000c27b34005c64bf7e4aec1ab0e3fc53680873)
+  - <sub>Tags: <code>v0.1.1-rc.1</code></sub>
+- [ ] [<code>docs(docs): replace Quick Start with per-platform Install section in README</code>](https://github.com/NexaAI/nexa-sdk/commit/0bef1a8d453084f42bbcd7ad88cc78434cce7cb4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(docs): add docker serve/run examples to README (#239)</code>](https://github.com/NexaAI/nexa-sdk/commit/bb29b21c17d6078556d478224f21d76b7a0d7bbe)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: remove qairt models from vlm tests</code>](https://github.com/NexaAI/nexa-sdk/commit/210814acbdb39f5acb9c8034bfcc020ef6b0dca8)
+- [ ] [<code>refactor: get rid of vlm model registry and use it from geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/d11bd65bc6c50b94226b35820da06651dcac94c2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: support vlm from geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/52d48f440d5a012fcdc07c0b9fb4d3a863eca5e4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: use proper incremental message extraction in vlm of qairt plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/fd52306152f2f79230b5b83e6a95b8bc64c4ae81)
+- [ ] [<code>chore: update hash of geniex-qairt to use public tokenizer.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/55229179dceaeb0377c497113fb557135bab6169)
+- [ ] [<code>docs(build): add Linux SDK cross-compile instructions</code>](https://github.com/NexaAI/nexa-sdk/commit/bdb57190452554bb2847698093f7da4a5c323a6a)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>feat: WIP - added maven upload workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/987119c890e67d45e9edcfa40f8b0379c92b95f8)
+- [ ] [<code>fix: temp fix the build pattern</code>](https://github.com/NexaAI/nexa-sdk/commit/8035a16645e1e11e6a34a17abe979800e6a4ee96)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat: verified aar upload pipeline can work</code>](https://github.com/NexaAI/nexa-sdk/commit/406426f069f2ef460392beff56a9ceeacd547a58)
+- [ ] [<code>fix: fixed regression linux arm64 issue</code>](https://github.com/NexaAI/nexa-sdk/commit/b68fb7da227400e79e5edd4ed5386db24751a48f)
+- [ ] [<code>chore: removed error log</code>](https://github.com/NexaAI/nexa-sdk/commit/65284365955d3d952f98dbcd1c73332030d76e31)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: fixed the regression proble</code>](https://github.com/NexaAI/nexa-sdk/commit/9255bb5fdbc2ea7b8d1e4a2b8b79309470ffcee9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Refactor and update QAirT plugin and XTL library</code>](https://github.com/NexaAI/nexa-sdk/commit/f8da4e032d30fbecf99ed48dddba51fdd8ff92c3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>correct clang formatting</code>](https://github.com/NexaAI/nexa-sdk/commit/4a0e17f1c7a1157af489d77432f8d035f3ca4551)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(sdk): revert accidental clang-format on plugin CMakeLists</code>](https://github.com/NexaAI/nexa-sdk/commit/36c59f80b1714bb28accf36324b367aa4cdf7b02)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>update DefaultAIHubVersion</code>](https://github.com/NexaAI/nexa-sdk/commit/e7a894a42b180447c53a30f0e6f107dceaf8d4bd)
+- [ ] [<code>update notes path</code>](https://github.com/NexaAI/nexa-sdk/commit/999fe1ae42183bcd51b09c03bae672adafbe8598)
+- [ ] [<code>checkin documentation</code>](https://github.com/NexaAI/nexa-sdk/commit/03fda392fba5858c7b9b2dbecb137892bc4838b4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>update readme</code>](https://github.com/NexaAI/nexa-sdk/commit/8bd5f2f77298b3edd8b246d81076908bbacab14f)
+- [ ] [<code>remove videos</code>](https://github.com/NexaAI/nexa-sdk/commit/1ad15022650d3cf910be9bcb3834560ca0070382)
+- [ ] [<code>remove irrelevant contents</code>](https://github.com/NexaAI/nexa-sdk/commit/8aa3b4ed005f0878944606fdf8da3e635160e770)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/0deebe99ae1963e91dbc233ac88e63fcb4a50771)
+- [ ] [<code>update and remove non qualcomm related docs</code>](https://github.com/NexaAI/nexa-sdk/commit/598dda76a39b7e9dcde5efaf919445745d9257e1)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Merge pull request #255 from qcom-ai-hub/zack/dev/dogfood</code>](https://github.com/NexaAI/nexa-sdk/commit/d33091328bc7ce2a9e7b01caa25237ca91b4793b)
+  - <sub>Tags: <code>v0.1.2</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/06ed9f8eb98ad25f25a797522ac004a2033a8b95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/39a161132c08ad2bf0cac4cc0b36227f93a58cc2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update llama.cpp links</code>](https://github.com/NexaAI/nexa-sdk/commit/3cb995d1a06898d26227f4b4d38a2a88602318a6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>wip</code>](https://github.com/NexaAI/nexa-sdk/commit/72361f29c75f9c7afb7e7f8d4c4d73b205169dd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/b70ccb9cbeb4fcd9846fbc40d1fd02d2993860c9)
+- [ ] [<code>trim irrelevant python code</code>](https://github.com/NexaAI/nexa-sdk/commit/7ca7f77cde5cadd163304709abcd7f56e796ee8b)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/4a6b5da1f5824a14af7fda72d49326496d98f455)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/3d59c18dbfb5c1c9ddb76800d3a98734f3b886e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wip</code>](https://github.com/NexaAI/nexa-sdk/commit/3f9d3ed7ac27eb47348f573f7bdffe92777f8481)
+- [ ] [<code>update python tutorials</code>](https://github.com/NexaAI/nexa-sdk/commit/4fce6ef63b0ca641ee911c5aaa304a60c2d5973f)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>remove android and docker from left side bar</code>](https://github.com/NexaAI/nexa-sdk/commit/f7a940b65f7381a076d2be12dc7229a53e788073)
+- [ ] [<code>update docs with correct commands</code>](https://github.com/NexaAI/nexa-sdk/commit/ff0179810bc815dad69766a9392d3a9e7f70d1d4)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>add workflow to publish docs</code>](https://github.com/NexaAI/nexa-sdk/commit/bab9fc378a8816c8590e00ed5ed958806422f7d1)
+- [ ] [<code>update npu docs</code>](https://github.com/NexaAI/nexa-sdk/commit/1dbf9c94cc25a9bd652e3cdc9ec4b87e9905f39a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add support for CN</code>](https://github.com/NexaAI/nexa-sdk/commit/613e769cf7a53f01572b26c873672f41487a65f7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>enable release even when there is failure</code>](https://github.com/NexaAI/nexa-sdk/commit/8a053a84343c3f14cbc6a1e7447d7e63a1ec92c7)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/f906ef653e671024ea04b4844bc1422d026cc6c9)
+- [ ] [<code>explain supported devices</code>](https://github.com/NexaAI/nexa-sdk/commit/2d3fdd864835b25dd8a70cf6425ab82c62718fc5)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/6234bff4b98ac94adc1a7ca677535becc4a3d801)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>trim to use windows only</code>](https://github.com/NexaAI/nexa-sdk/commit/279c22bcf3b104a5afbc51f9f10b0c84e7cf13b8)
+- [ ] [<code>update windows setup to run geniex</code>](https://github.com/NexaAI/nexa-sdk/commit/4c2095a3ee3de9f3f3b35170002cf3290ab163bb)
+- [ ] [<code>add python init script</code>](https://github.com/NexaAI/nexa-sdk/commit/9fafe396f99c51cd137ab25c938b648b620c9dba)
+- [ ] [<code>update with deployment solution</code>](https://github.com/NexaAI/nexa-sdk/commit/03a98465a62048db842b59563be17b778a4bc6d6)
+- [ ] [<code>update docs link</code>](https://github.com/NexaAI/nexa-sdk/commit/7eccb44e568ae9ae8178548c675e5c3c4cd290ab)
+- [ ] [<code>fix(vlm): resolve vision encoder path and improve LLM shard handling</code>](https://github.com/NexaAI/nexa-sdk/commit/26ee5ff0062de60acd840ba70dca8cf23e08990c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(vlm): add missing newline at end of file in generate function</code>](https://github.com/NexaAI/nexa-sdk/commit/29e19782e1de8ba7ea9136403789ec2ebcb06c88)
+- [ ] [<code>add device parameter</code>](https://github.com/NexaAI/nexa-sdk/commit/d7aaee3232c0064541ca92896779b29f5f6a6f05)
+- [ ] [<code>allow recreate release if overlaps</code>](https://github.com/NexaAI/nexa-sdk/commit/358e1a459a83de51994948e0af911ff1d87b3840)
+- [ ] [<code>docs: fix incorrect examples</code>](https://github.com/NexaAI/nexa-sdk/commit/64f9d1f8a815cec6665e1e7f1ca00abaee5fcc52)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #272 from qcom-ai-hub/zack/dev/dogfood</code>](https://github.com/NexaAI/nexa-sdk/commit/4d76cb58a1beb77f0fc26d99ef552b3d321e4807)
+  - <sub>Tags: <code>v0.1.2-rc.1</code></sub>
+- [ ] [<code>use git tag for all release</code>](https://github.com/NexaAI/nexa-sdk/commit/236525e5a65b6ea5343c7ec60d0b89c525e63e6c)
+- [ ] [<code>enable gpu for llama.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/4c1a73177b394fda677896f3682527023d223202)
+- [ ] [<code>enable pass ngl to control number of layers on npu/gpu</code>](https://github.com/NexaAI/nexa-sdk/commit/3f4fcf45300dcb1ca681515ef9e21cb9c13abce7)
+- [ ] [<code>Merge pull request #274 from qcom-ai-hub/zack/dev/fix</code>](https://github.com/NexaAI/nexa-sdk/commit/5f55bcfd0d108465387e8fb19338797639f83cb3)
+  - <sub>Tags: <code>v0.1.2-rc.2</code></sub>
+- [ ] [<code>chore: udpate claude.md and skills mds based on recent changes</code>](https://github.com/NexaAI/nexa-sdk/commit/1f13cd87eeefe9d95e8ba9c4085af7aaaa260dca)
+- [ ] [<code>chore: update other files due to file structure changes</code>](https://github.com/NexaAI/nexa-sdk/commit/87ac3aeb47f5eb4e34e0e96e9442fc7a1d3699a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: warn user if qairt cpu/gpu</code>](https://github.com/NexaAI/nexa-sdk/commit/7aa9ceb18749132900dab2a173e6e0179b09c88b)
+- [ ] [<code>docs: move model manager from quickstart to api-reference</code>](https://github.com/NexaAI/nexa-sdk/commit/85eff1db53ce531fb9a41fa1ebeb68eb6bda4272)
+- [ ] [<code>fix(qairt): update embedding path handling in create_impl functions</code>](https://github.com/NexaAI/nexa-sdk/commit/a292b521d96cc2dddbc03372a0f21e1e02f1609f)
+- [ ] [<code>docs: add extra-index-url to pip install</code>](https://github.com/NexaAI/nexa-sdk/commit/3979589ba78d68fbca5f511da8aab4ae01a8c39a)
+- [ ] [<code>chore: make jupyter notebook work :)</code>](https://github.com/NexaAI/nexa-sdk/commit/a742d57e777d81c43e58c50db8566b01ebdfb25b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: fixed llama.cpp inference does not use npu regression issue caused by device id feature</code>](https://github.com/NexaAI/nexa-sdk/commit/6c0d5ecc482e7cb7945c49b2c2af32eb59e4e6eb)
+- [ ] [<code>fix: fixed the ci issue</code>](https://github.com/NexaAI/nexa-sdk/commit/ecd9467da155297d9ddb751adefbe9d6e104d5cb)
+- [ ] [<code>update --extra-index-url</code>](https://github.com/NexaAI/nexa-sdk/commit/a442578fd60285603621e3fa759c7fac38c76f0a)
+- [ ] [<code>merge from main</code>](https://github.com/NexaAI/nexa-sdk/commit/939c36632f760b8ae0cb15bff54c2b2884b32615)
+- [ ] [<code>fix(cmake): update relaxed-FP flags handling in arm64-windows-llvm and llama_cpp CMakeLists</code>](https://github.com/NexaAI/nexa-sdk/commit/141c2ac7239fa8709483d0b9d97910cc0aba9a45)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>update code</code>](https://github.com/NexaAI/nexa-sdk/commit/0d935df201cbd3221e904114dfa613e1c53a9adb)
+- [ ] [<code>Merge pull request #282 from qcom-ai-hub/zack/dev/fix</code>](https://github.com/NexaAI/nexa-sdk/commit/f263853bb457d8a917b5152227ed834d25f73999)
+  - <sub>Tags: <code>v0.1.2-rc.3</code></sub>
+- [ ] [<code>feat: added hybrid mode for device changing, and make the device switch logics into the bridge instead of downstream</code>](https://github.com/NexaAI/nexa-sdk/commit/930aac8f644ad097c14efffb20bdb92ff5e0aec1)
+- [ ] [<code>update comment</code>](https://github.com/NexaAI/nexa-sdk/commit/36e7fb7c54688e50cb07354ac32895303c8bbfe4)
+- [ ] [<code>fix: fixed formatting</code>](https://github.com/NexaAI/nexa-sdk/commit/ab05be55a6985c77096835502ed322229923f11d)
+- [ ] [<code>feat(qairt): add default system prompt handling for first turn in QairtLlm and QairtVlm</code>](https://github.com/NexaAI/nexa-sdk/commit/d91ba27bbf27d985d522a0a9898920be93ec09c2)
+- [ ] [<code>code format</code>](https://github.com/NexaAI/nexa-sdk/commit/9d6e60f51f733c07408222e63f7c85453a6b3160)
+  - <sub>Tags: <code>v0.1.2-rc.4</code></sub>
+- [ ] [<code>update pip install commands</code>](https://github.com/NexaAI/nexa-sdk/commit/959905ba71290736e96d153524830f769f3cd197)
+- [ ] [<code>Merge remote-tracking branch 'origin' into zack/dev/dogfood</code>](https://github.com/NexaAI/nexa-sdk/commit/3a2d3f97e418469b79f72e643548b7e474d657a5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/875388b12baca1bfbbfe6ef26465ea4e3aa28609)
+- [ ] [<code>update download paths</code>](https://github.com/NexaAI/nexa-sdk/commit/32bd9017367c409294d29cf40ec9881bf22500c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update notebook and download path</code>](https://github.com/NexaAI/nexa-sdk/commit/9283ecbf5f61008ae4f7ddbfff5f53c372f84bbc)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/7ad7d0b02b32aae57e81ae76a49bcbd81a5e8df6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>improve documentation</code>](https://github.com/NexaAI/nexa-sdk/commit/958a566fad350424ea5bf6ac304287e741dad90c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve docs</code>](https://github.com/NexaAI/nexa-sdk/commit/4d253f6f6aa5e8ba359c2dcec641309ca6a7810a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>improve docs</code>](https://github.com/NexaAI/nexa-sdk/commit/6a27c9a6ab123b94b27e31f5e8c58a001687ef9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix docs</code>](https://github.com/NexaAI/nexa-sdk/commit/6297eb3b764f2933f667c27b4f1eeeda749f6f06)
+- [ ] [<code>update notebook</code>](https://github.com/NexaAI/nexa-sdk/commit/65b00eb5127237b08affe18c71f63b3258d6a231)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor: move shared device logics into C sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/5dad79b71f0f7abe3709beee678346254f302142)
+- [ ] [<code>update notebook</code>](https://github.com/NexaAI/nexa-sdk/commit/9d68d94a146c37fbf75115c63412e0c5787c445a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: fixed c formatting</code>](https://github.com/NexaAI/nexa-sdk/commit/456a8466577a4004c2d35c44f0f5d9e6dc924a4e)
+- [ ] [<code>fix: updated run.md due to new device logic</code>](https://github.com/NexaAI/nexa-sdk/commit/3312f6b5fc52e595aaefa5d38a9a46557acb57e4)
+- [ ] [<code>update notebook</code>](https://github.com/NexaAI/nexa-sdk/commit/9bd17a5bdf302504a6f5795c82599d928a54d2e1)
+- [ ] [<code>chore(sdk): add reqwest/tokio/async-trait/wiremock deps</code>](https://github.com/NexaAI/nexa-sdk/commit/b929b5dab3fad2d6fb1b4bf5080d6570162978ed)
+- [ ] [<code>feat(sdk): add chunk planner + progress bitmap</code>](https://github.com/NexaAI/nexa-sdk/commit/901eb916d8d9bab5b8942e78b06fe62d9f4c8b77)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>docs(server): align Swagger spec with /v1/chat/completions handler</code>](https://github.com/NexaAI/nexa-sdk/commit/a1247e13c9d99e4ce4cb1e9a749c0d71678f5ab7)
+- [ ] [<code>feat(sdk): add HttpTransport trait + ReqwestTransport</code>](https://github.com/NexaAI/nexa-sdk/commit/af16cc9d1472e132a8df6d0226c84f617ef3b768)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>feat(sdk): add HubMetadata trait + HfMetadata</code>](https://github.com/NexaAI/nexa-sdk/commit/ee7060622ab9c72fd266c40733ed82e2aa03c898)
+- [ ] [<code>feat(sdk): add concurrent + chunked download engine</code>](https://github.com/NexaAI/nexa-sdk/commit/44d12dfdb01b7ad3491b852cc6054b3f23462429)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(sdk): align llama.cpp llm/vlm default params</code>](https://github.com/NexaAI/nexa-sdk/commit/049a2f9b072db5ee30e675e671814d7d61453858)
+- [ ] [<code>refactor(sdk): port HfHub to new engine, drop hf-hub dep</code>](https://github.com/NexaAI/nexa-sdk/commit/6dc3cb94b711adf97b195cfb07c70c101aa40364)
+- [ ] [<code>chore(release): remove empty docker.bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/c2780484a59408d440fc76a8136e4e8558e2ce13)
+- [ ] [<code>feat(sdk): chunk-granular resume in pull orchestrator</code>](https://github.com/NexaAI/nexa-sdk/commit/3b1b327c11321f9616f0944a8aa79674363d36b2)
+- [ ] [<code>test(sdk): end-to-end pull resume after mid-download failure</code>](https://github.com/NexaAI/nexa-sdk/commit/71ccc7d3de7cd4cb18c6e557cf054f9336d7435b)
+- [ ] [<code>fix(sdk): wrap FFI CCallback in Arc for Send+Sync capture</code>](https://github.com/NexaAI/nexa-sdk/commit/bdd34c0fb6abd6907c6ff6374dec813562a30b95)
+- [ ] [<code>style(sdk): cargo fmt</code>](https://github.com/NexaAI/nexa-sdk/commit/9898bf1e708cde6032ca8cf057c383fc170f9b34)
+- [ ] [<code>chore(sdk): add bench_pull example for ad-hoc download timing</code>](https://github.com/NexaAI/nexa-sdk/commit/c5f393ed2a9b30f753da394c6717db6fac34d719)
+- [ ] [<code>refactor(sdk): runtime log-level filtering via GENIEX_LOG</code>](https://github.com/NexaAI/nexa-sdk/commit/9c62f748cea56ef4145e24b5e839041c6907b908)
+- [ ] [<code>refactor(go): bridge SDK log level via SetLogLevel, always-on bridge</code>](https://github.com/NexaAI/nexa-sdk/commit/c0a3ef6c7580b89a7b07f2378ae0ba0631a3723b)
+- [ ] [<code>refactor(python): route SDK logs to stdlib logging, add set_log_level</code>](https://github.com/NexaAI/nexa-sdk/commit/b8d989fc2014ceb094d9674e64d8581166930d42)
+- [ ] [<code>refactor(android): bridge SDK logs to logcat, add setLogLevel Kotlin API</code>](https://github.com/NexaAI/nexa-sdk/commit/9d354b6d0e63ed7afa4ad8b0026f48df115395c2)
+- [ ] [<code>docs: document unified GENIEX_LOG across CLI, SDK, and bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/a17be625d43995b14d172633078e6d76c9473e05)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(sdk): bump rustls-webpki to 0.103.13 (GHSA-82j2-j2ch-gfr8)</code>](https://github.com/NexaAI/nexa-sdk/commit/efeb377cf3adbbed99a8f4c69be341f14255c52b)
+- [ ] [<code>chore(cli): bump golang.org/x/crypto, x/image (and sonic) for Dependabot</code>](https://github.com/NexaAI/nexa-sdk/commit/f9e0217b8f425595bc4d04c75a272e4136c6d2fe)
+- [ ] [<code>chore(build): bump Bazel go_sdk to 1.25.9 for x/image and x/crypto bumps</code>](https://github.com/NexaAI/nexa-sdk/commit/c75e63874406533bffca8ed74641eba91079ec38)
+- [ ] [<code>chore(build): regenerate MODULE.bazel.lock for go_sdk 1.25.9</code>](https://github.com/NexaAI/nexa-sdk/commit/065d6ec3f4de8219dbcbfd0280ed4f0f730888e2)
+- [ ] [<code>fix(sdk): include <thread> in llama_cpp vlm.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/681312c2cf8bebb6e11598d8a3190c9f86fc8627)
+- [ ] [<code>ci(release): rename cli-installer to cli-setup and publish to S3</code>](https://github.com/NexaAI/nexa-sdk/commit/f1ff91d799d1ff8e90ba7145faa587787601baad)
+- [ ] [<code>docs: document geniex-cli.exe stable download URL</code>](https://github.com/NexaAI/nexa-sdk/commit/f2977e419dbd42d39855dcb3229d5803d2d08a41)
+  - <sub>Tags: <code>v0.1.2-alpha.1</code></sub>
+- [ ] [<code>Merge pull request #321 from qcom-ai-hub/ci/publish-windows-cli-s3</code>](https://github.com/NexaAI/nexa-sdk/commit/878b9fc6cc2155bfd8abf58ca6315430fae2d41d)
+  - <sub>Tags: <code>v0.1.2-rc.5</code></sub>
+- [ ] [<code>ci(release): allow stable rerun when existing release has no assets</code>](https://github.com/NexaAI/nexa-sdk/commit/4999dab1032880a414dfa539d89f417d3272876e)
+- [ ] [<code>Merge pull request #323 from qcom-ai-hub/ci/allow-stable-rerun-when-draft-or-empty</code>](https://github.com/NexaAI/nexa-sdk/commit/5b19cc0a84cee2cc15cb350890272e5d54a3ebed)
+  - <sub>Tags: <code>untagged-0ec4024212c07721bbf9</code> <code>v0.1.4</code></sub>
+- [ ] [<code>docs(server): add VLM Swagger UI example and align CN/EN</code>](https://github.com/NexaAI/nexa-sdk/commit/20f7eb9ab5be95eafd2b3054aeecbd74ca4ccfd6)
+- [ ] [<code>docs(server): drop remote URL and base64 image_url options</code>](https://github.com/NexaAI/nexa-sdk/commit/ad669536ee3b1a3ef70e1f4513abcbc77bd92923)
+- [ ] [<code>docs(server): update curl-4.png image file</code>](https://github.com/NexaAI/nexa-sdk/commit/b71b1ad0d6fb75da441823815cea38af8b0c5c57)
+- [ ] [<code>docs(examples): update image file references from demo.jpeg to demo.jpg</code>](https://github.com/NexaAI/nexa-sdk/commit/47aad7e4a61acc7e1f5c0c3ba63be2f50c7566cb)
+- [ ] [<code>docs: update instruction for SSL error during pip install</code>](https://github.com/NexaAI/nexa-sdk/commit/0c59ea942f106c9786d82c5ca9a723acbad53f04)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/02ea2e61b9c6527e093f0acc60c4e4aaea18d232)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/26f1a37133e50d87045cb4c279c437ae0f5f2cc0)
+- [ ] [<code>docs: fix version number in python docs</code>](https://github.com/NexaAI/nexa-sdk/commit/21b00029362c07df6d11b3dfc704bfb9a9673fc3)
+- [ ] [<code>fix(cli): clarify model-not-found download message</code>](https://github.com/NexaAI/nexa-sdk/commit/523fed686cde6f3fb5e250923f209fb57fefbe36)
+- [ ] [<code>chore(build): remove empty favicon.ico asset</code>](https://github.com/NexaAI/nexa-sdk/commit/1978f06b4e6ea3db58c0c849ee268035b2464079)
+- [ ] [<code>fix(cli): accept qai-hub-models org and case-insensitive match</code>](https://github.com/NexaAI/nexa-sdk/commit/0eaf1c57d019baa50c88a15d7a3f922aa327ecf5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): replace --enable-think with --no-think flag</code>](https://github.com/NexaAI/nexa-sdk/commit/5f540a3ce937aa76a1ba54508f286b42760d0105)
+- [ ] [<code>fix(cli): drop exclamation marks from model success messages</code>](https://github.com/NexaAI/nexa-sdk/commit/e34ada665b7e2c0bb77e6738ecfcbb63ba6b48d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): hide --test-mode flag</code>](https://github.com/NexaAI/nexa-sdk/commit/ba8521703eb8a228404b86a6bf65022af38ef3a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(build): bump go to 1.25.9</code>](https://github.com/NexaAI/nexa-sdk/commit/70681fa102b465f7374cce2c80407a2079ae0611)
+- [ ] [<code>fix(go): set cgo CFLAGS include path for geniex.h</code>](https://github.com/NexaAI/nexa-sdk/commit/e266acf731213266b4a21c44fccc77bb4035750f)
+- [ ] [<code>fix(sdk): enable jinja for VLM chat template</code>](https://github.com/NexaAI/nexa-sdk/commit/96cf2bd966df50c0c6ab5cfc4f123ce448986b05)
+- [ ] [<code>feat(sdk): add AI Hub S3 hub to model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/3b48f4f1cb6bd2cede3e76f95038116d75229710)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>feat(sdk): auto-detect chipset on Windows-on-Snapdragon hosts</code>](https://github.com/NexaAI/nexa-sdk/commit/ebb905b02b031e76311a5d9552926aed5b28af0e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(sdk): add live S3 auto-detect e2e for Snapdragon hosts</code>](https://github.com/NexaAI/nexa-sdk/commit/5280d7d58de05711bc02fa8b40b41a4e98067b1b)
+- [ ] [<code>feat(python): expose S3 hub with chipset and display_name</code>](https://github.com/NexaAI/nexa-sdk/commit/9d8072f30df024a130fa6245c02a1f1ee368db56)
+- [ ] [<code>style(sdk): cargo fmt model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/13ff6a22253e2f3e1309b7f37402eb5be2cff3af)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(build): order inf2cat after HTP skel install to fix parallel race</code>](https://github.com/NexaAI/nexa-sdk/commit/d4232886cb15e02dc0bfd30c0eab9ba7242aafbc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(server): redirect root to /docs/ui/ so favicon resolves</code>](https://github.com/NexaAI/nexa-sdk/commit/f4cf525f88ef74676cad67d1deb68da61953d9d8)
+- [ ] [<code>perf(sdk): tighten hot loops and normalize logging</code>](https://github.com/NexaAI/nexa-sdk/commit/f236e6ea12271ce0bc8166af2095054ccdf30a78)
+- [ ] [<code>feat(sdk): split Error catch-alls into structured variants</code>](https://github.com/NexaAI/nexa-sdk/commit/8ee10893430ec8e8736c8d5ae729e650c42de1d3)
+- [ ] [<code>refactor(sdk): make model-manager async-first</code>](https://github.com/NexaAI/nexa-sdk/commit/c66d4b9d50eba161de660f9ba949659471c8232a)
+- [ ] [<code>feat(sdk): add struct_size ABI gate to geniex_ModelPullInput</code>](https://github.com/NexaAI/nexa-sdk/commit/ba3f41698cb2118405b5b8c140a5273f9fd0a846)
+- [ ] [<code>refactor(sdk): drop SingleFileMetadata; Engine takes transport directly</code>](https://github.com/NexaAI/nexa-sdk/commit/2314a6f8ed313b0be8496a94cd158046e61c00a4)
+- [ ] [<code>refactor(sdk): extract resume planner from pull_locked</code>](https://github.com/NexaAI/nexa-sdk/commit/acbb443c64cc10ff34ba93503265bc62fb7d61da)
+- [ ] [<code>style(sdk): cargo fmt after refactor series</code>](https://github.com/NexaAI/nexa-sdk/commit/c3375074c19af56274bb4445bad2853ad15dac5f)
+- [ ] [<code>fix(sdk): make bench_pull example async-aware</code>](https://github.com/NexaAI/nexa-sdk/commit/449ae0f53e125a6d1059f34c26579dd225605b4a)
+- [ ] [<code>test(cli): trim benchmark matrix and point to bazel geniex path</code>](https://github.com/NexaAI/nexa-sdk/commit/eab35de76d788569f8f869175432265a32b26dee)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>style(sdk): clang-format geniex_model.h struct_size row</code>](https://github.com/NexaAI/nexa-sdk/commit/e4e079aedb38fbe98c05179f03770771dbff9d03)
+- [ ] [<code>feat(sdk): drop DeviceId + MinSDKVersion from geniex.json manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/9b4f5fb2c63e59534176e9e39c974adafca5520d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(sdk): collapse model-manager hub+engine into ModelSource+Executor</code>](https://github.com/NexaAI/nexa-sdk/commit/19654f48aeb021f66a3346c96bc6c50cf7d73922)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(sdk): prune narrating comments + unused HfSource method</code>](https://github.com/NexaAI/nexa-sdk/commit/94176192fc33f737e4d8dfd20a857160ccf1241f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(sdk): simplify model-manager internals + rename S3 → AiHub</code>](https://github.com/NexaAI/nexa-sdk/commit/b31bbdb4d7be01530648296e9711905e48576666)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(sdk): scale DEFLATE fetch progress to uncompressed size</code>](https://github.com/NexaAI/nexa-sdk/commit/19d9c82b5499dbbbd9a1a08bcafcf0988354dba5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(qairt): add error handling for context length exceeded in generate methods</code>](https://github.com/NexaAI/nexa-sdk/commit/b4cee006fdfddc8be00280352293afee12b986bb)
+- [ ] [<code>fix: incorrect download fallback in infer when downloading AIHub models</code>](https://github.com/NexaAI/nexa-sdk/commit/71b8489e708aa365ea8c06bbae515879b46bac6e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update submodule commit for geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/cf9e16cb962f650c17ed92b2e14a621d705fa221)
+- [ ] [<code>clang code format</code>](https://github.com/NexaAI/nexa-sdk/commit/8c67918739d88a8ffae026f996c4dd3baebc77fa)
+- [ ] [<code>feat(sdk): expose QAIRT runtime version in geniex version</code>](https://github.com/NexaAI/nexa-sdk/commit/55c9179149f5cc1b0c688afc401e09d132a20684)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(sdk): tidy version.cpp include order and namespace comment</code>](https://github.com/NexaAI/nexa-sdk/commit/5023ccecc791a8d4e0d1f7cfecde741700250795)
+- [ ] [<code>refactor(sdk): drop redundant 'Runtime' from QAIRT version symbol</code>](https://github.com/NexaAI/nexa-sdk/commit/a30a87e4d5ea6b269dd4e65d67e57d1b0fa23091)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(qairt): bump geniex-qairt to 2d65bf5</code>](https://github.com/NexaAI/nexa-sdk/commit/2130ef37f97acc7276982f26f28e531a765cc87e)
+- [ ] [<code>feat(python): expose --hub/--display-name/--chipset in geniex.cli</code>](https://github.com/NexaAI/nexa-sdk/commit/4f87b74a4b90eb602472271ea376e2719a823b41)
+- [ ] [<code>fix(python): resolve aihub/qairt cached models in AutoModel*.from_pretrained</code>](https://github.com/NexaAI/nexa-sdk/commit/b4c302f6b7a33e42e2b90201a535e3b933cf3877)
+- [ ] [<code>feat(sdk): auto-detect AiHub from qualcomm/* and qai-hub-models/* prefixes</code>](https://github.com/NexaAI/nexa-sdk/commit/7314f82338ba8adf8415d3acbe0619b6f8eb0ee4)
+- [ ] [<code>style(sdk): apply rustfmt to mapping.rs + pull.rs</code>](https://github.com/NexaAI/nexa-sdk/commit/be7bb89a5755201642143fd1fcf06e1d00c6db5b)
+- [ ] [<code>chore(qairt): bump geniex-qairt for idempotent sentencepiece patch</code>](https://github.com/NexaAI/nexa-sdk/commit/1986944382aaa3738b40eea86da381e6f50b9ee9)
+- [ ] [<code>fix(sdk): malloc device_ids array in qairt get_device_list</code>](https://github.com/NexaAI/nexa-sdk/commit/124006a2f0af240fb822d76c8e57ff2a26eb65a5)
+- [ ] [<code>fix(python): prefer newer of release vs dev DLL when both exist</code>](https://github.com/NexaAI/nexa-sdk/commit/f44260fe1d541fc71f3b2a7394cf5b71de42e6f6)
+- [ ] [<code>fix(python): accept short aliases in model_manager.pull and get_paths</code>](https://github.com/NexaAI/nexa-sdk/commit/c3ce4222718b901bd72dc9d74e629445e5b54254)
+- [ ] [<code>docs(python): fix broken qwen3vl alias example in README</code>](https://github.com/NexaAI/nexa-sdk/commit/0673143687f838a7c67e2ce9aae0c0bdfc141cc1)
+- [ ] [<code>fix(sdk): tolerate null optional fields in model manifest decoder</code>](https://github.com/NexaAI/nexa-sdk/commit/c5f728d72872128b4857372814ed7011e04332ef)
+- [ ] [<code>fix(sdk): retry inflight sentinel cleanup on pull success</code>](https://github.com/NexaAI/nexa-sdk/commit/e4b382971854831475927f927b1acedbf43e81cf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(cli): unify aihub model download via ModelHub interface</code>](https://github.com/NexaAI/nexa-sdk/commit/bcdee57d017f6ac647b08bdc8a583328233db1da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(cli): drop now-unused MinSDKVersion gating</code>](https://github.com/NexaAI/nexa-sdk/commit/d4711a41544e49a32ad39ac8741c273d093b04fd)
+- [ ] [<code>feat(cli): auto-detect Snapdragon chipset on Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/bd4a16b6539ab683630adf1690408b1e507a8da6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(cli): drop ChinaMainland hub gating and unused helpers</code>](https://github.com/NexaAI/nexa-sdk/commit/a69c7148117a4d234e0f5d601671c3e5af257bdb)
+- [ ] [<code>refactor(cli): simplify store/config.go</code>](https://github.com/NexaAI/nexa-sdk/commit/16b8542d819c6547529228e2e5e51d1a741d7dd4)
+- [ ] [<code>chore(cli): update pull --model-hub help and surface pull errors</code>](https://github.com/NexaAI/nexa-sdk/commit/cbede2ba7b8738441ebbb8c3a442e694c8018779)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): drop --no-config-cache flag, use global AIHubNoCache</code>](https://github.com/NexaAI/nexa-sdk/commit/c715517accde46ac1b98398a35476e6cff3dbc4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): move hub registration to root PersistentPreRun</code>](https://github.com/NexaAI/nexa-sdk/commit/5969e1c5c1d45e76fd5b99329607f0e72578ad65)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli/config): return fresh viper snapshot on each Get</code>](https://github.com/NexaAI/nexa-sdk/commit/0aca500f6c33fd5aa7d63c22e9ccbf840d7f32dc)
+- [ ] [<code>refactor(cli): default bare model names to qualcomm namespace</code>](https://github.com/NexaAI/nexa-sdk/commit/f138dda057709b3935241bfd35f8a506def13656)
+- [ ] [<code>refactor(cli): simplify config key validation</code>](https://github.com/NexaAI/nexa-sdk/commit/4088d2fc3a685e5f4aed1debfffe8980887d4592)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): show spinner while extracting AI Hub zip</code>](https://github.com/NexaAI/nexa-sdk/commit/eedf0ccc06523c6d09be20a1e8ce72ae3883b1c6)
+- [ ] [<code>fix(cli): dedupe HF token hint and accept HF_TOKEN</code>](https://github.com/NexaAI/nexa-sdk/commit/34d1cbe5f01363c2c6b06fab4e484d7a4396b3fa)
+- [ ] [<code>fix(cli): simplify HF token hint and drop inline comment</code>](https://github.com/NexaAI/nexa-sdk/commit/520e7986da24fd9a04d39ac20387e7f8a17cced8)
+- [ ] [<code>fix(cli): print HF token hint to stdout</code>](https://github.com/NexaAI/nexa-sdk/commit/5483b95151e7f446fb5aa81050fe7b3b213b08b2)
+- [ ] [<code>fix(cli): restore sox install check</code>](https://github.com/NexaAI/nexa-sdk/commit/d68607691b4ba1cfc9ca6055e555ada12ddb8048)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Merge pull request #407 from qcom-ai-hub/fix/pull-inflight-cleanup-retry</code>](https://github.com/NexaAI/nexa-sdk/commit/0bc2f223e44b954138b83a9dcb0e4dbc33f715ee)
+  - <sub>Tags: <code>v0.1.5-rc.1</code></sub>
+- [ ] [<code>feat: support reading HF token from hf cache file</code>](https://github.com/NexaAI/nexa-sdk/commit/ba176c091a3d73bc3d5f0b96f3dafd90c4c5c290)
+- [ ] [<code>feat: throw error when an non-supporting params are passed to a plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/8d8f41943a54268d56b976bc06a1e5b7477e871f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: set default ngl and nctx to 0, and resolve them right before passing to llama_cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/13ba1bfe0da3d58ee37498fc85c7d6946f327d68)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: error out when non-supported params are passed to VLM</code>](https://github.com/NexaAI/nexa-sdk/commit/7e4c79fec057f712a0cf3ec27c2e913c60df78a5)
+- [ ] [<code>feat: error out for plugin not supported arguments for geniex server</code>](https://github.com/NexaAI/nexa-sdk/commit/23abfeff324eac27a8afbe70a1b6beb5df420e27)
+- [ ] [<code>chore: reformat geniex.h</code>](https://github.com/NexaAI/nexa-sdk/commit/5e239da509113388129be3f2299ab87ee4830baa)
+- [ ] [<code>feat(qairt): add sampler configuration utility and integrate into LLM and VLM generation methods</code>](https://github.com/NexaAI/nexa-sdk/commit/d77e29b48497b74bba2fa646ee3d10b23dad41a4)
+- [ ] [<code>feat: support auto detection of llm/vlm</code>](https://github.com/NexaAI/nexa-sdk/commit/6571f1cbf7723646e93c90a418ad66045802bd0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: centralize geniex.json and models/ access</code>](https://github.com/NexaAI/nexa-sdk/commit/d01bb9f91e0418463168dbe51e36ef5f93d7e58c)
+- [ ] [<code>docs: better error message upon detection failure</code>](https://github.com/NexaAI/nexa-sdk/commit/f40fcc122d869d48b18f87be4ffd3ba4d4c795d5)
+- [ ] [<code>feat: bump up .proto and aihub version</code>](https://github.com/NexaAI/nexa-sdk/commit/05a74592ae568f362ad7c382edad1041e211d019)
+- [ ] [<code>fix: correctly parse metadata.json for qairt models (using manual parsing for now until AIHub fully transitted to proto)</code>](https://github.com/NexaAI/nexa-sdk/commit/6db1ed57c3c08892a3ce47873c471e5b53d79bde)
+- [ ] [<code>chore: remove duplicated import</code>](https://github.com/NexaAI/nexa-sdk/commit/d34a8e9d84305392406298ae04a6b5f4e46b84ac)
+- [ ] [<code>chore: update geniex-qairt hash to match main</code>](https://github.com/NexaAI/nexa-sdk/commit/f5dc84681b129d5a8f25ae0bbe5bbff75665e659)
+- [ ] [<code>update geniex-qairt submodule commit hash</code>](https://github.com/NexaAI/nexa-sdk/commit/b19f0e9a4603e0717c1cd8f99cde3f782218a10d)
+- [ ] [<code>code format</code>](https://github.com/NexaAI/nexa-sdk/commit/6fe7be4c10fc86b32c23174838bf967174cc2b9f)
+- [ ] [<code>chore: fix compile errors during rebase merge</code>](https://github.com/NexaAI/nexa-sdk/commit/876c1120c9d5c65e04f564f89cf89708c6b5211b)
+- [ ] [<code>chore: remove mmproj detection for qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/728236dc84cc110bc4c735af0c08bc7e037fd1ca)
+- [ ] [<code>feat: driver related logs in go</code>](https://github.com/NexaAI/nexa-sdk/commit/9f7ed96eaea9bf58e118c3466e30e14bb20c185e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: align with the refactored download approach</code>](https://github.com/NexaAI/nexa-sdk/commit/c9b6d91ac3794c29b595c87ca1ba11256708266b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): drop macOS support</code>](https://github.com/NexaAI/nexa-sdk/commit/7a309f100846369789e977c77f29c94d6870206b)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(cli): drop DeviceId and TokenizerFile from ModelManifest</code>](https://github.com/NexaAI/nexa-sdk/commit/09b3b7d118bb6f694e9de73b9fe218930706ce94)
+- [ ] [<code>refactor(cli): colocate compareVersion with the update command</code>](https://github.com/NexaAI/nexa-sdk/commit/01b8510aa08f656a8b1d1d7c9663acb838c1ef6e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): remove dead aiHubMetadataJSON type</code>](https://github.com/NexaAI/nexa-sdk/commit/cf0c4c19a25470a500fb85ef26a8d686e2936361)
+- [ ] [<code>test(cli): drop stale model mapping fixtures</code>](https://github.com/NexaAI/nexa-sdk/commit/64f88d3d225a2a16bd562bdbb9991982c0a086f6)
+- [ ] [<code>refactor(cli): simplify non-gguf download file selection</code>](https://github.com/NexaAI/nexa-sdk/commit/69e4ba7b6f617b703e450bc3312827969bab5bb5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(cli): group model subcommand definitions</code>](https://github.com/NexaAI/nexa-sdk/commit/826e27dd9e1567cd687d10ba2a283b0a6de41d3c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(build): publish and consume derived toolchain images (#424)</code>](https://github.com/NexaAI/nexa-sdk/commit/55bbd03e4b64b8c06136ed475062a3690e927596)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ci(sdk): cross-build Rust model-manager for android-arm64 (#423)</code>](https://github.com/NexaAI/nexa-sdk/commit/86f1bf47643de86a66940cd89613c2f467130743)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>refactor(build): make CMake presets the single source of truth</code>](https://github.com/NexaAI/nexa-sdk/commit/3b12ba2e4c52604cbd4dbbbbf659080dd65952a4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci(build): inline SDK build scripts into _build-sdk.yml</code>](https://github.com/NexaAI/nexa-sdk/commit/f3e388b9d3f51f5f407bd1d4bcb80c73c74a66a3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>chore(ci): bump docker/login-action to v4</code>](https://github.com/NexaAI/nexa-sdk/commit/cfdfd3f42277fc6b07b0334b3df3c3e0bbe3ab1b)
+- [ ] [<code>test(sdk): reflow REGISTER_TEST macros for clang-format-18</code>](https://github.com/NexaAI/nexa-sdk/commit/48ce6a2fa221c28e768c9bb9ff6087a67d79321b)
+- [ ] [<code>ci(lint): use preinstalled clang-format-18, skip apt install</code>](https://github.com/NexaAI/nexa-sdk/commit/7b2296f89045dd3930c5493a8db3958626d06c7d)
+- [ ] [<code>WIP: android download with qairt runtime debugging</code>](https://github.com/NexaAI/nexa-sdk/commit/65fa607d176d6716e21b186350d202231f63b4e9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: fixed android binding build.gradle</code>](https://github.com/NexaAI/nexa-sdk/commit/7a29fc462d1d9de11b7866a313f6e0e56a6ec910)
+- [ ] [<code>fix: fixed formatting issues</code>](https://github.com/NexaAI/nexa-sdk/commit/416a567cd501ec27aa161320b2380a8f46b81313)
+- [ ] [<code>fix(cli): drop auth on cross-host redirect and honor HTTP_PROXY in downloader</code>](https://github.com/NexaAI/nexa-sdk/commit/948b176b8dc9c8544d574c59c52e6421d91d2050)
+- [ ] [<code>fix(cli): support update check before launch against private repo</code>](https://github.com/NexaAI/nexa-sdk/commit/0c79334bd46a98f9c97cd60c8e3b141bb8b0ce4d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(build): normalize dev VERSION to valid semver</code>](https://github.com/NexaAI/nexa-sdk/commit/73e88b498148d8c1f86566436a70a35173b8d7e8)
+- [ ] [<code>refactor(cli): drop unused RunE from config/model set commands</code>](https://github.com/NexaAI/nexa-sdk/commit/78120c3a170a1d55fb69f822c9eb8f50db308722)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): expose downloader config as public fields</code>](https://github.com/NexaAI/nexa-sdk/commit/56726e6af536a0bf53751876b1c50fb8264a8f41)
+- [ ] [<code>fix(cli): download update asset from GitHub API endpoint</code>](https://github.com/NexaAI/nexa-sdk/commit/17e5f717fe5ef2e92f4a8b692ef3baad9593c1bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(build): redirect ccache to workspace for toolchain containers</code>](https://github.com/NexaAI/nexa-sdk/commit/8db8339ab7563151675c8deacd4a8a10f313a2f7)
+- [ ] [<code>fix: change error log</code>](https://github.com/NexaAI/nexa-sdk/commit/d732a21e240171e738ba050285871e0e557f7e50)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: revert error changes to just append an item in the bullet list</code>](https://github.com/NexaAI/nexa-sdk/commit/23104d7d915ce5ff6b60b79a0d5c4e552024b230)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: fixed submodule hash</code>](https://github.com/NexaAI/nexa-sdk/commit/65fff02f7d63aeba9cc2560f502057d144b7cbaf)
+- [ ] [<code>fix: fixed android qairt vlm problem</code>](https://github.com/NexaAI/nexa-sdk/commit/5a0a9fb1dbdd2d454a1840c393f1911a263ee647)
+- [ ] [<code>feat: supported more models in android demo app</code>](https://github.com/NexaAI/nexa-sdk/commit/e2e10154352ac6ee41a54a8bce144ec03d2b44c8)
+- [ ] [<code>feat: added gpt-oss support for android app</code>](https://github.com/NexaAI/nexa-sdk/commit/316d82151256e805859afaa118b08d8fd3d103e4)
+- [ ] [<code>Merge pull request #440 from qcom-ai-hub/perry/fix/android-app</code>](https://github.com/NexaAI/nexa-sdk/commit/7d7cba12ef7a90a49f3b8e23bbe9ac83096307e8)
+  - <sub>Tags: <code>v0.1.5-rc.2</code></sub>
+- [ ] [<code>alan test</code>](https://github.com/NexaAI/nexa-sdk/commit/1794a6bc988cafee4ea2f1732280a0053b2854eb)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/404c841da0df7e9d7be3440475a355b5818b763d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: update android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/abe3c158b1c55ee7003c36f329dd79d445af83fb)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore(build): add bazel cross-compile config aliases</code>](https://github.com/NexaAI/nexa-sdk/commit/e06422647f5c7370f4f414a7969d86b03e8cd0ab)
+- [ ] [<code>docs(release): inline fast-path decision for /release skill</code>](https://github.com/NexaAI/nexa-sdk/commit/2b4c9e01b7423fa236069778beff8d291b10c019)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): render dim placeholder in readline when input is empty</code>](https://github.com/NexaAI/nexa-sdk/commit/40ebc93a710c1b555cefa51a8b101fc285bd736f)
+- [ ] [<code>refactor(cli): let caller style the readline placeholder via theme</code>](https://github.com/NexaAI/nexa-sdk/commit/dfa7d7653db1710795eac2165b9d18a8dcea32f7)
+- [ ] [<code>ci: trigger pr-check on root bazel config changes</code>](https://github.com/NexaAI/nexa-sdk/commit/0c023b2aadb50747187606d3cb7e29f4ab40a079)
+- [ ] [<code>feat(sdk): route bare names and aihub/ prefix to AI Hub in model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/b61269ccaca68ece9ab027ecc533f84419aed512)
+- [ ] [<code>feat(sdk): match AI Hub models by id as well as display_name</code>](https://github.com/NexaAI/nexa-sdk/commit/a006006766fdbf360f5bca5e4c28bc1cf4c04513)
+- [ ] [<code>feat(python): pass unknown bare model names through to the SDK</code>](https://github.com/NexaAI/nexa-sdk/commit/031b444f4babd3dd4c1987a45b87bf85a9307ff3)
+- [ ] [<code>fix(python): strip qairt-unsupported ModelConfig fields</code>](https://github.com/NexaAI/nexa-sdk/commit/92db528b2d11cdcfb5c9ac24aa5f73e791484d98)
+- [ ] [<code>feat(python): export resolve_device_map public API</code>](https://github.com/NexaAI/nexa-sdk/commit/cb11dd0da2d6ebe8000770cd5bee34332ee2fce9)
+- [ ] [<code>refactor(python): drop _ffi imports from cli</code>](https://github.com/NexaAI/nexa-sdk/commit/3992164c55d55946c202ab7459bb80da2b757bfb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(python): prune private helper docstrings, keep public-API docs concise</code>](https://github.com/NexaAI/nexa-sdk/commit/25bbb0891bfadbaecb18609d6d7512ea8f1aff89)
+- [ ] [<code>test(python): add on-device pytest harness for the public API</code>](https://github.com/NexaAI/nexa-sdk/commit/c4e026375fb6f0f36f1b4a4e6f772d12c8d30123)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test(python): run device tests against the real user cache</code>](https://github.com/NexaAI/nexa-sdk/commit/25fbebebc89a3c51ca2e1f5e902a250865181ada)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>feat(python): cli chat supports VLM models</code>](https://github.com/NexaAI/nexa-sdk/commit/6f69fc11fee08226ae4300a1f737c6173a379c00)
+- [ ] [<code>feat(python): auto device_map routes QAIRT models to the qairt plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/65ac65ff0c2fac0ee0b62a17262fe34fc09a1742)
+- [ ] [<code>fix(python): force UTF-8 on cli stdout/stderr under Windows pipes</code>](https://github.com/NexaAI/nexa-sdk/commit/cebfbd43a72fce4099d343ffd63c7957a5ccc3db)
+- [ ] [<code>test(python): drop explicit device_map from tests, add cli chat qairt test</code>](https://github.com/NexaAI/nexa-sdk/commit/25e3eb1f601ccb4c2d0629b6dcf80325398c16a5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(sdk): bump qairt plugin to disable graph.cpp tree vectorization</code>](https://github.com/NexaAI/nexa-sdk/commit/342aebd740c68b02dfe99e5ec67e3bfb80e2bb60)
+- [ ] [<code>ci: trigger pr-check on third-party submodule changes</code>](https://github.com/NexaAI/nexa-sdk/commit/11990ea0e267263d8a89d08c0f129ebbc8d70765)
+- [ ] [<code>fix(python): display chat TTFT in seconds (us -> s uses 1e6, not 1000)</code>](https://github.com/NexaAI/nexa-sdk/commit/8692d36b9d0c9ac98ba860b10df7ffd6fd080534)
+- [ ] [<code>test(python): add QAIRT VLM end-to-end test</code>](https://github.com/NexaAI/nexa-sdk/commit/7de566361cdfa74b83b0066ae527cfed5decb258)
+- [ ] [<code>fix(sdk): detect LLM/VLM via config.json and AI Hub info.json</code>](https://github.com/NexaAI/nexa-sdk/commit/fab295979a604b1c952242c756c6ac43059b89fe)
+- [ ] [<code>fix(python): route cpu/gpu/hybrid aliases to llama_cpp regardless of plugin enum order</code>](https://github.com/NexaAI/nexa-sdk/commit/0e1804b441fe257186714b7c226c319935098cdf)
+- [ ] [<code>fix(python): accept Qualcomm Linux aarch64 hosts in the pytest QAIRT gate</code>](https://github.com/NexaAI/nexa-sdk/commit/27e47bf3a4ee1fc56cff6f214e3f96579159a6d3)
+- [ ] [<code>test(python): cover cpu/gpu/npu/hybrid device modes for llama.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/dda7b6f024c7ddb4f1320338d7b8fc15bfefd433)
+- [ ] [<code>feat(sdk): auto-detect ai hub chipset on linux and android</code>](https://github.com/NexaAI/nexa-sdk/commit/a290e09fd62876e9d4cbdd65d37f87627de88ee8)
+- [ ] [<code>fix(python): treat Android arm64 as a Snapdragon host in the pytest gate</code>](https://github.com/NexaAI/nexa-sdk/commit/6b47362a2318b7d90c3414801cbe83b0bcf43456)
+- [ ] [<code>fix(sdk): derive AI Hub display_name from repo when hub=AIHUB</code>](https://github.com/NexaAI/nexa-sdk/commit/d7bd0b1194e848511ff10d3695ecaf4f14433690)
+- [ ] [<code>chore(sdk): enable OpenCL on arm64-linux-snapdragon preset</code>](https://github.com/NexaAI/nexa-sdk/commit/59c3bf67def36d328f7259d41bc6dd90d9266640)
+- [ ] [<code>Merge pull request #475 from qcom-ai-hub/chore/cmake-presets-arm64-linux-opencl</code>](https://github.com/NexaAI/nexa-sdk/commit/dffb4cee945ff93f29a2ccc99dcd31e6ca66bdbb)
+  - <sub>Tags: <code>v0.1.5</code> <code>v0.1.5-rc.3</code></sub>
+- [ ] [<code>WIP - implemented patch, and hand-off to linux amd64</code>](https://github.com/NexaAI/nexa-sdk/commit/a7399426e77848fcc2e568dcf14c4f5d079ca125)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>find_package</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/a0ce71dd60da3bc2e02901f237ca3bd6eca5166c)
+- [ ] [<code>fix(android): zero QAIRT n_ctx/n_gpu_layers; drop handoff scratch files</code>](https://github.com/NexaAI/nexa-sdk/commit/5d93c3787d601475f950d32984d0abbd8e704a6a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: fixed formatting issues</code>](https://github.com/NexaAI/nexa-sdk/commit/abbd9ac3ac5b523878727fdf26c23ba6af7bc158)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(hexagon): add reacquire_sessions for 2nd llama.cpp load</code>](https://github.com/NexaAI/nexa-sdk/commit/055bc271acc7ff8e523371312a51845580e42b53)
+- [ ] [<code>fix(ci): pin sdk patch files to LF eol</code>](https://github.com/NexaAI/nexa-sdk/commit/68333cd0e5fce6c432158211015eca73c5345893)
+- [ ] [<code>fix: use RTLD_LOCAL to avoid symbol conflict  between GGML Hexagon and geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/585ee419df9f07567f449d34efc4de2df15b9381)
+- [ ] [<code>fix(cli): invert sox dependency check</code>](https://github.com/NexaAI/nexa-sdk/commit/9585d815532d06e60f51c8951362f8605069f0ea)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(python): show units in ProfileData repr</code>](https://github.com/NexaAI/nexa-sdk/commit/cc4f06a2e2fb0d0881a06296ce563db863f9df96)
+- [ ] [<code>fix(cli): apply log level before cobra dispatch to silence unknown-command error</code>](https://github.com/NexaAI/nexa-sdk/commit/274395730f4a5e3a08ff475a1ee703f569d1b830)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): consolidate NormalizeModelName in model_hub</code>](https://github.com/NexaAI/nexa-sdk/commit/fec442beeda4f8787497f41e85538ad4bc79d8b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(cli): wire model_hub HF tests into bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/23b4683c17e98c1b7f2a6a8d5c831eef95e3bf32)
+- [ ] [<code>docs(cli): align NPU Qwen model ids with AI Hub manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/abac8079900d64b00be0d025287709f53cd733ba)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(docker): bind-mount host qcom libs instead of baking lib.tar</code>](https://github.com/NexaAI/nexa-sdk/commit/373f21c01fdaa3e73a8ed8fdfb5a60787aba0271)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(sdk): accept name:quant in Store::remove</code>](https://github.com/NexaAI/nexa-sdk/commit/d1669b4533025e2acf24b5815ecb89d8b0280fb9)
+- [ ] [<code>build(toolchain): downgrade arm64 cross to gcc-13 for older libstdc++ ABI</code>](https://github.com/NexaAI/nexa-sdk/commit/be73d0b3f0b1a90065bd78c4dcdf2d56d86f9ccc)
+- [ ] [<code>fix(build): bundle libgomp.so.1 for Qualcomm Linux</code>](https://github.com/NexaAI/nexa-sdk/commit/77b4b111196ab14734d02a368c22efd32ab35745)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: pin linux toolchain image to v0.0.2</code>](https://github.com/NexaAI/nexa-sdk/commit/b6675637fbad19748c28f70e6d9833451b9c3d1f)
+- [ ] [<code>perf(cli): parallelize aihub zip extraction</code>](https://github.com/NexaAI/nexa-sdk/commit/e7da0ccaf336b4335e79a19fdb34fb71332f3744)
+- [ ] [<code>fix(sdk): make Store::remove delete only the requested quant</code>](https://github.com/NexaAI/nexa-sdk/commit/89a20c6d3cc4f36db95b4398882ba1af2b53f8db)
+- [ ] [<code>fix(python): show model download progress in library and notebooks</code>](https://github.com/NexaAI/nexa-sdk/commit/27f5d21110d0a3ba44ff6fc903127007ea0612b0)
+- [ ] [<code>chore(build): drop direct libgomp1 apt dep from linux image</code>](https://github.com/NexaAI/nexa-sdk/commit/bb49236577913013cff9197e4ce0e64441a77422)
+- [ ] [<code>style(sdk): cargo fmt Store::remove tests</code>](https://github.com/NexaAI/nexa-sdk/commit/586aab8d7ad561633a70b72fa2cc75564592435e)
+- [ ] [<code>fix(python): stop hijacking user logging config, wire bridge through _ensure_bound</code>](https://github.com/NexaAI/nexa-sdk/commit/4be3560902285334a33450502dcb74127b4ec158)
+- [ ] [<code>fix(sdk): demote startup/shutdown INFO chatter in geniex_init and friends</code>](https://github.com/NexaAI/nexa-sdk/commit/58a5eccd7c29fa7f059a39103177b2bb09460267)
+- [ ] [<code>fix(sdk): route mtmd/clip logs through geniex_log and fix ggml level mapping</code>](https://github.com/NexaAI/nexa-sdk/commit/3abbfb47dd968b09b3065e49fb07747469dd6761)
+- [ ] [<code>build(sdk): bundle libgomp on all linux builds, not just aarch64 cross</code>](https://github.com/NexaAI/nexa-sdk/commit/8eb2722aacc84f39b5a7db8c515ce49461b7046b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>docs(python): simplify Windows ARM64 onboarding notebook</code>](https://github.com/NexaAI/nexa-sdk/commit/17e6fbfa8c0ab514b7b4d3bc67ad6488b1caf2dc)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>docs(release): harden /release fast-path against stale tags and ugrep</code>](https://github.com/NexaAI/nexa-sdk/commit/4a6ef6aec256b725a22f9ebb5adc3540902b6041)
+  - <sub>Tags: <code>v0.1.6-rc.1</code></sub>
+- [ ] [<code>docs(docker): refresh REST API quickstart and add streaming openai example</code>](https://github.com/NexaAI/nexa-sdk/commit/2eaf619ef279ce4840518952022a991b1240f6fb)
+- [ ] [<code>docs(cli): move openai streaming example to GenieXAPI page</code>](https://github.com/NexaAI/nexa-sdk/commit/002a3b9e0d5b4162bec9914525ee7b6a6f809896)
+- [ ] [<code>chore(cli): log root URL on server start</code>](https://github.com/NexaAI/nexa-sdk/commit/180388ae5426944a392f894bc8e8818c6de98919)
+- [ ] [<code>fix(llama_cpp): extend HTP session release/reacquire to VLM/embed/rerank</code>](https://github.com/NexaAI/nexa-sdk/commit/abaaa8926a23ca54e52327a87640a9c93cd3aef5)
+- [ ] [<code>fix(llama_cpp): mark HTP guard by backend presence, not device selection</code>](https://github.com/NexaAI/nexa-sdk/commit/e291f4c5c5162c91a51b7880232c8cca578bf025)
+- [ ] [<code>fix some docs typos.</code>](https://github.com/NexaAI/nexa-sdk/commit/cf408853f8bc8b88c4b8b53ab27d52f410a6b277)
+- [ ] [<code>add the android part.</code>](https://github.com/NexaAI/nexa-sdk/commit/c3f45cd5160a62261a8e3a0095cb3ef83f3a9853)
+- [ ] [<code>feat: wire with qairt tool call support</code>](https://github.com/NexaAI/nexa-sdk/commit/332161ea50447bdc9abb825a8cd58b5ded73918a)
+- [ ] [<code>chore: guard tool call with is_first_turn_</code>](https://github.com/NexaAI/nexa-sdk/commit/4ef29c9fda6b1b96ef42687d5321da437c061616)
+- [ ] [<code>docs(android): consolidate API reference, remove overview, align CN with EN</code>](https://github.com/NexaAI/nexa-sdk/commit/711f104457d6b8af4d20e28c9464c696e78f559a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(android): remove old orphaned files replaced by api-reference.mdx</code>](https://github.com/NexaAI/nexa-sdk/commit/ad565a676200b5d76e2f3a0ddbb9e3d3b0afcc5d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(model-manager): only support qualcomm/ as AI Hub org prefix</code>](https://github.com/NexaAI/nexa-sdk/commit/fbe9ca9f7dd9e5b2d7d064debf0ffb65c1eb724e)
+- [ ] [<code>feat(python): AutoModelForCausalLM auto-detects VLM models</code>](https://github.com/NexaAI/nexa-sdk/commit/d4949427dac9f52c7dca137f755629184cdc3f1d)
+- [ ] [<code>test(python): add QAIRT VLM auto-detection coverage</code>](https://github.com/NexaAI/nexa-sdk/commit/45384f9e705cd8bcf199f80ec6f9a271c549aacc)
+- [ ] [<code>fix(cli): disable bridge log for trace and none levels</code>](https://github.com/NexaAI/nexa-sdk/commit/364f5bb404af13f88767b1c41211e9eacadaa713)
+- [ ] [<code>refactor(sdk): remove geniex_set_log_level / geniex_get_log_level</code>](https://github.com/NexaAI/nexa-sdk/commit/72c231ed0ce85bad4a4b2a1bb93ffdb256e8d445)
+- [ ] [<code>refactor(sdk): drop GENIEX_DEBUG, always emit file/line/func</code>](https://github.com/NexaAI/nexa-sdk/commit/108f93a7ed01e5ae0eaa0806dd65c9fe565706b1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(llama_cpp): downshift ggml log levels by one</code>](https://github.com/NexaAI/nexa-sdk/commit/a523c9fcb828ac880a91511090c89ec973b0eba9)
+- [ ] [<code>fix(python): shim tomllib in sdist build backend for stripped Python 3.12</code>](https://github.com/NexaAI/nexa-sdk/commit/15dd1601aff94c75853d2fba1d6b55afdc6426e1)
+- [ ] [<code>feat(cli): support removing a single quant via remove <model>:<quant></code>](https://github.com/NexaAI/nexa-sdk/commit/0c43c5d4a43485ddc74b0416dae44b454f681665)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(model-manager): support local AI Hub paths in LocalFsSource</code>](https://github.com/NexaAI/nexa-sdk/commit/55cb5898a375bf9176f11c439dbddc6b811625ff)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(python): add 'version' subcommand and global --verbose flag</code>](https://github.com/NexaAI/nexa-sdk/commit/b4e7e7cb2c147f86d9c6509e88acaf11b8548d5b)
+- [ ] [<code>test(python): cover local AI Hub pull (extracted dir + zip)</code>](https://github.com/NexaAI/nexa-sdk/commit/638c3a1d5a5f7d863f387be5016f36df8db8af9d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(python): bind bare device aliases to the cached model's plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/ceea95d398133424253e015a2839d50224940ca3)
+- [ ] [<code>refactor(cli/store): fold manifest read/write into Store methods</code>](https://github.com/NexaAI/nexa-sdk/commit/2f8636785e8d15d94cd0230b36d40d1666468745)
+- [ ] [<code>refactor(cli): drop aihub index json cache</code>](https://github.com/NexaAI/nexa-sdk/commit/1654a2f65940bc894f4e799f057a35aa74d458e5)
+- [ ] [<code>fix(cli): resolve chipset before AIHub spinner</code>](https://github.com/NexaAI/nexa-sdk/commit/07196f7eba1a9e37d99090411eaec65ca93ee057)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): auto-detect plugin id and model type for localfs pulls</code>](https://github.com/NexaAI/nexa-sdk/commit/3f94b5e7da840a65c7808c9d7374524f3b16c871)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore: revert to use qnn json.hpp</code>](https://github.com/NexaAI/nexa-sdk/commit/c317206d41a75a17e67df5f39df37c133266bc8b)
+- [ ] [<code>Merge pull request #532 from qcom-ai-hub/feat/paul/tool_call</code>](https://github.com/NexaAI/nexa-sdk/commit/493514c10cfebba9336fc8f66f49959b33afd2fd)
+  - <sub>Tags: <code>v0.1.6</code></sub>
+- [ ] [<code>fix: fixed android binding bundle libs include problem</code>](https://github.com/NexaAI/nexa-sdk/commit/1eb7fc3ca8b343e3851229139438bfc1aae135d9)
+- [ ] [<code>fix: more general fix for android qairt .so include</code>](https://github.com/NexaAI/nexa-sdk/commit/00572dcf792230c474468c8a137639fbf0ca736f)
+- [ ] [<code>only keep think and no-think</code>](https://github.com/NexaAI/nexa-sdk/commit/684eea28c86ad2c37edda61780cd07679ba406c4)
+- [ ] [<code>feat: added apk auto build workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/d20e42ed19d31c9be3fe655c28cebc1205d87e8a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: auto-trigger temp APK release test on push</code>](https://github.com/NexaAI/nexa-sdk/commit/04b0ce2009f4687ebab8642e865750b82071719f)
+- [ ] [<code>update CN docs</code>](https://github.com/NexaAI/nexa-sdk/commit/eb073e80eb705fc3fe442398118cd1658d42e026)
+- [ ] [<code>docs(android): polish quickstart, tutorial, and API reference</code>](https://github.com/NexaAI/nexa-sdk/commit/723429b149dfc86f30da9e47c39b8d8b4c52b7c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: pull lfs objects when building android apk</code>](https://github.com/NexaAI/nexa-sdk/commit/837972047c893984b9b905e085557363af407292)
+- [ ] [<code>fix: fixed the link and maven package version in android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/c7987180dfd8f27b1a65f74a1184273561626e98)
+- [ ] [<code>fix: update cn android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/edbd608c934d0f9145546f04659fb9d2a57f75eb)
+- [ ] [<code>ci: init geniex-qairt submodule when building android apk</code>](https://github.com/NexaAI/nexa-sdk/commit/91fc7010cce19240584a0c79caea1780b1311efb)
+- [ ] [<code>ci: rewrite git@ to https for geniex-qairt submodule clone</code>](https://github.com/NexaAI/nexa-sdk/commit/c982fbb3126ef922c0051f963aa88cff999c4222)
+- [ ] [<code>ci: remove temp android apk test workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/39afa5cdae446a03d52cb79aded57bbb1a370486)
+- [ ] [<code>fix: update documentation and styling for Qualcomm® AI Hub GenieX</code>](https://github.com/NexaAI/nexa-sdk/commit/b4caa2469184630529f4e6b09282bec12bf52741)
+- [ ] [<code>fix(cli): keep bridge log enabled at log level none</code>](https://github.com/NexaAI/nexa-sdk/commit/a0ad6c10b3e068079e9a0fa3f3fbb9fe32f14159)
+- [ ] [<code>style: enhance dark theme styles for code blocks and headers</code>](https://github.com/NexaAI/nexa-sdk/commit/2d11240b7f9ed6f243bf58724c2ed368df788b02)
+- [ ] [<code>ci: run build-docker in parallel with build-cli</code>](https://github.com/NexaAI/nexa-sdk/commit/4ad6d8e54335d059ab24bcef5f449980d1d464c7)
+- [ ] [<code>ci(docs): trigger Pages deploy on main, not master</code>](https://github.com/NexaAI/nexa-sdk/commit/bdd243df2669ddddce1752ae7553432c0f4be68d)
+- [ ] [<code>perf(ci): expand SDK build cache to cargo target and cmake build dir</code>](https://github.com/NexaAI/nexa-sdk/commit/30d777a22efc0b47447399db43e3ec59a431215b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(python): split into geniex / geniex-llama-cpp / geniex-qairt sdists (#574)</code>](https://github.com/NexaAI/nexa-sdk/commit/a17438665232898c695c6f31540a93003867271b)
+  - <sub>Tags: <code>v0.1.7-alpha.1</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): drop CCACHE_BASEDIR — invalidated existing entries</code>](https://github.com/NexaAI/nexa-sdk/commit/520fe5f74d574975b30dee479a84be9b656a5769)
+- [ ] [<code>perf(ci): expand SDK build cache to cargo target and cmake build dir (#578)</code>](https://github.com/NexaAI/nexa-sdk/commit/7657ac8227a9fd61e30190aad55759612c4ea6c7)
+- [ ] [<code>test(sdk): establish top-level pytest matrix</code>](https://github.com/NexaAI/nexa-sdk/commit/4902c1bc9f39994232031eaf7b78edbe44c2d6d0)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci(test): wire pytest harness on windows-arm64</code>](https://github.com/NexaAI/nexa-sdk/commit/14c7680d0998770eb51c3f3f9d2eff806826036d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(test): use system python on windows-arm64 runner</code>](https://github.com/NexaAI/nexa-sdk/commit/f43fddd3f787244ae82d306499a04fb6eea7e563)
+- [ ] [<code>ci(test): fold pytest harness into pr-check graph</code>](https://github.com/NexaAI/nexa-sdk/commit/b7ea4b78e706b90a36aa47d124d2aa21ba88dc64)
+- [ ] [<code>test(sdk): switch qairt model defaults to qualcomm/ namespace</code>](https://github.com/NexaAI/nexa-sdk/commit/10cc36a76b1ed4e15ad6ce86d828b57165fc9191)
+- [ ] [<code>ci(test): add workflow_dispatch back to test.yml</code>](https://github.com/NexaAI/nexa-sdk/commit/a2b77453e9c79de5d5f28311dbcf14b44133fb5a)
+- [ ] [<code>ci(test): use PYTHONPATH + GENIEX_LIB_PATH instead of pip install</code>](https://github.com/NexaAI/nexa-sdk/commit/04169593ac0003fbea9e675ded4010bb897b30c2)
+- [ ] [<code>ci(test): install tqdm runtime dep alongside pytest</code>](https://github.com/NexaAI/nexa-sdk/commit/0725a5a7b620a6fcc96dea642ee80aacbf2d0c28)
+- [ ] [<code>ci(test): pass absolute paths to PYTHONPATH and GENIEX_LIB_PATH</code>](https://github.com/NexaAI/nexa-sdk/commit/83a2439686ada2d5c8c36bf8e03d50ff4b83fd62)
+- [ ] [<code>ci(test): bump download-artifact to v8 and publish step summary</code>](https://github.com/NexaAI/nexa-sdk/commit/7bc3cb848df6b8f9458f86118d887d679ac4a739)
+- [ ] [<code>feat(cli): auto-detect Qualcomm SoC on Linux</code>](https://github.com/NexaAI/nexa-sdk/commit/87c766a2414e094694a5b30d3174c3244df3c8f4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update docker docs</code>](https://github.com/NexaAI/nexa-sdk/commit/ff4eaced39f45a3e62803dfac5569e2dbf91d358)
+- [ ] [<code>update docker documentation</code>](https://github.com/NexaAI/nexa-sdk/commit/57b578b3771194254f0a211add752ac1e9422921)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>update linux setup</code>](https://github.com/NexaAI/nexa-sdk/commit/4860ab5360a351334527bd54280b1e57ea3cdded)
+- [ ] [<code>update QDC SSH setup</code>](https://github.com/NexaAI/nexa-sdk/commit/363f772d14ddbf4f3b7a29c706452701c33855f1)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>WIP - implemented patch, and hand-off to linux amd64</code>](https://github.com/NexaAI/nexa-sdk/commit/0d98cabf238f335474ddbeae277ab1aac2138ad7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>find_package</code></sub>
+- [ ] [<code>docs(release): inline fast-path decision for /release skill</code>](https://github.com/NexaAI/nexa-sdk/commit/07a35937531448f94a40f925467c3a2671871b57)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(build): add bazel cross-compile config aliases</code>](https://github.com/NexaAI/nexa-sdk/commit/e847257d54551fee5c4fceab824f02242acf70e2)
+- [ ] [<code>ci: trigger pr-check on root bazel config changes</code>](https://github.com/NexaAI/nexa-sdk/commit/e887e683f09929f6df36329b08449f87792171e1)
+- [ ] [<code>feat(cli): render dim placeholder in readline when input is empty</code>](https://github.com/NexaAI/nexa-sdk/commit/36ddf6a2dddb723c4194987de78f823b41c4fcdc)
+- [ ] [<code>refactor(cli): let caller style the readline placeholder via theme</code>](https://github.com/NexaAI/nexa-sdk/commit/916ce0eb44198fe99c042580f472191555cab41c)
+- [ ] [<code>fix(python): strip qairt-unsupported ModelConfig fields</code>](https://github.com/NexaAI/nexa-sdk/commit/0836cc8cec0bd4a330da8d95a2bc84a572f61fc7)
+- [ ] [<code>feat(sdk): route bare names and aihub/ prefix to AI Hub in model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/03beeb0a9955e8a9cd0231d9c28905850be9ab87)
+- [ ] [<code>feat(sdk): match AI Hub models by id as well as display_name</code>](https://github.com/NexaAI/nexa-sdk/commit/76dcddd3b86f1c8a08c9e394806ea26d3a165811)
+- [ ] [<code>feat(python): pass unknown bare model names through to the SDK</code>](https://github.com/NexaAI/nexa-sdk/commit/40858a47ccbfee0e163a828cca7b8f4a663cd1b3)
+- [ ] [<code>fix(sdk): bump qairt plugin to disable graph.cpp tree vectorization</code>](https://github.com/NexaAI/nexa-sdk/commit/eccb5bc8b7ac0467b8dff62231ad3f0f71ef6405)
+- [ ] [<code>ci: trigger pr-check on third-party submodule changes</code>](https://github.com/NexaAI/nexa-sdk/commit/44ba2341fba578a4789bf98cca5f1b650c46fbcf)
+- [ ] [<code>feat(python): export resolve_device_map public API</code>](https://github.com/NexaAI/nexa-sdk/commit/4ecca05e8093e2e4ba68926ce6455796457e4c57)
+- [ ] [<code>refactor(python): drop _ffi imports from cli</code>](https://github.com/NexaAI/nexa-sdk/commit/b44136f7001f569596b7b069f5e1bca7b692fce2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(python): prune private helper docstrings, keep public-API docs concise</code>](https://github.com/NexaAI/nexa-sdk/commit/d178838500b4dbb40e5b2884df8ca258a162ce83)
+- [ ] [<code>test(python): add on-device pytest harness for the public API</code>](https://github.com/NexaAI/nexa-sdk/commit/f7202c7fc949082cc1b8dbd55d6ac2d8a871932b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test(python): run device tests against the real user cache</code>](https://github.com/NexaAI/nexa-sdk/commit/5d40fa3619dc80fa72aacc3dd46022711106b4e1)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>feat(python): cli chat supports VLM models</code>](https://github.com/NexaAI/nexa-sdk/commit/b02800d859d471c81fbbdb6932c2853bbc7e5f80)
+- [ ] [<code>feat(python): auto device_map routes QAIRT models to the qairt plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/e804c8e083d0f3c98d18038ffab2388bd9339a52)
+- [ ] [<code>fix(python): force UTF-8 on cli stdout/stderr under Windows pipes</code>](https://github.com/NexaAI/nexa-sdk/commit/b7d3f90ce3f7ad857d5b8eb6e03336d8749cfe1a)
+- [ ] [<code>test(python): drop explicit device_map from tests, add cli chat qairt test</code>](https://github.com/NexaAI/nexa-sdk/commit/0af52f94e4eac5a23e85ca847de313b5c4928ab0)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(python): display chat TTFT in seconds (us -> s uses 1e6, not 1000)</code>](https://github.com/NexaAI/nexa-sdk/commit/0f751bc2ba74e747119965338958ea9b42ee9d67)
+- [ ] [<code>test(python): add QAIRT VLM end-to-end test</code>](https://github.com/NexaAI/nexa-sdk/commit/b4abb58a7ab0e37c754c97d73d38ce27b7afb92a)
+- [ ] [<code>feat(sdk): auto-detect ai hub chipset on linux and android</code>](https://github.com/NexaAI/nexa-sdk/commit/8f8026f2dd9e53e2d69b2093268a26e297f544ff)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/86f2e5b2f9a89f473174751c81151a50c6f0b9ff)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: update android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/513b52fa4802381f887ea0b36fcc8eda3993cc47)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix(sdk): detect LLM/VLM via config.json and AI Hub info.json</code>](https://github.com/NexaAI/nexa-sdk/commit/4d23a2273b340c65a22c9eda3a324893dbd85bb9)
+- [ ] [<code>fix(sdk): derive AI Hub display_name from repo when hub=AIHUB</code>](https://github.com/NexaAI/nexa-sdk/commit/5e495bf449b99d47cf873ff72c6e2ab692eec3c3)
+- [ ] [<code>fix(python): route cpu/gpu/hybrid aliases to llama_cpp regardless of plugin enum order</code>](https://github.com/NexaAI/nexa-sdk/commit/430fbed146d6c4d80a9e3b4efb2f4fbd514c0388)
+- [ ] [<code>fix(python): accept Qualcomm Linux aarch64 hosts in the pytest QAIRT gate</code>](https://github.com/NexaAI/nexa-sdk/commit/b290fae95d18bfdc47ac6ada87c4cb36d65ba85d)
+- [ ] [<code>fix(python): treat Android arm64 as a Snapdragon host in the pytest gate</code>](https://github.com/NexaAI/nexa-sdk/commit/1f19335e277d67c2b48c96992229dc28d3a3186d)
+- [ ] [<code>test(python): cover cpu/gpu/npu/hybrid device modes for llama.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/9c85bc59916bdfbab637bdc81c9b7d0b81e32efd)
+- [ ] [<code>chore(sdk): enable OpenCL on arm64-linux-snapdragon preset</code>](https://github.com/NexaAI/nexa-sdk/commit/21ff166ae78577063e43416b68d49001732e17cd)
+- [ ] [<code>fix(android): zero QAIRT n_ctx/n_gpu_layers; drop handoff scratch files</code>](https://github.com/NexaAI/nexa-sdk/commit/23fae6cf8a9d1df3ee73d43e1b1c942fa863a9fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: fixed formatting issues</code>](https://github.com/NexaAI/nexa-sdk/commit/9d84fd07d617cf407cbfe1754804635fb1021ea2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(hexagon): add reacquire_sessions for 2nd llama.cpp load</code>](https://github.com/NexaAI/nexa-sdk/commit/fb02bf469a4d0808c8daf62fdd06acec87b2325d)
+- [ ] [<code>fix(ci): pin sdk patch files to LF eol</code>](https://github.com/NexaAI/nexa-sdk/commit/bbaf4703870c090b35a08f55c412ae3af7bbd75e)
+- [ ] [<code>fix(llama_cpp): extend HTP session release/reacquire to VLM/embed/rerank</code>](https://github.com/NexaAI/nexa-sdk/commit/f0965e1be8d6a7374a03124f8726171dcb7f7ec2)
+- [ ] [<code>fix(llama_cpp): mark HTP guard by backend presence, not device selection</code>](https://github.com/NexaAI/nexa-sdk/commit/0a03e470789fd00e3ef3d24772541cb6ded1ce00)
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/387de7f22bb527261aacd5cea168b58d14bad700)
+- [ ] [<code>fix: use RTLD_LOCAL to avoid symbol conflict  between GGML Hexagon and geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/0d55700793506fc97c834a4578a8214e19eeaeb7)
+- [ ] [<code>fix(cli): invert sox dependency check</code>](https://github.com/NexaAI/nexa-sdk/commit/97277c49573783939db20a7320a830fecc77d9e8)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(python): show units in ProfileData repr</code>](https://github.com/NexaAI/nexa-sdk/commit/ce54820c1acf7bf22d06c8f132008b4cf45b76ed)
+- [ ] [<code>fix(cli): apply log level before cobra dispatch to silence unknown-command error</code>](https://github.com/NexaAI/nexa-sdk/commit/26c1e63c2da00ceff100be2f7a5d0571b67cb655)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): consolidate NormalizeModelName in model_hub</code>](https://github.com/NexaAI/nexa-sdk/commit/9fc4bbe3cd6ada5c818cb3f0d7903f728c43ff8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(cli): wire model_hub HF tests into bazel</code>](https://github.com/NexaAI/nexa-sdk/commit/745865629a661047583504a62ff4b84e12395e70)
+- [ ] [<code>docs(cli): align NPU Qwen model ids with AI Hub manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/d781ea27e769dac23c8dca4debff75d937ca8c9b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(toolchain): downgrade arm64 cross to gcc-13 for older libstdc++ ABI</code>](https://github.com/NexaAI/nexa-sdk/commit/e3f8e5e540e8172c0d607ec0b36313ec730f5ba6)
+- [ ] [<code>fix(build): bundle libgomp.so.1 for Qualcomm Linux</code>](https://github.com/NexaAI/nexa-sdk/commit/629399af6138138ca9adcac9d1b037c8858baa39)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: pin linux toolchain image to v0.0.2</code>](https://github.com/NexaAI/nexa-sdk/commit/a1e5a8eeb61960c6c7933d2e3f1e93b6417d019c)
+- [ ] [<code>refactor(docker): bind-mount host qcom libs instead of baking lib.tar</code>](https://github.com/NexaAI/nexa-sdk/commit/81287595c1c116aaa0baf2e5e24b6ce58ba67b6a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>perf(cli): parallelize aihub zip extraction</code>](https://github.com/NexaAI/nexa-sdk/commit/8598c7d5bf8ef3b0a7f2f2b19374775729abc8a1)
+- [ ] [<code>fix(python): show model download progress in library and notebooks</code>](https://github.com/NexaAI/nexa-sdk/commit/424f53febef2322b76efe726515fcf65ec7c1f5f)
+- [ ] [<code>fix(sdk): accept name:quant in Store::remove</code>](https://github.com/NexaAI/nexa-sdk/commit/d40e98459c936b835c4b6ada0a85003db6c7d446)
+- [ ] [<code>fix(sdk): make Store::remove delete only the requested quant</code>](https://github.com/NexaAI/nexa-sdk/commit/ddf5a7cbe635f1c0916c71e03b0d0ad5c0df767d)
+- [ ] [<code>style(sdk): cargo fmt Store::remove tests</code>](https://github.com/NexaAI/nexa-sdk/commit/1bca176a8de94bee9d5424bfdfb9dc2558d1b5d5)
+- [ ] [<code>chore(build): drop direct libgomp1 apt dep from linux image</code>](https://github.com/NexaAI/nexa-sdk/commit/36c616b29e7008a2cdaf347001867ab1be5bda79)
+- [ ] [<code>build(sdk): bundle libgomp on all linux builds, not just aarch64 cross</code>](https://github.com/NexaAI/nexa-sdk/commit/1caa1363f57320ba616014699b7a13798f86bbea)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(python): stop hijacking user logging config, wire bridge through _ensure_bound</code>](https://github.com/NexaAI/nexa-sdk/commit/794035bdb9ae602b3d0b42121996b95541418aaf)
+- [ ] [<code>fix(sdk): demote startup/shutdown INFO chatter in geniex_init and friends</code>](https://github.com/NexaAI/nexa-sdk/commit/78bb60636f6ff5c8045a09e1363acb1d0f55db5e)
+- [ ] [<code>fix(sdk): route mtmd/clip logs through geniex_log and fix ggml level mapping</code>](https://github.com/NexaAI/nexa-sdk/commit/0fca2c28fbf591762e7b8ff77470b61863a36de0)
+- [ ] [<code>docs(python): simplify Windows ARM64 onboarding notebook</code>](https://github.com/NexaAI/nexa-sdk/commit/cb61b5ab17b2cf28b6d1fb8256f7f5ab0c2f5cc3)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>docs(release): harden /release fast-path against stale tags and ugrep</code>](https://github.com/NexaAI/nexa-sdk/commit/5de5c0c55c1b2bed67d0d7f8c913050011bae759)
+- [ ] [<code>docs(docker): refresh REST API quickstart and add streaming openai example</code>](https://github.com/NexaAI/nexa-sdk/commit/ee00734ad1039841d19acc740641b69297d9da34)
+- [ ] [<code>docs(cli): move openai streaming example to GenieXAPI page</code>](https://github.com/NexaAI/nexa-sdk/commit/a8690f36b4f354d992889921e6df8ea8e18e5f94)
+- [ ] [<code>fix some docs typos.</code>](https://github.com/NexaAI/nexa-sdk/commit/1fb2671b41740057252809a64b48f08e1992e47e)
+- [ ] [<code>add the android part.</code>](https://github.com/NexaAI/nexa-sdk/commit/13a95e46482c164d3f95b293ecda2d0d329666f7)
+- [ ] [<code>docs(android): consolidate API reference, remove overview, align CN with EN</code>](https://github.com/NexaAI/nexa-sdk/commit/4bc401efaabf919f37e11a88f5718dfca538d841)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(android): remove old orphaned files replaced by api-reference.mdx</code>](https://github.com/NexaAI/nexa-sdk/commit/890b36304251eccd78f5f753921777bf5fafc756)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(cli): log root URL on server start</code>](https://github.com/NexaAI/nexa-sdk/commit/434872a992b48a4a6c6c6cd4691dad5fa4fcbbe5)
+- [ ] [<code>feat(model-manager): only support qualcomm/ as AI Hub org prefix</code>](https://github.com/NexaAI/nexa-sdk/commit/aabb56eeea5eb69958d3fdf17c99ec3322f8653b)
+- [ ] [<code>feat(python): AutoModelForCausalLM auto-detects VLM models</code>](https://github.com/NexaAI/nexa-sdk/commit/b8372f1b5ce09873f52068d37d1bee7205825fcf)
+- [ ] [<code>test(python): add QAIRT VLM auto-detection coverage</code>](https://github.com/NexaAI/nexa-sdk/commit/f59cdbcacd558a90141d16e634371fcfb0a1a08e)
+- [ ] [<code>fix(python): shim tomllib in sdist build backend for stripped Python 3.12</code>](https://github.com/NexaAI/nexa-sdk/commit/84a0af86c96fadb590ce491e22b00cdfc0c41525)
+- [ ] [<code>fix(cli): disable bridge log for trace and none levels</code>](https://github.com/NexaAI/nexa-sdk/commit/f727d83238773d7403bd2bbf37a5ab8611351456)
+- [ ] [<code>refactor(sdk): remove geniex_set_log_level / geniex_get_log_level</code>](https://github.com/NexaAI/nexa-sdk/commit/fcdae031e168f93c61e014accd9392bb73e6ac90)
+- [ ] [<code>refactor(sdk): drop GENIEX_DEBUG, always emit file/line/func</code>](https://github.com/NexaAI/nexa-sdk/commit/4fb2cf4a31cab017d994cda205528fdfcf76c2d2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(llama_cpp): downshift ggml log levels by one</code>](https://github.com/NexaAI/nexa-sdk/commit/c51f8732964c4dbcc7f777e3ad097540391fb480)
+- [ ] [<code>feat(model-manager): support local AI Hub paths in LocalFsSource</code>](https://github.com/NexaAI/nexa-sdk/commit/09999f10251c4da2a2ced87002119ecd38d29c15)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(python): cover local AI Hub pull (extracted dir + zip)</code>](https://github.com/NexaAI/nexa-sdk/commit/76bb682e33c1b5c994cade3cb4e74ac66d793184)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(python): bind bare device aliases to the cached model's plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/9a52dae8f8980e77b1ce2abfa08b68d337e7d5d2)
+- [ ] [<code>feat(python): add 'version' subcommand and global --verbose flag</code>](https://github.com/NexaAI/nexa-sdk/commit/3442a7194bb08b1f81edcad665efd6059cf69b1e)
+- [ ] [<code>feat(cli): support removing a single quant via remove <model>:<quant></code>](https://github.com/NexaAI/nexa-sdk/commit/bfeb30970baae5e44277bcb66de96f0349b9412f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli/store): fold manifest read/write into Store methods</code>](https://github.com/NexaAI/nexa-sdk/commit/8190d8c07706a780c10f7c780ab322532a12db69)
+- [ ] [<code>refactor(cli): drop aihub index json cache</code>](https://github.com/NexaAI/nexa-sdk/commit/29cca98c4d2de6b27c7154e52080ec4a4640e24a)
+- [ ] [<code>fix(cli): resolve chipset before AIHub spinner</code>](https://github.com/NexaAI/nexa-sdk/commit/b15046f367fe2c8284624dab44041d88cc9829b2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): auto-detect plugin id and model type for localfs pulls</code>](https://github.com/NexaAI/nexa-sdk/commit/c096b87b1a6bd4cb9cbe756f22548011f90bb379)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat: wire with qairt tool call support</code>](https://github.com/NexaAI/nexa-sdk/commit/25021afe64549898a8a1fcf6b614d9deee34f085)
+- [ ] [<code>chore: guard tool call with is_first_turn_</code>](https://github.com/NexaAI/nexa-sdk/commit/289d8980e36844786c6d16bacaa91b7de9d83df1)
+- [ ] [<code>chore: revert to use qnn json.hpp</code>](https://github.com/NexaAI/nexa-sdk/commit/d3706d3abfa52b29340c54e903eb6adb86ce1f2f)
+- [ ] [<code>only keep think and no-think</code>](https://github.com/NexaAI/nexa-sdk/commit/063c5723821f756058a1daadf3ef81cbffe8491e)
+- [ ] [<code>update CN docs</code>](https://github.com/NexaAI/nexa-sdk/commit/b78a807f5f59c097f3e14942bbbb9c9c18cdf1eb)
+- [ ] [<code>fix: fixed android binding bundle libs include problem</code>](https://github.com/NexaAI/nexa-sdk/commit/acb768f71d573374c92c125003ae6b633161c049)
+- [ ] [<code>fix: more general fix for android qairt .so include</code>](https://github.com/NexaAI/nexa-sdk/commit/f544046a52811287666a7f9b328689073bd89158)
+- [ ] [<code>docs(android): polish quickstart, tutorial, and API reference</code>](https://github.com/NexaAI/nexa-sdk/commit/ed9f1135f4675bf8815b4b17c49deb213aeb3a11)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: fixed the link and maven package version in android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/3de087d4e1085f55c87f8dea3197d7b334003a2b)
+- [ ] [<code>fix: update cn android doc</code>](https://github.com/NexaAI/nexa-sdk/commit/36c695b15bf504026b9e0691c00b5f0e34cb41dc)
+- [ ] [<code>feat: added apk auto build workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/75fea0c514e3641b2e4cb383c1061c6707757e9b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: auto-trigger temp APK release test on push</code>](https://github.com/NexaAI/nexa-sdk/commit/9a91da04e3061acc7f8d0f75a140b97137b311b3)
+- [ ] [<code>ci: pull lfs objects when building android apk</code>](https://github.com/NexaAI/nexa-sdk/commit/2fe7307536ec8b631dff40e38c4544d0c0b741d3)
+- [ ] [<code>ci: init geniex-qairt submodule when building android apk</code>](https://github.com/NexaAI/nexa-sdk/commit/d7fe526aec9cd4185afb6be712ab3b32ee3ceb9e)
+- [ ] [<code>ci: rewrite git@ to https for geniex-qairt submodule clone</code>](https://github.com/NexaAI/nexa-sdk/commit/a22de5c42267c6d1e39c76a8659e2d26b9390cc2)
+- [ ] [<code>ci: remove temp android apk test workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/1464bfbdbcb3b78f902e878afb7c8b0051c20e70)
+- [ ] [<code>fix: update documentation and styling for Qualcomm® AI Hub GenieX</code>](https://github.com/NexaAI/nexa-sdk/commit/6290f4204f8f1e33303a443e3efc3fd275d0813b)
+- [ ] [<code>style: enhance dark theme styles for code blocks and headers</code>](https://github.com/NexaAI/nexa-sdk/commit/4818ff4bb38090679aef91218cc9b187a24f52ff)
+- [ ] [<code>ci: run build-docker in parallel with build-cli</code>](https://github.com/NexaAI/nexa-sdk/commit/e104a993713c0752d89fdc34b5ca9c25ea6240a0)
+- [ ] [<code>feat(python): split into geniex / geniex-llama-cpp / geniex-qairt sdists (#574)</code>](https://github.com/NexaAI/nexa-sdk/commit/0a505f9f91199205b10ca0ad288200a44d118a66)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(ci): expand SDK build cache to cargo target and cmake build dir</code>](https://github.com/NexaAI/nexa-sdk/commit/95b013e89ef5162d007a7a902201dcc51bad5546)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): drop CCACHE_BASEDIR — invalidated existing entries</code>](https://github.com/NexaAI/nexa-sdk/commit/9f0abbb5874691b3e620c8be1836432ade744981)
+- [ ] [<code>fix(cli): keep bridge log enabled at log level none</code>](https://github.com/NexaAI/nexa-sdk/commit/472c8b2c4205471e62f51b7ad1922327b0a43c51)
+- [ ] [<code>test(sdk): establish top-level pytest matrix</code>](https://github.com/NexaAI/nexa-sdk/commit/30e97feabbc108c30c96fd7ecdb7dc3ae96f5357)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci(test): wire pytest harness on windows-arm64</code>](https://github.com/NexaAI/nexa-sdk/commit/3db7695f9e2bbb91bd9821d19653cc5b70d666de)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci(test): use system python on windows-arm64 runner</code>](https://github.com/NexaAI/nexa-sdk/commit/5cc90baa6d05a3cb91de6df4d38981dc83bc78b2)
+- [ ] [<code>ci(test): fold pytest harness into pr-check graph</code>](https://github.com/NexaAI/nexa-sdk/commit/c7eaee379a8f53916ecf1ace5de15c7ee8f0c37f)
+- [ ] [<code>test(sdk): switch qairt model defaults to qualcomm/ namespace</code>](https://github.com/NexaAI/nexa-sdk/commit/abadd54c3a770215308b6952eeb859db352d6507)
+- [ ] [<code>ci(test): add workflow_dispatch back to test.yml</code>](https://github.com/NexaAI/nexa-sdk/commit/b4e96d767ada59bd3abf1af6516d5a5b0ef6a068)
+- [ ] [<code>ci(test): use PYTHONPATH + GENIEX_LIB_PATH instead of pip install</code>](https://github.com/NexaAI/nexa-sdk/commit/509befc431eeedde1e0a22ba39f3cd23f1307c33)
+- [ ] [<code>ci(test): install tqdm runtime dep alongside pytest</code>](https://github.com/NexaAI/nexa-sdk/commit/1703a927685e1630c62f86fb20a7f8ac7728008e)
+- [ ] [<code>ci(test): pass absolute paths to PYTHONPATH and GENIEX_LIB_PATH</code>](https://github.com/NexaAI/nexa-sdk/commit/6b7c3cf3e4c33242bba7b86bf56df8d062135176)
+- [ ] [<code>ci(test): bump download-artifact to v8 and publish step summary</code>](https://github.com/NexaAI/nexa-sdk/commit/848f926fc44dc87efd98d5b22eaac4f6b02c2fd3)
+- [ ] [<code>feat(cli): auto-detect Qualcomm SoC on Linux</code>](https://github.com/NexaAI/nexa-sdk/commit/0a681a9c1144ad2429acd30084e4a015f7a8ee98)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: add CLAUDE.md for Mintlify docs guidance</code>](https://github.com/NexaAI/nexa-sdk/commit/d2b10613756726a158e8483d6c49e27a0530044d)
+- [ ] [<code>update docs for linux</code>](https://github.com/NexaAI/nexa-sdk/commit/0e4d9c95a85359184962fb554d87dcc5aec2f1e5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs update</code>](https://github.com/NexaAI/nexa-sdk/commit/47dfd670826e95cc67cbc666cc293cc4e99e50e3)
+- [ ] [<code>update linux docs</code>](https://github.com/NexaAI/nexa-sdk/commit/175c3f263ec4ed7a5367b78f4f212911a0693eef)
+- [ ] [<code>update linux arm64 docs</code>](https://github.com/NexaAI/nexa-sdk/commit/756b158057995303acd22335d2b5f547c2be98ec)
+- [ ] [<code>feat(qairt): support llama-ssd and enhance file handling with optional return types</code>](https://github.com/NexaAI/nexa-sdk/commit/1b3b585e890430691bd5e9e1e66153b9a64353ad)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>code format</code>](https://github.com/NexaAI/nexa-sdk/commit/994310855482bd5967b73a2b9f5687e1dd1f7bd6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: restructure GenieX docs site IA for faster onboarding</code>](https://github.com/NexaAI/nexa-sdk/commit/b68c4a5860d6ef8b465137a509ba092b40ac741c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: fold backends section into choose-backend page</code>](https://github.com/NexaAI/nexa-sdk/commit/d4e142c40cfd9d440801ecc5319a790c5a56edca)
+- [ ] [<code>docs: replace Discord with GitHub Issues, add sidebar anchors</code>](https://github.com/NexaAI/nexa-sdk/commit/2c412ece21f8ef762f2796a430d03352a69d39d2)
+- [ ] [<code>docs: add architecture diagram to What is GenieX</code>](https://github.com/NexaAI/nexa-sdk/commit/0a7fdbb1f6271832f1bdcf7582ae3cc5ac21b204)
+- [ ] [<code>docs: reorder Supported models, drop Docker/IoT, bump page-title size</code>](https://github.com/NexaAI/nexa-sdk/commit/77d23bbbefd44706020e1a5627aab1e4a31fa320)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>update documentation</code>](https://github.com/NexaAI/nexa-sdk/commit/75fb06befe748adec41b1df010c9825db125498c)
+- [ ] [<code>merge from main</code>](https://github.com/NexaAI/nexa-sdk/commit/16f52fc00152485edcb0e102adc1a45fae198e0c)
+- [ ] [<code>add docker</code>](https://github.com/NexaAI/nexa-sdk/commit/4358a57669458b4ce8cf77d04f17905499be4a93)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>wip</code>](https://github.com/NexaAI/nexa-sdk/commit/9691dd6beda362a3512142d91ccf012f02f4e725)
+- [ ] [<code>update markdown</code>](https://github.com/NexaAI/nexa-sdk/commit/50ad86cb0debbbcfa076e60062d94eba46dad367)
+- [ ] [<code>wip</code>](https://github.com/NexaAI/nexa-sdk/commit/c09058dd302832bc1ba91bb4fed48cb40366dc85)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>update fonts</code>](https://github.com/NexaAI/nexa-sdk/commit/a44c7c7954dda6cfe857e04a174037b5db442061)
+- [ ] [<code>remove claude.md</code>](https://github.com/NexaAI/nexa-sdk/commit/16d0a3c1ac45843ddc76157dc8b9e3397a6daf80)
+- [ ] [<code>remove linux</code>](https://github.com/NexaAI/nexa-sdk/commit/58e6984fe9cf5764b2d8affe365c2205126ce4bc)
+- [ ] [<code>update</code>](https://github.com/NexaAI/nexa-sdk/commit/17c4e0779c7a9d083200f3c5ea5a0bbdafc05979)
+- [ ] [<code>bump up dependency version</code>](https://github.com/NexaAI/nexa-sdk/commit/5e0d0d32ce32fecace4ed00f530fb1da97304b5d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: bump up geniex-qairt to fix the emoji rendering issue there</code>](https://github.com/NexaAI/nexa-sdk/commit/ce5d36ffaf71bcdaf0a8ca536bcbb39a71dc8448)
+- [ ] [<code>update CI for docs</code>](https://github.com/NexaAI/nexa-sdk/commit/c0907a6fd8dc4222aedc76614c776211efc93e4a)
+- [ ] [<code>Merge pull request #595 from qcom-ai-hub/zack/dev/alan-test-merge</code>](https://github.com/NexaAI/nexa-sdk/commit/843c9b5e726102cfd3466c869dd025aced0a1706)
+  - <sub>Tags: <code>v0.1.7</code></sub>
+- [ ] [<code>feat(release): mirror release artifacts to S3 with discoverable manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/ee21ce5948a75dcc9cd9ef80eccd8f313c8df1ea)
+  - <sub>Tags: <code>v0.1.8-alpha.1</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Merge pull request #597 from qcom-ai-hub/feat/release-s3-manifest</code>](https://github.com/NexaAI/nexa-sdk/commit/4d959b15008905c670bc8603067874f32f9d9893)
+  - <sub>Tags: <code>v0.1.8-rc.1</code></sub>
+- [ ] [<code>feat(release)!: switch Linux Docker image entrypoint to interactive shell</code>](https://github.com/NexaAI/nexa-sdk/commit/9d9c6ac1a6a76ae43be722a4100a6b2b048cd4c5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(release): show Docker usage as shell-then-geniex flow</code>](https://github.com/NexaAI/nexa-sdk/commit/3a98aff9b9a8135997cd56fb833f33eb3a355276)
+- [ ] [<code>fix(ci): pass release tag verbatim to all cli VERSION ldflags</code>](https://github.com/NexaAI/nexa-sdk/commit/62325bc97c81d5bb830860f3f5a082edc8a18231)
+  - <sub>Tags: <code>v0.1.8-alpha.7</code></sub>
+- [ ] [<code>feat(release): add linux install.sh that downloads from s3</code>](https://github.com/NexaAI/nexa-sdk/commit/cef5118fad0d93446fa803bd219a5e50534e2d37)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(release): mirror linux cli tarball and install.sh to s3</code>](https://github.com/NexaAI/nexa-sdk/commit/8069adf3e341f528ec690f0dab4aac718a46e07a)
+- [ ] [<code>docs(release): document linux one-liner install</code>](https://github.com/NexaAI/nexa-sdk/commit/0c2ff585b5cd5b20e65305bd7be2c9d3a20b9fc6)
+  - <sub>Tags: <code>v0.1.8-alpha.8</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(python): run geniex_deinit() at interpreter shutdown</code>](https://github.com/NexaAI/nexa-sdk/commit/eb1a1c27baff272a3bf7bf699032925bbc15f07e)
+- [ ] [<code>Merge pull request #604 from qcom-ai-hub/fix/python-deinit-atexit</code>](https://github.com/NexaAI/nexa-sdk/commit/4f712d617e9b8fa1648f7876f640212e53a1d071)
+  - <sub>Tags: <code>v0.1.8-rc.2</code></sub>
+- [ ] [<code>docs(en): remove legacy pages no longer linked from docs.json</code>](https://github.com/NexaAI/nexa-sdk/commit/e9494bb1a69a8e0d10c81cce3133b385f9c8a2f0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(cn): rebuild Chinese docs to mirror en structure and content</code>](https://github.com/NexaAI/nexa-sdk/commit/36d966af32acb38e8447ac250491d82980e99f67)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>docs(nav): mirror cn navigation tree to en in docs.json</code>](https://github.com/NexaAI/nexa-sdk/commit/29fd0557f2ed80f71bcaf6e80c1e9363178d1563)
+- [ ] [<code>fix(cli): correct --think disable flag in help text</code>](https://github.com/NexaAI/nexa-sdk/commit/9cbc23595a8fea852077d6a7e4ed5909a2cedaf8)
+- [ ] [<code>docs(cli): split Linux ARM64 install into native vs Docker tabs</code>](https://github.com/NexaAI/nexa-sdk/commit/90e3767fb80e7f48bd718fb23aa8af896d8ef463)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs(cli): document install.sh flow for Linux ARM64 native install</code>](https://github.com/NexaAI/nexa-sdk/commit/9106521f3b3534b4c8b76792ceb679a56a086421)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>docs(server): list 3 supported VLM image_url formats</code>](https://github.com/NexaAI/nexa-sdk/commit/0de4d3c5f9bfbf57c12fcdd97987c0a563eaf67f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(faq): refresh interface picker with Linux native + Docker IoT split</code>](https://github.com/NexaAI/nexa-sdk/commit/3096fc104e58807b59c3651a52c92bdebbd2831f)
+- [ ] [<code>docs(devices): link native install in IoT interfaces row</code>](https://github.com/NexaAI/nexa-sdk/commit/02dc2c8fdf915ec0c264312ff7edc75cdbce1925)
+- [ ] [<code>docs(faq): restore QDC walkthrough with screenshots and chmod tip</code>](https://github.com/NexaAI/nexa-sdk/commit/dae78408eaf5150e0523164cb1726d549962ca1c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(server): drop nctx override from swagger chat example</code>](https://github.com/NexaAI/nexa-sdk/commit/1cb7b1a877ce974caec63a33114223c72fd95d3f)
+- [ ] [<code>fix(cli): call DeInit before os.Exit in infer</code>](https://github.com/NexaAI/nexa-sdk/commit/9800839fa8e9d2508753fdaa4129d67f3209c167)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #607 from qcom-ai-hub/fix/cli-deinit-before-exit</code>](https://github.com/NexaAI/nexa-sdk/commit/91bb8a06a9ae69e1f37c1f0d97a96234df7b1b60)
+  - <sub>Tags: <code>v0.1.8</code></sub>
+- [ ] [<code>feat: update docs according to review feedback</code>](https://github.com/NexaAI/nexa-sdk/commit/8d80a1226507e4fe163541a1a752215e1f6147f8)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: update download url in python doc</code>](https://github.com/NexaAI/nexa-sdk/commit/e870239c5fce2c75fb5190e62b768734f5369745)
+- [ ] [<code>docs: show page title in header</code>](https://github.com/NexaAI/nexa-sdk/commit/5778401d48bc69021f4d84046fcbb65808ed8911)
+- [ ] [<code>docs: flatten language navigation by removing tabs wrapper</code>](https://github.com/NexaAI/nexa-sdk/commit/0b92ab99fa7942fb6a591d6f5861b0e03f4e98b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: rework Android install and quickstart for app-developer journey</code>](https://github.com/NexaAI/nexa-sdk/commit/c561b9017e8b2c5cfddb50f25ea870c3eca876e1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: switch FAQ and troubleshooting to accordion layout</code>](https://github.com/NexaAI/nexa-sdk/commit/a9be2a70a02e4ed4cba18b1bf4e31405a5f1428b)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: explain why GenieX ships two plugins on the landing page</code>](https://github.com/NexaAI/nexa-sdk/commit/d7bff26c4b3e50906fabb90b9b22291f64be9c18)
+- [ ] [<code>feat(android): add ai-hub-apps-aligned demo at examples/android-new</code>](https://github.com/NexaAI/nexa-sdk/commit/6b0766e2af7d2f9cc49a672edaa491fa8423cc77)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(android): source QNN runtime libs from sdk/pkg-geniex artifact</code>](https://github.com/NexaAI/nexa-sdk/commit/6b0393ef6ce48c5cbd4829d76252641cc870195e)
+- [ ] [<code>fix(python): use flat S3 layout in default _sdk_fetch sources</code>](https://github.com/NexaAI/nexa-sdk/commit/bf03a69bb5798820c6c31276f6973415a7902832)
+- [ ] [<code>fix(cli): mention AI Hub Models in pull help text</code>](https://github.com/NexaAI/nexa-sdk/commit/e47b353e8cfff56e37a1cb51e8ad505c4d462f2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): set Windows console code page to UTF-8</code>](https://github.com/NexaAI/nexa-sdk/commit/1b7f3c21e33a5a317403360a1a3c005af05f6175)
+- [ ] [<code>chore: update CLI app logo</code>](https://github.com/NexaAI/nexa-sdk/commit/8ab4e2a5392afe993f45803394c4e110778f9aa8)
+- [ ] [<code>fix(windows): version-stamp installed icon filename</code>](https://github.com/NexaAI/nexa-sdk/commit/70708f5711079c18c963cec5d1b24e75dd36409b)
+- [ ] [<code>fix(cli): rename user-visible "quant" to "precision" (#620)</code>](https://github.com/NexaAI/nexa-sdk/commit/9ab76f450171d474664b8a38ab000a538ed2542c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): document :precision suffix in infer/run/pull usage</code>](https://github.com/NexaAI/nexa-sdk/commit/222bc51caec2457706bea55a589b2a5909e9e9e7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): colorize cobra error output red</code>](https://github.com/NexaAI/nexa-sdk/commit/93afbaf33804a2cc3b90dec06ed14e800203b417)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #645 from qcom-ai-hub/docs/cli-precision-usage</code>](https://github.com/NexaAI/nexa-sdk/commit/0ecd4bf35aa721dce81e685490ca118794702ecb)
+  - <sub>Tags: <code>v0.1.9</code></sub>
+- [ ] [<code>fix(cli): warn when $HOME is unset on Linux install</code>](https://github.com/NexaAI/nexa-sdk/commit/df31003ca4c477356ea5ea83222b52ca79dc9b26)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): style cobra usage / help output</code>](https://github.com/NexaAI/nexa-sdk/commit/a60d416aefe927c9eaacb9b714d69e61978caba4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: drop QDC SSL fallback block from python install</code>](https://github.com/NexaAI/nexa-sdk/commit/28f594610ecb0d08fe87cb473e3f5a5968797ed7)
+- [ ] [<code>fix(cli): hard-fail when an image path can't be resolved</code>](https://github.com/NexaAI/nexa-sdk/commit/be0f07abf26efdf207e23a21c0bd67bc693c9093)
+- [ ] [<code>test(python): add tests/benchmark inference perf suite</code>](https://github.com/NexaAI/nexa-sdk/commit/8d137d46eb911a225c29075ae546513c1fa0b13d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test(python): expand benchmark matrix with two more small llama_cpp models</code>](https://github.com/NexaAI/nexa-sdk/commit/d1969782c75407492cca2cf35ee97a5fcff99d63)
+- [ ] [<code>fix(cli): replace panics with proper error reporting</code>](https://github.com/NexaAI/nexa-sdk/commit/aea972f32bc6ffd9d68965d490ba3469c3813974)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): convert Run callbacks to RunE</code>](https://github.com/NexaAI/nexa-sdk/commit/b849aca404e4fd614a22eadec173ae030db2695f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): accept ai-hub-models/ prefix as AI Hub alias</code>](https://github.com/NexaAI/nexa-sdk/commit/40ce134427d20d8b50cb3354fb0638de014d5c8c)
+- [ ] [<code>fix(cli): reorder version output and surface llama.cpp commit</code>](https://github.com/NexaAI/nexa-sdk/commit/1658ad5f2988156fa7d01ba41df88b29779b75c8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(contributing): switch merge strategy to rebase</code>](https://github.com/NexaAI/nexa-sdk/commit/2bb7b404665bc843faddb5eddc9078ca81097a13)
+- [ ] [<code>fix: add overflow styles to improve layout for navigation and active buttons</code>](https://github.com/NexaAI/nexa-sdk/commit/95e0bfce7f213e64a63e8b5160d213c1261ce1eb)
+- [ ] [<code>feat: support partial output in non-streaming mode when context length exceeded in python / go</code>](https://github.com/NexaAI/nexa-sdk/commit/2bf3019f6329a7ca98a3f3675593e99609171e95)
+- [ ] [<code>refactor(cli): remove /load and /save REPL commands</code>](https://github.com/NexaAI/nexa-sdk/commit/1566ccdf521f4c44d6ba89d709347b011572a379)
+- [ ] [<code>feat(cli)!: support --version and -v on root command</code>](https://github.com/NexaAI/nexa-sdk/commit/b4599b731bc4930d77f7c6ccd7fd1e4a2585ccdb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(python): skip sha256 sidecar requirement under override</code>](https://github.com/NexaAI/nexa-sdk/commit/cd689beec70573f5596431c23c7cd8b7b6813704)
+- [ ] [<code>fix(sdk): pick default quant by QUANT_PRIORITY in load fallback</code>](https://github.com/NexaAI/nexa-sdk/commit/3d726332628d359a78febaf1e9f2f032c5d2656a)
+- [ ] [<code>fix(cli): reject unknown model format before download</code>](https://github.com/NexaAI/nexa-sdk/commit/754ea79d167946ebc73bfe14216207efaa3f1449)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(vlm): expose mmproj modality capabilities</code>](https://github.com/NexaAI/nexa-sdk/commit/e6877dd9b181171d66b4025ff02cc79d5e5e63f9)
+- [ ] [<code>style: clang-format VLM C++ additions</code>](https://github.com/NexaAI/nexa-sdk/commit/279ce516f40847f2d7774012b67a7a255835921d)
+- [ ] [<code>fix(cli): gate /mic and SoX warning on audio modality</code>](https://github.com/NexaAI/nexa-sdk/commit/e5cadb75fa5232b00a23e74eaf526a74affe6733)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(cli): differentiate command and flag colors in usage output</code>](https://github.com/NexaAI/nexa-sdk/commit/6345fdfd3780e04a904dec7c0efb1ce2a8f637bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(sdk)!: replace per-runtime version FFI with plugin lookup</code>](https://github.com/NexaAI/nexa-sdk/commit/a3d992975097a8c7f0c1115cce5facbc670c81ec)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): drop bash-only `exec -a` from linux launcher</code>](https://github.com/NexaAI/nexa-sdk/commit/0a28b75c566a070d7f3211d4655a6d7db0f59863)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Merge pull request #690 from qcom-ai-hub/fix/install-launcher-sh-compat</code>](https://github.com/NexaAI/nexa-sdk/commit/056d518a4f52292e722bd56163222d2ef8742897)
+  - <sub>Tags: <code>v0.2.0-rc.1</code></sub>
+- [ ] [<code>feat: created the benchmark script and instructions for the comparison between genie and geniex</code>](https://github.com/NexaAI/nexa-sdk/commit/a4a1af9cb8091a4ee11c1f73d3fac5886ca2efbc)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor: update model_name handling in LlmCreateInput and VlmCreateInput, making it optional for QAIRT plugin; adjust logging and pipeline creation in QairtLlm and QairtVlm</code>](https://github.com/NexaAI/nexa-sdk/commit/dd093879d6c0e0789103ad04e49119c40d6ad6aa)
+- [ ] [<code>code format</code>](https://github.com/NexaAI/nexa-sdk/commit/ad1f4df96e8377c1d5c574213658e7e3831d3ce2)
+- [ ] [<code>fix(cli): derive aihub zip filename from download URL</code>](https://github.com/NexaAI/nexa-sdk/commit/5d2c33c3c3163402f06b2d27bbb912f0a6f0704b)
+- [ ] [<code>fix(cli): brighten reference text color for readability</code>](https://github.com/NexaAI/nexa-sdk/commit/daff401b620d286eebf149b75d445707340c4a30)
+- [ ] [<code>Merge pull request #712 from qcom-ai-hub/fix/theme-reference-color</code>](https://github.com/NexaAI/nexa-sdk/commit/469d15b427b520c2813592e47beba3887002bdee)
+  - <sub>Tags: <code>v0.2.0-rc.2</code></sub>
+- [ ] [<code>feat(sdk): also accept qai-hub-models/ as AI Hub org prefix</code>](https://github.com/NexaAI/nexa-sdk/commit/f89d099a8ea717ad20d695503851b700305db87c)
+- [ ] [<code>chore: check-in more model's test results</code>](https://github.com/NexaAI/nexa-sdk/commit/7c1f8398fd8111c172ce7a89a753f3d509de1be8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: ignore venv in .gitignore</code>](https://github.com/NexaAI/nexa-sdk/commit/3028f9f93ad8abc2168015c633c35a5ec957b8ce)
+- [ ] [<code>chore: bump up geniex-qairt</code>](https://github.com/NexaAI/nexa-sdk/commit/b302cf3b6f168cca9ed2b026117cafd51001d1fd)
+- [ ] [<code>chore(ci): include third-party CMakeLists in the hashFile scan</code>](https://github.com/NexaAI/nexa-sdk/commit/7efc7b7f35aea9ba3caa906fbb16a66edfd9cf37)
+- [ ] [<code>docs(cli): collapse Linux ARM64 native install advanced steps into accordions</code>](https://github.com/NexaAI/nexa-sdk/commit/668568d9ff6267d3dfac6e0f690f90f47d91d117)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/NexaAI/nexa-sdk/commit/33aea31c28ee98f6f8884231860782feaecb919d)
+- [ ] [<code>docs(android): lead with sample app and tighten install flow</code>](https://github.com/NexaAI/nexa-sdk/commit/44f480f0a09f9c64a3b01432d15647116c72b61c)
+- [ ] [<code>docs(android): add sideload hint for sample app .apk</code>](https://github.com/NexaAI/nexa-sdk/commit/df00ca6b6a98f05e702175e95a0b96f2e47b4817)
+- [ ] [<code>docs(android): link Android Studio Hedgehog to release notes</code>](https://github.com/NexaAI/nexa-sdk/commit/ebe2522fd00edab85db889d50d2fd178293733e1)
+- [ ] [<code>docs(get-started): rename devices page to platforms, anchor on OS</code>](https://github.com/NexaAI/nexa-sdk/commit/c19a407cfa6af74e38f0e1af01472e8c1d99f786)
+- [ ] [<code>docs(platforms): trim Linux ARM64 chipsets to QCS9075</code>](https://github.com/NexaAI/nexa-sdk/commit/b1a5eb387793e7a31c805a77b86c36b1251ce194)
+- [ ] [<code>docs: standardize on runtime / compute unit / chipset / device</code>](https://github.com/NexaAI/nexa-sdk/commit/014260725d503a5737c44993067c8092b865aaf0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(sdk): force ngl=999 for npu alias on llama_cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/8ed17e8e23e76ba3a0a28f3a925f16635f8bc4c4)
+- [ ] [<code>fix(android): drop isGgufLlmModel guard on NPU radio</code>](https://github.com/NexaAI/nexa-sdk/commit/de970730cac8165d7839af1129a04bc5a8d572a1)
+- [ ] [<code>docs(sdk): drop dangling BUG-*.md reference in device.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/90afdbe36d189938b296d3b53f6026463c3fb794)
+- [ ] [<code>refactor(cli): hold model lock across Pull pre-download cleanup</code>](https://github.com/NexaAI/nexa-sdk/commit/cc21ed2751fa75ae71e6f77d154ec476aacd86e7)
+- [ ] [<code>fix(cli): error on remove of non-existent model</code>](https://github.com/NexaAI/nexa-sdk/commit/5cfde4fcab3b62b8c56ae8e53e458b9ff3d58140)
+- [ ] [<code>fix(cli): keep removing remaining models after one fails</code>](https://github.com/NexaAI/nexa-sdk/commit/1643ae3ccca8f25defce5a8968a7c06b6aaf0d2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): re-read manifest under lock in PullExtraQuant</code>](https://github.com/NexaAI/nexa-sdk/commit/aea4d9b3c73c5d67eedf29e9a1d3959e858108a9)
+- [ ] [<code>fix(cli): hold model lock when cleaning corrupted directories</code>](https://github.com/NexaAI/nexa-sdk/commit/f4b276002214dc2d49f1a259815f1b0af8e30ccf)
+- [ ] [<code>fix(cli): prompt for confirmation before `geniex remove`</code>](https://github.com/NexaAI/nexa-sdk/commit/595d267d27a856d6b54975f2b198944dae44dc18)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: harden cmake-build cache against toolchain bumps and stale FetchContent stamps</code>](https://github.com/NexaAI/nexa-sdk/commit/99f3005243adb32bb6e6e670dbb990708b260308)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: warm-cache verification run</code>](https://github.com/NexaAI/nexa-sdk/commit/d42168e85e6f7796fcb3cb129e970d955ad20c58)
+- [ ] [<code>feat(sdk): add C benchmark example, retire doctest tree</code>](https://github.com/NexaAI/nexa-sdk/commit/344117755bdad0d40a7d1a1362acd036af851e3f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(sdk): drop geniex_llm_reset between benchmark runs</code>](https://github.com/NexaAI/nexa-sdk/commit/9b3438a8366f6ea67cfeedff25fc484d380ad6be)
+- [ ] [<code>feat(sdk): add matrix mode to geniex_benchmark</code>](https://github.com/NexaAI/nexa-sdk/commit/6811ce57eb6d1b5a38120ab52963229fcbce0ef4)
+- [ ] [<code>feat(sdk): add --token-callback-delay-us to benchmark for callback-cost study</code>](https://github.com/NexaAI/nexa-sdk/commit/3dda33c52e7b5207d4ee6d02da113a5e24ee2828)
+- [ ] [<code>fix(python): translate quant lookup failure into actionable ValueError</code>](https://github.com/NexaAI/nexa-sdk/commit/df297b500a833b2498c46d9018744d44f15d8360)
+- [ ] [<code>fix(cli): drop duplicate error print in resolveDevice</code>](https://github.com/NexaAI/nexa-sdk/commit/8ca1697475c1f5f1d32bc65818accbd4b93efdb8)
+- [ ] [<code>fix(cli): drop duplicate error prints in pullModel</code>](https://github.com/NexaAI/nexa-sdk/commit/545890e71ab78bcccd6619a11966dba14667181b)
+- [ ] [<code>fix(android): use standard OK/Cancel labels in dialogs</code>](https://github.com/NexaAI/nexa-sdk/commit/5d21c81480766e7ab34ec3fe18dc17d66f5f3fc4)
+- [ ] [<code>fix(android): correct Phi-4-mini-instruct GGUF quant to Q4_K_M</code>](https://github.com/NexaAI/nexa-sdk/commit/391eca98f756539dc4eed7987c496a08ca6e8d4c)
+- [ ] [<code>feat(python): surface profile metadata and improve API error messages</code>](https://github.com/NexaAI/nexa-sdk/commit/c3443313dc2f4b4efac63397e0e249bc51264eee)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(python): cover dogfood error-message and profile metadata fixes</code>](https://github.com/NexaAI/nexa-sdk/commit/0a33e4716cb1fa73ab0aa7de9dc459a89216cd4f)
+- [ ] [<code>fix(sdk): map plugin-not-found to PLUGIN_INVALID in get_device_list</code>](https://github.com/NexaAI/nexa-sdk/commit/b25e22058f70c35856c249695fbc028ef96b8055)
+- [ ] [<code>fix(python): name unknown plugin and list available plugins in get_device_list</code>](https://github.com/NexaAI/nexa-sdk/commit/a1b1aebf0951d60ecb5f0650c16ff8779dcd9b4e)
+- [ ] [<code>fix(python): raise RuntimeError when plugin/device queries run before init</code>](https://github.com/NexaAI/nexa-sdk/commit/d017ecb30b26b960e372d4733557fbd583c6d7b4)
+- [ ] [<code>feat(release): check QCOM driver and system libs before install</code>](https://github.com/NexaAI/nexa-sdk/commit/e09be86d069c240630fbc7b10f34d2917fb69626)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(release): also check QCOM short-name aliases</code>](https://github.com/NexaAI/nexa-sdk/commit/e43fe6da5aa0d0c4c64a866681b736a301c8407e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>refactor(release): trim install-check comments and simplify system-dep parsing</code>](https://github.com/NexaAI/nexa-sdk/commit/cbb04a2357fe0a9943edf07f6049c065e75b9f18)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(android): only inject current-turn media in VLM demo; surface real error</code>](https://github.com/NexaAI/nexa-sdk/commit/1ccde44e3e88bbc7ef8be418c8e270a6173de547)
+- [ ] [<code>refactor(release): drop short-name alias checks (resolved via ldconfig)</code>](https://github.com/NexaAI/nexa-sdk/commit/a234a01589725ef48e760fa026d52da6ed27a806)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>feat(release): also probe NPU/FastRPC driver version</code>](https://github.com/NexaAI/nexa-sdk/commit/cb7366eddef91534bca1173833985e9857579190)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #747 from qcom-ai-hub/fix/python-plugin-list-init-guard</code>](https://github.com/NexaAI/nexa-sdk/commit/ec027eedc53465a3635e7651787f0bf1c1c18984)
+  - <sub>Tags: <code>v0.2.0</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/e606b492f3857969de6436b26df5146cc5686e1f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat: update sampler configuration defaults for all bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/bd72c84e9e73ca697b919c1a87f4628fcdb0aaad)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: removed the record button</code>](https://github.com/NexaAI/nexa-sdk/commit/edb67e702abd100e73361258bd1b4f4a9e836401)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: 1. cannot send with empty string; 2. cannot click send when inferencing; 3. clear chat after unloading</code>](https://github.com/NexaAI/nexa-sdk/commit/c04f54265600cf0265f54114a29a1e8496c25170)
+- [ ] [<code>fix: fixed download toast</code>](https://github.com/NexaAI/nexa-sdk/commit/7bb8caada50ef04af231ab30ab8ca406944394ee)
+- [ ] [<code>update geniex-qairt hash</code>](https://github.com/NexaAI/nexa-sdk/commit/aad219efa197c6a24fad50c0e008582ce265fb24)
+  - <sub>Tags: <code>v0.2.1-rc.1</code></sub>
+- [ ] [<code>remove benchmark code</code>](https://github.com/NexaAI/nexa-sdk/commit/0650f62d09321b2808458533a0c978b2c3c3fe53)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>remove unused files</code>](https://github.com/NexaAI/nexa-sdk/commit/0ee3e06efceb16f1380ba7367211ea7391c7fd5d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>code format</code>](https://github.com/NexaAI/nexa-sdk/commit/76da370e59eaf7b279527aa853b6f49c989d35fb)
+- [ ] [<code>refactor(cli): centralize error printing in cmd/geniex/common</code>](https://github.com/NexaAI/nexa-sdk/commit/86150e93d8c89e35b4ca21b852f9b79af250bcf7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): add sentinel errors + hints for hub / server / precision</code>](https://github.com/NexaAI/nexa-sdk/commit/898eb45db6dca7f21cf137e7864e21d1efbcb2ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): tidy up error helpers and hint table</code>](https://github.com/NexaAI/nexa-sdk/commit/ed1011416b95e1ea86d0c180bbdc429b0fce863f)
+- [ ] [<code>chore(ci): add setup-python, drop redundant concurrency token</code>](https://github.com/NexaAI/nexa-sdk/commit/8900e20b5467893da192047d3c0d2a9768f4d9d4)
+- [ ] [<code>fix(release): require dispatch from tag ref to prevent wrong-commit publish (#766)</code>](https://github.com/NexaAI/nexa-sdk/commit/10d5a40cced1201c4a4508e577fc132d2185236e)
+- [ ] [<code>refactor(python): drop cli.py's private auto import; tighten contract test</code>](https://github.com/NexaAI/nexa-sdk/commit/8db7b98e2d91841e0144751fab45a9d35c16b1dd)
+- [ ] [<code>fix(python): warn when QAIRT silently drops user n_ctx / n_gpu_layers</code>](https://github.com/NexaAI/nexa-sdk/commit/34ddc0e5724e16d7c3510a25a393df4c9ceedb19)
+- [ ] [<code>fix(python): raise ValueError, not GeniexError(-1), for unknown model type</code>](https://github.com/NexaAI/nexa-sdk/commit/5993a878829ed363e621d45c132d2fc1476deed2)
+- [ ] [<code>chore(python): drop explanatory comments from the #763 cleanup</code>](https://github.com/NexaAI/nexa-sdk/commit/2dab3eb9de95e9edd0d1528b1769e7f4f47bc8bc)
+- [ ] [<code>test(python): cover QAIRT coerce-warning + cli load-banner from #763</code>](https://github.com/NexaAI/nexa-sdk/commit/e59a5655643c4865c12f517764782071bafebb79)
+- [ ] [<code>refactor(cli): merge resolveDevice + resolveNglNctx into resolveModelParams</code>](https://github.com/NexaAI/nexa-sdk/commit/d12bb93c8b5d8fdf4361f293132e893db3f1c83c)
+- [ ] [<code>refactor(cli): centralize "N/A" quant placeholder as types.QuantNA</code>](https://github.com/NexaAI/nexa-sdk/commit/39267ce14d6357000cca7e37675c776f34429c9f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): collapse list command's quant-collect closures</code>](https://github.com/NexaAI/nexa-sdk/commit/b6b121e91e605cbb697682caa7d1548403aa770c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): extract chat handler response helpers and regroup</code>](https://github.com/NexaAI/nexa-sdk/commit/e752b3e821379bbdee79d61cdab198977d76d9cc)
+- [ ] [<code>refactor(cli): plumb cmd.Context() through pull and run</code>](https://github.com/NexaAI/nexa-sdk/commit/6a059c880047a84209e63e745a3d1f8b5175b5cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): unify no-quant default via PickDefaultQuant, prefer Q4_0</code>](https://github.com/NexaAI/nexa-sdk/commit/5698e8ca2a4271e022032b56327cd357b7451d81)
+- [ ] [<code>chore(release): split linux preflight check into check.sh</code>](https://github.com/NexaAI/nexa-sdk/commit/e58f0ae4a91fb40b726c3a536f246252cf086e90)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: fixed android demo app docs</code>](https://github.com/NexaAI/nexa-sdk/commit/8c1252519396512e39631601cf3c42f3e6290052)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(release): check subdirectory by arch in check.sh</code>](https://github.com/NexaAI/nexa-sdk/commit/05dfc255db261b4413443bb50cb5e07879613550)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(release): symlink libcdsprpc and libadsprpc in the installer</code>](https://github.com/NexaAI/nexa-sdk/commit/b4253a1a15c902424206888945f8710192b5b33c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs: consolidate Models and Platforms & runtimes pages</code>](https://github.com/NexaAI/nexa-sdk/commit/72aafb755e4aba62c2e755d3b261e99442337739)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix typo in README.md for GenieX SDK</code>](https://github.com/NexaAI/nexa-sdk/commit/59c1de5a33c1b1cd65194497236adcf698a81ec8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: added qwen2.5-vl support for llama.cpp plugin</code>](https://github.com/NexaAI/nexa-sdk/commit/a2db03c5cb9a66f70680357fd39f2daa4ee19aa2)
+- [ ] [<code>docs: tidy holistic journey, Dragonwing branding, EN terminology pass</code>](https://github.com/NexaAI/nexa-sdk/commit/bf1b422ee873529c91fec956c8ca120eedc1af89)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: added loading effect</code>](https://github.com/NexaAI/nexa-sdk/commit/f7883db41f6919ac6aa17f07d6da7474c91070e7)
+- [ ] [<code>Add scoring results_v2</code>](https://github.com/NexaAI/nexa-sdk/commit/b57f6de3d4d54300ee5463fad181c75e6e71dc3a)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Merge branch 'main' of github.com:qcom-ai-hub/geniex into perry/feat/benchmark-geniex-with-genie</code>](https://github.com/NexaAI/nexa-sdk/commit/3c814232de20e18b640f7e7e049fa6ecd06d0ba8)
+  - <sub>Tags: <code>v0.2.1-rc.2</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(go): drop unused asr/cv/diarize/embedder/image_gen/reranker/tts bindings</code>](https://github.com/NexaAI/nexa-sdk/commit/da49dba38b83987537b347d0506a605135c4dd10)
+- [ ] [<code>refactor(go): tighten cgo bridge and align bindings with geniex.h</code>](https://github.com/NexaAI/nexa-sdk/commit/e7025216cf68a8977b00ebee244a14cac904f12e)
+- [ ] [<code>test(go): cover cgo helper and streaming callback contracts</code>](https://github.com/NexaAI/nexa-sdk/commit/cf1082dfd74411bfe6dc0e1ca0b78f233cc00f05)
+- [ ] [<code>test(cli): add placeholder go_test for untested packages</code>](https://github.com/NexaAI/nexa-sdk/commit/5b028fe388aa9475503f960952169fa5164ac554)
+- [ ] [<code>docs(build): document bazel coverage workflow</code>](https://github.com/NexaAI/nexa-sdk/commit/b812bac4a8d3771a7739391e45c6ef8a87e1ac11)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(cli): drop version cmd test that asserts on cobra writer</code>](https://github.com/NexaAI/nexa-sdk/commit/5c8d3bb72487d694cb72ead5f94823e0997b83da)
+- [ ] [<code>chore(build): bazel-ignore .claude worktree directory</code>](https://github.com/NexaAI/nexa-sdk/commit/883975379a6ca03464cbac2eb1a65ae595dcc365)
+- [ ] [<code>test(cli): add testutil.CaptureOutput helper</code>](https://github.com/NexaAI/nexa-sdk/commit/93bd699e4ef53982bf5dce1e6c6977342cc4fdf1)
+- [ ] [<code>feat(cli): add --format flag to geniex list (#776)</code>](https://github.com/NexaAI/nexa-sdk/commit/a1aed415996018770f14828e9cbbfe48354627fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): support --format csv on geniex list</code>](https://github.com/NexaAI/nexa-sdk/commit/2424d11a60b4db0f0ffccd0c2f6503959edd50b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #770 from qcom-ai-hub/chore/cli-linux-check-script</code>](https://github.com/NexaAI/nexa-sdk/commit/e4870272b8ada053235b6f3d51eee90a842bac7e)
+  - <sub>Tags: <code>v0.2.1</code></sub>
+- [ ] [<code>docs: add QAIRT quantization levels (w4a16, w4) to Models page</code>](https://github.com/NexaAI/nexa-sdk/commit/c04d11bc5ac62f46c776e0d81d7678e80d915ff5)
+- [ ] [<code>docs: remove redundant qairt code-identifier note from EN pages</code>](https://github.com/NexaAI/nexa-sdk/commit/204eb31f6ab11da173a7d5f934504415ea1f27bc)
+- [ ] [<code>add back runtime_benchmark scripts</code>](https://github.com/NexaAI/nexa-sdk/commit/a23ce38c87fef70b7b77b3427ea29fc3016ee2a0)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>update docs</code>](https://github.com/NexaAI/nexa-sdk/commit/d0a6a819a2b03f02ff5366e3ab3ada112c907ee8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>updaet geniex docs</code>](https://github.com/NexaAI/nexa-sdk/commit/808c28f4c6cf1aeabc1a803f92ab42b9e43cd940)
+- [ ] [<code>Merge pull request #795 from qcom-ai-hub/zack/dev/linux-docs</code>](https://github.com/NexaAI/nexa-sdk/commit/84f5c61dd2c290a1214ad5abcb0e668e63c08995)
+  - <sub>Tags: <code>untagged-3b464f58d760be3bb397</code></sub>
+- [ ] [<code>chore: updated GenieX capitalism</code>](https://github.com/NexaAI/nexa-sdk/commit/c1a3fe99433fe162867c9847cc15d9539caf67af)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: update runtime benchmark documentation and improve in-process model handling</code>](https://github.com/NexaAI/nexa-sdk/commit/114f4e45276ba2e115227902c3789759e9058c33)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix: fixed file name to be GenieX</code>](https://github.com/NexaAI/nexa-sdk/commit/335d615ed58d4eaf44a855e1cda8be7274450357)
+- [ ] [<code>update doc</code>](https://github.com/NexaAI/nexa-sdk/commit/edb7dba8901de4375c4d0dd88d86cf5784d64398)
+- [ ] [<code>fix: when building .apk, use the freshly built aar</code>](https://github.com/NexaAI/nexa-sdk/commit/0d0ffd851eaab1d2ef3268c83ac9e064802e986e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: fixed the aar problem</code>](https://github.com/NexaAI/nexa-sdk/commit/43d1b87a78a3fed6686f396202d6de7e7e759129)
+  - <sub>Tags: <code>v0.2.2</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(go): rename mlFree helper to free</code>](https://github.com/NexaAI/nexa-sdk/commit/f7b133fecbdd10271db07d80dab2ad6f8e281938)
+- [ ] [<code>test(cli): drop redundant loopvar capture in parseFiles test</code>](https://github.com/NexaAI/nexa-sdk/commit/f66a71b02d31fe8f64516174ca33318a5066df0f)
+- [ ] [<code>fix(cli): merge usage line into single `<cmd> [flags] [command]`</code>](https://github.com/NexaAI/nexa-sdk/commit/c3c61d0d1ebb48d5defc794c9ff340d43f314293)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): drop protobuf, parse AI Hub JSON with sonic</code>](https://github.com/NexaAI/nexa-sdk/commit/0e43f82a58a01e49f8471fafbfaed0efa666ec38)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>ci(ci): run Go CLI + bindings unit tests on linux-arm64</code>](https://github.com/NexaAI/nexa-sdk/commit/7179ee24a62a81bf5dcf92885df0caf5feb24bdb)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor(sdk)!: drop non-LLM/VLM modality APIs</code>](https://github.com/NexaAI/nexa-sdk/commit/865b40c5cbe66c610d888428ee957469d5e65682)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(sdk): drop trailing blank lines after section deletes</code>](https://github.com/NexaAI/nexa-sdk/commit/8b3c6218034489419130fef334a50225bbee0da3)
+- [ ] [<code>ci(ci): split test workflow into 6 jobs and decouple from release</code>](https://github.com/NexaAI/nexa-sdk/commit/fb5ee4bf5ec7d560d608077e331e86e0a6ac4f64)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor(cli): drop unused TeeReadF helper</code>](https://github.com/NexaAI/nexa-sdk/commit/d5c55f9bece1cdadc499dcd500205032425515ed)
+- [ ] [<code>test(cli): cover ModelManifest.GetSize</code>](https://github.com/NexaAI/nexa-sdk/commit/6f69cfd536d4cda33a134de1803951f2278caf05)
+- [ ] [<code>test(build): add go_cgo_test wrapper to find geniex.dll on Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/7d72a389dda9ac2d3a6aaefb295bd6aa8afd814e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(server): drop file:// prefix from path-based test inputs</code>](https://github.com/NexaAI/nexa-sdk/commit/95e47e7ede91076f2f468e3b68f8ddc02415e1a0)
+- [ ] [<code>chore(dx): add coverage skill and gate release targets by OS</code>](https://github.com/NexaAI/nexa-sdk/commit/345400714db8632e73128a570647674e1df6b546)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(go): exclude cgo helpers from lcov region coverage</code>](https://github.com/NexaAI/nexa-sdk/commit/0e49c8d5a7c4c7fe5a9ca843adef5930fa8e918b)
+- [ ] [<code>chore(dx): document lcov 1.x/msys2 quirks in coverage skill</code>](https://github.com/NexaAI/nexa-sdk/commit/3fdb2368dded85c14c739dafd710e9ae80632fe0)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci(ci): pin sdk-pytest to windows and raise GENIEX_LOG to trace</code>](https://github.com/NexaAI/nexa-sdk/commit/2a8e513e26519249ee28d6d3d2f214193e45db62)
+- [ ] [<code>fix: fixed merge conflicts</code>](https://github.com/NexaAI/nexa-sdk/commit/f81183a5fd2875e9bbec7662e46b3440ad30d908)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix: add entrypoint.sh for docker to resolve fastrpc libs</code>](https://github.com/NexaAI/nexa-sdk/commit/6b4267ceb15e11ef77c74b13f7c21f173870eb79)
+  - <sub>Tags: <code>v0.2.3-rc.2</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>feat: check-in some test results</code>](https://github.com/NexaAI/nexa-sdk/commit/342e46ed6db9cadc380d72b90e4bc3da6de47bb2)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: merge commit</code>](https://github.com/NexaAI/nexa-sdk/commit/3248ec277dcdec3b766a8ce3de58677460c3ea18)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix: auto detects whether a model can think, and default pybind to thinking</code>](https://github.com/NexaAI/nexa-sdk/commit/b8a288d18fa5bdfa713beb3450908004b2c11577)
+- [ ] [<code>fix: fixed the pybind explicit pass think=true problem</code>](https://github.com/NexaAI/nexa-sdk/commit/6258e2a05b6974f53baef718958091a3c24646bb)
+- [ ] [<code>fix(python): unbreak ruff format and CLI logger test</code>](https://github.com/NexaAI/nexa-sdk/commit/b489632fa4df1dbe47ea411d620e847195c09618)
+  - <sub>Tags: <code>v0.2.3-rc.3</code></sub>
+- [ ] [<code>fix: update wheel version</code>](https://github.com/NexaAI/nexa-sdk/commit/e032c2425dbd40c61f5762913b61697b853b438e)
+- [ ] [<code>chore(runtime_benchmark): drop repro_gravity.py</code>](https://github.com/NexaAI/nexa-sdk/commit/a06c6f59f2d87b998fe12c4b3f23c575563f8aa0)
+- [ ] [<code>feat(runtime_benchmark): add --skip-genie for geniex-only re-runs</code>](https://github.com/NexaAI/nexa-sdk/commit/fc1b6c715d03b3850af99bd15519ed367d0ab790)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>feat(cli): accept ai-hub-models/ prefix as qualcomm/ alias</code>](https://github.com/NexaAI/nexa-sdk/commit/9902536cfb77d72f6f11534d4614ad3360f699c7)
+- [ ] [<code>feat(sdk): rewrite ai-hub-models/ prefix to canonical qualcomm/</code>](https://github.com/NexaAI/nexa-sdk/commit/91c99eb5e2a470d3625b1db345e2846712cfcbac)
+- [ ] [<code>fix(cli): unbreak HF URL handling in NormalizeModelName</code>](https://github.com/NexaAI/nexa-sdk/commit/aeb8eab9625317ff91c097c89def970e4c4da906)
+- [ ] [<code>refactor(cli): drop ai-hub-models from aiHubOrgs</code>](https://github.com/NexaAI/nexa-sdk/commit/e23ccbcaceb4ef905a14a17a770bd3a381a511e3)
+- [ ] [<code>feat: added more benchmark results</code>](https://github.com/NexaAI/nexa-sdk/commit/b63fd4814a46e2a6bcc0c7909cdd0ae870de1843)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(sdk): make geniex_benchmark build and run on Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/874933bc95606117e813d107ff87537842fb16af)
+- [ ] [<code>build(sdk): enable GENIEX_BENCHMARK in release snapdragon presets</code>](https://github.com/NexaAI/nexa-sdk/commit/e5f75581a3f85eeac0d1cc135d28256871cfbccc)
+- [ ] [<code>docs(sdk): document benchmark build/run for Windows, Linux, Android</code>](https://github.com/NexaAI/nexa-sdk/commit/cdc1197c7af91aa473045f8d8ee640305f8997bc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(sdk): port test_model_manager mkdir to Windows</code>](https://github.com/NexaAI/nexa-sdk/commit/b7e00da61cd330eeeb05feb8c8bbf203ea8becc1)
+- [ ] [<code>chore(sdk): ignore .cache and document threadpool tuning log</code>](https://github.com/NexaAI/nexa-sdk/commit/448e9a5fc351ea2751e68314f736a0f279dbc925)
+- [ ] [<code>refactor(sdk): extract params/threadpool/devices helpers in llama_cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/263243f1d125bd0d220fc8ad76e7c2bf51fd8904)
+- [ ] [<code>refactor(sdk): extract sampler params builder, apply config to VLM</code>](https://github.com/NexaAI/nexa-sdk/commit/d39e1af7ef10a8f902b0e66797f2b8dd8293040c)
+- [ ] [<code>refactor(sdk): route llama_cpp params builders by (platform, device)</code>](https://github.com/NexaAI/nexa-sdk/commit/eccc54c186a065836f22b312dd04fc327c1e62ca)
+- [ ] [<code>fix(sdk): run VLM prompt through chat template in benchmark</code>](https://github.com/NexaAI/nexa-sdk/commit/d9b657f2b2a0132a7f33f07b17aeece5fcae687d)
+- [ ] [<code>feat(sdk): add --ngl to benchmark for explicit gpu offload</code>](https://github.com/NexaAI/nexa-sdk/commit/409300931e79218fdc8bde010ae7194dc367ed52)
+- [ ] [<code>fix(sdk): reset VLM between benchmark runs</code>](https://github.com/NexaAI/nexa-sdk/commit/75b9d623720958dab8d7518ac128f771b4c0e632)
+- [ ] [<code>fix(sdk): don't leak global --vlm/--image into matrix cells</code>](https://github.com/NexaAI/nexa-sdk/commit/afff2e06acb4a977d534b803b97ddffde52d597a)
+- [ ] [<code>feat: check-in more test results</code>](https://github.com/NexaAI/nexa-sdk/commit/54da0cd36d1c60b24f5379d8b8b6d64cd2c9060b)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: bump up geniex-qairt to include the alignment commit</code>](https://github.com/NexaAI/nexa-sdk/commit/abfd602ee0bc09e423f8a91a312999c588c2cf87)
+  - <sub>Tags: <code>v0.2.3-rc.4</code></sub>
+- [ ] [<code>refactor: align with new ChatMessage schema</code>](https://github.com/NexaAI/nexa-sdk/commit/70558c12d114ed256719c148fc07c5f6abfdca70)
+- [ ] [<code>feat: allow the LLM prompt to be unformatted by benchmark.c</code>](https://github.com/NexaAI/nexa-sdk/commit/ac58d07ccdc44e9e7e44da96fe8daa20ceac1341)
+- [ ] [<code>docs: add an FAQ in GenieX docs</code>](https://github.com/NexaAI/nexa-sdk/commit/40d6d8c39dd5e7009c8471d0bbc324720ca07c89)
+- [ ] [<code>fix(ci): move HTP signing key from repo file to secret</code>](https://github.com/NexaAI/nexa-sdk/commit/9e5effa9aa880f6fa7b5566293e1de3020c620f5)
+- [ ] [<code>fix(ci): use ASCII in HTP cert-secret guard message</code>](https://github.com/NexaAI/nexa-sdk/commit/de1f09678c440ea060aa93a3f62217fd7bc58678)
+- [ ] [<code>feat(sdk): route Go CLI model management through the SDK model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/73300d3f1235f43910a3ebc31ac3f8f22b8f2218)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore(sdk): drop the GENIEX_MODEL_MANAGER build option</code>](https://github.com/NexaAI/nexa-sdk/commit/a8cd9ef7b30fc3dbd228b189a11c9e3c51408605)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(sdk): address model-manager review findings</code>](https://github.com/NexaAI/nexa-sdk/commit/ca6b42c6eed5e9c5c89ee182bf225cee02690b31)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(sdk): minimize model-manager FFI surface from review</code>](https://github.com/NexaAI/nexa-sdk/commit/d19a330d72f89db6bdd9c4928673b11acf4b3af3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>refactor(sdk): delete dead model-manager surface from review</code>](https://github.com/NexaAI/nexa-sdk/commit/a84cdf10d99f0f12853ecee629b5b817e18086d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(sdk): consolidate query into pull input + return model_type from get_paths</code>](https://github.com/NexaAI/nexa-sdk/commit/f00d8c39d899cc55662419b1237a07a61f6b3e68)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(build-sdk): key cargo cache on Rust sources, not just Cargo.lock</code>](https://github.com/NexaAI/nexa-sdk/commit/1cec2c4476a6353ad9719280bfe3fe5155567849)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(build): sync Bazel BUILD/MODULE after the model-manager migration</code>](https://github.com/NexaAI/nexa-sdk/commit/4f0b0e60b44cfa590d92e62d9b7e347a93ee9a3f)
+- [ ] [<code>fix(build): expose geniex_model.h from the //sdk cc_library</code>](https://github.com/NexaAI/nexa-sdk/commit/91a72c41a5373af0126b1bde2f0a6441151161d0)
+- [ ] [<code>fix(android): drop deleted ModelPaths.device_id use in the demo app</code>](https://github.com/NexaAI/nexa-sdk/commit/c45ed904afce78b5ee8ea3ba94c7944fed444774)
+- [ ] [<code>fix(sdk): ignore enable_thinking for llama.cpp VLM</code>](https://github.com/NexaAI/nexa-sdk/commit/953898dd127808252c6d5f3f7b47b2436eb4c433)
+- [ ] [<code>Merge pull request #828 from qcom-ai-hub/refactor/cli-sdk-model-manager</code>](https://github.com/NexaAI/nexa-sdk/commit/5874b2d70f5a7b279a1191497d36ce6846f67696)
+  - <sub>Tags: <code>v0.2.3</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: check-in more tests results</code>](https://github.com/NexaAI/nexa-sdk/commit/8d2b36d0aea61c3335465c217f63f996b82537fc)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat: align android-new with android</code>](https://github.com/NexaAI/nexa-sdk/commit/95764c0cd6c54a771b0f752241886c15b117fd42)
+- [ ] [<code>chore: update entrypoint to only prompt package warning once</code>](https://github.com/NexaAI/nexa-sdk/commit/b1421a612467eb2c36b09e3b02f774fab5006e98)
+- [ ] [<code>docs: update FAQ for linux arm64 driver installation</code>](https://github.com/NexaAI/nexa-sdk/commit/ee8fc040eab8010fae1fbc3fadc88f98d653f76b)
+- [ ] [<code>fix: correctly getting size from hf, and better handling of size display when failed to get</code>](https://github.com/NexaAI/nexa-sdk/commit/38e9beffc6a81bbea4f25d9c8da6225ea652335a)
+- [ ] [<code>chore: downgrade model manager init log to debug</code>](https://github.com/NexaAI/nexa-sdk/commit/228e159e7b40a2ed74790ada2d432e8e1ecbda3c)
+- [ ] [<code>fix(android): expose ModelType.fromValue as JvmStatic for JNI</code>](https://github.com/NexaAI/nexa-sdk/commit/2fe76e5a460eea0ee5d17cf98c914e27a97f513e)
+- [ ] [<code>feat(android): switch demo model names to ai-hub-models/ prefix</code>](https://github.com/NexaAI/nexa-sdk/commit/bbe2c22974860754437439bd3f17ddb6be2b4569)
+- [ ] [<code>chore(android): bump geniex-android pin to 0.2.3 in demos</code>](https://github.com/NexaAI/nexa-sdk/commit/2a8bd662db244cbf7d00d5b2986023ea0ebeff45)
+  - <sub>Tags: <code>v0.2.4</code></sub>
+- [ ] [<code>Merge pull request #845 from qcom-ai-hub/fix/paul/linux-0603</code>](https://github.com/NexaAI/nexa-sdk/commit/4bed7e2f45ef0486fdec02e7cbe8b4937249905b)
+  - <sub>Tags: <code>v0.2.5</code></sub>
+- [ ] [<code>fix: fixed submoudule path</code>](https://github.com/NexaAI/nexa-sdk/commit/f6cf75b8c6ad033536bbc7c4f9c140c428b2ac75)
+- [ ] [<code>updated .gitignore</code>](https://github.com/NexaAI/nexa-sdk/commit/a1396da6b9af990cbb5e9cc93496ffa1c372324b)
+- [ ] [<code>chore(android): bump geniex-android pin to 0.2.6 in demos</code>](https://github.com/NexaAI/nexa-sdk/commit/fd5199772597db72e27c2949019abb4034b5edc6)
+- [ ] [<code>docs(android-new): align README with examples/android</code>](https://github.com/NexaAI/nexa-sdk/commit/650d08304f376c9222ac1462638bf8f5945f1e95)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(android): replace examples/android with android-new layout</code>](https://github.com/NexaAI/nexa-sdk/commit/6387f9a3642124f90bd072075460cecfbf4ff25f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(android): mark examples/android/gradlew executable</code>](https://github.com/NexaAI/nexa-sdk/commit/e5dbbc5107eaca27684a155e7b482ecbfb2e954c)
+- [ ] [<code>refactor(android): replace pluginIds bitmask with runtime string</code>](https://github.com/NexaAI/nexa-sdk/commit/198e49a3dcab2336501537eecbb495c0c263eedb)
+- [ ] [<code>docs(sdk): rewrite stale sdk/README, move llama-cpp-python note to python binding</code>](https://github.com/NexaAI/nexa-sdk/commit/b373eee0405ffc16ca74561a049d6445862fc062)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>docs: reorder build.md to the real build sequence (SDK before CLI)</code>](https://github.com/NexaAI/nexa-sdk/commit/1109758a24fbea2b3e81802fb90ae4d791ec0ef8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #810 from qcom-ai-hub/perry/refactor/android-app-align</code>](https://github.com/NexaAI/nexa-sdk/commit/42db5f13b8e4f06fb95e95705259110f253f7bbb)
+  - <sub>Tags: <code>v0.2.6</code></sub>
+- [ ] [<code>fix(sdk): always invoke cargo and route target dir into the CMake build tree</code>](https://github.com/NexaAI/nexa-sdk/commit/67dbf3f3bd00077a22c5cdb5cf42d172773dca26)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(go): replace EnableBridgeLog with SetLog applied at runtime</code>](https://github.com/NexaAI/nexa-sdk/commit/0b1df54f27db4ab7632072966326d8aa1abf162b)
+- [ ] [<code>feat(ci): run benchmark on QDC devices and render a per-version scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/64528dfec3793b8a27a3a2c8f2371f1308794f4d)
+  - <sub>Keywords: <code>bin</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix: Add geniex prefixes to check_npu_bare_libs function</code>](https://github.com/NexaAI/nexa-sdk/commit/44238f3cc40d9f8f90ebc720ed1a57969b31d15d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge main into alan-doc/may27 (resolve conflicts with ours)</code>](https://github.com/NexaAI/nexa-sdk/commit/b865213a29c86cee52a55938796ffd67c7a85451)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(ci): add Windows (X-Elite) support to the QDC benchmark scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/741abb08dca20e924f2514cc47f40cd08392b6b3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(sdk): keep partial output when context window is exhausted</code>](https://github.com/NexaAI/nexa-sdk/commit/b3137d63d0ecc1abbc649c42b1b983edd461691f)
+- [ ] [<code>fix(go): surface populated output on generate error</code>](https://github.com/NexaAI/nexa-sdk/commit/62a9a2bb9e6edb4d5cb56e69e51e98ae77c8c701)
+- [ ] [<code>fix(cli): show partial text on truncated generation</code>](https://github.com/NexaAI/nexa-sdk/commit/71a201853827e64b88cb274c61e602b73084960a)
+- [ ] [<code>feat(ci): add Android (SM8850) support to the QDC benchmark scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/38b0d1aeba4e7e653e0ac29a1bd06b01afc75672)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(sdk): track llama.cpp VLM n_past by token, not character offset</code>](https://github.com/NexaAI/nexa-sdk/commit/76207cdc0b16e4d632907f064859ecac7bb70bfb)
+- [ ] [<code>chore: bump up aihub version to 0.55.0</code>](https://github.com/NexaAI/nexa-sdk/commit/24186a703c410d99916393292abc78f64206a78f)
+- [ ] [<code>chore: bump up geniex-qairt to fix qwen2.5vl loading on IQ9</code>](https://github.com/NexaAI/nexa-sdk/commit/1c8c7242c5293fc42e2e4340479ac60173933bb3)
+- [ ] [<code>ci(sdk): add X2 Elite (SC8480XP) to the QDC scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/ddc6744c136ccaac77de4abf1190d2329732fd45)
+- [ ] [<code>perf(cli): cache plugin versions to speed up `geniex version`</code>](https://github.com/NexaAI/nexa-sdk/commit/8669681e6c82962798a82a70f180bbf4bedafeca)
+- [ ] [<code>test(android): script the adb-shell pytest harness from #682</code>](https://github.com/NexaAI/nexa-sdk/commit/b6f4b47f2f9b76326f4eaca23a6006b7b72f63c8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(android): fix pip bootstrap and pytest marker selection</code>](https://github.com/NexaAI/nexa-sdk/commit/9a4b228cd5336a0e63b621ed8dc8e59f513123f8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(android): link the binding decode bug to #888 instead of inlining it</code>](https://github.com/NexaAI/nexa-sdk/commit/835de8285c45b049248a5bc07a398ca3f7d6c70c)
+- [ ] [<code>ci(scorecard): retry QDC submit on pending-job quota, raise max-parallel to 4</code>](https://github.com/NexaAI/nexa-sdk/commit/c28e1fc4b23eacce8ebee65b4e50790b05891e0b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(sdk): parse per-row image/vlm columns in benchmark matrix mode</code>](https://github.com/NexaAI/nexa-sdk/commit/c8af5a85c14af5977bfd4edbfed90b598a26a0fc)
+- [ ] [<code>feat(ci): add gemma-3n / Qwen3.5-0.8B / Qwen2.5-VL-7B and wire image VLM into the QDC scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/a7eb24d78b183eec829ad5d64eb36f560d016419)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci(scorecard): restore X2 Elite chipset row and run default matrix on all 5 devices</code>](https://github.com/NexaAI/nexa-sdk/commit/e9ed80a19893e95d167da57d3d000994387d2027)
+- [ ] [<code>feat(cli): auto-reset conversation on context length exceeded</code>](https://github.com/NexaAI/nexa-sdk/commit/4a48bc4dc9154e62dbb4e6dc2b402cfcb8a9b7a6)
+- [ ] [<code>feat(cli): map streamed server error code back to SDKError in run</code>](https://github.com/NexaAI/nexa-sdk/commit/bb84ed3a40c7270d680c4ed0e3846db1ed86020d)
+- [ ] [<code>refactor(sdk): flatten benchmark into sdk/benchmark and extract shared QDC primitives</code>](https://github.com/NexaAI/nexa-sdk/commit/4ed84f9a9dd9a473a29f001157041231924529b9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>test: remove the duplicate Python benchmark harness</code>](https://github.com/NexaAI/nexa-sdk/commit/517f062431ae5109d5206d88f5b79af08ec4b18a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci: run model-running pytest cells on QDC Android, keep only api on GitHub</code>](https://github.com/NexaAI/nexa-sdk/commit/a57f26c37838294c4748df6aa34431c42826539f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Merge pull request #883 from qcom-ai-hub/ci/restructure-test-layout</code>](https://github.com/NexaAI/nexa-sdk/commit/b5439241650cb855d4ce5e2c542bfb9833ca0086)
+  - <sub>Tags: <code>v0.2.7-rc1</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(build): bump llama.cpp to 7c158fbb</code>](https://github.com/NexaAI/nexa-sdk/commit/6cae99a4e17414177f61ccab5374192995eef1a4)
+- [ ] [<code>fix(sdk): adapt llama_cpp plugin to llama.cpp 7c158fbb API changes</code>](https://github.com/NexaAI/nexa-sdk/commit/c4fb9e320783260d75e0aeb28b91c4c60708e0d8)
+  - <sub>Tags: <code>v0.2.7-rc.2</code> <code>v0.2.7-rc.4</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: check-in more tests results</code>](https://github.com/NexaAI/nexa-sdk/commit/e1c3f319a01ab25b8ec847ceebb02b681d76ee7a)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat: update qairt plugin hash</code>](https://github.com/NexaAI/nexa-sdk/commit/a2406ee080f13190ccc4b0d5e04638b13fc95bb7)
+  - <sub>Tags: <code>v0.2.7-rc.3</code></sub>
+- [ ] [<code>feat: update benchmark script to use pybind again</code>](https://github.com/NexaAI/nexa-sdk/commit/926a8771ece4a1ec9c21f18c197c9f005b97c58c)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>feat: llama3.2-1b-w4-after-alignment result check-in</code>](https://github.com/NexaAI/nexa-sdk/commit/7ffeea29d1224dded13609648a94daa71b4dfd41)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: check-in llama3.2-3b after-alignment results</code>](https://github.com/NexaAI/nexa-sdk/commit/59876ea8958e6f6c62ca96e0fdf742a3b3ee8035)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: benchmark script should not set temperature = 0.0</code>](https://github.com/NexaAI/nexa-sdk/commit/66b84658eb44cb7eff729ab8829a2be07b77a8a4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci(scorecard): shorten matrix job names</code>](https://github.com/NexaAI/nexa-sdk/commit/9cd848f475e5c80da27ded81253ebc7614336cb8)
+- [ ] [<code>fix(python): tolerate partial UTF-8 in LLM/VLM decode</code>](https://github.com/NexaAI/nexa-sdk/commit/8da416e28f3800ae16043fb9fd5f161f0164fdc3)
+- [ ] [<code>fix(ci): match QDC log basenames so the scorecard recovers cell JSONs</code>](https://github.com/NexaAI/nexa-sdk/commit/f43e5d71373ae80d524c3d89b5e2cf6aa7f016f9)
+- [ ] [<code>test: add keyword-quality checks aligned with test-llama.cpp scorecard</code>](https://github.com/NexaAI/nexa-sdk/commit/72862905eec205fb2a66c6200300cafa2a03390e)
+- [ ] [<code>test: clarify quality-check sampler deltas vs. test-llama.cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/833f9d1a62edf0640d3da5aa6ce7c1c61dd26c14)
+- [ ] [<code>ci: keep submodule paths in changed-files, stop crashing under set -e</code>](https://github.com/NexaAI/nexa-sdk/commit/05c92120adce707cbf23cd3b019875f4fd300969)
+- [ ] [<code>fix(qdc): keep summary readable when assertion message contains prose</code>](https://github.com/NexaAI/nexa-sdk/commit/bc18daa2a8a3d3ea847c50a16a24be981c66f66e)
+- [ ] [<code>ci: align PR Check and Test job names, run QDC on tag</code>](https://github.com/NexaAI/nexa-sdk/commit/ffd2745fae5057adbc04d53c86c41d57bf2825da)
+- [ ] [<code>refactor(ci): extract ubuntu:24.04 docker template into a composite action</code>](https://github.com/NexaAI/nexa-sdk/commit/b72c1bd0573fe6fba6c713948b8814806bc8d62b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(qdc): make pytest summary readable when assertion msgs contain prose</code>](https://github.com/NexaAI/nexa-sdk/commit/fb5b76e1d84a3d3eb6e81b4ca17e0fec128de438)
+- [ ] [<code>fix(sdk): install llama-common with the llama_cpp plugin libs</code>](https://github.com/NexaAI/nexa-sdk/commit/b2fe93b585a0ef731479892ee09dd27794ce44fc)
+  - <sub>Tags: <code>v0.2.7-rc.5</code> <code>v0.2.7-rc.6</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(sdk)!: align benchmark with llama-bench naming and table</code>](https://github.com/NexaAI/nexa-sdk/commit/5e9d6ea8bf32a23a72a3eb99ec1592876fe0e866)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(sdk): link benchmark against libm on glibc targets</code>](https://github.com/NexaAI/nexa-sdk/commit/6ab957e79ba37aa7376c36eedbbf4b49363cf090)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(cli): suppress bridge debug logs during normal usage</code>](https://github.com/NexaAI/nexa-sdk/commit/4c23f1fff31b1f4fc5d9b6320839a04a1608b9cd)
+- [ ] [<code>Merge pull request #897 from qcom-ai-hub/chore/bump-llama-cpp</code>](https://github.com/NexaAI/nexa-sdk/commit/bb3f0746237c2996b92bf15a6fc062d59eaeb64f)
+  - <sub>Tags: <code>v0.2.7</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(third-party): update geniex-qairt subproject commit hash</code>](https://github.com/NexaAI/nexa-sdk/commit/bb0f5b18adc3c0ab86f1e0a238cee44761f900c0)
+  - <sub>Tags: <code>v0.2.8</code></sub>
+- [ ] [<code>feat: check-in more test results</code>](https://github.com/NexaAI/nexa-sdk/commit/d563280a1eabeb0586a0db2c85e32111da513f8a)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>chore: remove benchmark scripts</code>](https://github.com/NexaAI/nexa-sdk/commit/2c7fc7654c1b70b572775baa52df62d0b6b269cc)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>chore: align with new geniex-qairt API</code>](https://github.com/NexaAI/nexa-sdk/commit/f09975bc6cb6793ec11f94535e2a9890eac0b977)
+- [ ] [<code>test(sdk): align llama_cpp pytest models with QAIRT cells</code>](https://github.com/NexaAI/nexa-sdk/commit/7b1a2ea20f9167bf7bf22f5b86ff0855ae8419e5)
+- [ ] [<code>ci(scorecard): support comma-separated chipset and model inputs</code>](https://github.com/NexaAI/nexa-sdk/commit/e034177d656c6ab9bdb088af7a6ee5ab1985690c)
+- [ ] [<code>test(sdk): use Qwen3-4B base instead of Instruct-2507</code>](https://github.com/NexaAI/nexa-sdk/commit/525278486a7160034d6ca4762b33e13f657cdc59)
+- [ ] [<code>feat(sdk): sweep scorecard ctx in {512, 1024, 4096}</code>](https://github.com/NexaAI/nexa-sdk/commit/010090b23934631304f5d271271e2fd74bbcfa33)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(sdk): drop --prompt-as-is from scorecard ctx sweep</code>](https://github.com/NexaAI/nexa-sdk/commit/c521b47405c333d74f8ba5a71f5c1c1633aa3d83)
+- [ ] [<code>debug: dump device script.log into GHA stderr (TEMP)</code>](https://github.com/NexaAI/nexa-sdk/commit/0030b4c04c71fdf4ad964e4131ed5c4440416b42)
+- [ ] [<code>feat(sdk): --reset-between-runs for the scorecard ctx sweep</code>](https://github.com/NexaAI/nexa-sdk/commit/549d88e4cc36224e403fae19c28585a2a4669d48)
+- [ ] [<code>test(sdk): move QDC pytest to X Elite Windows ARM64</code>](https://github.com/NexaAI/nexa-sdk/commit/cc7616d744a4e9168f796b73f9300eb9f1f39ff2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>test(sdk): drop `-o norecursedirs` from QDC pytest, log every bootstrap step</code>](https://github.com/NexaAI/nexa-sdk/commit/378abe2dda3af4a3715327ad74827ca7da9b0638)
+- [ ] [<code>refactor(cli): remove model_hub, sochost, and device auto-detection</code>](https://github.com/NexaAI/nexa-sdk/commit/076fc54702978118d59de99d529a457bec7c4edb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(sdk): write bindings/python into python313._pth for QDC embed build</code>](https://github.com/NexaAI/nexa-sdk/commit/46989c80260aae1f5965fc857d7ea1195a7ed287)
+- [ ] [<code>feat(ci): expand scorecard summary with versions, models, tag-aware label</code>](https://github.com/NexaAI/nexa-sdk/commit/258a0414f527689f4b2486c1c6b56f7916e2f373)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test(sdk): split QDC pytest into llama_cpp + qairt matrix</code>](https://github.com/NexaAI/nexa-sdk/commit/70c643765cb425ab2396f8f49daf3b9cbf0bac90)
+- [ ] [<code>test(python): hoist quality-keyword assert into local bool</code>](https://github.com/NexaAI/nexa-sdk/commit/4e806d7cf838c875c17c6c4c36e5a8bcfe0f2292)
+- [ ] [<code>test(sdk): split QDC pytest into 3 legs [llama_cpp_llm, llama_cpp_vlm, qairt]</code>](https://github.com/NexaAI/nexa-sdk/commit/d480fd195fa53eabeadc2a25f74555f4e3957aab)
+- [ ] [<code>test(python): drop duplicate failure fence in QDC summary</code>](https://github.com/NexaAI/nexa-sdk/commit/fead6a2d6eaaf5697726246d08dd33fa98a8f6f8)
+- [ ] [<code>feat(sdk): split collapsed hub failures into distinct error codes</code>](https://github.com/NexaAI/nexa-sdk/commit/69bc195134b1d988e9542d91c19fa6f19791c54a)
+- [ ] [<code>update README</code>](https://github.com/NexaAI/nexa-sdk/commit/f57128e1f62f83eb250294e9e27b15b65003d098)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5434,6 +7098,67 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(telegram): trust grammy api contract in handler seams</code>](https://github.com/openclaw/openclaw/commit/3078a8335d5887f96d6b08162a3b89da55b5a559)
 - [ ] [<code>refactor(telegram): drop NO_REPLY precount debug logging</code>](https://github.com/openclaw/openclaw/commit/7200c316e53172179a723603ca8b785eab1e7411)
 - [ ] [<code>docs(streaming): document Telegram block-mode preview chunk sizing</code>](https://github.com/openclaw/openclaw/commit/050c0813b39f5347789291c728c0fa5fa3c6b827)
+- [ ] [<code>fix(compaction): lower default timeout from 900s to 180s, preserve explicit config (#91361)</code>](https://github.com/openclaw/openclaw/commit/bb6e47729cf8a9ec5902c8a8fd11de706054ad2a)
+- [ ] [<code>test(tooling): isolate pnpm fallback path</code>](https://github.com/openclaw/openclaw/commit/4ecec2f9e2f8a1d827e6f5c0c427b38eba38646f)
+- [ ] [<code>fix(sandbox): use materialized skill paths in startup prompts (#91791)</code>](https://github.com/openclaw/openclaw/commit/b71d8e1c32e3903eed765164287c51cbce446e51)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Support existing-session browser CDP endpoints (#91736)</code>](https://github.com/openclaw/openclaw/commit/ac21e89c13e42f6a7d152bf9be143e67edd44ed3)
+- [ ] [<code>fix(browser): validate discovered CDP websocket URLs (#91747)</code>](https://github.com/openclaw/openclaw/commit/ade5ac03506e4a8f4d06ffb99c8b5500a3f0db28)
+- [ ] [<code>feat(anthropic): support Claude Fable 5 adaptive thinking (#91882)</code>](https://github.com/openclaw/openclaw/commit/0e7b5c34292cc28707a0e5a0b730cff295ef0f8a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory): keep ignored-name QMD roots watchable</code>](https://github.com/openclaw/openclaw/commit/dbcae5b78d9fcbae7479d0fddd1a7bb0a034e923)
+- [ ] [<code>fix(auth): verify SQLite auth migration before cleanup</code>](https://github.com/openclaw/openclaw/commit/e24c3df27d286f1bfb2282f50469ae1bee18226e)
+- [ ] [<code>fix(mcp): repair OAuth redirect, errors, and unicode schema patterns (#91451)</code>](https://github.com/openclaw/openclaw/commit/7a34986ef0649d603852d093870e96640dec3daa)
+- [ ] [<code>fix(gateway): arm qmd startup maintenance</code>](https://github.com/openclaw/openclaw/commit/17be26bc4f8bf2d0df9a6c299b05ca443673750e)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(talk): show OpenAI Realtime WebRTC assistant transcripts (#90426)</code>](https://github.com/openclaw/openclaw/commit/7926acee98c35dbc517f250c5d98826b4746024d)
+- [ ] [<code>fix(agents): preserve reasoning_content replay for Gemma 4 openai-completions models (#91645) (#91696)</code>](https://github.com/openclaw/openclaw/commit/78a5e3ede7387b58f6e13319d240fbfd1ac02cd9)
+- [ ] [<code>Fail closed on exec approval timeout (#89938)</code>](https://github.com/openclaw/openclaw/commit/49737a50af3970011bc5fc237421f81eb3fdacb5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(webchat): finalize provider failure lifecycle (#91895)</code>](https://github.com/openclaw/openclaw/commit/33a3e05683100ef6a5e9fbf62dcf4c561ba212fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(browser): honor cdp url for default session profile (#80143)</code>](https://github.com/openclaw/openclaw/commit/2e4bf410a2f05a158cd6b03389b54f04786db876)
+- [ ] [<code>docs(release): fix sequential patch numbering</code>](https://github.com/openclaw/openclaw/commit/fb9dc867b160be3c3cf73a1f73a6175938c85a7b)
+- [ ] [<code>docs(release): align remaining patch placeholders</code>](https://github.com/openclaw/openclaw/commit/09356fb9851ed97aac0ba4c16f764ebf5d863397)
+- [ ] [<code>docs(changelog): refresh 2026.6.6 notes</code>](https://github.com/openclaw/openclaw/commit/cdd923c286885896db2d3523cb0fe7ab1fa1f828)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): reject cron expressions that have no reachable run time (#91688)</code>](https://github.com/openclaw/openclaw/commit/b0520fa3202c22ee3732fae9bfc5a8eb5fc1d4ec)
+- [ ] [<code>fix(cron): use final-call usage for session token totals (#91737)</code>](https://github.com/openclaw/openclaw/commit/50c206826888752c79355c1f96eb7820c87330a2)
+- [ ] [<code>fix(reply): dedupe media finals after direct blocks</code>](https://github.com/openclaw/openclaw/commit/9922da396532080b9f1e576b8866f64b122bf67b)
+- [ ] [<code>fix(reply): cover direct streaming block media</code>](https://github.com/openclaw/openclaw/commit/9ef34da5a9c26cea76a523d2df961e3cab06f232)
+- [ ] [<code>fix(reply): preserve unmatched final text</code>](https://github.com/openclaw/openclaw/commit/c7c695c208adb3b0f43f6cae138bcd27367027c6)
+- [ ] [<code>test(reply): assert unmatched final text</code>](https://github.com/openclaw/openclaw/commit/7a4f678a299c803944977c6a37b51d818a89e00b)
+- [ ] [<code>fix(reply): dedupe combined direct block text</code>](https://github.com/openclaw/openclaw/commit/551664c3c51473b7d1dd03d2726247112db84def)
+- [ ] [<code>fix(reply): preserve repeated direct block fragments</code>](https://github.com/openclaw/openclaw/commit/a1546fae80bc6925b363618e3fbb6b5aabac8de1)
+- [ ] [<code>fix(reply): dedupe directly sent block media</code>](https://github.com/openclaw/openclaw/commit/41000143a195af8c436dbdbd905bb4066ae21262)
+- [ ] [<code>fix(reply): group direct block delivery evidence</code>](https://github.com/openclaw/openclaw/commit/389c0aba98cb497eda5752f376c3a01e2d6f0e95)
+- [ ] [<code>fix(reply): match direct fragments to final messages</code>](https://github.com/openclaw/openclaw/commit/8f82f5809fec97c20b4b202fb65ab34fadb86a7e)
+- [ ] [<code>fix(reply): use latest direct assistant group</code>](https://github.com/openclaw/openclaw/commit/80dc6cf6ab16c994c46f3419766454070bea0320)
+- [ ] [<code>fix(reply): carry final assistant message identity</code>](https://github.com/openclaw/openclaw/commit/756e9d16a0a6f6abdfc3f6cc9c47f8ecdd7a67a4)
+- [ ] [<code>fix(reply): preserve direct block emission order</code>](https://github.com/openclaw/openclaw/commit/ea7e5ee4362397f2f0c288a7acdf706113ce8274)
+- [ ] [<code>fix(reply): preserve direct block emission order</code>](https://github.com/openclaw/openclaw/commit/40da4a31d27ad8afa51b868ed5a26c48d9a9e911)
+- [ ] [<code>test(agents): update embedded subscription fixture</code>](https://github.com/openclaw/openclaw/commit/32f84112564e83e28de252e70c2d6948cd1af377)
+- [ ] [<code>test(agents): expose assistant message index</code>](https://github.com/openclaw/openclaw/commit/a427aff3046ab0988858d5245e8e14619efc8c7b)
+- [ ] [<code>fix(reply): preserve meaningful final whitespace</code>](https://github.com/openclaw/openclaw/commit/c944986c7baeda7951b3718fd0d1436c37d53714)
+- [ ] [<code>fix(reply): retain direct fragment boundaries</code>](https://github.com/openclaw/openclaw/commit/caa83b0c4203fe820d839d0cefeaebb7f060492b)
+- [ ] [<code>test(reply): type direct delivery payloads</code>](https://github.com/openclaw/openclaw/commit/aeb537c286206da72fb9348e2c9784670981b3dd)
+- [ ] [<code>fix(release): stabilize candidate validation</code>](https://github.com/openclaw/openclaw/commit/5d2eb3c3e1ac6578494bc2c059cfc648915f77b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): raise package scan headroom</code>](https://github.com/openclaw/openclaw/commit/fbb1eab4c7929dd8fcb37a9157d4ebc50169667b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(process): return timeout code for killed commands</code>](https://github.com/openclaw/openclaw/commit/781e03a179ea54426887203f37193b64e3c54d9f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document command timeout result code</code>](https://github.com/openclaw/openclaw/commit/a69dd43de5b502b4d9739f67261b397ada259feb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(usage-cost-cache): throttle full-cache rewrites during refresh</code>](https://github.com/openclaw/openclaw/commit/e6e27c354ca908d364e696edefe9bc3cd35ae3f3)
+- [ ] [<code>test: clarify usage cache refresh proof</code>](https://github.com/openclaw/openclaw/commit/d7f211b2b4a222846acf1390ab9afc64d31e16a9)
+- [ ] [<code>test(memory): create rem preview source fixture</code>](https://github.com/openclaw/openclaw/commit/797aab5ab7d7b699c57b27fb62f6c6247a8fe435)
+- [ ] [<code>fix(control-ui): refine mobile chat layout</code>](https://github.com/openclaw/openclaw/commit/2129d5b3ab8acb101abc1dbe35d5e51adc554a86)
+- [ ] [<code>test(update): align corrupt plugin repair guidance</code>](https://github.com/openclaw/openclaw/commit/e6b0a22f36cdb90ea382f648318954edfa292432)
+- [ ] [<code>fix: capture cron wake origin session</code>](https://github.com/openclaw/openclaw/commit/f1f00cbf1d587371cd6d89f7984c94913ecec5a0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(qa): scope runtime parity mock requests</code>](https://github.com/openclaw/openclaw/commit/8042ec4cb89ad5fce78b33f5fafe34528d8de439)
+- [ ] [<code>fix(release): align survivor session migration assertion</code>](https://github.com/openclaw/openclaw/commit/2d404f1b866e16fbe292449374a4e0a61090a476)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
