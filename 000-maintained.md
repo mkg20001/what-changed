@@ -1466,6 +1466,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ebpfgo.plugin (Basis of new plugin) (#22469)</code>](https://github.com/netdata/netdata.git/commit/a2ff60338df3d5a0ab37e56a784ba37715dfcc53)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>find_package</code></sub>
+- [ ] [<code>feat(go.d/prometheus): add job-level metric relabeling and drop label_prefix (#22668)</code>](https://github.com/netdata/netdata.git/commit/ccadbda0d0a7ae848a95b0a84ec5b268bc164600)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7159,6 +7161,44 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(qa): scope runtime parity mock requests</code>](https://github.com/openclaw/openclaw/commit/8042ec4cb89ad5fce78b33f5fafe34528d8de439)
 - [ ] [<code>fix(release): align survivor session migration assertion</code>](https://github.com/openclaw/openclaw/commit/2d404f1b866e16fbe292449374a4e0a61090a476)
+- [ ] [<code>Redact tool output secrets (#85196)</code>](https://github.com/openclaw/openclaw/commit/3faf669801d0d3597e2b6d51f15452fe91033889)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(security): block build tool env overrides (#92007)</code>](https://github.com/openclaw/openclaw/commit/e15b646f189a25b03b69557a5e3e79f468376d07)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(sessions): rewrite migrated transcript paths</code>](https://github.com/openclaw/openclaw/commit/0923ee251e17bb5a801717c82b35a470f55ff4e9)
+- [ ] [<code>fix(sessions): repair shipped stale transcript paths</code>](https://github.com/openclaw/openclaw/commit/a7b0d325af0751162a26c77df51c119df6c58bb1)
+- [ ] [<code>fix: repair origin main CI failures</code>](https://github.com/openclaw/openclaw/commit/a450ff036a50e9ae50b5571876ecff71eb000429)
+- [ ] [<code>fix: preserve non-oneOf schema array order (#91891)</code>](https://github.com/openclaw/openclaw/commit/c7ed990769f792ed5df8fcdee065cd21770021e7)
+- [ ] [<code>fix(macos): clarify unsupported voice wake UI (#91754)</code>](https://github.com/openclaw/openclaw/commit/2db65e577872448d5ed49d6f1d1b7e131e47e8ed)
+- [ ] [<code>test(ci): restore upgrade survivor session fixture (#92049)</code>](https://github.com/openclaw/openclaw/commit/cae66a7d5b8c160b8fbf7f98359d2054895ef597)
+- [ ] [<code>Issue 89661: Skill toggle bug fix</code>](https://github.com/openclaw/openclaw/commit/54db3f9df5f0ee61c11e1f0baca06c4842ac4e04)
+- [ ] [<code>Issue 89661: add unit test</code>](https://github.com/openclaw/openclaw/commit/1b23e738305ca209b5e347ce732e6cbc0ebc3dcf)
+- [ ] [<code>fix(state): tolerate chmod-less state volumes</code>](https://github.com/openclaw/openclaw/commit/13dce4832158cd722f2c0d2e130a185f0a5ed72d)
+- [ ] [<code>fix(fal): parse raw completed queue results (#92051)</code>](https://github.com/openclaw/openclaw/commit/f995f9f411a204f7e000eb9dc808235235a2e8f7)
+- [ ] [<code>fix(agents): prefer explicit sessions_send keys (#92047)</code>](https://github.com/openclaw/openclaw/commit/3659ff8bbf718c0ff1ca829f4eb948bd0d65108d)
+- [ ] [<code>fix(memory-core): check SQLite plugin state for dreaming ingestion audit after JSON migration (fixes #92017) (#92020)</code>](https://github.com/openclaw/openclaw/commit/15498f88fb76b26157a9b8a453dda7c98fc5105c)
+- [ ] [<code>fix(mcp): always log channel-bridge notification failures (#92032)</code>](https://github.com/openclaw/openclaw/commit/5d6899c7317e45e0d39ff84213908671aa87076d)
+- [ ] [<code>fix(gateway): log swallowed background-task finalization errors (#92033)</code>](https://github.com/openclaw/openclaw/commit/b9e1099f5e5b7a6ebb7121f566507c44317657f0)
+- [ ] [<code>fix(sessions): derive channel from direct-chat session keys in send-policy (#92022)</code>](https://github.com/openclaw/openclaw/commit/a4a4c766170a125adedf94f51453dc747685a4d2)
+- [ ] [<code>fix(xai): clarify x_search query guidance (#91163)</code>](https://github.com/openclaw/openclaw/commit/2b89623c5096d6e58dafd81880edbe018da8c9fb)
+- [ ] [<code>fix(memory): write dream fallback without subagent runtime (#90121)</code>](https://github.com/openclaw/openclaw/commit/f049477dd4fce6bbd53fc2e83686631bf88aa7fa)
+- [ ] [<code>fix(ui): show prompt progress while sending (#91215)</code>](https://github.com/openclaw/openclaw/commit/feb030f2c623d063523fe7fff861b5eff1dd9e74)
+- [ ] [<code>fix(tools): surface unsupported-signal in anyOf availability (#92029)</code>](https://github.com/openclaw/openclaw/commit/201b5f312f8a528bf6f039eb8fd733d5bac5847e)
+- [ ] [<code>perf(agents): memoize XML attribute regex in DSML stream parser (#92034)</code>](https://github.com/openclaw/openclaw/commit/91cc69d70e6cf8e276cc88e14e1df231f35a4b44)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(agents): sanitize compaction messages once for token estimation (#92026)</code>](https://github.com/openclaw/openclaw/commit/003b3ca6b2c6fdd256483e2c8efbf9d7264b55c9)
+- [ ] [<code>fix(opencode-go): add qwen plus tiered pricing (#91351)</code>](https://github.com/openclaw/openclaw/commit/ecf29d74ec0cde40eee9f13b5e3d11245dcd1c8c)
+- [ ] [<code>fix(gateway): recover config hot-reload after watcher errors (#92027)</code>](https://github.com/openclaw/openclaw/commit/8ff77c8168e4e1fa5fc674ab7f6c99954a91cc83)
+- [ ] [<code>feat(cron): add readable ISO time fields to `cron runs` JSON output (#91471)</code>](https://github.com/openclaw/openclaw/commit/84241461fdf1a1151c41a07ffd9b9581577584e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>:bug: fix(agents): classify harness provider mismatch as format error (#91710) (#91711)</code>](https://github.com/openclaw/openclaw/commit/69f31ebb0ca0a3735aa237d78a29dc8627faa48a)
+- [ ] [<code>fix(models): keep bundled provider catalog when configured base URL is blank (#91270) (#91292)</code>](https://github.com/openclaw/openclaw/commit/98e239d0120194f34e2650f48b64834ee38b84d8)
+- [ ] [<code>:bug: fix(openai): remove chatgpt-responses transport override from gpt-5.3-codex catalog entry (#91720)</code>](https://github.com/openclaw/openclaw/commit/c66fd305954928160c683a21db4fc8e9e0eb56c7)
+- [ ] [<code>fix(ui): narrow submitted progress status</code>](https://github.com/openclaw/openclaw/commit/439d2a9404ca0c269be9d5ad7ebff72a2eb9476d)
+- [ ] [<code>fix(control-ui): make Control UI bootstrap config endpoint base-path-relative (#66946) (#91305)</code>](https://github.com/openclaw/openclaw/commit/f5dd33c975e5953365c0b3f684c6251f366fa568)
+- [ ] [<code>test(models): complete blank-base-url provider fixture</code>](https://github.com/openclaw/openclaw/commit/d559dfecfa7e1e96cc481417035ce191b4714076)
+- [ ] [<code>fix(exec): honor state dir approvals (#92056)</code>](https://github.com/openclaw/openclaw/commit/adad27d7448e5cf453451d8e2a136d6771728c58)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
