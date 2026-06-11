@@ -519,6 +519,10 @@
 - [ ] [<code>chore: Follow up design and tofu</code>](https://github.com/krille-chan/fluffychat/commit/597875b74d12fa11b20ce571aa00067f28420ee7)
 - [ ] [<code>chore: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/f710cf2961797878b0ef1a3eb653a2c4da56a14f)
 - [ ] [<code>chore: Nicer UX for utd messages</code>](https://github.com/krille-chan/fluffychat/commit/b2c66ddf1d0c3d71d7396d5df15b6d5ce253fa7b)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/f07ce7ef6aac37c5bccf79396a0c91f11a13318d)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7e6a27a2055d96c019543c3a0895e399ce81f79b)
+- [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/b8bc623a80e0138386941595ad4aa92197478f30)
+- [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -836,6 +840,10 @@
 - [ ] [<code>chore: Follow up design and tofu</code>](https://github.com/krille-chan/fluffychat/commit/597875b74d12fa11b20ce571aa00067f28420ee7)
 - [ ] [<code>chore: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/f710cf2961797878b0ef1a3eb653a2c4da56a14f)
 - [ ] [<code>chore: Nicer UX for utd messages</code>](https://github.com/krille-chan/fluffychat/commit/b2c66ddf1d0c3d71d7396d5df15b6d5ce253fa7b)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/f07ce7ef6aac37c5bccf79396a0c91f11a13318d)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7e6a27a2055d96c019543c3a0895e399ce81f79b)
+- [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/b8bc623a80e0138386941595ad4aa92197478f30)
+- [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -970,6 +978,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Explain why avifImageCopy() disallows self copy</code>](https://github.com/AOMediaCodec/libavif/commit/96ec013de9c565d0fa474139ca25fec001145392)
 - [ ] [<code>cast to unsigned char before ctype calls in image readers (#3245)</code>](https://github.com/AOMediaCodec/libavif/commit/253f0d0f04e771dd94b37682a211b10a9cfe702e)
 - [ ] [<code>Copy XMP/Exif in `avifgainmaputil tonemap` (#3247)</code>](https://github.com/AOMediaCodec/libavif/commit/121d6d13cdc2552a414b570830090fdc7138880d)
+- [ ] [<code>Guard JPEG XMP parsing sizes (#3249)</code>](https://github.com/AOMediaCodec/libavif/commit/36ccfc14cb5329ff1fae082a77a729ed34028dc0)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1483,6 +1492,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>docs: task class: improve_docs — add a consolidated firewall endpoints and (#22542)</code>](https://github.com/netdata/netdata.git/commit/a013cfbb483304df2cab644183ffbe3387ac8851)
 - [ ] [<code>Force updater to actually update in CI checks. (#22661)</code>](https://github.com/netdata/netdata.git/commit/90a272fa7715d872da610b4965c51a06cefbda54)
+- [ ] [<code>docs: Add a 'Controlling Recovered (CLEAR) Notifications' section to (#22672)</code>](https://github.com/netdata/netdata.git/commit/47dbd8ea1d0194c714404b9184c7a2017f3dea4b)
+- [ ] [<code>fatal handler: don't let a concurrent fatal mask the first one (#22671)</code>](https://github.com/netdata/netdata.git/commit/cce16fec5636d78917aef8d60a76669d35ff0c3f)
+- [ ] [<code>Update vendored NetIPC SDK (#22680)</code>](https://github.com/netdata/netdata.git/commit/3e9462337773a1bc93d015da16459e6e2cc6115c)
+- [ ] [<code>chore(go/chartengine): template dims inherit float from the series metric meta (#22681)</code>](https://github.com/netdata/netdata.git/commit/88d7b8a4f5b43a739c4d8d7bb69821fb95f9a746)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7364,6 +7377,41 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ollama): use provider thinking default in SDK session factory (#91657)</code>](https://github.com/openclaw/openclaw/commit/4f3c2cd2df31c234bf71c6fa248ce4016a6a72c2)
 - [ ] [<code>fix(memory): abort orphaned embedding work when memory_search times out (#91742)</code>](https://github.com/openclaw/openclaw/commit/8d72cb9401e5f94105854f8dafb3160aca130425)
 - [ ] [<code>fix(memory-core): retry narrative message reads (#89091)</code>](https://github.com/openclaw/openclaw/commit/cdb55b3edb371edd2a4ba7b0a035a80e38497a60)
+- [ ] [<code>fix(release): gate beta publish on plugin verification</code>](https://github.com/openclaw/openclaw/commit/6fb0c940fa5d15d4ea145e060689c1a9cfca0962)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(cli): validate gateway RPC timeout inputs</code>](https://github.com/openclaw/openclaw/commit/99d0bdc23ab33a43be08be6583a99fb08206a054)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): retry same model across short rate-limit windows (#91911)</code>](https://github.com/openclaw/openclaw/commit/9a6c71a47d9526c677a325531dfc44adc054d9bb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): project thinking catalog compat</code>](https://github.com/openclaw/openclaw/commit/68ec783e74b59b672dbe14585e892d887adb2bfb)
+- [ ] [<code>test(ci): relax docker signal wait</code>](https://github.com/openclaw/openclaw/commit/79d7defd0ba434c32b705ca01316acf50aabdb1b)
+- [ ] [<code>chore: remove redundant proof scripts</code>](https://github.com/openclaw/openclaw/commit/f7ee25291a4bb27cf06117946af7bd086f7a04d8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): report SQLite storage path in cron.status instead of legacy jobs.json (#92144)</code>](https://github.com/openclaw/openclaw/commit/047785eb30c04ebc831b559910cae7c5d0942140)
+- [ ] [<code>fix(channel): harden local setup trust (#92175)</code>](https://github.com/openclaw/openclaw/commit/2bec2caf0c691eb7c68bac7a16b5819d0682f6ec)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(installer): stop after failed Node package installs</code>](https://github.com/openclaw/openclaw/commit/777f7409d8140207fd72a1b9a7cca2d223fb48e7)
+- [ ] [<code>fix(wizard): report keyless web search providers as ready</code>](https://github.com/openclaw/openclaw/commit/9be1699074bf782c06ba95a44286077e792347d1)
+- [ ] [<code>fix: handle explicit silent assistant replies (#92073)</code>](https://github.com/openclaw/openclaw/commit/ea813a2476d9079b587d7fa587e1e58d980b51b0)
+- [ ] [<code>feat(skills): allow trusted workshop symlink targets</code>](https://github.com/openclaw/openclaw/commit/287b10a89507f17d9a75e07918d18ab5be48675e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: gate Skill Workshop symlink writes</code>](https://github.com/openclaw/openclaw/commit/6b0525f2376cdae388e8efc73ae9819b5320e1f3)
+- [ ] [<code>fix: validate workshop support symlink writes</code>](https://github.com/openclaw/openclaw/commit/c4d3f0545cc83a3937e31dd9f73a61def5562165)
+- [ ] [<code>test: harden stalled websocket cleanup</code>](https://github.com/openclaw/openclaw/commit/3d6252a5177259cf7afa9602cfbe7e17350e8166)
+- [ ] [<code>refactor(whatsapp): introduce inbound message contexts</code>](https://github.com/openclaw/openclaw/commit/b5295a6a34cc006ac8731a5e9a96d886ca58ba63)
+- [ ] [<code>refactor(whatsapp): read inbound contexts in auto reply</code>](https://github.com/openclaw/openclaw/commit/eebcb100b83588994b076a58bce263fa0c29e6d7)
+- [ ] [<code>test(whatsapp): update auto reply inbound fixtures</code>](https://github.com/openclaw/openclaw/commit/008d785a80fb80facfa5476925219876eacb496c)
+- [ ] [<code>test(whatsapp): cover inbound context compatibility</code>](https://github.com/openclaw/openclaw/commit/1bea7d8ef3b2de5e67d0d89fa3a6d9d04640bb8f)
+- [ ] [<code>docs(plugins): record whatsapp inbound compatibility</code>](https://github.com/openclaw/openclaw/commit/4d45884419e5eb8a40cf9648fa32f9cfeb902a00)
+- [ ] [<code>fix: keep whatsapp inbound aliases live</code>](https://github.com/openclaw/openclaw/commit/de9260f8135d384dda5a09e2e425bfad76f2083e)
+- [ ] [<code>test: clean whatsapp alias assertions</code>](https://github.com/openclaw/openclaw/commit/fdf3667e09e14b5352072c4a4c23d4b71e1b59aa)
+- [ ] [<code>test: narrow whatsapp mention fixture</code>](https://github.com/openclaw/openclaw/commit/0fc2faa0f48a81c85dea31cb2689e2692a5a9b5b)
+- [ ] [<code>refactor: move workspace skill writes to lifecycle</code>](https://github.com/openclaw/openclaw/commit/1156ab637c18654ddd59d78f1b27a40c876ba597)
+- [ ] [<code>fix: preflight skill writes before rollback metadata</code>](https://github.com/openclaw/openclaw/commit/34a1102506d828056be677bd799cbef80da637ad)
+- [ ] [<code>fix: avoid support write shadowed variable</code>](https://github.com/openclaw/openclaw/commit/4e4dc10db03483a102f688fdd9a0362947b04f5d)
+- [ ] [<code>fix: preserve utils exports in doctor health tests</code>](https://github.com/openclaw/openclaw/commit/575cae59d4864d9e215ee66d80d26f4e345021b5)
+- [ ] [<code>fix: rely on ClawHub plugin publish checks</code>](https://github.com/openclaw/openclaw/commit/9827490f5f735a567716f128ffcdb892d9d39324)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
