@@ -979,6 +979,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cast to unsigned char before ctype calls in image readers (#3245)</code>](https://github.com/AOMediaCodec/libavif/commit/253f0d0f04e771dd94b37682a211b10a9cfe702e)
 - [ ] [<code>Copy XMP/Exif in `avifgainmaputil tonemap` (#3247)</code>](https://github.com/AOMediaCodec/libavif/commit/121d6d13cdc2552a414b570830090fdc7138880d)
 - [ ] [<code>Guard JPEG XMP parsing sizes (#3249)</code>](https://github.com/AOMediaCodec/libavif/commit/36ccfc14cb5329ff1fae082a77a729ed34028dc0)
+- [ ] [<code>Add changelog entry for #3247 (Copy XMP/Exif ...)</code>](https://github.com/AOMediaCodec/libavif/commit/7f7fa383834f8d8a56ca130f3218ca7735f3ea1f)
+- [ ] [<code>Avoid const cast of avifJPEGFindXMLNodeByName rv</code>](https://github.com/AOMediaCodec/libavif/commit/0b47c4002a41eda3dbe3a05187449363b56eae4d)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1511,6 +1513,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: fix stale [global] references for all fields migrated to [db] (#22544)</code>](https://github.com/netdata/netdata.git/commit/fb454a8f21c246d6ace2d208e382a353b399b47c)
 - [ ] [<code>feat(go.d/prometheus): add profile-driven app detection for chart contexts (#22694)</code>](https://github.com/netdata/netdata.git/commit/1eb26f86678bb99be8c703461ad0d6cd8e20e0de)
 - [ ] [<code>Fix SNMP trap counter chart algorithms (#22693)</code>](https://github.com/netdata/netdata.git/commit/f64b4c37e3dee1efb4b750834b3eaa9a63d2bdaf)
+- [ ] [<code>Regenerate integrations docs (#22691)</code>](https://github.com/netdata/netdata.git/commit/b6256b7a4fe0828a66da8a7049363d9048f567c8)
+- [ ] [<code>docs: add hostname override and cross-link to nodes-tab (#22563)</code>](https://github.com/netdata/netdata.git/commit/cd5870122f1bd293873a4217634422c13812b74c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5117,6 +5121,38 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: scope commitment full chain state env</code>](https://github.com/openclaw/openclaw/commit/01b004c594e4656579ba447b74b39026c893c384)
 - [ ] [<code>fix: scope commitment heartbeat state env</code>](https://github.com/openclaw/openclaw/commit/667bc2c4cae3da7cac59f13ee2bb66efaca794e4)
 - [ ] [<code>test: route state dir env helper</code>](https://github.com/openclaw/openclaw/commit/a716950a3c7dcfd208f105ddc09310776c65fb27)
+- [ ] [<code>fix: route live env restore deletes</code>](https://github.com/openclaw/openclaw/commit/888835cfe66bf583b168a3642de923d586176756)
+- [ ] [<code>test: scope plugin dispatch state env</code>](https://github.com/openclaw/openclaw/commit/294779e5d64969b3aa25a1cda2028daa153985d3)
+- [ ] [<code>fix: route respawn hint env clears</code>](https://github.com/openclaw/openclaw/commit/1bd04ac98389925c29550fb377c7b57cf60017b1)
+- [ ] [<code>fix(anthropic-vertex): stop re-marking cache_control on transport-budgeted payloads (#92387)</code>](https://github.com/openclaw/openclaw/commit/0fc5a57a34409782c8e0c9260cedbf788ed382d8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: stop docker build commands by pid and group</code>](https://github.com/openclaw/openclaw/commit/81c553e2fbec23d9e9e4f232b86ee6b86f8f5d53)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix doctor channel SecretRef preview (#92229)</code>](https://github.com/openclaw/openclaw/commit/d9124c97008513c5cf168a38321cf9cdff0c62e3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix disabled heartbeat one-shot cron retries (#92225)</code>](https://github.com/openclaw/openclaw/commit/e728957989f6b75f2ef0a044f6f582fb2ed0aa75)
+- [ ] [<code>fix: inherit static transport for configured DeepSeek models (#92265)</code>](https://github.com/openclaw/openclaw/commit/79901fb4ba92fe27c83dc76570df7e55287b899c)
+- [ ] [<code>fix: fail closed for cli-backed btw fallback (#92226)</code>](https://github.com/openclaw/openclaw/commit/41a9277844e497e91bcd65bacbe2566c54bd8db8)
+- [ ] [<code>fix heartbeat suppressed commitment delivery (#92231)</code>](https://github.com/openclaw/openclaw/commit/3643de4ba7b6fdd6709844a1f8d9e7ecb58ae66b)
+- [ ] [<code>fix(agents): classify structured unsupported model errors (#92280)</code>](https://github.com/openclaw/openclaw/commit/f80f47219091633656e5b54663d5ebd0332ef18f)
+- [ ] [<code>Fix OTLP log trace correlation (#92276)</code>](https://github.com/openclaw/openclaw/commit/f3eb8e9714d869f453e83bfb6006fcc2ebf19156)
+- [ ] [<code>fix(update): hand off Linux service auto-updates (#92282)</code>](https://github.com/openclaw/openclaw/commit/8673c65c6bad4f46e56df39095dafc22719c583c)
+- [ ] [<code>fix: resolve managed secretref provider auth (#92235)</code>](https://github.com/openclaw/openclaw/commit/9386d6214feccd7f88b800e5ba00fb91ee02bfac)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix provider static model fallback (#92293)</code>](https://github.com/openclaw/openclaw/commit/da4671ebccfbd3f8f220b2f0d8eecc7be4bd2804)
+- [ ] [<code>fix(agent): continue after source message tool replies (#92343)</code>](https://github.com/openclaw/openclaw/commit/462092936a5c967e9dc02f07f8c4c0ad57e5ab1d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(codex): preserve memory prompt registration (#92350)</code>](https://github.com/openclaw/openclaw/commit/7387083a95b649b53214b3e205eecdab5dbd5904)
+- [ ] [<code>fix: clarify gateway SecretRef auth diagnostics (#92290)</code>](https://github.com/openclaw/openclaw/commit/f385491c230cc0f97177fcce3e63d5bfd1078c8b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: repair rejected Anthropic thinking replay (#92286)</code>](https://github.com/openclaw/openclaw/commit/652e616a297cb2069f6bc016db1ade484c72f809)
+- [ ] [<code>Fix Telegram spooled buffered replay (#92281)</code>](https://github.com/openclaw/openclaw/commit/9921825e1795c0a7bc3b8ef9174961e3b71f1213)
+- [ ] [<code>fix(doctor): show per-step progress spinners during update</code>](https://github.com/openclaw/openclaw/commit/aba3751ad70802e2160108ed8dae786e02189dfe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(doctor): cover update progress wiring and spinner cleanup</code>](https://github.com/openclaw/openclaw/commit/e4b6b9ea6652609b654b198eeda1e8838c124bf1)
+- [ ] [<code>fix(doctor): drop redundant Boolean conversion flagged by oxlint</code>](https://github.com/openclaw/openclaw/commit/8ec1c0676bbf70e1cb39dba8cf6313e93ae3e83c)
+- [ ] [<code>test: tighten doctor update progress coverage</code>](https://github.com/openclaw/openclaw/commit/e3a6da0f518136a4277373afdf4b7f894c9e092f)
+- [ ] [<code>fix(outbound): honor top-level image param as send media source (#92407) (#92416)</code>](https://github.com/openclaw/openclaw/commit/69bf333dde5043b05a117381946ef91d01aed3cc)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
