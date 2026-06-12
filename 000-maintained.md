@@ -1499,6 +1499,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>go.d: add profile-based SNMP trap ingestion (#22652)</code>](https://github.com/netdata/netdata.git/commit/ca99e32322284cba3cdc91f35f6b05cc898e01c3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-375-nightly.</code>](https://github.com/netdata/netdata.git/commit/f09beed170af81624c08167aa4c27fa6150621f8)
+- [ ] [<code>Update metadata.yaml (#22437)</code>](https://github.com/netdata/netdata.git/commit/bbae462c679f9bc26aa71f26bbbd64857e4d9858)
+- [ ] [<code>Regenerate integrations docs (#22684)</code>](https://github.com/netdata/netdata.git/commit/5ca1e450be89d913091ac90f206768ef0cee1905)
+- [ ] [<code>bound v2 journal header offsets before crc reads in list checks (#22666)</code>](https://github.com/netdata/netdata.git/commit/39765e293aee974480afd04c90e78bd302b1cff4)
+- [ ] [<code>simple_pattern: fix inverted empty-buffer guard in matches_buffer_extract (#22688)</code>](https://github.com/netdata/netdata.git/commit/b6f5c2c0eda1706ac3430d009f4ee302fe5f268c)
+- [ ] [<code>feat(go.d/prometheus): add promprofiles catalog package (#22682)</code>](https://github.com/netdata/netdata.git/commit/488e6cfcac71763c69bee64087698cbedbc2e478)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Increase UUIDMAP_PARTITIONS to 32 (#22675)</code>](https://github.com/netdata/netdata.git/commit/dd86b0cde58c3c020f9675504cabf0067b809b3d)
+- [ ] [<code>docs: fix stale [global] references for all fields migrated to [db] (#22544)</code>](https://github.com/netdata/netdata.git/commit/fb454a8f21c246d6ace2d208e382a353b399b47c)
+- [ ] [<code>feat(go.d/prometheus): add profile-driven app detection for chart contexts (#22694)</code>](https://github.com/netdata/netdata.git/commit/1eb26f86678bb99be8c703461ad0d6cd8e20e0de)
+- [ ] [<code>Fix SNMP trap counter chart algorithms (#22693)</code>](https://github.com/netdata/netdata.git/commit/f64b4c37e3dee1efb4b750834b3eaa9a63d2bdaf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4371,6 +4383,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(lib): add support for a3968 (GH-289)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7848d17f5893b9872c67f75892cf4e7b7cbfaa2f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): man page fixes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62594cad37874eed10698d954ba59dae1e27cc73)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): add man page to install script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/38f207539dc51f29100f9e968157326d1d141de5)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.5 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.5...HEAD)
 
@@ -5077,6 +5093,30 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>test(sqlite): add state perf query plan harness</code>](https://github.com/openclaw/openclaw/commit/301213a05f2fefff88797d43c0c2cae7008c7699)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(daemon): keep unsupported service status readable</code>](https://github.com/openclaw/openclaw/commit/6a2ec6286535433700bc9d2c9c19d2b152f461ee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cron): preserve timezone on expression edits</code>](https://github.com/openclaw/openclaw/commit/8be3beec74063a22a6350277a22a345f806a4584)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docker): bundle QA Lab runtime in the image (#92087)</code>](https://github.com/openclaw/openclaw/commit/6223a538bc6fdfd9137c3a726ab89bf859c6831e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(docs): remove stale ClawHub nav page</code>](https://github.com/openclaw/openclaw/commit/3c9c4aa428993b342be821ce867f0ad1646a80e9)
+- [ ] [<code>fix(release): use trusted publishing for plugin npm</code>](https://github.com/openclaw/openclaw/commit/3b78d41a9e8d8344339271ffb8cee7e00e5eff41)
+- [ ] [<code>refactor(telegram): centralize edit error classification in network-errors</code>](https://github.com/openclaw/openclaw/commit/a956ab848146acc77485408093fc5689d82a416e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): retry transient draft preview failures instead of killing the stream</code>](https://github.com/openclaw/openclaw/commit/ff04e24eadefe5ef417d57d19250fe03e8f9cec8)
+- [ ] [<code>fix(telegram): carry bot api error codes across the ingress worker boundary</code>](https://github.com/openclaw/openclaw/commit/4a3d06ee3785cad3cd7f86b164ac260695f95a59)
+- [ ] [<code>fix(telegram): restart isolated polling on getUpdates conflict and surface it in status</code>](https://github.com/openclaw/openclaw/commit/d4819948f37d45fe8f1428401316eaae456cdf16)
+- [ ] [<code>fix: scope image inbound state env</code>](https://github.com/openclaw/openclaw/commit/b750d314b7f7438d5513aaab47117e44a96bc12c)
+- [ ] [<code>test: scope reply session state env</code>](https://github.com/openclaw/openclaw/commit/bcc1105b30996f0463edf721efcc15b0308e80af)
+- [ ] [<code>fix: add test env delete helper</code>](https://github.com/openclaw/openclaw/commit/fed2c3661154cbab624e44ab09a7a466d28782a8)
+- [ ] [<code>test: scope doctor missing state env</code>](https://github.com/openclaw/openclaw/commit/0efe5857bc12552972554c8b389d931bdc11766b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: restore commitment store state env</code>](https://github.com/openclaw/openclaw/commit/0d4968d466078de01d80062fb5ebb333ae21762b)
+- [ ] [<code>test: restore commitment runtime state env</code>](https://github.com/openclaw/openclaw/commit/1c5099803fdd69240335c8dbccc7f6860dad7ae6)
+- [ ] [<code>fix: restore commitment extraction state env</code>](https://github.com/openclaw/openclaw/commit/9cf1ef1d902fb3db48a90bf745711977f98acc2e)
+- [ ] [<code>test: scope commitment full chain state env</code>](https://github.com/openclaw/openclaw/commit/01b004c594e4656579ba447b74b39026c893c384)
+- [ ] [<code>fix: scope commitment heartbeat state env</code>](https://github.com/openclaw/openclaw/commit/667bc2c4cae3da7cac59f13ee2bb66efaca794e4)
+- [ ] [<code>test: route state dir env helper</code>](https://github.com/openclaw/openclaw/commit/a716950a3c7dcfd208f105ddc09310776c65fb27)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
