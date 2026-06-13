@@ -525,6 +525,8 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
 - [ ] [<code>build: (deps): bump geolocator from 14.0.2 to 14.0.3</code>](https://github.com/krille-chan/fluffychat/commit/b008f936f5e83292a100a534871055147336402e)
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
+- [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
+- [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -848,6 +850,8 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
 - [ ] [<code>build: (deps): bump geolocator from 14.0.2 to 14.0.3</code>](https://github.com/krille-chan/fluffychat/commit/b008f936f5e83292a100a534871055147336402e)
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
+- [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
+- [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5230,6 +5234,88 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(agents): pause yielded subagent runs whose terminal also signals abort (#92631)</code>](https://github.com/openclaw/openclaw/commit/cd3eb438f07f12abee05fc9382feb769de6425a5)
 - [ ] [<code>fix(models): stabilize vertex marker regression tests</code>](https://github.com/openclaw/openclaw/commit/64f9f3c278db75a9fd158496f2251c57f1e432d1)
 - [ ] [<code>fix(ui): preserve WebChat backscroll during streaming (#92622)</code>](https://github.com/openclaw/openclaw/commit/d3e7e03669072a5739346b663d9c26aad11867f7)
+- [ ] [<code>fix(openrouter): normalize provider-qualified model IDs (#92627)</code>](https://github.com/openclaw/openclaw/commit/6314c377bba11a4acb30b45aa28ecd8e20425cdd)
+- [ ] [<code>fix(cron): preserve yielded media completions (#92146)</code>](https://github.com/openclaw/openclaw/commit/84519f7e3cf987bcec38f140de3deba3a39ea012)
+- [ ] [<code>feat(memory-wiki): import OKF bundles</code>](https://github.com/openclaw/openclaw/commit/4cf4e54179382c331ae6acd554c28ff9ef9d2c27)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(anthropic): add Claude Haiku 4.5 catalog entries (#90116)</code>](https://github.com/openclaw/openclaw/commit/b1fc8673df7b70a1700141465d6cab6cdb759d5e)
+- [ ] [<code>fix(test): split local full-suite shards when throttled</code>](https://github.com/openclaw/openclaw/commit/73aabcceda19d579150261403e53f62eea3b8c91)
+- [ ] [<code>fix(channels): keep contributed message-tool schema properties optional (#91137)</code>](https://github.com/openclaw/openclaw/commit/7404b2b5b4cb8b5ff1c784588caf74631c761d21)
+- [ ] [<code>fix(copilot): disable eager tool streaming for Claude 4.5 (#75393)</code>](https://github.com/openclaw/openclaw/commit/9f522ee7dffdb72d2482348c025f5abfd2153702)
+- [ ] [<code>fix #73713: surface nested embedding fetch failures (#92628)</code>](https://github.com/openclaw/openclaw/commit/6cdbccaa9ebe5b66368c0f6e47b3ab4e4cdc7f12)
+- [ ] [<code>test(test): align source full-suite sharding assertion</code>](https://github.com/openclaw/openclaw/commit/2d2c1e63f0da9356c09f0a4c2a5e227f321ab9f3)
+- [ ] [<code>fix(gateway): reject unknown OpenAI agent selectors</code>](https://github.com/openclaw/openclaw/commit/8eb1fa09c66e2200f2f40d2b0b868429a0b52d1d)
+- [ ] [<code>fix(agents): narrow sessions_send active-run fallback</code>](https://github.com/openclaw/openclaw/commit/4c23d1d5978e54c31e87579574746aad9d5bfddf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): expose session identity in runtime prompts</code>](https://github.com/openclaw/openclaw/commit/78c66742ab976ba1c1e1676615b792605cbb99fb)
+- [ ] [<code>fix(slack): emit message_sent on outbound replies (#89943)</code>](https://github.com/openclaw/openclaw/commit/dc493bc9a2b64011c597bc37a09501d81b6cf8aa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docs): finalize i18n postprocess before skip (#92668)</code>](https://github.com/openclaw/openclaw/commit/eaeedbf1f96bad726d708cb713e5916e42fddfa3)
+- [ ] [<code>fix: split image setup and request timeout semantics (#92673)</code>](https://github.com/openclaw/openclaw/commit/5854e0c8f6b540a9a27506c56ffc0d012a89e842)
+- [ ] [<code>fix(cli): preserve usage-error exits for lazy reparses</code>](https://github.com/openclaw/openclaw/commit/68e234f9e24a651fe97f95a6e7fb008b0ee038f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): extend watchdog for slow vitest shards</code>](https://github.com/openclaw/openclaw/commit/27e24ca68325cff2fa7fae24399151f46896ec39)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(browser): remove dead requireRef navigation import</code>](https://github.com/openclaw/openclaw/commit/2e8a2d617d9b014c56394acbc394ac096cd680eb)
+- [ ] [<code>fix(OpenAI Responses): gate replay when store is stripped</code>](https://github.com/openclaw/openclaw/commit/8ecf55b36a7636bb331e183457a325ddbfa2c878)
+- [ ] [<code>test(OpenAI Responses): cover storeless replay compatibility</code>](https://github.com/openclaw/openclaw/commit/37d6fd2e817d3113b6841b48488eb541c2d5cfe2)
+- [ ] [<code>refactor(openai): simplify storeless replay gating</code>](https://github.com/openclaw/openclaw/commit/7359206b7665bec9cb058ec3391aa48dda0a21c5)
+- [ ] [<code>test(openai): type storeless responses replay cases</code>](https://github.com/openclaw/openclaw/commit/3c02c239b46bb52936422f2d95c14ad2c0119c5b)
+- [ ] [<code>fix(disk-space): promote rounded GiB boundary</code>](https://github.com/openclaw/openclaw/commit/89cc175b2ee074db9860e557bf4390587411f5bc)
+- [ ] [<code>feat(usage): built-in "default" footer template (hidden)</code>](https://github.com/openclaw/openclaw/commit/cc831f8684fd6be0756eccad8692da8463cb066b)
+- [ ] [<code>feat(usage): merge user footer templates over the default + ship full scale palette + docs</code>](https://github.com/openclaw/openclaw/commit/3ec16bbad339511ba83847cbb4f513c42aad1743)
+- [ ] [<code>fix(usage): simplify default full footer</code>](https://github.com/openclaw/openclaw/commit/7328caba82e7922e0bcf4755b66255103ae4e272)
+- [ ] [<code>test(usage): align full footer contract</code>](https://github.com/openclaw/openclaw/commit/cdd71103c95c3fb3020cc96eb69369c02b90124f)
+- [ ] [<code>fix(usage): reject empty footer templates</code>](https://github.com/openclaw/openclaw/commit/a55accb4b6278aa68f857115b15ed0b88cc0c66e)
+- [ ] [<code>docs(usage): avoid unsupported duration template path</code>](https://github.com/openclaw/openclaw/commit/5892dc852228ad9736baa4be2e685864ae952eb0)
+- [ ] [<code>fix(usage): preserve partial footer counts</code>](https://github.com/openclaw/openclaw/commit/84cbaf1832dd1024a1d102499a359a974583251a)
+- [ ] [<code>fix(usage): warn on broken footer templates</code>](https://github.com/openclaw/openclaw/commit/afe75b3387d247e9a10ad90e40acbcd819f7c24e)
+- [ ] [<code>fix(usage): suppress unknown total-only cost</code>](https://github.com/openclaw/openclaw/commit/799488086414fd105c8287becd1c47a226f64d3b)
+- [ ] [<code>perf(terminal): reuse ANSI truncation scanner</code>](https://github.com/openclaw/openclaw/commit/205ab8d4bd7a9347bba5cecd5dd9de6c87a5e327)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(feishu): clear client cache on test SDK swap</code>](https://github.com/openclaw/openclaw/commit/762d8d8e645f76342afaa43d21e8e2c7808d6ebc)
+- [ ] [<code>fix(memory): keep memory_search in transient qmd mode (#92639)</code>](https://github.com/openclaw/openclaw/commit/ddacb7ba39d482cee9f0fd5dc065187130ea8dab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(config): contain shell env fallback in config write tests</code>](https://github.com/openclaw/openclaw/commit/eb1b640854bb6b7dc82db9a5bcb652836574d0b3)
+- [ ] [<code>fix(cron): de-duplicate main-session heartbeat events</code>](https://github.com/openclaw/openclaw/commit/c773d8cd8ef8aa2075810cc6182f1b436bcdf294)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): extend watchdog for gateway core shard</code>](https://github.com/openclaw/openclaw/commit/45056a463ab2bb3a7bdbc81787ef770715f75244)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(agents): deliver generated media completions in webchat</code>](https://github.com/openclaw/openclaw/commit/3b94949437047d9bd5c3ab0f0c011252f69253ec)
+- [ ] [<code>test(plugins): avoid brittle provider ref error text</code>](https://github.com/openclaw/openclaw/commit/a6aa84f2d0240a10d4b18150e09d363bb4cd186a)
+- [ ] [<code>fix(ui): preserve reset soft command args</code>](https://github.com/openclaw/openclaw/commit/bb71f46251367009a9f195975003e7c5446f08ee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(telegram): send text as rich messages</code>](https://github.com/openclaw/openclaw/commit/547cc0f10903dd790e1bf459ba935b78c49dd89a)
+- [ ] [<code>refactor(telegram): remove native draft previews</code>](https://github.com/openclaw/openclaw/commit/e8b142feb117663141e57bfeaaf996b24f0402e7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(chunking): preserve surrogate pairs</code>](https://github.com/openclaw/openclaw/commit/18fbcef49666a68dac9a381128cd713f5b0da514)
+- [ ] [<code>test(telegram): cover rich list and table limits</code>](https://github.com/openclaw/openclaw/commit/93318050e12b2768df1ca5ed987fb5cd9838bb36)
+- [ ] [<code>fix(telegram): migrate retired native draft config</code>](https://github.com/openclaw/openclaw/commit/a3bc0097c8184e9ee5b332251156649fa20195d0)
+- [ ] [<code>fix(telegram): keep rich text media-free</code>](https://github.com/openclaw/openclaw/commit/80d2b40fac6778d6f811c44a412991e5a4159841)
+- [ ] [<code>feat(telegram): nudge agents toward rich text</code>](https://github.com/openclaw/openclaw/commit/f1e303404c9898bba588640f9bce3c41751f5b3c)
+- [ ] [<code>fix(telegram): clean rich message CI gates</code>](https://github.com/openclaw/openclaw/commit/0eb92fa79ca300f32439eddac29b746420b87836)
+- [ ] [<code>test(telegram): align message flow fixture with rich drafts</code>](https://github.com/openclaw/openclaw/commit/4e8a527542829c54fc7b1822ae980258a1222634)
+- [ ] [<code>fix(telegram): allow rich tables in group prompts</code>](https://github.com/openclaw/openclaw/commit/b9ad8649d0d0ab87797e0adcd21524b44c15179d)
+- [ ] [<code>fix(telegram): show rich text prompt for final replies</code>](https://github.com/openclaw/openclaw/commit/5cb6f8aa9fc905acf9b39807c748151639cba4dd)
+- [ ] [<code>fix(telegram): pass rich text prompts to cli backends</code>](https://github.com/openclaw/openclaw/commit/45e36a241a799c8393449d011104286e7057d624)
+- [ ] [<code>fix(ui): restore sidebar session picker interactivity above desktop workbench (#92705)</code>](https://github.com/openclaw/openclaw/commit/b01a54de6f0cb2df4a137c28a62d985c308cf723)
+- [ ] [<code>fix(google): strip provider prefix from Vertex model path</code>](https://github.com/openclaw/openclaw/commit/22069bcc56b753b2a19c495efc47211a1d37ef59)
+- [ ] [<code>feat: support /btw in CLI-backed sessions (#92669)</code>](https://github.com/openclaw/openclaw/commit/689ebc815b1d8a8057698a709559496171020e14)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): mark active main sessions before restart shutdown aborts (#91357)</code>](https://github.com/openclaw/openclaw/commit/d20fdf3b3842edfbc16ef8c349ed061818146e3d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(parallel): send User-Agent on free MCP requests</code>](https://github.com/openclaw/openclaw/commit/ca2410ab072e064d1dd3040a10011eb7095e0fe6)
+- [ ] [<code>fix(ui): preserve dashboard session parent lineage</code>](https://github.com/openclaw/openclaw/commit/a1814586c6225932972ae058feafb82c24500b92)
+- [ ] [<code>fix(ios): force stale foreground gateway reconnects (#92552)</code>](https://github.com/openclaw/openclaw/commit/e58310b000bdd811d113cbe71bdce7c8bdeeb80a)
+- [ ] [<code>fix(telegram): expose thread create CLI remap</code>](https://github.com/openclaw/openclaw/commit/13a079b3f8462ac4689eb944a5aebf33a2adee8c)
+- [ ] [<code>feat: make workspace files panel collapsible</code>](https://github.com/openclaw/openclaw/commit/d03932af18bf5543ff8269dca64a2948dd1c24d5)
+- [ ] [<code>fix: start workspace files collapsed</code>](https://github.com/openclaw/openclaw/commit/dbf24fe35af52e283c5515824f6db237a050faac)
+- [ ] [<code>fix(state): avoid sqlite wal on nfs state volumes</code>](https://github.com/openclaw/openclaw/commit/5b21a0337bbeaef0fa91cc182924d958b60bcf22)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(tui): show resolved model ref in confirmation</code>](https://github.com/openclaw/openclaw/commit/b2da129e51da973b9133b918617d3734fe4838d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(diagnostics): keep recovery scheduling out of the stuck-session warning backoff (#92752)</code>](https://github.com/openclaw/openclaw/commit/4e4ea1c16bcd02f12498bb9b5f40a5f3b47bdd67)
+- [ ] [<code>fix(markdown-core): treat infinity chunk limit as unbounded</code>](https://github.com/openclaw/openclaw/commit/15e4fbf593339dda1a17c873cd0e5dafe9bfedab)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
