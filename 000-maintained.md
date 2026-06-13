@@ -5153,6 +5153,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(doctor): drop redundant Boolean conversion flagged by oxlint</code>](https://github.com/openclaw/openclaw/commit/8ec1c0676bbf70e1cb39dba8cf6313e93ae3e83c)
 - [ ] [<code>test: tighten doctor update progress coverage</code>](https://github.com/openclaw/openclaw/commit/e3a6da0f518136a4277373afdf4b7f894c9e092f)
 - [ ] [<code>fix(outbound): honor top-level image param as send media source (#92407) (#92416)</code>](https://github.com/openclaw/openclaw/commit/69bf333dde5043b05a117381946ef91d01aed3cc)
+- [ ] [<code>fix(sandbox): render cli skill prompts from materialized paths (#92508)</code>](https://github.com/openclaw/openclaw/commit/8d9ce35b92c4594ac7ee835e203aad7260267b5f)
+- [ ] [<code>fix: update esbuild audit pin (#92540)</code>](https://github.com/openclaw/openclaw/commit/777edadb368e9ffcb0c5e4bebf83ec2fe7c08af2)
+- [ ] [<code>Add QA evidence artifact output (#91484)</code>](https://github.com/openclaw/openclaw/commit/4809ac70fa5aadded1a9e28e904eb35c266ebb1c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add QA scorecard taxonomy validation (#91500)</code>](https://github.com/openclaw/openclaw/commit/d8b3e523ff7b63b598650700a4553fb02683b788)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): allow expandable blockquotes</code>](https://github.com/openclaw/openclaw/commit/05796759adcd24c49af791e27104b44f7b13f817)
+- [ ] [<code>test: cover telegram expandable blockquotes</code>](https://github.com/openclaw/openclaw/commit/e3380370344a073996f63ec8ddebe9b7ea4a805d)
+- [ ] [<code>feat(moonshot): add Kimi K2.7 Code support (#92554)</code>](https://github.com/openclaw/openclaw/commit/8c7e5c69189101d5ff614e7aa6c92df1461b6237)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
