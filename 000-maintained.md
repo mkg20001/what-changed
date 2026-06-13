@@ -523,6 +523,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7e6a27a2055d96c019543c3a0895e399ce81f79b)
 - [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/b8bc623a80e0138386941595ad4aa92197478f30)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
+- [ ] [<code>build: (deps): bump geolocator from 14.0.2 to 14.0.3</code>](https://github.com/krille-chan/fluffychat/commit/b008f936f5e83292a100a534871055147336402e)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -844,6 +846,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7e6a27a2055d96c019543c3a0895e399ce81f79b)
 - [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/b8bc623a80e0138386941595ad4aa92197478f30)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/d3c4a559ba2ee25840903a9ce583039edfc93605)
+- [ ] [<code>build: (deps): bump geolocator from 14.0.2 to 14.0.3</code>](https://github.com/krille-chan/fluffychat/commit/b008f936f5e83292a100a534871055147336402e)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1515,6 +1519,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix SNMP trap counter chart algorithms (#22693)</code>](https://github.com/netdata/netdata.git/commit/f64b4c37e3dee1efb4b750834b3eaa9a63d2bdaf)
 - [ ] [<code>Regenerate integrations docs (#22691)</code>](https://github.com/netdata/netdata.git/commit/b6256b7a4fe0828a66da8a7049363d9048f567c8)
 - [ ] [<code>docs: add hostname override and cross-link to nodes-tab (#22563)</code>](https://github.com/netdata/netdata.git/commit/cd5870122f1bd293873a4217634422c13812b74c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/76a20e9d06dc12a5dbc260a7a4d032d45e4ab503)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4391,6 +4396,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs(cli): add man page to install script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/38f207539dc51f29100f9e968157326d1d141de5)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>style(cli): remove extra line break</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e44d6fb3de6c0a4c2f31f122f9099568c9311264)
+- [ ] [<code>docs(cli): prefix commands with $ in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7816a773ffa7c0d69673b1d8a8ec19c676c5a8c2)
+- [ ] [<code>docs(cli): fix improperly formatted list of examples in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed9c264b345935aa8819fc12585fcb13dc2f683c)
+- [ ] [<code>docs(cli): reword to indicate list of setting types is non-exhaustive</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b885fd69749cf99c9b14695143484d0d51c00917)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): remove extra newline from man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3636d3004bf4f8934f1212618b8867d5c5715d7)
+- [ ] [<code>ci: bump actions/checkout from 6.0.2 to 6.0.3 (GH-295)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/68f84575b33cb1ffb1f54fb3806d9058160b4985)
+- [ ] [<code>ci: bump taiki-e/install-action from 2.78.0 to 2.81.4 (GH-294)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08c01dea358564f45e7dee253739162d61af0fca)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.5 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.5...HEAD)
 
@@ -5162,6 +5175,61 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(telegram): allow expandable blockquotes</code>](https://github.com/openclaw/openclaw/commit/05796759adcd24c49af791e27104b44f7b13f817)
 - [ ] [<code>test: cover telegram expandable blockquotes</code>](https://github.com/openclaw/openclaw/commit/e3380370344a073996f63ec8ddebe9b7ea4a805d)
 - [ ] [<code>feat(moonshot): add Kimi K2.7 Code support (#92554)</code>](https://github.com/openclaw/openclaw/commit/8c7e5c69189101d5ff614e7aa6c92df1461b6237)
+- [ ] [<code>fix(moonshot): backfill reasoning_content on assistant tool-call replay messages (#92396)</code>](https://github.com/openclaw/openclaw/commit/0063f3076c179675e43fdc34d1d8b3f7828d9343)
+- [ ] [<code>fix(e2e): keep lifecycle timeout cleanup alive (#92566)</code>](https://github.com/openclaw/openclaw/commit/ded3a930587638d4014442db133e6d2cb40ab279)
+- [ ] [<code>ci: split plugin ClawHub publishing paths</code>](https://github.com/openclaw/openclaw/commit/6cf06e8e7eb084bbae53795e12c09f61344f87e2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): mirror commentary-phase assistant events to session message subscribers</code>](https://github.com/openclaw/openclaw/commit/1bd783045b88d20d76328e368a3b586ed3cf1fa5)
+- [ ] [<code>fix: harden websocket payload handling</code>](https://github.com/openclaw/openclaw/commit/68222ba5e3c935ef8f5531b95560f7ff8a5f4188)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(moonshot): rewrite duplicate native Kimi tool call ids</code>](https://github.com/openclaw/openclaw/commit/4a6666796f466d7503536680e5fb3ef934baaba4)
+- [ ] [<code>Expose paged channel action results (#88993)</code>](https://github.com/openclaw/openclaw/commit/6c88811b4bba7ab9ce900708eefe08269034ed1d)
+- [ ] [<code>fix(fireworks): resolve catalog model params from manifest (#90326)</code>](https://github.com/openclaw/openclaw/commit/9d9389bc6b7a0d780a3583ff1dae32ff5d9f370d)
+- [ ] [<code>fix(doctor): diagnose blocked external channel plugins (#86629)</code>](https://github.com/openclaw/openclaw/commit/7190fc4de83094a3444e4a417782b1dd297f2383)
+- [ ] [<code>fix(mistral): skip unreadable tool schemas (#90242)</code>](https://github.com/openclaw/openclaw/commit/991471b8ec29915af5ab166c45afb02a81de2ac9)
+- [ ] [<code>fix(slack): persist delivered replies in transcripts (#92498)</code>](https://github.com/openclaw/openclaw/commit/7c088045413ff608e1b111d724f8f02ecee183b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(channels): report progress draft startup failures (#92083)</code>](https://github.com/openclaw/openclaw/commit/ab559a7257d9b6eace7abfb2cdf0ad8ac76e6511)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): isolate invalid plugin model catalogs (#92564)</code>](https://github.com/openclaw/openclaw/commit/c9f0bfd4764d884227a9392263c076360ed00793)
+- [ ] [<code>chore(maint): make PR changelog edits release-only (#92607)</code>](https://github.com/openclaw/openclaw/commit/4640baa299099df01bf58b040c8b6ae9f243713e)
+- [ ] [<code>docs: UX-013 — design system documentation (#89827)</code>](https://github.com/openclaw/openclaw/commit/751d3db1cc4ce78aa79c58ab1317a8bedafcde27)
+- [ ] [<code>feat(ui): hide empty workboard columns (#89615)</code>](https://github.com/openclaw/openclaw/commit/32ce06daf825eac47009117aebc98abe843da596)
+- [ ] [<code>fix(a11y): B-1+B-2+B-3 — contrast, focus states, minimum font sizes (#89822)</code>](https://github.com/openclaw/openclaw/commit/0849cac106d1ff784047b61a147d0d1431558c49)
+- [ ] [<code>fix(memory): preserve qmd startup errors (#92618)</code>](https://github.com/openclaw/openclaw/commit/3a1a5c0dac68f6f5588a3002c9b241f6f2fa29ee)
+- [ ] [<code>docs(gateway): add uptime monitoring guidance to health check docs (fixes #55768) (#92608)</code>](https://github.com/openclaw/openclaw/commit/c5d599c8c417e0152a3fa91daa6b18fbc1c7dd3f)
+- [ ] [<code>fix(docs): pin Windows Hub download links to v2026.6.5 (#92605)</code>](https://github.com/openclaw/openclaw/commit/b0bd9c8ed810082ff15c651a25fbbfc6860cbc35)
+- [ ] [<code>#92589: fix(internal-runtime-context): wrap prompt-preface runtime context body in delimiters (#92593)</code>](https://github.com/openclaw/openclaw/commit/21aa8faf8a875bcc089bbd924e18d8b4ee8b69a7)
+- [ ] [<code>Run Vitest and Playwright scenarios from qa suite (#92606)</code>](https://github.com/openclaw/openclaw/commit/561b293c7a9601b2ef47b1805c5289660497ac20)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "chore(maint): make PR changelog edits release-only (#92607)"</code>](https://github.com/openclaw/openclaw/commit/7bd533a80e9d622966cd31b9a80ec284f2fc9dd9)
+- [ ] [<code>feat(hooks): per-turn usageState (with provider limits + rich atoms) on reply_payload_sending</code>](https://github.com/openclaw/openclaw/commit/f06f2f17c25648fb54aa25b45e15501e878aa947)
+- [ ] [<code>fix(hooks): make usageState limits credential-aware + document best-effort delivery</code>](https://github.com/openclaw/openclaw/commit/0dbfa1f6be128a998f383730eec8f6487be080db)
+- [ ] [<code>fix(usage): map auth mechanism to usage-credential type for provider limits</code>](https://github.com/openclaw/openclaw/commit/99db98a7ce4ce7a12ef892bc6088cb2457c1913b)
+- [ ] [<code>fix(usage): thread real context occupancy + last-call usage into usageState</code>](https://github.com/openclaw/openclaw/commit/56f2102c28a2fe7627ff85ffe0dd9891f8f3edc6)
+- [ ] [<code>fix(usage): don't resolve subscription windows for an absent auth signal</code>](https://github.com/openclaw/openclaw/commit/618d78144edcc6a8d6827cc6323acaa21299ce6e)
+- [ ] [<code>fix(hooks): tighten reply usage state correlation</code>](https://github.com/openclaw/openclaw/commit/1c655008cd0c27936ec72fe1c3549c7ece8bb23f)
+- [ ] [<code>fix(models): bound model browse discovery (#92247)</code>](https://github.com/openclaw/openclaw/commit/44f45d8729f538fdc76bb7dd04a62360d70ebc5f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: require admin for HTTP model overrides</code>](https://github.com/openclaw/openclaw/commit/26b97369226e0fb6c7d0f9e374505c5bea61c564)
+- [ ] [<code>fix(gateway): honor profile auth for SecretRef model entries (#90686)</code>](https://github.com/openclaw/openclaw/commit/f3df863aff9c9fe6b90692b029d9c89e7e2ec28b)
+- [ ] [<code>feat(usage): native templated /usage full renderer (retires the footer plugin)</code>](https://github.com/openclaw/openclaw/commit/64d0fc83364e123583d83fc2dc11b604363ba587)
+- [ ] [<code>style(usage): satisfy oxfmt + oxlint for native renderer</code>](https://github.com/openclaw/openclaw/commit/a66a065ffb3df57a86a414dcd98322120cb851b7)
+- [ ] [<code>fix(usage): clear type-aware oxlint in usage-bar translator</code>](https://github.com/openclaw/openclaw/commit/7af8153388593b9a8449f512d3ce66144bca01a6)
+- [ ] [<code>feat(usage): add fixed:N decimal-format verb to usage-bar translator</code>](https://github.com/openclaw/openclaw/commit/690f27749c2c2a846b35a582d5e0c7c66ee2ea30)
+- [ ] [<code>feat(usage): render real context occupancy + last-call usage atoms</code>](https://github.com/openclaw/openclaw/commit/8cc5d2d85c87e86780175694cb9e74a3a7746396)
+- [ ] [<code>perf(usage): load the footer template off the reply-delivery path</code>](https://github.com/openclaw/openclaw/commit/069cb8d63687459175c7520dae201886c9a456c2)
+- [ ] [<code>test(usage): register usage-bar tests in auto-reply-core shard; fix unused-var lint</code>](https://github.com/openclaw/openclaw/commit/20bc546d94e0926a1655bb521f99696babc3129f)
+- [ ] [<code>test(vitest): align scoped-config expectation with usage-bar shard include</code>](https://github.com/openclaw/openclaw/commit/d4237cb14d8322f5f690421a4defdcb5812a5669)
+- [ ] [<code>fix(usage): tighten usage footer template handling</code>](https://github.com/openclaw/openclaw/commit/b477bfe84bf841018f6b3cb82aad3c770f0f671c)
+- [ ] [<code>fix(usage): reload missing usage templates (#89835) (thanks @Marvinthebored)</code>](https://github.com/openclaw/openclaw/commit/ff6940036b4322b3a2dc227c900033d4afca67c6)
+- [ ] [<code>fix: require admin for HTTP session kills (#92651)</code>](https://github.com/openclaw/openclaw/commit/f78d7b52d810f1df6479651b07c4cc52827ef295)
+- [ ] [<code>test(models): stabilize plugin auth marker fixtures (#92652)</code>](https://github.com/openclaw/openclaw/commit/c9c19a1106699bb633b74dd67b89cb771cf4069e)
+- [ ] [<code>test(qa-lab): align bootstrap selection assertion</code>](https://github.com/openclaw/openclaw/commit/4208c89ec49e35c33a744115fbdc21a395d35663)
+- [ ] [<code>fix(slack): diagnose invalid channel map keys (#89438)</code>](https://github.com/openclaw/openclaw/commit/26281a8a11190d7c337cefb229cafa896528ffa4)
+- [ ] [<code>fix(agents): pause yielded subagent runs whose terminal also signals abort (#92631)</code>](https://github.com/openclaw/openclaw/commit/cd3eb438f07f12abee05fc9382feb769de6425a5)
+- [ ] [<code>fix(models): stabilize vertex marker regression tests</code>](https://github.com/openclaw/openclaw/commit/64f9f3c278db75a9fd158496f2251c57f1e432d1)
+- [ ] [<code>fix(ui): preserve WebChat backscroll during streaming (#92622)</code>](https://github.com/openclaw/openclaw/commit/d3e7e03669072a5739346b663d9c26aad11867f7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5392,6 +5460,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to v2.5.231</code>](https://github.com/axcore/tartube/commit/13f753e1d6c63378ebb38b183ff9ec5cab3aecd4)
   - <sub>Tags: <code>v2.5.231</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Various tweaks</code>](https://github.com/axcore/tartube/commit/748c721c812a25c1c79c10a87652ad5ae0c0982d)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
