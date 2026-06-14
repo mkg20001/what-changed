@@ -527,6 +527,7 @@
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
 - [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
 - [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
+- [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/f58d1c986370ad7b76d4744fc002446252e4bb6d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -852,6 +853,7 @@
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.4.1 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d4a82213044b8ac9d46973e643b76f15ce494baa)
 - [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
 - [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
+- [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/f58d1c986370ad7b76d4744fc002446252e4bb6d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1524,6 +1526,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#22691)</code>](https://github.com/netdata/netdata.git/commit/b6256b7a4fe0828a66da8a7049363d9048f567c8)
 - [ ] [<code>docs: add hostname override and cross-link to nodes-tab (#22563)</code>](https://github.com/netdata/netdata.git/commit/cd5870122f1bd293873a4217634422c13812b74c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/76a20e9d06dc12a5dbc260a7a4d032d45e4ab503)
+- [ ] [<code>NetFlow: journal backend on systemd-journal-sdk, compact format, optional fsync (#22665)</code>](https://github.com/netdata/netdata.git/commit/c85ed66dd6bd22f38c2e49a77ccf6d822a475124)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.20.0 to 9.20.1 in /src/go (#22701)</code>](https://github.com/netdata/netdata.git/commit/96126dff3cfb2402f4782a1b51faec7646d1e719)
+- [ ] [<code>build(deps): bump google.golang.org/grpc from 1.79.3 to 1.81.1 in /src/go (#22700)</code>](https://github.com/netdata/netdata.git/commit/153afc75c0e16faa61d9c8425115ed8df4f96645)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5364,6 +5369,101 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(gateway): wait for trajectory export guidance</code>](https://github.com/openclaw/openclaw/commit/9a27af9507b12385941da9d61d6e25ae0da668cd)
 - [ ] [<code>fix(telegram): acknowledge callbacks before sequentialize</code>](https://github.com/openclaw/openclaw/commit/4c3c0ff5f9a23b27af88581f5d5df901bd386645)
 - [ ] [<code>fix(nodes): surface pending reapproval diagnostics (#92547)</code>](https://github.com/openclaw/openclaw/commit/65b460f2345a135f22df7631598643002605aad6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): keep skipped recall diagnostics opt-in</code>](https://github.com/openclaw/openclaw/commit/efca4b7e64c286af0205368ca9088af55556d0cd)
+- [ ] [<code>fix(doctor): avoid false-positive legacy cron store warning when store was already migrated (fixes #92683) (#92690)</code>](https://github.com/openclaw/openclaw/commit/274b7b1d9f5de317bc39d1cfc7a010990d83fd61)
+- [ ] [<code>fix(telegram): skip IPv4 fallback when user explicitly configures non-ipv4first dnsResultOrder (fixes #41671) (#92806)</code>](https://github.com/openclaw/openclaw/commit/57e8c50d191b49822361536cefb9425593d69880)
+- [ ] [<code>test(gateway): capture trajectory export command events</code>](https://github.com/openclaw/openclaw/commit/ac3a98e55d9d66758b87c326b74aa945fae436a4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(macos): defer isOverflowing mutation to break SwiftUI render loop (fixes #43480) (#92778)</code>](https://github.com/openclaw/openclaw/commit/fd4f5b3f59fa6fe9fe1de35fb7e9da241fabc94d)
+- [ ] [<code>fix(gateway): use resolveNonNegativeNumber for totalTokens to display 0 instead of ? (fixes #43009) (#92795)</code>](https://github.com/openclaw/openclaw/commit/1acca038b18a084430b7894addf4f729a7df8ceb)
+- [ ] [<code>fix(gateway): preserve active runs during plugin finalization (#92746)</code>](https://github.com/openclaw/openclaw/commit/b3dc27403498062c04fbc45a221ed7f535c57c5d)
+- [ ] [<code>UI: localize Logs tab labels (#92820)</code>](https://github.com/openclaw/openclaw/commit/971542b7f6dc50ceb231fc3fdd7dc8dcfede5f47)
+- [ ] [<code>test(release): harden trajectory export live check</code>](https://github.com/openclaw/openclaw/commit/340c2456bba734eaf21ebc34e761583e25cc9781)
+- [ ] [<code>test(release): accept trajectory command session final</code>](https://github.com/openclaw/openclaw/commit/c60b42412482bc3cb7b4c52b4ec4ee96a5541f2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): preserve command callbacks while prefixing generic callback data (#92825)</code>](https://github.com/openclaw/openclaw/commit/34678d8dfa17b36c64e2878d931a16aa048bdb48)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: refresh model context metadata safely</code>](https://github.com/openclaw/openclaw/commit/399f5bc993515d0a2d8f832e4386d5b8e504f9b9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(copilot): strip replayed thinking blocks</code>](https://github.com/openclaw/openclaw/commit/aef670cf0cbdc1118074e88fe323ffaa61081a10)
+- [ ] [<code>feat(browser): extend --labels overlay to full-page and element captures (#92834)</code>](https://github.com/openclaw/openclaw/commit/24e729fc4e077d0ea23a14c4497d343c5f9569c3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(discord): raise thread title timeout and tokens</code>](https://github.com/openclaw/openclaw/commit/f58f8c86b9582f30a93bd0b04d2d3c0d3dd0b418)
+- [ ] [<code>fix(whatsapp): require durable auth before login success (#92095)</code>](https://github.com/openclaw/openclaw/commit/8afbc98018d2d06623cf65ecffe9ece733d36fb0)
+- [ ] [<code>fix(stale): exempt ClawSweeper actionable labels from stale lifecycle (#92801)</code>](https://github.com/openclaw/openclaw/commit/077d3f1366d310d09710527f455d6976262d37a2)
+- [ ] [<code>fix(status): render sub-1000 token counts as plain integers (#89736)</code>](https://github.com/openclaw/openclaw/commit/e8b35a82801e20bf747878b79ccd868e2629a1a4)
+- [ ] [<code>fix(agents): catch malformed image blocks in sanitizeContentBlocksImages (#92792)</code>](https://github.com/openclaw/openclaw/commit/4001be54e4f155422d0fabf7644cfd2e87cfe1d1)
+- [ ] [<code>ci: gate stable releases on Windows companion assets (#92555)</code>](https://github.com/openclaw/openclaw/commit/8ae1adfdccce746c07c829604338da60256bafcd)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): add usage guidance to sessions_spawn tool description (fixes #91814) (#91824)</code>](https://github.com/openclaw/openclaw/commit/7fb0d45b48e1f4698011b62520bb5abe14875ca5)
+- [ ] [<code>fix(feishu): await HTTP server shutdown during monitor cleanup</code>](https://github.com/openclaw/openclaw/commit/9f32bea3970c71f922f4992a6d33a211e67c761e)
+- [ ] [<code>feat: add tool search directory mode</code>](https://github.com/openclaw/openclaw/commit/965fa05df38bb03e4e3bcf7d8e0cb1ccaba46778)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(qqbot): surface failed media sends (#92823)</code>](https://github.com/openclaw/openclaw/commit/650c5cac3326434ccd2ec47e91982da1005eb285)
+- [ ] [<code>fix(tailscale): preserve parse errors for malformed JSON</code>](https://github.com/openclaw/openclaw/commit/bd10e1998be066058576ee17589dd061d1af17c0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add diagnostics OTEL capability contract tests (#92045)</code>](https://github.com/openclaw/openclaw/commit/7f49f875de1b21b13092535d7713d062fd739a27)
+- [ ] [<code>fix(acp): accept MCP date protocolVersion in ACP server</code>](https://github.com/openclaw/openclaw/commit/9a0bae06b7e0b2b2e152c0c82aaf300593c38268)
+- [ ] [<code>fix(hooks): reject slug-generator error payloads</code>](https://github.com/openclaw/openclaw/commit/c8cf57a1a54056e582fc18e8c0ca70d4396e5078)
+- [ ] [<code>fix(ui): repair iOS Safari chat viewport handling</code>](https://github.com/openclaw/openclaw/commit/889bc52ba5b38187d10d22fd8978858011342cba)
+- [ ] [<code>fix(update): continue after package doctor warnings (#91586)</code>](https://github.com/openclaw/openclaw/commit/7259cb5c771bd4c55ca78edcaa0123eba3f80bff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(feishu): target typing reaction on inbound message</code>](https://github.com/openclaw/openclaw/commit/808f677ab473b33f9c63af0b44aef3141afd115d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lobster): surface workflow path errors</code>](https://github.com/openclaw/openclaw/commit/c5db07eddcde388604b85c4563e42313b789e0bc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): clarify --tz help text for offset-less --at values</code>](https://github.com/openclaw/openclaw/commit/231b5a14d5d74f814319b9873dd5278f42d5513e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): preserve valid reasoning replay metadata (#90682)</code>](https://github.com/openclaw/openclaw/commit/66880a5d736c303691e5b439f3637f1bdb979b1c)
+- [ ] [<code>fix(anthropic): omit stale thinking from disabled requests (#92373)</code>](https://github.com/openclaw/openclaw/commit/2e20dd8dbf82ff96d73c16f85f7545ce64f5c2ea)
+- [ ] [<code>docs(crabbox): warm Testbox in parallel</code>](https://github.com/openclaw/openclaw/commit/d68de3f77d6c8422ee0dfe5e788176fe48c8d1d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(anthropic): merge consecutive assistant replay turns (#87346)</code>](https://github.com/openclaw/openclaw/commit/462c076a24e211d456fe84fc3686e6f33ca8bff4)
+- [ ] [<code>fix(anthropic): quarantine invalid direct tool schemas (#92896)</code>](https://github.com/openclaw/openclaw/commit/a02813164dd55e56a14c01fdbeacd479501205da)
+- [ ] [<code>fix(active-memory): preserve verbose recall summaries (#90739)</code>](https://github.com/openclaw/openclaw/commit/d1299658ac4b94dd7bceff2663f5f4cdccf4d407)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): deliver command block replies in webchat</code>](https://github.com/openclaw/openclaw/commit/f85ef0d1147f994becbf3472318454ffac791b8d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(changelog): refresh 2026.6.8 notes</code>](https://github.com/openclaw/openclaw/commit/85ebbec117335aba1cfbd73b39cc6d5e18be8aab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): preserve slash command media replies</code>](https://github.com/openclaw/openclaw/commit/cf4000b47b78040eeac284499696dcb3e647b1ec)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Simplify QA scorecard mapping shape (#92558)</code>](https://github.com/openclaw/openclaw/commit/a3e9dfee0e39351dbb63a4ebfc69557c5f7de89f)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(memory-wiki): stop flagging raw source pages as malformed (#92876)</code>](https://github.com/openclaw/openclaw/commit/8d08b90489fab5f8377174d51663474616e61e9d)
+- [ ] [<code>fix(providers): quarantine unreadable Anthropic payload tools (#92908)</code>](https://github.com/openclaw/openclaw/commit/19130e0dc2f4801d8fab8f2dadf2573d47d80628)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): preserve reindex rollback recovery (#92881)</code>](https://github.com/openclaw/openclaw/commit/e99ab385cfe129b86f1da39061f0e649e533c778)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(agents): skip anthropic billing drift in live tool checks</code>](https://github.com/openclaw/openclaw/commit/d2c0d3ac9bc2189d305ba0930f6cb5374f85692c)
+- [ ] [<code>test(qa): align tool coverage CLI expectation</code>](https://github.com/openclaw/openclaw/commit/b1caba590631160a8111d53100f0509a7fec1d09)
+- [ ] [<code>test(gateway): keep trajectory export live proof correlated</code>](https://github.com/openclaw/openclaw/commit/1c86769cb817c468432f48ddd688131ddbfd0081)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(openai): quarantine unreadable tool schemas (#92921)</code>](https://github.com/openclaw/openclaw/commit/439a9e97fd610b02af8221b3748a7bcbc15e0b07)
+- [ ] [<code>Fold Telegram RTT sampling into live QA evidence (#92550)</code>](https://github.com/openclaw/openclaw/commit/1affe4fcdf5f97f9c4cc6c4a152e51f6226e71de)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(gateway): allow trajectory export instruction latency</code>](https://github.com/openclaw/openclaw/commit/af091174dbaf7df6660f8576351fe8f8f1840714)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(media): route OAuth image defaults through Codex (#92824)</code>](https://github.com/openclaw/openclaw/commit/46a5a5ee5f29bbbfdaaa2767759356d8f5335212)
+- [ ] [<code>fix(cli): avoid false downgrade prompt for latest tag</code>](https://github.com/openclaw/openclaw/commit/333a93ce4486cd503a1675507d0f13c61d0fcacf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): guard post-hook tool payloads (#92928)</code>](https://github.com/openclaw/openclaw/commit/a57b4c513f810938efe05826c58dadf3f2e468cb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(sessions): restore reset archive fallback reads</code>](https://github.com/openclaw/openclaw/commit/b9e8e6d66ea6683afd933ca50e25b0f2f056a973)
+- [ ] [<code>fix(feishu): re-resolve route when dynamic agent binding already exists in runtime config (fixes #42837) (#92814)</code>](https://github.com/openclaw/openclaw/commit/db5e415888ae9314f27cbe89d4d4162daa73ca32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): harden beta validation gates</code>](https://github.com/openclaw/openclaw/commit/2f34d06b428e5fa00237302186d0ace69fc5e1c1)
+- [ ] [<code>test(release): unblock beta validation checks</code>](https://github.com/openclaw/openclaw/commit/37e3e895b02043d44dfbbac829ccf0ec7590e4ad)
+- [ ] [<code>fix: restart gateway after isolated cron setup timeout</code>](https://github.com/openclaw/openclaw/commit/b2c5e790b4412eda9c89a540a014fd727d009978)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): omit gpt-5.5 tool reasoning effort (#90574)</code>](https://github.com/openclaw/openclaw/commit/a12942518e3f9e92f625c395ffe2e631d456d2b0)
+- [ ] [<code>test(gateway): isolate trajectory export live seed turn</code>](https://github.com/openclaw/openclaw/commit/dae9345407db1263f7678e7df545a2e8469c59a7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(installer): stabilize npm prefix probe test</code>](https://github.com/openclaw/openclaw/commit/30f5e6f639d5e92a5a2bc3acc28d8b2b20523dd3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(openai): recover invalid reasoning signatures (#92941)</code>](https://github.com/openclaw/openclaw/commit/2a6eeceb40fe73598454f75f7a70a13e808a87f7)
+- [ ] [<code>test(gateway): authorize trajectory export live command</code>](https://github.com/openclaw/openclaw/commit/00479b12d10b2b4743c278dea6eb6010a4117019)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
