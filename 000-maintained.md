@@ -5316,6 +5316,55 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(diagnostics): keep recovery scheduling out of the stuck-session warning backoff (#92752)</code>](https://github.com/openclaw/openclaw/commit/4e4ea1c16bcd02f12498bb9b5f40a5f3b47bdd67)
 - [ ] [<code>fix(markdown-core): treat infinity chunk limit as unbounded</code>](https://github.com/openclaw/openclaw/commit/15e4fbf593339dda1a17c873cd0e5dafe9bfedab)
+- [ ] [<code>docs(config): correct agent defaults concurrency comments</code>](https://github.com/openclaw/openclaw/commit/80473504454cbfc49dc18a25a2fc92065e662912)
+- [ ] [<code>docs: clarify before_install hook scope (#92766)</code>](https://github.com/openclaw/openclaw/commit/e6ffcf7362c66ed58a98d455e15191c3f3546ec1)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(nodes): add node config example</code>](https://github.com/openclaw/openclaw/commit/d912909230e69991fd0ad107d23457eb8ddb5003)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Honor WhatsApp configured ACP bindings (#92513)</code>](https://github.com/openclaw/openclaw/commit/8549a203d4df527c17e9cc5a9d79b0d054e45864)
+- [ ] [<code>fix(memory): split header-too-large embedding batches</code>](https://github.com/openclaw/openclaw/commit/47112fc4236eda20118f85744f7b6f15e66cbb9a)
+- [ ] [<code>feat(providers): add GLM-5.2 support (#92796)</code>](https://github.com/openclaw/openclaw/commit/735f59af73666423c8e7afa43662d49d7c375d54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(sessions): enforce channel send policy for account-scoped DMs</code>](https://github.com/openclaw/openclaw/commit/ae68006a8fba1dece7e653bae7b9971a218cc168)
+- [ ] [<code>docs(changelog): refresh 2026.6.8 notes</code>](https://github.com/openclaw/openclaw/commit/6ebb303ef026df80435a6ea28b688515c39d40ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): localize workspace file rail labels</code>](https://github.com/openclaw/openclaw/commit/e4313bac97fb95391150ac14d7915398e162141e)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(docker): remove stale nested openclaw package</code>](https://github.com/openclaw/openclaw/commit/5b6810211cbc3241707c258b65d432d316cb96a3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(release): repair beta validation fixtures</code>](https://github.com/openclaw/openclaw/commit/c11fcbcb6acc3eb4add263204ccfe562691fdc71)
+- [ ] [<code>chore(deps): bump macOS Swift dependencies</code>](https://github.com/openclaw/openclaw/commit/2f57352eaa66aa13842c2229976e521f6b9d39cb)
+- [ ] [<code>fix(qa): read rich Telegram replies in live checks</code>](https://github.com/openclaw/openclaw/commit/924f4c19647cd992d6052a5d5613e121fd4348e7)
+- [ ] [<code>fix(agents): preserve compatible CLI session runtime pins</code>](https://github.com/openclaw/openclaw/commit/9974641d1ee1d9377f4cde35d7e59c0804cd531e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(macos): isolate exec approvals env</code>](https://github.com/openclaw/openclaw/commit/97c5e6c2359a697016fad2cb5f1d26f06252d053)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(macos): avoid real approvals migration in tests</code>](https://github.com/openclaw/openclaw/commit/894f521aa5bd8bc7187d64a3dfcd1fd0755c0b3c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(matrix): validate CLI numeric option ranges</code>](https://github.com/openclaw/openclaw/commit/3429e33feb396111a0420351915a647780080c19)
+- [ ] [<code>fix(qa): accept rich Telegram canary presence</code>](https://github.com/openclaw/openclaw/commit/47759c35063ca6df957000beac66a44516ab1380)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(matrix): avoid racy inbound dedupe TTL</code>](https://github.com/openclaw/openclaw/commit/2d4a9eb405380bfb9e17cde81b341252cac50470)
+- [ ] [<code>fix(canvas): validate CLI numeric options</code>](https://github.com/openclaw/openclaw/commit/e55cebf4c27815d44a8c3fc7030171b8624c4a2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: reflow composer beside workspace rail</code>](https://github.com/openclaw/openclaw/commit/1a8747620e81fc7b82e47bbfaf126566efaebe93)
+- [ ] [<code>fix(configure): mask gateway token prompts</code>](https://github.com/openclaw/openclaw/commit/382db15e33b971a32ba0a5d6acab63f7631c511c)
+- [ ] [<code>fix(ports): avoid stale cleanup for non-gateway SSH listeners</code>](https://github.com/openclaw/openclaw/commit/61145dc2521928b02563ca1eb292752eae8f9293)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>fix(tavily): keep web search contract executable</code>](https://github.com/openclaw/openclaw/commit/d6b3950734960ab2f1d078b048bf5ba58b784eea)
+- [ ] [<code>fix(daemon): keep duplicate Windows gateway tasks visible</code>](https://github.com/openclaw/openclaw/commit/edd76238feda01c1f8609b9be8674435dc396039)
+- [ ] [<code>fix(cron): isolate transient auth cooldowns</code>](https://github.com/openclaw/openclaw/commit/5b21384ab6251fd19d93d2e567c5eae87f712fcb)
+- [ ] [<code>fix(heartbeat): route outbound mirror to isolated session key (#92807)</code>](https://github.com/openclaw/openclaw/commit/c2754150c963b35490f415db3e29cb2b7fa26566)
+- [ ] [<code>test(gateway): preserve live Codex api-key auth</code>](https://github.com/openclaw/openclaw/commit/d626e99c317a354f7c0204c4f3cfe2eca523658a)
+- [ ] [<code>fix(memory): surface skipped short-term recall hits (#92745)</code>](https://github.com/openclaw/openclaw/commit/99e7dad0e43acc45fa4606a804593806e074e5ec)
+- [ ] [<code>fix(gateway): forward image-only input on /v1/responses (parity with chat completions) (#92488)</code>](https://github.com/openclaw/openclaw/commit/b72634f56de85e297de7a2478c70ff1ae29b4032)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(status): avoid cumulative usage for context percent (#92604)</code>](https://github.com/openclaw/openclaw/commit/8f62ec6177aadde8e33fc8ea197c3471e697f1c7)
+- [ ] [<code>fix: reject unvalidated voice media streams</code>](https://github.com/openclaw/openclaw/commit/1d9b9ef48f84ee4c3058bcb304ac7d7394258c14)
+- [ ] [<code>test(gateway): wait for trajectory export guidance</code>](https://github.com/openclaw/openclaw/commit/9a27af9507b12385941da9d61d6e25ae0da668cd)
+- [ ] [<code>fix(telegram): acknowledge callbacks before sequentialize</code>](https://github.com/openclaw/openclaw/commit/4c3c0ff5f9a23b27af88581f5d5df901bd386645)
+- [ ] [<code>fix(nodes): surface pending reapproval diagnostics (#92547)</code>](https://github.com/openclaw/openclaw/commit/65b460f2345a135f22df7631598643002605aad6)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
