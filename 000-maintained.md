@@ -1542,6 +1542,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Update systemd journal SDK to v0.7.0 (#22713)</code>](https://github.com/netdata/netdata.git/commit/36050079cfa90c6d2775512c4b11bc5ca376aef5)
+- [ ] [<code>SMB data and Network Viewer (Windows) (#22608)</code>](https://github.com/netdata/netdata.git/commit/a129759e65d3ae3cddcd36dd331c7063c9cc08d2)
+- [ ] [<code>fix(go.d/snmp_topology): clone device labels to fix snapshot data race (#22714)</code>](https://github.com/netdata/netdata.git/commit/ed98fc479173df3933b28bfaeb7a29b8bc9b8cc1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5553,6 +5555,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(opencode-go): warm context metadata from provider catalog (#92913)</code>](https://github.com/openclaw/openclaw/commit/356385045f8e94329421a5eb7c476875afb2be0b)
 - [ ] [<code>refactor: route bundled plugin session callers through seam (#89129)</code>](https://github.com/openclaw/openclaw/commit/f1b8827d20c8f1d648cdb1d4034120a67d1ff3e7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): preserve fresh usage after compaction (#93084)</code>](https://github.com/openclaw/openclaw/commit/9ba6ed1d5cb87c258459b5997f03895f27083dc1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix #90333: [Bug]: Discord image build aborts at step 66 — openclaw-build-messaging-plugins.py exits 1 (#92869)</code>](https://github.com/openclaw/openclaw/commit/a1f18ef46e07a3c5e3574e31b352a1e3a386536c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): accept file-only input on /v1/responses (parity with image-only) (#93011)</code>](https://github.com/openclaw/openclaw/commit/02acb0bd7455f2cee26754ba45eb839772465064)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(reply): default followup enqueue mock to accepted</code>](https://github.com/openclaw/openclaw/commit/1ca3d4f5869e84a8624aceba7de27380692ae481)
+- [ ] [<code>Convert QA scenarios to YAML files (#92915)</code>](https://github.com/openclaw/openclaw/commit/fef83940799570c86e4f0e3f3fe2538420a7e280)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
