@@ -528,6 +528,20 @@
 - [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
 - [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
 - [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/f58d1c986370ad7b76d4744fc002446252e4bb6d)
+- [ ] [<code>feat: Add ISRG X2 Root Certificate</code>](https://github.com/krille-chan/fluffychat/commit/3b3b64e60fd466c94f84892a33e2a60351dff9e4)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/c6d35eafed7568162dda7c91f8ccad5a1a48c247)
+- [ ] [<code>chore(translations): Added translation using Weblate (Azerbaijani)</code>](https://github.com/krille-chan/fluffychat/commit/3858093efb16c27a8238cde05a30369991203563)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/91597fbf57d7b12422d329c8400f4ed4fdf3b842)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/26089e8be76c411dd4a8c2e39c5633d4ce4254c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/b76f825834e4c34043ddee343e703c0eb6ee0d61)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/204ddde9d20ef5faf65b9365f2dbec1ca1eb4180)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/b9987729ceb9f1663977a4ccfce7ad9145f2b579)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b85767da2d3836cafe90620f39844eebac73bacd)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/4ed4c66b1029b86f1c74274ca1647487cfa83679)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/99d6c7af1cdcfd2ea6d0f9577eebf2af3eeae28e)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/d360f5b6effc9fa4b92277ba29f9a7538347df0d)
+- [ ] [<code>chore: update locale_config.xml</code>](https://github.com/krille-chan/fluffychat/commit/8e73efa3b48175cc7e98b63a07d926e82a454920)
+- [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/e9c7996dca033c2af779a749da65fea6edbce5bc)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -854,6 +868,20 @@
 - [ ] [<code>feat: Redesign timeline with timestamp every message</code>](https://github.com/krille-chan/fluffychat/commit/a86fa3ccad0347686e556dfb872d556a9c4354ef)
 - [ ] [<code>feat: Switch between display navrail mode with menu button</code>](https://github.com/krille-chan/fluffychat/commit/53a13a219bc87b7bdcc5da540c98847da6d0a53d)
 - [ ] [<code>chore: Design follow ups</code>](https://github.com/krille-chan/fluffychat/commit/f58d1c986370ad7b76d4744fc002446252e4bb6d)
+- [ ] [<code>feat: Add ISRG X2 Root Certificate</code>](https://github.com/krille-chan/fluffychat/commit/3b3b64e60fd466c94f84892a33e2a60351dff9e4)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/c6d35eafed7568162dda7c91f8ccad5a1a48c247)
+- [ ] [<code>chore(translations): Added translation using Weblate (Azerbaijani)</code>](https://github.com/krille-chan/fluffychat/commit/3858093efb16c27a8238cde05a30369991203563)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/91597fbf57d7b12422d329c8400f4ed4fdf3b842)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/26089e8be76c411dd4a8c2e39c5633d4ce4254c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/b76f825834e4c34043ddee343e703c0eb6ee0d61)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/204ddde9d20ef5faf65b9365f2dbec1ca1eb4180)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/b9987729ceb9f1663977a4ccfce7ad9145f2b579)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b85767da2d3836cafe90620f39844eebac73bacd)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/4ed4c66b1029b86f1c74274ca1647487cfa83679)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/99d6c7af1cdcfd2ea6d0f9577eebf2af3eeae28e)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/d360f5b6effc9fa4b92277ba29f9a7538347df0d)
+- [ ] [<code>chore: update locale_config.xml</code>](https://github.com/krille-chan/fluffychat/commit/8e73efa3b48175cc7e98b63a07d926e82a454920)
+- [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/e9c7996dca033c2af779a749da65fea6edbce5bc)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -991,6 +1019,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Guard JPEG XMP parsing sizes (#3249)</code>](https://github.com/AOMediaCodec/libavif/commit/36ccfc14cb5329ff1fae082a77a729ed34028dc0)
 - [ ] [<code>Add changelog entry for #3247 (Copy XMP/Exif ...)</code>](https://github.com/AOMediaCodec/libavif/commit/7f7fa383834f8d8a56ca130f3218ca7735f3ea1f)
 - [ ] [<code>Avoid const cast of avifJPEGFindXMLNodeByName rv</code>](https://github.com/AOMediaCodec/libavif/commit/0b47c4002a41eda3dbe3a05187449363b56eae4d)
+- [ ] [<code>Replace archived release asset upload action (#3248)</code>](https://github.com/AOMediaCodec/libavif/commit/e14848ef32b064b980eac1a6d540effec2839ba7)
+- [ ] [<code>ci: pin actions to full commit SHAs in ci-format-check and ci-mingw (#3253)</code>](https://github.com/AOMediaCodec/libavif/commit/da84da9070d1f8b1ee3c0e14eb846ca8e8681eb9)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1544,6 +1574,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update systemd journal SDK to v0.7.0 (#22713)</code>](https://github.com/netdata/netdata.git/commit/36050079cfa90c6d2775512c4b11bc5ca376aef5)
 - [ ] [<code>SMB data and Network Viewer (Windows) (#22608)</code>](https://github.com/netdata/netdata.git/commit/a129759e65d3ae3cddcd36dd331c7063c9cc08d2)
 - [ ] [<code>fix(go.d/snmp_topology): clone device labels to fix snapshot data race (#22714)</code>](https://github.com/netdata/netdata.git/commit/ed98fc479173df3933b28bfaeb7a29b8bc9b8cc1)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/81d2c2ac00d3f56213c2ce9593059c508a0d4029)
+- [ ] [<code>docs: task class: improve_docs — add a faq entry to node-identities.md (#22576)</code>](https://github.com/netdata/netdata.git/commit/0f8e2687409476a0a0cb0711b0840ea5431a84e2)
+- [ ] [<code>docs: add authentication and MFA guidance for Netdata Cloud sign-in (#22609)</code>](https://github.com/netdata/netdata.git/commit/230a16cea6663306257e75bfc9414ce9f77596ed)
+- [ ] [<code>docs: Windows installer page docs updates (#22620)</code>](https://github.com/netdata/netdata.git/commit/756d217843fd6b03886f1e440911acfe4e9b7c1d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5564,6 +5599,80 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(reply): default followup enqueue mock to accepted</code>](https://github.com/openclaw/openclaw/commit/1ca3d4f5869e84a8624aceba7de27380692ae481)
 - [ ] [<code>Convert QA scenarios to YAML files (#92915)</code>](https://github.com/openclaw/openclaw/commit/fef83940799570c86e4f0e3f3fe2538420a7e280)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(codex): close one-shot app server clients</code>](https://github.com/openclaw/openclaw/commit/870ec6dee2917d0bcb76bc86046f1a9ac10f5716)
+- [ ] [<code>feat(codex): add auto plugin approvals (#92625)</code>](https://github.com/openclaw/openclaw/commit/e82d19fb06b5c8d3c227a9c65ef304ffece3121b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): add qa run --profile and unified output summary/evidence (#91587)</code>](https://github.com/openclaw/openclaw/commit/e8db9c3bc0dffa48c2d1577e7725dae75eee2d06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(reply): avoid bundled channel load in dedupe (#93104)</code>](https://github.com/openclaw/openclaw/commit/cae64ee360a84abcc2ce2fad0c19d3ec3e05fa25)
+- [ ] [<code>test(reply): preserve telegram dedupe fallback (#93107)</code>](https://github.com/openclaw/openclaw/commit/d1eda0bd6f9f981e1ca2cf94435e0aa6656c0b52)
+- [ ] [<code>fix(memory): accept local default model path migration (#92954)</code>](https://github.com/openclaw/openclaw/commit/44e6caff540189243e9a2929d5168a84fbe0ad3e)
+- [ ] [<code>fix(agents): do not misclassify client-disconnect abort as run timeout (#90936)</code>](https://github.com/openclaw/openclaw/commit/fd80e0dd6be686969011bf9c0b62d5a938dd9815)
+- [ ] [<code>fix(voice-call): preserve live Twilio streams in stale reaper (#90812)</code>](https://github.com/openclaw/openclaw/commit/ac1042b09b5cfa4dcee7bfe1f8e5ae7771d4a35a)
+- [ ] [<code>fix(whatsapp): bound socket operations (#93094)</code>](https://github.com/openclaw/openclaw/commit/7d8b000bf78a3d6f7265f05c0ceac51d165a6c8e)
+- [ ] [<code>fix(memory-core): remove redundant provider key assertion</code>](https://github.com/openclaw/openclaw/commit/dc46a67e80123b037712685a8df35cb31dc7526c)
+- [ ] [<code>fix(scripts): add database-first legacy store guard</code>](https://github.com/openclaw/openclaw/commit/50c82b3020064d553ff0110c668b465325cff569)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(telegram): keep streamed tool-progress lines on separate lines</code>](https://github.com/openclaw/openclaw/commit/c847db550fbad32737a9766a645bd080918c2d3c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): render progress drafts as rich previews</code>](https://github.com/openclaw/openclaw/commit/663fabbe30eb5b8399865eb3ea3531292bbc1595)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): embed profile scorecard evidence (#93109)</code>](https://github.com/openclaw/openclaw/commit/3d38c9a6335b701b3b91ba902b4942367c7f4133)
+- [ ] [<code>test: add temp directory helper guidance (#87298)</code>](https://github.com/openclaw/openclaw/commit/06431fd99b9e57469c5e7df86166ee1fe5fa947d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(cron): require explicit message target proof (#92318)</code>](https://github.com/openclaw/openclaw/commit/4fc805320f7309d87850ed9bbbe825b76a705767)
+- [ ] [<code>fix(imessage): honor disabled reply actions (#93137)</code>](https://github.com/openclaw/openclaw/commit/cc954798f22c55c2b71f3cde9fcf7a63ff14c5af)
+- [ ] [<code>fix(feishu): pass card_msg_content_type to get full card content (fixes #78289) (#93134)</code>](https://github.com/openclaw/openclaw/commit/1db8ab3734221925ffe3af06a73d710fe8fdfdce)
+- [ ] [<code>fix(agents): preserve literal current session resolution (#93138)</code>](https://github.com/openclaw/openclaw/commit/7e0128ae659de4a8a38f24caa617539ff51c1812)
+- [ ] [<code>fix(memory-core): vary dream diary recall snippets (#91225)</code>](https://github.com/openclaw/openclaw/commit/04875efd28eea551aed8ac703ec1363e4fbc429c)
+- [ ] [<code>simplify QA evidence profile and mappings/coverage shape (#93153)</code>](https://github.com/openclaw/openclaw/commit/1f8c4d3958b2d306601f85053cca81538fa85c6b)
+- [ ] [<code>fix(status): preserve rich message line breaks</code>](https://github.com/openclaw/openclaw/commit/5b460c4669d4a76fd7579df0581b8c7bf5b45397)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): preserve rich markdown line breaks</code>](https://github.com/openclaw/openclaw/commit/b3f315461ba7a60d79bdf53c62a7705ef90719c6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: accept mixed source/dist bundled roots (#93119)</code>](https://github.com/openclaw/openclaw/commit/bcb016a528b14cfad70d68c3db3019fbe6632c99)
+- [ ] [<code>fix(release): harden plugin package preflight</code>](https://github.com/openclaw/openclaw/commit/5b18b7560e67d40155d73bc7306f0fcd6029d33c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(telegram): repair rich message typecheck</code>](https://github.com/openclaw/openclaw/commit/42759a1b799b807749a60f672847af2e34d1fa8e)
+- [ ] [<code>fix(docker): seed prune store from lockfile</code>](https://github.com/openclaw/openclaw/commit/b8967fc877b0d2f8d62533b733e781f0fc5ddd0f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(e2e): resume restored Parallels snapshots</code>](https://github.com/openclaw/openclaw/commit/55a6d8c57d23cce4814fc214503d1074f479267d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(e2e): resolve macOS Parallels VM</code>](https://github.com/openclaw/openclaw/commit/1057e744389a0731d45003532147fc1c680b1867)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(release): support ClawHub-only runtime builds</code>](https://github.com/openclaw/openclaw/commit/94833b2c9072372325e707c41d05badbccf10d9f)
+- [ ] [<code>fix(telegram): preserve sticker media paths (#93130)</code>](https://github.com/openclaw/openclaw/commit/1c30bb8ce63941917116bb2e502517574d0e4cf0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cron): preserve explicit delivery and timeout semantics</code>](https://github.com/openclaw/openclaw/commit/efbefceb0e2e83f75dc7b0b14839fcb6973b6ee0)
+- [ ] [<code>fix(agents): retry empty post-tool final turns (#93073)</code>](https://github.com/openclaw/openclaw/commit/77a682c5def2a87a36164f0f3201bf9c675b8d23)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(agents): track normalized message target evidence</code>](https://github.com/openclaw/openclaw/commit/928b5932a386c6380ac65014075ba55a7f36ed51)
+- [ ] [<code>fix(protocol): emit Swift enums for literal unions</code>](https://github.com/openclaw/openclaw/commit/7a7165ad22c40938998779befc2c06ac83202224)
+- [ ] [<code>fix(voice-call): require realtime websocket path boundary</code>](https://github.com/openclaw/openclaw/commit/44bf1c6d728a5f0dde378661a8fc31970c0ffef6)
+- [ ] [<code>test(protocol): narrow literal union schemas</code>](https://github.com/openclaw/openclaw/commit/d012d29e6f290cabf3cd65bb31ee387cd510cb22)
+- [ ] [<code>fix(cron): expose safe explicit delivery context</code>](https://github.com/openclaw/openclaw/commit/e573b751bf4b3c7e2956ed2e738f678a4706ea20)
+- [ ] [<code>fix(openai): restore spark oauth routing</code>](https://github.com/openclaw/openclaw/commit/59e6452772a7ed5081cfc0f5daeb0962e9781c65)
+- [ ] [<code>docs(openai): clarify spark oauth support</code>](https://github.com/openclaw/openclaw/commit/8ea848acb0812ef8f3bbe78d49ea83f8fa87c577)
+- [ ] [<code>fix(openai): preserve suppression base urls</code>](https://github.com/openclaw/openclaw/commit/6e8982f7a0fd629e207a21180c76d896bef27b38)
+- [ ] [<code>fix(openai): preserve catalog spark base urls</code>](https://github.com/openclaw/openclaw/commit/aaa5ce6280704bf075fd61225b8d2b5db54a6a37)
+- [ ] [<code>style(openai): trim spark suppression comments</code>](https://github.com/openclaw/openclaw/commit/dae2bcf31bc96d5dd978f680fc10cc434556303a)
+- [ ] [<code>fix(openai): route spark through codex runtime</code>](https://github.com/openclaw/openclaw/commit/501f63443f54e5c117df03d8b1bd9de61fcfdbdf)
+- [ ] [<code>refactor: prune unused iOS code (#91996)</code>](https://github.com/openclaw/openclaw/commit/233b48daaab4d3c7f509349a6f8c88bd98fbee81)
+- [ ] [<code>fix #69443: [Bug] Subagent RPC callback to WeChat session key routed to main session instead (#90231)</code>](https://github.com/openclaw/openclaw/commit/ba1be23821dae224cfb8f75331d21a8b6a4ec7ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(matrix): replace recovered command progress lines (#89920)</code>](https://github.com/openclaw/openclaw/commit/3fc850fe86854822d5e2ebeb1d5d65335b1d32a2)
+  - <sub>Keywords: <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>docs(skills): post Discord announcements as user</code>](https://github.com/openclaw/openclaw/commit/3add8af4271be23882fb30c7c59c47aebb6cc230)
+- [ ] [<code>fix(tui): keep parent stdin paused after exit (#93159)</code>](https://github.com/openclaw/openclaw/commit/773ffd87a1e1e34451ad6e38fda37380c2569a50)
+- [ ] [<code>fix(auto-reply): clear pending-final state before honoring post-send abort (#89115) (#93201)</code>](https://github.com/openclaw/openclaw/commit/eab22a911a2da6ccf3278a41b9d8400310ced878)
+- [ ] [<code>fix(agents): replace prose terminal classifiers (#93228)</code>](https://github.com/openclaw/openclaw/commit/0314819f918ad25fa7554f3d9b81b4ecd1e61aeb)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(status): correct pinned model clear hint (#93231)</code>](https://github.com/openclaw/openclaw/commit/3ce3ed668d9284c73cdde14cbe0526ca15303432)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qqbot): keep markdown table chunks valid (#92428)</code>](https://github.com/openclaw/openclaw/commit/e7ee1c55b433b539a4b17e9a2f66410bded813b1)
+- [ ] [<code>fix(status): avoid stale session context windows (#93220)</code>](https://github.com/openclaw/openclaw/commit/4029fbd2b238af1893e595391b71033626fa30d5)
+- [ ] [<code>perf(sessions): share one enumeration across archive retention sweeps (#91957)</code>](https://github.com/openclaw/openclaw/commit/8682d0701b2770b1dec12b6677fffa463576eff0)
+- [ ] [<code>fix(telegram): recover pid-reused ingress claims</code>](https://github.com/openclaw/openclaw/commit/d1b33a6040a47e39aa53500b818f9ed172b769de)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5993,6 +6102,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Removed unused experimental features (#8994)</code>](https://github.com/tribler/Tribler/commit/832300a3be7a85d7d09229f38ade95677f22d3a1)
 - [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/253905f41ae6305d9cc6ca67e59b1dec827e5623)
 - [ ] [<code>Update IPv8 pointer (#8995)</code>](https://github.com/tribler/Tribler/commit/f4e4c05f03e5255bf331c765bc312ae26b76a747)
+- [ ] [<code>Switched libtorrent to stable 2.0.13 tag</code>](https://github.com/tribler/Tribler/commit/a0ab484cb9c6769a518647f36e9ef69c4187ccd8)
+- [ ] [<code>Switched libtorrent to stable 2.0.13 tag (#9014)</code>](https://github.com/tribler/Tribler/commit/35f8db399d997885b872e48a994756474c919b73)
+- [ ] [<code>Fixed various build issues</code>](https://github.com/tribler/Tribler/commit/17f9c491d93efd3284c5bd8fa13665955463adc7)
+- [ ] [<code>Fixed various build issues (#9017)</code>](https://github.com/tribler/Tribler/commit/14d01cf5d5dc8c0c97125c2088eecc84ef4952b3)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
