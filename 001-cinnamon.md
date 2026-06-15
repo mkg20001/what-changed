@@ -319,6 +319,9 @@
 - [ ] [<code>keyboardManager.js: Don't append locale fallback layout if the</code>](https://github.com/linuxmint/cinnamon/commit/7cdc024bdbbd48fe7edef73b5f4db204d1cc6c9b)
 - [ ] [<code>KeybindingWidgets.py: Disallow using caps-lock in keybindings.</code>](https://github.com/linuxmint/cinnamon/commit/02e6784c01b162ef0458c10831d9bbb8ade397ba)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_windows.py: Re-order placement mode options - Centered first.</code>](https://github.com/linuxmint/cinnamon/commit/783249fa11fcf68641f662d7fff107f59ecc1ea6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>magnifier: Disable while the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/4fba110ac62835a37c4f6055c1d0eb57166372ab)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -547,6 +550,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>compositor.c (x11): Sink the background actors to the bottom of</code>](https://github.com/linuxmint/muffin/commit/babfe8a9e1312bb98562fcedae5142937f70d414)
+- [ ] [<code>place.c: Override 'automatic' mode with 'center' in Wayland.</code>](https://github.com/linuxmint/muffin/commit/0633064feae655403b64235d2793af916b3802ea)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -721,6 +725,7 @@
   - <sub>Tags: <code>3.3.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libgtk-layer-shell-dev to control file (#203)</code>](https://github.com/linuxmint/xapp/commit/f2cd3c25eb7d8ba08cd1da83d7f80f14b9eb2bf9)
+- [ ] [<code>xapp-status-icon.c (wayland): Unrealize the menu before each</code>](https://github.com/linuxmint/xapp/commit/ebfdc5d688feaabd350b9ea7bd302bb1d28989c3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
