@@ -89,6 +89,7 @@
 - [ ] [<code>bridge: attempt delbr unconditionally on bridge destroy</code>](https://git.openwrt.org/project/netifd.git/commit/741fd3c162dfa94d4db97f2153748c4595f5929a)
 - [ ] [<code>system-linux: detach device from stale bridge before adding it</code>](https://git.openwrt.org/project/netifd.git/commit/2909720f8cf111e21e3ef366b58f759148462dff)
 - [ ] [<code>interface: detach hotplug members on reassignment</code>](https://git.openwrt.org/project/netifd.git/commit/67f06ef1600a230202b8b78384e52f10ad475470)
+- [ ] [<code>interface-ip: skip offlink handling on point-to-point links</code>](https://git.openwrt.org/project/netifd.git/commit/bb7f0a456dce417833f7229fb12ae3ae4c248e9f)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
