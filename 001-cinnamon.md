@@ -300,7 +300,6 @@
 - [ ] [<code>XkbSettings.py: Improve usability.</code>](https://github.com/linuxmint/cinnamon/commit/98d9b74fc418410fe57dcb9c2671f1d60846451d)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>keyboard settings: Small ui fixes.</code>](https://github.com/linuxmint/cinnamon/commit/aae46bf184079a550194c1d85ab702adf1d7bc07)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>input methods: Add support for fcitx5.</code>](https://github.com/linuxmint/cinnamon/commit/df4b596a5198746a58f096526b602dc0160e5115)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
@@ -325,6 +324,11 @@
 - [ ] [<code>screenShield: Redesign the UI widgets (#13736)</code>](https://github.com/linuxmint/cinnamon/commit/57e5c52188b528fb22e25288891a4d464f5ae422)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>unlockDialog.js: Fix layout save/restore.</code>](https://github.com/linuxmint/cinnamon/commit/cc57c942f347f899a6e080e04054c055cc567931)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon/commit/1bc903bf5676c3afa1f07feafecfd0f4a013c3a1)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>layout.js: Don't try to update the keyboardBox if the monitor list</code>](https://github.com/linuxmint/cinnamon/commit/92dc57dd8a3a8018c40279a32bb1462340a026c7)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -411,7 +415,11 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>main.c: Don't override QT_IM_MODULE and QT_IM_MODULES if fcitx5 is</code>](https://github.com/linuxmint/cinnamon-session/commit/f8836e8208b719e1c3263939fa3d8b0a2d879e45)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Man page renames (#206)</code>](https://github.com/linuxmint/cinnamon-session/commit/864e2d88234797aef6685c9463431550ed6dac50)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/23076526b7180261b215ad0f7fb3dbb3b5f4ded3)
+  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -442,7 +450,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-media-keys-manager.c: Replace gnome- with cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8fd80da514907dd76d083533b50c6bc373baa180)
 - [ ] [<code>csd-xsettings-manager.c: Don't override GTK_IM_MODULE if it's</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/de97f127ffbc1af42e1bd53ff5e46e26b834b697)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix volume up not working on FreeBSD (#460)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d554992dfc829c5ebbb7f5af5ede77331c0c8129)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/12eb7e49e13a6e37c9ab05ebae110c406daab9eb)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -554,7 +565,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>compositor.c (x11): Sink the background actors to the bottom of</code>](https://github.com/linuxmint/muffin/commit/babfe8a9e1312bb98562fcedae5142937f70d414)
 - [ ] [<code>place.c: Override 'automatic' mode with 'center' in Wayland.</code>](https://github.com/linuxmint/muffin/commit/0633064feae655403b64235d2793af916b3802ea)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/muffin/commit/3f19fa6fc8d2c2041b09a900ae01ee6c8bc66125)
+  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -623,9 +636,12 @@
 - [ ] [<code>trash: Make 'Restore' a primary action in the context menus instead</code>](https://github.com/linuxmint/nemo/commit/45424d96c4627e556fbe62902be3945d8e8348ea)
 - [ ] [<code>nemo-view.c: Don't allow thumbnails and .desktop link info to</code>](https://github.com/linuxmint/nemo/commit/ec06509a1010303b53ae2e15b1174f27611ee9c2)
 - [ ] [<code>nemo-mime-actions.c: Allow opening untrusted desktop files as</code>](https://github.com/linuxmint/nemo/commit/b6558e43ddfa3516de343987d7a02733cd741831)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>nemo-view.c: Update ready_to_load() to match change in ec06509a10.</code>](https://github.com/linuxmint/nemo/commit/71b73d1f6852d00262923baf81bd358c559a6512)
 - [ ] [<code>nemo-view.c: Don't disable update interval progression while loading.</code>](https://github.com/linuxmint/nemo/commit/65c9b8901df780b79c8ea63f5a7e46459e8fde45)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo/commit/bc5f6a9983d4ad146b374a50b6687741d831ee13)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>commandline</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -729,7 +745,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libgtk-layer-shell-dev to control file (#203)</code>](https://github.com/linuxmint/xapp/commit/f2cd3c25eb7d8ba08cd1da83d7f80f14b9eb2bf9)
 - [ ] [<code>xapp-status-icon.c (wayland): Unrealize the menu before each</code>](https://github.com/linuxmint/xapp/commit/ebfdc5d688feaabd350b9ea7bd302bb1d28989c3)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.3.2-unstable</code>](https://github.com/linuxmint/xapp/commit/629c1f94ee53f9b402107b00e5e3f3c6f9b18a5d)
+  - <sub>Tags: <code>3.3.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
@@ -740,7 +758,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>screenshot.c: Add support for Cinnamon's window-selection.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c615880e2fa364a7f5051aa44428bdf91bc7ab9)
 - [ ] [<code>screenshot.c: Support the 'target' option with xfce4-screenshooter.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/119f11dd653fc60ecaffe110730bdd1adf8ce1cf)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.1.4-unstable</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4d78d6e9a1eb0c8584af3fe2b699737a4b4baa80)
+  - <sub>Tags: <code>1.1.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.5...HEAD)
 
