@@ -1584,6 +1584,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#22711)</code>](https://github.com/netdata/netdata.git/commit/cfdd6bac3f006db886bba5f116e2e7fa3da971d1)
 - [ ] [<code>Validate data loaded from SQLite to prevent crashes on corrupted databases (#22679)</code>](https://github.com/netdata/netdata.git/commit/fbf184547098a3022fe3a561a910e56e970cd384)
+- [ ] [<code>Fix namespace-relative cgroup lookup for topology (#22727)</code>](https://github.com/netdata/netdata.git/commit/224c7841b9162a8a09888b56cd6bcc09859bde14)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update systemd journal SDK to v0.7.1 (#22731)</code>](https://github.com/netdata/netdata.git/commit/6b153cc1692b56878ab0ccf2f2e16aafdc12b4ea)
+- [ ] [<code>Update vendored NetIPC library (#22729)</code>](https://github.com/netdata/netdata.git/commit/b7146a36260d9ee80a976d47f57acc22c5569c93)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix search for VS tooling to check for multiple versions. (#22723)</code>](https://github.com/netdata/netdata.git/commit/04cb72146e6dc0e80e328fd165c732bd66c28de7)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5785,6 +5792,63 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor: add transcript runtime identity contract (#89201)</code>](https://github.com/openclaw/openclaw/commit/efa9a6110b4e26f48c9dbb7fab113ed0cc36a738)
 - [ ] [<code>fix(plugins): enforce install policy in wrappers (#93357)</code>](https://github.com/openclaw/openclaw/commit/8b0eac7927d5e7695d058d3503edcd3f8e278b67)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(doctor): import default-agent auth profiles into sqlite (#93156)</code>](https://github.com/openclaw/openclaw/commit/f018945eff80945d4319b6076cac02a0af1dc089)
+- [ ] [<code>Add slim evidence mode for QA profile evidence (#93179)</code>](https://github.com/openclaw/openclaw/commit/e32929e12cd470d238a97afbb7b6d97c532c8415)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): record visible delivery target evidence</code>](https://github.com/openclaw/openclaw/commit/43cef3a80ca1ba62ec431ab7851d2d969551fa1b)
+- [ ] [<code>fix(agents): validate visible delivery receipts</code>](https://github.com/openclaw/openclaw/commit/fec6a0407f449f035fec0b004503d57a64c949e8)
+- [ ] [<code>fix(agents): distinguish delivery routes from references</code>](https://github.com/openclaw/openclaw/commit/6cb631afc9c5b526b64ccd16b311a884fdfe3006)
+- [ ] [<code>test(agents): require delivery evidence in suppression fixtures</code>](https://github.com/openclaw/openclaw/commit/bdc3017c1a69a079d1e94044435f35e17b8e79fa)
+- [ ] [<code>fix(ci): update Vitest past browser advisory</code>](https://github.com/openclaw/openclaw/commit/93fa065fb36c54a63e51285aa1ddd5f19bbc7851)
+- [ ] [<code>fix(control-ui): keep workboard card titles visible</code>](https://github.com/openclaw/openclaw/commit/7a008c53f49a191d4c7dd3b1fec90417a35892e3)
+- [ ] [<code>fix(cli): accept --no-color after subcommands</code>](https://github.com/openclaw/openclaw/commit/212fef87039a305611dbd2eb372a1d9c38dbc252)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(googlechat): return sent thread metadata</code>](https://github.com/openclaw/openclaw/commit/7305d9bacaec6b393ca58dadcadff9a70e5f7856)
+- [ ] [<code>fix(infra): drop duplicated restart word</code>](https://github.com/openclaw/openclaw/commit/923828ccd733cf00b606fb3c668d0a850a01f0b2)
+- [ ] [<code>fix(cron): suppress announce control replies</code>](https://github.com/openclaw/openclaw/commit/57bad4bdf871b7ff4140dfa8ef187bed7626f93a)
+- [ ] [<code>fix(auth): keep alias-compatible auth-profile overrides</code>](https://github.com/openclaw/openclaw/commit/3d3d29190294d0658a9635cb79a611f2639cd981)
+- [ ] [<code>fix(doctor): separate platform-incompatible skills</code>](https://github.com/openclaw/openclaw/commit/1b5ac45e60240e5cc4c6ad3f021f86c18c11accb)
+- [ ] [<code>fix(media): stop pruning media on write</code>](https://github.com/openclaw/openclaw/commit/bcd1fdb1db969a9fd61373668e1c6aa21746369a)
+- [ ] [<code>fix(logging): avoid stalled warnings for active model calls</code>](https://github.com/openclaw/openclaw/commit/0f71a665ed7ae98e61cd851bc1d14400bb22e099)
+- [ ] [<code>fix(discord): reject malformed realtime consult calls</code>](https://github.com/openclaw/openclaw/commit/baeedaa3166b0246be067044002bd8156973e572)
+- [ ] [<code>test(agents): mark runtime contract delivery as sent</code>](https://github.com/openclaw/openclaw/commit/50dbd46aa6de5ffd7edbbe1265d70ab491119794)
+- [ ] [<code>fix(whatsapp): notify when trailing media send fails</code>](https://github.com/openclaw/openclaw/commit/00c58b6613a9008cdeebe8b1e13cc5c3d7f20ce3)
+- [ ] [<code>fix(sessions): preserve behavior overrides across rollover</code>](https://github.com/openclaw/openclaw/commit/0bb415bf66534a029b57a0890e8dd49970f6d4c6)
+- [ ] [<code>fix(ci): restore main checks</code>](https://github.com/openclaw/openclaw/commit/c8e70708e978b72a7589b4c63ad69309453d6e40)
+- [ ] [<code>Add Apple Watch screenshot pipeline</code>](https://github.com/openclaw/openclaw/commit/21e3cfa5e9207bd76952d6359cc306c6f214dde0)
+  - <sub>Keywords: <code>usr</code> <code>commandline</code></sub>
+- [ ] [<code>refactor: route auto-reply sessions through session seam (#89124)</code>](https://github.com/openclaw/openclaw/commit/127e174c9e4de36f2eccb96300bb3efa69ae9a32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: stabilize transcript cache and CLI env isolation</code>](https://github.com/openclaw/openclaw/commit/e64379dddbb1614c5b4ad9b9f18a1a53fcac9843)
+- [ ] [<code>fix(qa): fail unsuccessful self-checks</code>](https://github.com/openclaw/openclaw/commit/c32ba171db2ee4945d52352e143d27ca88d7305f)
+- [ ] [<code>fix(discord): suppress tool progress for message-tool replies (#93412)</code>](https://github.com/openclaw/openclaw/commit/f08b24e63c9abcbc11521002cb94e87c04632d00)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(whatsapp): stop markdownToWhatsApp dropping code spans followed by a digit (#93409)</code>](https://github.com/openclaw/openclaw/commit/eccfacb02cc5cf015b8cd97c90c748602a00fad6)
+- [ ] [<code>fix(memory): swap rollback-journal sidecar during atomic reindex (#93295)</code>](https://github.com/openclaw/openclaw/commit/0d50ec77de6d777c26ea8f70e8c4c772bf7047fc)
+- [ ] [<code>fix(ci): skip transcript guard for older release targets</code>](https://github.com/openclaw/openclaw/commit/74c6f175c7b4e712d2b53f9e242442e08abefb7c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auth): wait through SQLite read contention</code>](https://github.com/openclaw/openclaw/commit/0ef8620746f8a99d6f6c71cc7ead83837da11c65)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(whatsapp): preserve auth on terminal disconnects (#93076)</code>](https://github.com/openclaw/openclaw/commit/52d9d16e1be94cbda702a7c47386ac8732762720)
+- [ ] [<code>fix(cli): preserve gateway request errors in json mode</code>](https://github.com/openclaw/openclaw/commit/b41c0b674654083fb3cc4696df032bb64d876e97)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(proxy): close cached SQLite stores by path</code>](https://github.com/openclaw/openclaw/commit/4ca8bf086c6890e8fbc70801d2560b87cf3f5d23)
+- [ ] [<code>fix(agents): bound autoreview scope (#93435)</code>](https://github.com/openclaw/openclaw/commit/fd806ada649a124d44bffa4850b0da19b739e6e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(sessions): guard append cache after extension serialization</code>](https://github.com/openclaw/openclaw/commit/9dbf8f718ff82030960b98038ff87c7577006ddd)
+- [ ] [<code>fix(telegram): gate rich messages behind opt-in (#93279)</code>](https://github.com/openclaw/openclaw/commit/a375d6c849638f63ef5025d46efd34e58eea2e6c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(line): cap carousel column text at 60 chars when a title or image is set (#93429)</code>](https://github.com/openclaw/openclaw/commit/eac3e08cfd857cfe22f55ec36b76e7a0e92a1cd1)
+- [ ] [<code>fix(agents): resolve configured default model in runEmbeddedAgent (fixes #93419) (#93428)</code>](https://github.com/openclaw/openclaw/commit/03e3ef86afd9f505ea9e85014e6caa1e838e79f9)
+- [ ] [<code>fix(tui): show activity indicator for system-injected runs (#93427)</code>](https://github.com/openclaw/openclaw/commit/01acb34bdbb6fdd58bb178c06295edb0c816efb6)
+- [ ] [<code>feat(policy): cover exec approvals artifact (#90003)</code>](https://github.com/openclaw/openclaw/commit/55263b3dfa416425f4fc4fdc60cd08d6e8bbb345)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(guards): allow auth profile sqlite reader (#93448)</code>](https://github.com/openclaw/openclaw/commit/dc09d148bb46f3a6d53f2eca59a9b68866ebe0c7)
+- [ ] [<code>fix(mattermost): keep message tool replies in threads (#93424)</code>](https://github.com/openclaw/openclaw/commit/2365a137d88cd8ae3902159267545b9edc7cf54a)
+- [ ] [<code>fix(telegram): forward Bot API 10.1 rich_message content to agent (#93418)</code>](https://github.com/openclaw/openclaw/commit/ee3b7eb7c07de66bf37cba65ec3d5159eabbb442)
+- [ ] [<code>fix(mac): isolate dmg image cleanup</code>](https://github.com/openclaw/openclaw/commit/e94b666e4541fda6342733d2f7067fd80529ac8d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(sessions): guard unsafe transcript serialization cache</code>](https://github.com/openclaw/openclaw/commit/568f2d56314478ba48877648bdcb0b1e4a4278e2)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
