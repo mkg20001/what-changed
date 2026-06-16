@@ -322,6 +322,9 @@
 - [ ] [<code>cs_windows.py: Re-order placement mode options - Centered first.</code>](https://github.com/linuxmint/cinnamon/commit/783249fa11fcf68641f662d7fff107f59ecc1ea6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>magnifier: Disable while the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/4fba110ac62835a37c4f6055c1d0eb57166372ab)
+- [ ] [<code>screenShield: Redesign the UI widgets (#13736)</code>](https://github.com/linuxmint/cinnamon/commit/57e5c52188b528fb22e25288891a4d464f5ae422)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>unlockDialog.js: Fix layout save/restore.</code>](https://github.com/linuxmint/cinnamon/commit/cc57c942f347f899a6e080e04054c055cc567931)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
