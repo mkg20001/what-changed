@@ -1030,6 +1030,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Replace archived release asset upload action (#3248)</code>](https://github.com/AOMediaCodec/libavif/commit/e14848ef32b064b980eac1a6d540effec2839ba7)
 - [ ] [<code>ci: pin actions to full commit SHAs in ci-format-check and ci-mingw (#3253)</code>](https://github.com/AOMediaCodec/libavif/commit/da84da9070d1f8b1ee3c0e14eb846ca8e8681eb9)
 - [ ] [<code>Remove explicit VS version in Windows CI (#3254)</code>](https://github.com/AOMediaCodec/libavif/commit/0e73429877ced7d2b1cd943c8398fa82b9311ddf)
+- [ ] [<code>Compare matrix.generator with '-G Ninja'</code>](https://github.com/AOMediaCodec/libavif/commit/6048f5c9e0ff74124c219d032997e34e92c7d343)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -6290,6 +6291,52 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(memory): apply outputDimensionality truncation to local GGUF embeddings (fixes #58765) (#93758)</code>](https://github.com/openclaw/openclaw/commit/94e625566605623c76eccfb8263adf743211db30)
 - [ ] [<code>feat(inbound-meta): expose per-turn source modality (#93754)</code>](https://github.com/openclaw/openclaw/commit/003d3100c34c9446cd29830e12fbd7a614ade87c)
 - [ ] [<code>fix(testbox): reject unsafe Crabbox version tuples</code>](https://github.com/openclaw/openclaw/commit/3576d1e9674edfbb2415dc5f9836b05a3cade51e)
+- [ ] [<code>fix(qa): reject malformed kitchen sink process samples</code>](https://github.com/openclaw/openclaw/commit/6ede75dbeb5d9d920899e60ceb5f491a6705f3e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): require exact benchmark RSS samples</code>](https://github.com/openclaw/openclaw/commit/5a251bc54c5b6289f71465afc7e894aba63c324c)
+- [ ] [<code>fix(ci): reject unsafe boundary shard specs</code>](https://github.com/openclaw/openclaw/commit/4747e949c77b758bf63a466d2bf2fd9ce6092ae1)
+- [ ] [<code>fix(qa): ignore unsafe Ubuntu VM fallbacks</code>](https://github.com/openclaw/openclaw/commit/2caf92a5b7d97270cad0872737db54f45661e4f0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(sdk): raise plugin SDK usage heap</code>](https://github.com/openclaw/openclaw/commit/7d4001c85547ef151e185326530a6697f1edf5ae)
+- [ ] [<code>fix(qa): keep kitchen sink sampling scoped</code>](https://github.com/openclaw/openclaw/commit/411e79d558646245beb3be0ed663320a9db69dd4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(reasoning-tags): strip MiniMax `mm:` namespaced reasoning tags (#93767)</code>](https://github.com/openclaw/openclaw/commit/4f860bfab09cc01ce10e4b876d3128a26e4bf439)
+- [ ] [<code>fix(feishu): recover CJK filenames from JSON file_name field (fixes #81103) (#93772)</code>](https://github.com/openclaw/openclaw/commit/7b659543e13b8c7562f709277dc324ed8b3940ae)
+- [ ] [<code>fix(ui): scope Skill Workshop proposals to selected agent (#93773)</code>](https://github.com/openclaw/openclaw/commit/2b92fbc2ee8dfa82c5c730283a94c9078dbe1a40)
+- [ ] [<code>fix(release): reject unsafe Sparkle build floors</code>](https://github.com/openclaw/openclaw/commit/8db66b416bb8810c90ebedcdec21ef310a986c21)
+- [ ] [<code>feat(context-engine): pass runtime settings into lifecycle (#88750)</code>](https://github.com/openclaw/openclaw/commit/f94a2506d218dd5a7fcee638ad1e10ae76723b95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): sync main to 2026.6.8</code>](https://github.com/openclaw/openclaw/commit/6774e7f25918d370f669f6059411255fb3c59d3a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): align plugin SDK surface budget</code>](https://github.com/openclaw/openclaw/commit/cfb27e643727e7deed39e8a6351b63198bdab2c2)
+- [ ] [<code>chore(release): refresh npm shrinkwrap versions</code>](https://github.com/openclaw/openclaw/commit/00d2452facf9079c77fa4addcc5cf6f09b81bc15)
+- [ ] [<code>docs(changelog): account for 2026.6.8 contributions</code>](https://github.com/openclaw/openclaw/commit/f7d96c9301d13b2dce253b8ce35842ba7ba2fa95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): use neutral billing copy for subscription auth (#93763)</code>](https://github.com/openclaw/openclaw/commit/7c97c6da9bfaf28c6312dc94b7d0f9509e5b6792)
+- [ ] [<code>fix(release): reject loose trusted package ports</code>](https://github.com/openclaw/openclaw/commit/e17297f7dc82918fe901e9ac50fc48fbef58fc39)
+- [ ] [<code>fix(release): verify complete contribution coverage</code>](https://github.com/openclaw/openclaw/commit/f684527085ebeeeff0de13e62decb0c5b1bd4457)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(release): reject loose Docker package timeouts</code>](https://github.com/openclaw/openclaw/commit/f3f8ca3d922c2a970fcb177795fd140de44efd97)
+- [ ] [<code>docs(release): require stable main closeout</code>](https://github.com/openclaw/openclaw/commit/06ddc8585738874051739790c9b230bb2f0faeba)
+- [ ] [<code>docs: list all ClawHub docs in sidebar</code>](https://github.com/openclaw/openclaw/commit/5b9a3d05b64930ae842191b1eeed1de66c326df8)
+- [ ] [<code>fix(release): keep package output names local</code>](https://github.com/openclaw/openclaw/commit/b67775f7febe4335b43312021eecdb6f8be7d793)
+- [ ] [<code>refactor(agents): trim unused model helper exports</code>](https://github.com/openclaw/openclaw/commit/2ee4b523b41e9d565cbdf77191a2efb861b0ac32)
+- [ ] [<code>fix(webchat): skip textarea resize during IME composition to eliminate typing lag (#93779)</code>](https://github.com/openclaw/openclaw/commit/8432d7d62402123ab8e6d38aa856dafdfcdfcd95)
+- [ ] [<code>refactor(agents): narrow internal helper exports</code>](https://github.com/openclaw/openclaw/commit/76cd61a903b77fbd2b844ed2e20282d8d23cdd41)
+- [ ] [<code>refactor(agents): narrow model helper exports</code>](https://github.com/openclaw/openclaw/commit/916616502f867acf6ebe38a3e6ce6a391166c7f4)
+- [ ] [<code>refactor(agents): narrow runtime guard exports</code>](https://github.com/openclaw/openclaw/commit/d1ea170c9b55f6dde108737fd9b2b8d5bb5e1201)
+- [ ] [<code>refactor(agents): narrow embedded runner helper exports</code>](https://github.com/openclaw/openclaw/commit/e62b0122e7ad3fa9a8a4412506fa0de0b42e92b7)
+- [ ] [<code>fix(ui): refresh realtime talk i18n baseline</code>](https://github.com/openclaw/openclaw/commit/4e78776a5cf5242ff951cb5dff511675255aa043)
+- [ ] [<code>refactor(agents): narrow terminal outcome helpers</code>](https://github.com/openclaw/openclaw/commit/dc384393fc8b58992f7404c1977f4806ec82d4c5)
+- [ ] [<code>fix(release): keep plugin pack filenames local</code>](https://github.com/openclaw/openclaw/commit/5c74fde91267c160840929e50f76035fd1e7e18f)
+- [ ] [<code>fix(plugins): treat refreshable catalogs as requiring runtime discovery (#93786)</code>](https://github.com/openclaw/openclaw/commit/d2279591bfa8b06c61be6752c8138d9ad63f8b2d)
+- [ ] [<code>refactor(agents): narrow tool schema helper exports</code>](https://github.com/openclaw/openclaw/commit/e7e686db2d00f865f3d184881cc229c3789a8272)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): narrow deepseek filter type</code>](https://github.com/openclaw/openclaw/commit/10f3e52be04807439af802c61199f468d91ccb12)
+- [ ] [<code>refactor(agents): narrow internal event constants</code>](https://github.com/openclaw/openclaw/commit/c40e904c1b50c56e95eef646471675defa0e4bb5)
+- [ ] [<code>fix(release): reject unsafe pack tarball names</code>](https://github.com/openclaw/openclaw/commit/2800e8ecb62110a52668c0a6c4c99c4da4f1e78b)
+- [ ] [<code>refactor(agents): narrow session runtime compat exports</code>](https://github.com/openclaw/openclaw/commit/acb24937e7d1f0c6d2b8e5e61cb36fca418337cb)
+- [ ] [<code>refactor(agents): remove session repair type alias</code>](https://github.com/openclaw/openclaw/commit/9bc7dced980eece3bb5e8d7deef9d676a5c16e11)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
