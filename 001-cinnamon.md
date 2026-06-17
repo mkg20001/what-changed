@@ -328,7 +328,10 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>layout.js: Don't try to update the keyboardBox if the monitor list</code>](https://github.com/linuxmint/cinnamon/commit/92dc57dd8a3a8018c40279a32bb1462340a026c7)
+- [ ] [<code>cinnamon-screenshot.c: Capture all monitors in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/260f4211b9ea1aea1351e018c63427607264ac9b)
+- [ ] [<code>screenshots: Fix to-clipboard in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/02f3c2ae12bdb815c03e4589b6bd84b526758d4b)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
