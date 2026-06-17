@@ -330,6 +330,8 @@
 - [ ] [<code>layout.js: Don't try to update the keyboardBox if the monitor list</code>](https://github.com/linuxmint/cinnamon/commit/92dc57dd8a3a8018c40279a32bb1462340a026c7)
 - [ ] [<code>cinnamon-screenshot.c: Capture all monitors in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/260f4211b9ea1aea1351e018c63427607264ac9b)
 - [ ] [<code>screenshots: Fix to-clipboard in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/02f3c2ae12bdb815c03e4589b6bd84b526758d4b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-screenshot/util.py: Don't nest the same quote type in an</code>](https://github.com/linuxmint/cinnamon/commit/33c8d28b797f2f6a4a304558e0893a28189ee7cd)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
