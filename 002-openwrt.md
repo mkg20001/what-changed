@@ -90,6 +90,13 @@
 - [ ] [<code>system-linux: detach device from stale bridge before adding it</code>](https://git.openwrt.org/project/netifd.git/commit/2909720f8cf111e21e3ef366b58f759148462dff)
 - [ ] [<code>interface: detach hotplug members on reassignment</code>](https://git.openwrt.org/project/netifd.git/commit/67f06ef1600a230202b8b78384e52f10ad475470)
 - [ ] [<code>interface-ip: skip offlink handling on point-to-point links</code>](https://git.openwrt.org/project/netifd.git/commit/bb7f0a456dce417833f7229fb12ae3ae4c248e9f)
+- [ ] [<code>system-linux: guard PSE port priority for older kernel headers</code>](https://git.openwrt.org/project/netifd.git/commit/c1f9d4df847ab27bd02ff2cba55e6c53bb8b8fe9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>build: prefer libnl-tiny and fix LIBNL detection on reconfigure</code>](https://git.openwrt.org/project/netifd.git/commit/b087b07733662c08b32a0ece13c2d9a3916fd994)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>device: add broadcast_flood bridge port setting</code>](https://git.openwrt.org/project/netifd.git/commit/b0063715d7ea3b2e77bfbd3036a52e16898d0112)
+- [ ] [<code>interface: add carrier_loss_delay option</code>](https://git.openwrt.org/project/netifd.git/commit/973354a1a6f0f0fa5744866e94f75b674f9a9ff2)
+- [ ] [<code>interface: add restart support</code>](https://git.openwrt.org/project/netifd.git/commit/d155e4cefbd964b7c022618c1d74b549de25e8a8)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
