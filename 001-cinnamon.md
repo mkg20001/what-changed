@@ -571,8 +571,10 @@
 - [ ] [<code>compositor.c (x11): Sink the background actors to the bottom of</code>](https://github.com/linuxmint/muffin/commit/babfe8a9e1312bb98562fcedae5142937f70d414)
 - [ ] [<code>place.c: Override 'automatic' mode with 'center' in Wayland.</code>](https://github.com/linuxmint/muffin/commit/0633064feae655403b64235d2793af916b3802ea)
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/muffin/commit/3f19fa6fc8d2c2041b09a900ae01ee6c8bc66125)
-  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-wayland-layer-shell: Fix segfault on output removal via weak pointer</code>](https://github.com/linuxmint/muffin/commit/e2e56d139fcf4ca596e0698f7dac18c26aaf303b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
