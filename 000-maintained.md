@@ -6975,6 +6975,45 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: serialize gateway watch artifact check</code>](https://github.com/openclaw/openclaw/commit/2282fcd9ecb3744777dd2491e485736572e5e0c5)
 - [ ] [<code>fix(memory-host): kill qmd process groups</code>](https://github.com/openclaw/openclaw/commit/20534c57b7e88c965a08e12e00ae7eb6683ac3b3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(codex): support remote app-server plugins (#94203)</code>](https://github.com/openclaw/openclaw/commit/bc5081c587308a4d2ea2697cd23a3b0e96e662f5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(scripts): wait for mock stderr flush</code>](https://github.com/openclaw/openclaw/commit/5893758957833529549523316607f5cb3a55e4ea)
+- [ ] [<code>fix(test): kill openclaw test process groups</code>](https://github.com/openclaw/openclaw/commit/912946ff941597f797e146cab8cbffd093152737)
+- [ ] [<code>chore: add claw-score skill (#94263)</code>](https://github.com/openclaw/openclaw/commit/846591b5542787fda15be56e97d63fbff94cff75)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: add compact trim lifecycle seam (#93695)</code>](https://github.com/openclaw/openclaw/commit/e442b575b9869a0cb26e1ac850afe80b71255508)
+- [ ] [<code>test: fold lifecycle and package proof into QA Lab (#93114)</code>](https://github.com/openclaw/openclaw/commit/0a6736af09f6c074436320de6eb3f6103b8343ea)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: fold otel smoke into qa e2e (#93181)</code>](https://github.com/openclaw/openclaw/commit/fae4a01d0d3a1a99b824c0fcbd02827e6f55a60a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test: fold gateway smoke into qa e2e (#93178)</code>](https://github.com/openclaw/openclaw/commit/f7e5132ffd5fc9642fb76e8c488ed6d9126a24e4)
+- [ ] [<code>fix(process): clean respawn child groups</code>](https://github.com/openclaw/openclaw/commit/1d53b745920030c1cc6a1186802009e3597e27a2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(qa-lab): stabilize web search parity fixture</code>](https://github.com/openclaw/openclaw/commit/8288b4d4c9a0f09bcf784f7256119f06d2ac425e)
+- [ ] [<code>qa-lab: support script-backed evidence scenarios (#94276)</code>](https://github.com/openclaw/openclaw/commit/591313e80a5e419e8a4d824cd8e8a6ae6689fb79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): register gateway smoke coverage ids</code>](https://github.com/openclaw/openclaw/commit/9bd6ff4c146b259ee869c358b2278977a5e6c914)
+- [ ] [<code>fix(security): kill timed out exec process trees</code>](https://github.com/openclaw/openclaw/commit/39dc92efb76a664b52c3ce31bcd1bda81cb4e4bb)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Support owner-qualified ClawHub skill installs (#94282)</code>](https://github.com/openclaw/openclaw/commit/ebd87e7f37b9e2abac3bc8b744f8c6b3138b63c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>clawdbot-d02.1.9.1.33: add session cleanup lifecycle seam (#93704)</code>](https://github.com/openclaw/openclaw/commit/968190e5a7feadc9d8f6fbb17b36b51b6eb54810)
+- [ ] [<code>fix(agents): stop local service process trees</code>](https://github.com/openclaw/openclaw/commit/d7866fc89b9851567641cad3c2dfc278624ac6e4)
+- [ ] [<code>test(skills): remove stale clawhub assertion</code>](https://github.com/openclaw/openclaw/commit/2364c7ebc074440491598289735af097eb76de42)
+- [ ] [<code>fix: require all taxonomy coverage ids (#94296)</code>](https://github.com/openclaw/openclaw/commit/e17d111990f117fe9eeb1b29d047570975741bfc)
+- [ ] [<code>fix(plugins): compose live hook registry view for tool-call hooks</code>](https://github.com/openclaw/openclaw/commit/23eadfa2778380c682fad3f492dd7a1c10fe3d75)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(policy): recognize declared tool allowlists (#89596)</code>](https://github.com/openclaw/openclaw/commit/fadbcf8a4e43d7f4384c49972fdaff17bb34e6d7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): route nested e2e helper changes</code>](https://github.com/openclaw/openclaw/commit/84f7f001aa8c556befdcb54c3ed1f3c0e1cb1d9a)
+- [ ] [<code>fix: route deleted-agent purge through lifecycle seam (clawdbot-d02.1.9.1.34) (#93713)</code>](https://github.com/openclaw/openclaw/commit/79c7468075fd0dd26140a03039f033e69d45c33a)
+- [ ] [<code>fix(exec): rebuild command authorization on the Tree-sitter command planner</code>](https://github.com/openclaw/openclaw/commit/c9707ab635b928435db4af092b01548bd2235029)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): cover install helper routing</code>](https://github.com/openclaw/openclaw/commit/89b34825f658b77c39efdccdc120f4982fb3a65e)
+- [ ] [<code>fix(test): route e2e helper family tests</code>](https://github.com/openclaw/openclaw/commit/b02b05d13455bf251ddbcbe17b476b81fa7801b0)
+- [ ] [<code>fix(test): map remaining e2e helper owners</code>](https://github.com/openclaw/openclaw/commit/622b67067e12f7f2b8a07c712c6131b2aeca632c)
+- [ ] [<code>fix(test): force-kill plugin fixture servers</code>](https://github.com/openclaw/openclaw/commit/7430079cd751454b974aa46e18bdbb315aa693e2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
