@@ -545,6 +545,7 @@
 - [ ] [<code>build: (deps): bump particles_network from 1.9.4 to 1.9.5</code>](https://github.com/krille-chan/fluffychat/commit/9b33930046d13d399c77565aa54edf0b9e09cbcf)
 - [ ] [<code>build: (deps): bump flutter_local_notifications from 22.0.0 to 22.0.1</code>](https://github.com/krille-chan/fluffychat/commit/75a5753e037e7a53b124583a64b13fa9f39b5ec4)
 - [ ] [<code>build: Update matrix dart sdk to 7.2.4</code>](https://github.com/krille-chan/fluffychat/commit/24675be146cf3acd505c2059b8d073a8382df3f4)
+- [ ] [<code>build: Bump flutter to 3.44.2</code>](https://github.com/krille-chan/fluffychat/commit/33e2eeccbd7b2993f316543acec72b6f9035fc71)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/1546ce07d06f2b6374bcfcde4dc15196983e5a97)
 - [ ] [<code>build: (deps): bump path_provider from 2.1.5 to 2.1.6</code>](https://github.com/krille-chan/fluffychat/commit/bf55e3c696b0fb2c480d38b6b2d56ac66aacdfc4)
 - [ ] [<code>chore(translations): Translated using Weblate (Azerbaijani)</code>](https://github.com/krille-chan/fluffychat/commit/768faa7e371b708422508cadf27f7b3025759223)
@@ -557,6 +558,13 @@
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/32f4bc52e4ed27ea06da48a7d4827c336e9cc326)
 - [ ] [<code>Merge pull request #3119 from krille-chan/krille/design-follow-up-06-17</code>](https://github.com/krille-chan/fluffychat/commit/ec2b8a48c9e2feeef5a8a530071d8ff4085235d8)
   - <sub>Tags: <code>rc2.7.0-0</code></sub>
+- [ ] [<code>build: (deps): bump file_picker from 12.0.0-beta.5 to 12.0.0-beta.7</code>](https://github.com/krille-chan/fluffychat/commit/1a6fbd6f46de3a5e4e9ad02f4017a1ddf88425d5)
+- [ ] [<code>build: Clean up iOS release process scripts</code>](https://github.com/krille-chan/fluffychat/commit/8987815b1b682e6c24dd19d425f7eabd70933919)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore: Correct support url in update snackbar</code>](https://github.com/krille-chan/fluffychat/commit/891fb9ecf9bd13fc5b9dbd58e919ff401de0e445)
+- [ ] [<code>chore: Redesign update dialog</code>](https://github.com/krille-chan/fluffychat/commit/8e59203113a64a7f97e115ef8ed58fa24156ce04)
+- [ ] [<code>Merge pull request #3112 from krille-chan/krille/flutter-3-44-2</code>](https://github.com/krille-chan/fluffychat/commit/d30154308edddd002e361f5e84a4b00754a486fc)
+  - <sub>Tags: <code>rc2.7.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -900,6 +908,7 @@
 - [ ] [<code>build: (deps): bump particles_network from 1.9.4 to 1.9.5</code>](https://github.com/krille-chan/fluffychat/commit/9b33930046d13d399c77565aa54edf0b9e09cbcf)
 - [ ] [<code>build: (deps): bump flutter_local_notifications from 22.0.0 to 22.0.1</code>](https://github.com/krille-chan/fluffychat/commit/75a5753e037e7a53b124583a64b13fa9f39b5ec4)
 - [ ] [<code>build: Update matrix dart sdk to 7.2.4</code>](https://github.com/krille-chan/fluffychat/commit/24675be146cf3acd505c2059b8d073a8382df3f4)
+- [ ] [<code>build: Bump flutter to 3.44.2</code>](https://github.com/krille-chan/fluffychat/commit/33e2eeccbd7b2993f316543acec72b6f9035fc71)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/1546ce07d06f2b6374bcfcde4dc15196983e5a97)
 - [ ] [<code>build: (deps): bump path_provider from 2.1.5 to 2.1.6</code>](https://github.com/krille-chan/fluffychat/commit/bf55e3c696b0fb2c480d38b6b2d56ac66aacdfc4)
 - [ ] [<code>chore(translations): Translated using Weblate (Azerbaijani)</code>](https://github.com/krille-chan/fluffychat/commit/768faa7e371b708422508cadf27f7b3025759223)
@@ -912,6 +921,13 @@
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/32f4bc52e4ed27ea06da48a7d4827c336e9cc326)
 - [ ] [<code>Merge pull request #3119 from krille-chan/krille/design-follow-up-06-17</code>](https://github.com/krille-chan/fluffychat/commit/ec2b8a48c9e2feeef5a8a530071d8ff4085235d8)
   - <sub>Tags: <code>rc2.7.0-0</code></sub>
+- [ ] [<code>build: (deps): bump file_picker from 12.0.0-beta.5 to 12.0.0-beta.7</code>](https://github.com/krille-chan/fluffychat/commit/1a6fbd6f46de3a5e4e9ad02f4017a1ddf88425d5)
+- [ ] [<code>build: Clean up iOS release process scripts</code>](https://github.com/krille-chan/fluffychat/commit/8987815b1b682e6c24dd19d425f7eabd70933919)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore: Correct support url in update snackbar</code>](https://github.com/krille-chan/fluffychat/commit/891fb9ecf9bd13fc5b9dbd58e919ff401de0e445)
+- [ ] [<code>chore: Redesign update dialog</code>](https://github.com/krille-chan/fluffychat/commit/8e59203113a64a7f97e115ef8ed58fa24156ce04)
+- [ ] [<code>Merge pull request #3112 from krille-chan/krille/flutter-3-44-2</code>](https://github.com/krille-chan/fluffychat/commit/d30154308edddd002e361f5e84a4b00754a486fc)
+  - <sub>Tags: <code>rc2.7.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1060,6 +1076,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Cite the svt-av1 vcpkg bug report instead</code>](https://github.com/AOMediaCodec/libavif/commit/27a60c729c061c93015f5a27efc2619a0693bc36)
 - [ ] [<code>Add a changelog entry for PR #3266</code>](https://github.com/AOMediaCodec/libavif/commit/94fcbb3fbc186cab1d7419c6a8559a0d7e1dc90d)
+- [ ] [<code>Fix printed gain map size in avifenc/avifgainmaputil when using a grid. (#3270)</code>](https://github.com/AOMediaCodec/libavif/commit/9d654e391a75268869e488831099a5f86cfb2fb9)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1105,6 +1122,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(oauth): degrade to re-auth on corrupt credential cache instead of crashing (#208)</code>](https://github.com/steipete/mcporter/commit/53747cac636285c65c0c7f64b9a16057d55c1484)
 - [ ] [<code>fix: skip imported servers with unresolvable env placeholders (#209)</code>](https://github.com/steipete/mcporter/commit/6f3f42ca4270de0be91c0c004e6233e766fec356)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: support file-backed call arguments (#213)</code>](https://github.com/steipete/mcporter/commit/c1b58296db1abc9596b82d93effbec0248e476c8)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore(release): prepare 0.12.1</code>](https://github.com/steipete/mcporter/commit/8beee8764fe6086eef2ca0555c733c668cc2fd34)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1665,6 +1685,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d): add single-instance collector framework support (#22752)</code>](https://github.com/netdata/netdata.git/commit/9e9b82411d2fd0585c3faecb76bc0fffad506ff8)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix MSI issues (#22751)</code>](https://github.com/netdata/netdata.git/commit/d2d17893342f38e807d339f68ae3f14e8d9f0d7f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-437-nightly.</code>](https://github.com/netdata/netdata.git/commit/aad09c4ee7c59f2171e167262910acb3ebb21615)
+- [ ] [<code>refactor(go.d): decouple SNMP topology function ownership (#22753)</code>](https://github.com/netdata/netdata.git/commit/02be0866a7d0086061c133fc91e9a036ba99032d)
+- [ ] [<code>docs: Add a concise note to the RBAC model page stating that role changes (#22658)</code>](https://github.com/netdata/netdata.git/commit/ac0e5a8725c3ddafc053ea04d0bebab38ea40ac7)
+- [ ] [<code>docs: Fix misleading StatsD example metric names in config docs (#22674)</code>](https://github.com/netdata/netdata.git/commit/89f87ba3fbca2ded5e7db5512c5fa2bda7fee05e)
+- [ ] [<code>Switch log level from `NOTICE` to `DEBUG` for active context checkpoint logs (#22758)</code>](https://github.com/netdata/netdata.git/commit/5e74e4d72757828647306277e513ee3485493b3d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4626,6 +4651,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(android): update to new AGP DSL</code>](https://github.com/Oppzippy/OpenSCQ30/commit/83ddfa15286c79436e94ee31f0a637b86a7353fd)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code> <code>exec</code></sub>
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a7ab8a3dce74afc116629ceb32ab91ae535c3ada)
+- [ ] [<code>fix(android): add category icons for dualConnections and limitHighVolume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee1d3110062f95c6d5900c346a69cc38492e10a0)
+- [ ] [<code>feat(soundcore-device-faker): add a3130</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9ee29a9e7bd22eb2d4f0d6c269478eaf0efc5894)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.5 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.5...HEAD)
 
@@ -7014,6 +7042,175 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(test): map remaining e2e helper owners</code>](https://github.com/openclaw/openclaw/commit/622b67067e12f7f2b8a07c712c6131b2aeca632c)
 - [ ] [<code>fix(test): force-kill plugin fixture servers</code>](https://github.com/openclaw/openclaw/commit/7430079cd751454b974aa46e18bdbb315aa693e2)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor(channels): remove allowlist match facade</code>](https://github.com/openclaw/openclaw/commit/fb72f67cd06493646b1b30b1f8335ec7553e91fe)
+- [ ] [<code>fix(test): avoid huge chat attachment fixture</code>](https://github.com/openclaw/openclaw/commit/5fcab50e49bce21148d352a54c45a92178c849f1)
+- [ ] [<code>refactor(commands): remove compatibility barrels</code>](https://github.com/openclaw/openclaw/commit/5f42a93e4d4983887851b8ca5009eeef072c8d11)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): target docker e2e seed changes</code>](https://github.com/openclaw/openclaw/commit/2a304261338988c2adc7dc77ba67af1968721bcf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(llm): remove oauth helper facades</code>](https://github.com/openclaw/openclaw/commit/f9fc2efe681aa1975319c854d9dc6216e6b08935)
+- [ ] [<code>fix(test): target mcp seed helper changes</code>](https://github.com/openclaw/openclaw/commit/b3884750b2c25850763d4d54359fdb5282b98512)
+- [ ] [<code>refactor(text): remove tool-call block facade</code>](https://github.com/openclaw/openclaw/commit/4a4a5968e88a32090e795364a52d96911d49b842)
+- [ ] [<code>refactor(plugins): remove setup browser facade</code>](https://github.com/openclaw/openclaw/commit/544b00e4e15f9be10f7bcad59098fa90701e8cc0)
+- [ ] [<code>fix(test): target docker e2e client changes</code>](https://github.com/openclaw/openclaw/commit/9477b11d98fa86d552a411052c071c4f5824418e)
+- [ ] [<code>refactor(doctor): remove command compatibility barrels</code>](https://github.com/openclaw/openclaw/commit/978b5225a5107157835205c453571496c3d833c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(plugins): remove import specifier facade</code>](https://github.com/openclaw/openclaw/commit/617076687e7b9280adcaf67463fcd52551d2136d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): target crestodian docker e2e scripts</code>](https://github.com/openclaw/openclaw/commit/496ffdf5c4f764e28433346e8d0662c0f23d3873)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(plugins): remove setup binary facade</code>](https://github.com/openclaw/openclaw/commit/4a596d9bc82cdc267cf24886c573b9a89601102f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(outbound): remove tool payload facade</code>](https://github.com/openclaw/openclaw/commit/a22a1edc8faa2be7cabdab3b55cb5623540bf17e)
+- [ ] [<code>refactor(security): remove audit tool policy facade</code>](https://github.com/openclaw/openclaw/commit/4651ffad4a3e2d62471a36573c97231638d05b98)
+- [ ] [<code>fix(test): target cron and image docker clients</code>](https://github.com/openclaw/openclaw/commit/2e49b6b769ad891a118e3314628fcf726e4ce57e)
+- [ ] [<code>refactor(agents): remove tool display record facade</code>](https://github.com/openclaw/openclaw/commit/4552ea7ba0be9d1b9bc5a273f33ae69e55629dce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): target package docker shell scripts</code>](https://github.com/openclaw/openclaw/commit/bf5a1086953111957ccd8f2b35824b0f505d6005)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(normalization): remove record coercion facades</code>](https://github.com/openclaw/openclaw/commit/83f7203bdb95bc14f5901e23e708150ded638964)
+- [ ] [<code>refactor(subagents): remove session key normalizer facade</code>](https://github.com/openclaw/openclaw/commit/d3ced4554d781822c2a0859b55240473f62c8720)
+- [ ] [<code>refactor(config): remove prototype key facade</code>](https://github.com/openclaw/openclaw/commit/a3ae453a1ac2e414275fa05271ad109f4f490af0)
+- [ ] [<code>refactor(core): inline one-use helper modules</code>](https://github.com/openclaw/openclaw/commit/7b74d7332f70771f74b1161c8fb8a67211afe60b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): target plugin docker runner scripts</code>](https://github.com/openclaw/openclaw/commit/665d2601e5efdd33570d5c95eb751fefef5ceb50)
+- [ ] [<code>refactor(media): remove common helper facades</code>](https://github.com/openclaw/openclaw/commit/4e6057e4dd52abef405c20980edac4b3eb51a7ad)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: add ClawHub namespace claims to sidebar (#94332)</code>](https://github.com/openclaw/openclaw/commit/1a6b84b698191ca71c60771d85426a758991b064)
+- [ ] [<code>refactor(web): remove provider runtime facade</code>](https://github.com/openclaw/openclaw/commit/e122cd09ab0fdf59115a63024c7af1ffda287b82)
+- [ ] [<code>fix(test): target provider web docker runners</code>](https://github.com/openclaw/openclaw/commit/1b81b0ea21ac4ee2110d9e9af42506c9ab5fff0b)
+- [ ] [<code>fix(test): target update docker runner scripts</code>](https://github.com/openclaw/openclaw/commit/98bc05e008fcc542787c9e262016caca5d29fba3)
+- [ ] [<code>fix(test): target release docker runner scripts</code>](https://github.com/openclaw/openclaw/commit/573d7bf2e3e4f24b9278c61d0548163b7f532e3b)
+- [ ] [<code>refactor(core): remove unused internal aliases</code>](https://github.com/openclaw/openclaw/commit/967f8adc632ea25691170b9f73adeba875e7b734)
+- [ ] [<code>fix(test): target remaining docker runner scripts</code>](https://github.com/openclaw/openclaw/commit/51d211e6665fe4e2467ef79ae306fd6005814b42)
+- [ ] [<code>refactor(ui): remove unused helper exports</code>](https://github.com/openclaw/openclaw/commit/79718d9e015cd614fdcb6a05d4cf3c775ff97f29)
+- [ ] [<code>refactor(ui): remove unused utility helpers</code>](https://github.com/openclaw/openclaw/commit/1dccbbfc0194c63fc42e1f4d600964398857d32d)
+- [ ] [<code>refactor(channels): remove unused route helpers</code>](https://github.com/openclaw/openclaw/commit/9bb263c985e335b6b0348709db0ca48482a679e9)
+- [ ] [<code>refactor(ui): remove unused type exports</code>](https://github.com/openclaw/openclaw/commit/9d7fd31dd35ba6f0f4ba5faf559d1c441383e3d6)
+- [ ] [<code>fix(test): schedule missing docker runner lanes</code>](https://github.com/openclaw/openclaw/commit/95cf7dee723a926ef217b253f727266043e25933)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(core): remove unused helper exports</code>](https://github.com/openclaw/openclaw/commit/acc37e220c42681aef2798136aee2d5d956fcc75)
+- [ ] [<code>refactor(extensions): remove unused provider helpers</code>](https://github.com/openclaw/openclaw/commit/4012edcd662d149947e2c31ced0d8c84c7c6fb27)
+- [ ] [<code>refactor(feishu): remove unused send helpers</code>](https://github.com/openclaw/openclaw/commit/b4e5aa18b3b795b9ff13efbda12c8ab260811ff7)
+- [ ] [<code>refactor(telegram): remove unused message helpers</code>](https://github.com/openclaw/openclaw/commit/c58e1abf6aee1168799fa9d6629d0bd93d0e6d1d)
+- [ ] [<code>refactor(extensions): remove unused utility helpers</code>](https://github.com/openclaw/openclaw/commit/2f8f93676ef5ffe432dbc6fc2f8f3a00f16b9bee)
+- [ ] [<code>refactor(scripts): remove unused helper exports</code>](https://github.com/openclaw/openclaw/commit/9fa12521190b368d4b8d9bf4a50d5e7d72140b28)
+- [ ] [<code>refactor(test): remove unused vitest helper exports</code>](https://github.com/openclaw/openclaw/commit/90a7f552b1f955bd146761a9b9a1a5c9223bffbb)
+- [ ] [<code>refactor(test): remove unused helper types</code>](https://github.com/openclaw/openclaw/commit/0cae5b3672ed6f6aa0c80839fd60572cbe39797d)
+- [ ] [<code>refactor(memory): remove unused session file exports</code>](https://github.com/openclaw/openclaw/commit/bdc46fa28de3364ed95d89e6916002ca159fcd6e)
+- [ ] [<code>refactor(extensions): remove unused dead helpers</code>](https://github.com/openclaw/openclaw/commit/b5f71c0971831791c7c878ff1988ea93350f3919)
+- [ ] [<code>fix(plugin-sdk): refresh api baseline hash</code>](https://github.com/openclaw/openclaw/commit/af026b383dfc3fdd0e5b0bca2c3be905eea13f77)
+- [ ] [<code>refactor(plugin-sdk): remove orphan config path helper</code>](https://github.com/openclaw/openclaw/commit/070b0456bb37d66d76241e67b7db56f4be37f947)
+- [ ] [<code>refactor(agents): dedupe dead helper code</code>](https://github.com/openclaw/openclaw/commit/b63acf54f964aec67a163a27306c18772cefeaff)
+- [ ] [<code>refactor(telegram): dedupe prompt media paths</code>](https://github.com/openclaw/openclaw/commit/ba36291a8c8be8f15bbb311c715586de3c0fe4a7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: honor bound agent exec host policy</code>](https://github.com/openclaw/openclaw/commit/804e5f21d1b554662d26396b9ddcbd19c2d65706)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(config): dedupe observe suspicion checks</code>](https://github.com/openclaw/openclaw/commit/72628f906b9e5d3a8317ebdec889bdcb5314c1ba)
+- [ ] [<code>refactor(scripts): dedupe gateway bench probes</code>](https://github.com/openclaw/openclaw/commit/887297e04a09040ceb503d4b3bf05268595f5fe2)
+- [ ] [<code>refactor(sessions): dedupe generated transcript parsing</code>](https://github.com/openclaw/openclaw/commit/2052a3bf4e5312f2af00a28ef8be0e1596a72f9b)
+- [ ] [<code>fix(ci): add focused windows ci probe</code>](https://github.com/openclaw/openclaw/commit/78d86f710e28934f174a314a7d7ef8c258a9652f)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(scripts): dedupe mcp code-mode fixture</code>](https://github.com/openclaw/openclaw/commit/cb8daec7292180980df911b768b65a4cbda54470)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor(scripts): dedupe release assertion readers</code>](https://github.com/openclaw/openclaw/commit/de10eca7d60740defccb2c80086345f6d028e3ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(doctor): dedupe missing skill summaries</code>](https://github.com/openclaw/openclaw/commit/0b68c5f6de67fe79fa2118e20aa5222d6785291d)
+- [ ] [<code>refactor(sessions): dedupe session helpers</code>](https://github.com/openclaw/openclaw/commit/0da706dbfb1093fb45201445788e7443d8c61c60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(codex): dedupe startup client cleanup</code>](https://github.com/openclaw/openclaw/commit/ff3ebb1c24cafd773061dca115121d24f21e1130)
+- [ ] [<code>refactor(google-meet): dedupe bridge process cleanup</code>](https://github.com/openclaw/openclaw/commit/e55a637537c4a462c69212e3a0e4964fb9145221)
+- [ ] [<code>refactor(agents): dedupe model catalog entries</code>](https://github.com/openclaw/openclaw/commit/daf7c92db3e51e0b5aff94bd0058f06127711ec4)
+- [ ] [<code>fix(test): update codex app-server client fixtures</code>](https://github.com/openclaw/openclaw/commit/0f998e6cc47f1ec43f881ccea10e17d8c6f3e10b)
+- [ ] [<code>refactor(agents): dedupe code mode json serialization</code>](https://github.com/openclaw/openclaw/commit/2e44610ba2375473b21ed4b5debf84fba7922df3)
+- [ ] [<code>refactor(plugins): dedupe loader validation errors</code>](https://github.com/openclaw/openclaw/commit/3f6ed50d68f124eaa8add2a409e7fddacc12cb31)
+- [ ] [<code>refactor(agents): dedupe cli assistant deltas</code>](https://github.com/openclaw/openclaw/commit/6f1def4d68729a8413cdb527e0adf58f23e0396a)
+- [ ] [<code>fix(plugin-sdk): refresh api baseline hash</code>](https://github.com/openclaw/openclaw/commit/f8f2006c8b51b29f36f64e294a0f64a8e90d63f4)
+- [ ] [<code>refactor(config): dedupe validation metadata loader</code>](https://github.com/openclaw/openclaw/commit/523e98a47a240b8ea6dc8358c4c1ebc949aeee81)
+- [ ] [<code>refactor(zalo): dedupe hosted route cleanup</code>](https://github.com/openclaw/openclaw/commit/77a877e8696a0b5a2cec95b5b016a0750fdc4524)
+- [ ] [<code>refactor(plugin-state): dedupe update serialization</code>](https://github.com/openclaw/openclaw/commit/d30d40909760a55d83366a2d4fbe25c8f9580877)
+- [ ] [<code>refactor(whatsapp): dedupe read receipt helper</code>](https://github.com/openclaw/openclaw/commit/b89fa3333bdbb7fa264c1c0a4869ac2196b9718a)
+- [ ] [<code>refactor(qqbot): dedupe approval capability state</code>](https://github.com/openclaw/openclaw/commit/0aa6b8ca0d6d13aa4f9e95818fc89e3580afdbd0)
+- [ ] [<code>refactor(qa-matrix): dedupe progress timeout errors</code>](https://github.com/openclaw/openclaw/commit/ac973a8f605323e56831b0fe969e8be00a98367b)
+- [ ] [<code>test(doctor): update cron fast-path mock</code>](https://github.com/openclaw/openclaw/commit/a914d572c7c7b3769b2555cdfbbecb2e84fe00f7)
+- [ ] [<code>refactor(gateway): dedupe agent id listing</code>](https://github.com/openclaw/openclaw/commit/05fe48b2895f0c4f9af4616f2e83278a5815299e)
+- [ ] [<code>refactor(plugins): dedupe index database options</code>](https://github.com/openclaw/openclaw/commit/ce611bc803d1f9c401982e5244739ff6252b770c)
+- [ ] [<code>refactor(ui): dedupe workspace open requests</code>](https://github.com/openclaw/openclaw/commit/227757079cc01a81901dd794c350d2eb3816fb17)
+- [ ] [<code>refactor(ui): dedupe grouped message options</code>](https://github.com/openclaw/openclaw/commit/b9b057b6d58f96fe05e33fa20a4752f9e1c4730a)
+- [ ] [<code>refactor(ui): dedupe usage menu close handler</code>](https://github.com/openclaw/openclaw/commit/a59f093d3eb4feea0543b7c76d3a0a9b1cb02994)
+- [ ] [<code>test(agents): dedupe fs bridge mock factory</code>](https://github.com/openclaw/openclaw/commit/270842a85551cf44bafbaff8106c908dff04b088)
+- [ ] [<code>refactor(agents): remove stale runner aliases</code>](https://github.com/openclaw/openclaw/commit/ff49b7fab106a40fff519c64c207806a7c939156)
+- [ ] [<code>refactor(agents): remove stale acp error alias</code>](https://github.com/openclaw/openclaw/commit/4106794ff5152334aac698f4219b6ac3fe5b3c74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): remove stale subagent depth policy</code>](https://github.com/openclaw/openclaw/commit/9b082cb1bb1aa4261c27d0e0d3caf44f7dd110ff)
+- [ ] [<code>refactor(agents): remove stale exec helpers</code>](https://github.com/openclaw/openclaw/commit/6e66dfb7f039cddaac796cd56549ad657275240f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(docs): refresh qa lab plugin inventory</code>](https://github.com/openclaw/openclaw/commit/d5d6576e0699c19bf27de9e961d17f33c9961053)
+- [ ] [<code>refactor(agents): remove stale live model switch api</code>](https://github.com/openclaw/openclaw/commit/a455b508a791d87f519a7efcc471aedcf520d419)
+- [ ] [<code>refactor(agents): remove stale openai schema wrappers</code>](https://github.com/openclaw/openclaw/commit/6db0fb3197b1bcca49c5b42517500bda7d0c21fe)
+- [ ] [<code>refactor(agents): remove stale provider attribution wrappers</code>](https://github.com/openclaw/openclaw/commit/9dccdedc074a91e497a50fc4e0983ad6bf8c718c)
+- [ ] [<code>refactor(agents): remove stale provider auth warm wrapper</code>](https://github.com/openclaw/openclaw/commit/5feb88dc1eff4c257f0ea241806c6266c3df3dab)
+- [ ] [<code>refactor(agents): remove stale nested lane helper</code>](https://github.com/openclaw/openclaw/commit/5b5e6ff272cb6db4c74f0b178a8a067ccb2469da)
+- [ ] [<code>fix(slack): remove socket reconnect attempt cap so gateway stays connected indefinitely (#73162)</code>](https://github.com/openclaw/openclaw/commit/01dcaba78dde8370d7b1b04ec569660d8b9aaae5)
+- [ ] [<code>refactor(agents): remove stale Claude CLI compat wrapper</code>](https://github.com/openclaw/openclaw/commit/519eb3d0887c0978635bb1b73f8950e8fe5aba1f)
+- [ ] [<code>refactor(agents): remove stale exec event helper</code>](https://github.com/openclaw/openclaw/commit/8f48f5e5ba67caca2fb13640768484c898fdc123)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(agents): remove stale lane auto-resume helper</code>](https://github.com/openclaw/openclaw/commit/95b6df834350a9f5968e86e64277e20851ca1351)
+- [ ] [<code>fix(agents): keep strict mode for projected OpenAI tools</code>](https://github.com/openclaw/openclaw/commit/c50899275e2c26c8c7ec7580fea98503eb2d7645)
+- [ ] [<code>test(agents): remove redundant provider attribution assertion</code>](https://github.com/openclaw/openclaw/commit/12787de566099c1ba8a49ca78a632a47e55c1f50)
+- [ ] [<code>test(slack): throw Error instances in reconnect loop test</code>](https://github.com/openclaw/openclaw/commit/153c395527fc3cef526c89fccc6eba06cba597b1)
+- [ ] [<code>test(agents): widen slow MCP catalog timeout margin</code>](https://github.com/openclaw/openclaw/commit/5b7cf461ac03b41d937152dc4c6b19b69d7b84bc)
+- [ ] [<code>refactor(imessage): remove unused chat actions</code>](https://github.com/openclaw/openclaw/commit/31e0f894c5f2c5197ba263dc686be63b72de705b)
+- [ ] [<code>refactor(browser): remove unused chrome mcp wrappers</code>](https://github.com/openclaw/openclaw/commit/48c63fcb274f5003376611c900d8c13811b540a0)
+- [ ] [<code>refactor(extensions): remove unused private helpers</code>](https://github.com/openclaw/openclaw/commit/2a0aeb59be509b6084cb453738c1c9250c5fd162)
+- [ ] [<code>refactor(qa): remove unused parity helpers</code>](https://github.com/openclaw/openclaw/commit/c6aa8e74236f7f87316db699d59b48103958a286)
+- [ ] [<code>refactor(discord): remove unused thread binding helpers</code>](https://github.com/openclaw/openclaw/commit/dbebdb95638070509bb87303ebd02be0f521cde9)
+- [ ] [<code>refactor(extensions): remove unused helper exports</code>](https://github.com/openclaw/openclaw/commit/58b77e787d107bb026f546c8d585f939b057310b)
+- [ ] [<code>refactor(test): remove unused shared helpers</code>](https://github.com/openclaw/openclaw/commit/fae30318d14111537b5de4cac5f8f211d552690e)
+- [ ] [<code>refactor(msteams): reuse shared activity handler test helper</code>](https://github.com/openclaw/openclaw/commit/43e96439ee8d5408edb3564dd7858d08088b509b)
+- [ ] [<code>fix: expose OpenAI image quality and moderation CLI options (#94156)</code>](https://github.com/openclaw/openclaw/commit/70489061cab62786b794ac593f85933b3ade2063)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test-ui): remove dead utility code</code>](https://github.com/openclaw/openclaw/commit/60d6a8a89d47c2f91f60d689dc57622517492109)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(browser): remove dead CLI test mocks</code>](https://github.com/openclaw/openclaw/commit/e3bd804a17fca25bf0fd82b3d8d4c4eea1d1d66d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(scripts): remove dead helper exports</code>](https://github.com/openclaw/openclaw/commit/8607b4042fa1989f9cf948e217852b8f4b27feed)
+- [ ] [<code>fix(ci): report WSL2 restart-required probes</code>](https://github.com/openclaw/openclaw/commit/b4b2698ac2a06518dec634e25eb376e56637c452)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(e2e): show browser CDP smoke diagnostics</code>](https://github.com/openclaw/openclaw/commit/cdb2fa35e24d6ff3cce6ce712969245bfbe12f4c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>refactor(scripts): delete unused vitest args helper</code>](https://github.com/openclaw/openclaw/commit/1e02cc9473f21ea243c4384cf587785b9494a2c7)
+- [ ] [<code>feat: externalize GMI provider plugin (#94350)</code>](https://github.com/openclaw/openclaw/commit/1b19c790bfdd68feb8bf83c9b2597c371880cb8a)
+- [ ] [<code>feat(cohere): externalize provider plugin</code>](https://github.com/openclaw/openclaw/commit/c558e918c206d46f9479cde62ec264e012ddbc1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test): remove unused vitest route helpers</code>](https://github.com/openclaw/openclaw/commit/915ca8135e3e47377d19e3bc478d6787c624ecf9)
+- [ ] [<code>refactor(test): delete unused media generation mocks</code>](https://github.com/openclaw/openclaw/commit/eb17c0d635c24b823e30c819eafea91a74b1a104)
+- [ ] [<code>refactor(cron): remove unused regression fixture writer</code>](https://github.com/openclaw/openclaw/commit/aef0e4d0b04657f8b0433e9d069eb7f46c279093)
+- [ ] [<code>test(e2e): reuse shared image for multi-node updates</code>](https://github.com/openclaw/openclaw/commit/68ead4dd80509e13f42076ed2ac36356e3105da5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>refactor(test): remove unused proof and channel helpers</code>](https://github.com/openclaw/openclaw/commit/9f5c9b2e2233390d5d9bf3716b9f1a92d3084fdf)
+- [ ] [<code>refactor(core): remove unused internal type exports</code>](https://github.com/openclaw/openclaw/commit/dc2fdd1b99712568e45a326b4e0049a8ac73d521)
+- [ ] [<code>refactor(core): remove unused internal exports</code>](https://github.com/openclaw/openclaw/commit/d694047cb5d64dd933fb8c3d2e072ee8e07f2672)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): sanitize oversized middleware inputs</code>](https://github.com/openclaw/openclaw/commit/0d9bb2fe4723a3f73420a042a3d2b3435b53abe2)
+- [ ] [<code>fix(gateway): bound config.get tool results</code>](https://github.com/openclaw/openclaw/commit/2ac2b021cf8c52e557645f840362a61af3af84c0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(update): resume official plugin convergence after gateway git update</code>](https://github.com/openclaw/openclaw/commit/90d385cb932820b9d5d35119afa41c90ee19bba2)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(update): harden post-core finalize (service-env strip, no-op skip)</code>](https://github.com/openclaw/openclaw/commit/1b251a6af1c715ad8f37ad77417f30e243e1c971)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(update): match git channel + decouple finalize process timeout</code>](https://github.com/openclaw/openclaw/commit/62147624610e764e7152ec96913d06a256fd6420)
+- [ ] [<code>fix(update): forward finalize --channel only when configured</code>](https://github.com/openclaw/openclaw/commit/07c29c20d6c091daeb1a1efa5389aea79e396b6f)
+- [ ] [<code>fix(update): carry effective git channel into post-core finalize</code>](https://github.com/openclaw/openclaw/commit/085ff95fcf311b880328ea59330f13fb2852c049)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): retry gateway plugin convergence</code>](https://github.com/openclaw/openclaw/commit/4e476d333ee41976c2edb27f56a8f3e0be285194)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(update): preserve RPC pre-update config</code>](https://github.com/openclaw/openclaw/commit/c1a414bf286ab9f44d80bbf6809bab03bee1a360)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test): remove unused channel route exports</code>](https://github.com/openclaw/openclaw/commit/b0375f25b31bd9c949a070da5545d995ab825139)
+- [ ] [<code>refactor(codex): remove unused websocket debug getter</code>](https://github.com/openclaw/openclaw/commit/45366dec2ecffa38af890a9b6f89ca5d2e8e90ef)
+- [ ] [<code>chore(extensions): bump tokenjuice to 0.8.1</code>](https://github.com/openclaw/openclaw/commit/bba1d0204c45fedc8e764a4c82b9f1164dba8ed8)
+- [ ] [<code>refactor(cron): dedupe cron test helpers</code>](https://github.com/openclaw/openclaw/commit/9caf4e1ae9c4813a7d01b4909b607b77c6a40b13)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7454,6 +7651,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Various Fixes (#9019)</code>](https://github.com/tribler/Tribler/commit/9873ef7fd36b6fbd8ece95f02528cde34da87dea)
 - [ ] [<code>Update IPv8 pointer, unpin aiohttp</code>](https://github.com/tribler/Tribler/commit/df145a8b4b5cf7e469fa0a709cabd09086897b4c)
 - [ ] [<code>Update IPv8 pointer (#9021)</code>](https://github.com/tribler/Tribler/commit/eed83a2ee56148b421314329d4f8ac33a6629a05)
+- [ ] [<code>Purged libsodium from builds</code>](https://github.com/tribler/Tribler/commit/6c801038f3545d1f31644f9642b052f2c386957b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Removed libsodium from builds (#9022)</code>](https://github.com/tribler/Tribler/commit/50469d212cc9603b04ca5a6b4e69154dc365d4c0)
+  - <sub>Tags: <code>v8.4.3</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
