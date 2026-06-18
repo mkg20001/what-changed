@@ -332,8 +332,16 @@
 - [ ] [<code>screenshots: Fix to-clipboard in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/02f3c2ae12bdb815c03e4589b6bd84b526758d4b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-screenshot/util.py: Don't nest the same quote type in an</code>](https://github.com/linuxmint/cinnamon/commit/33c8d28b797f2f6a4a304558e0893a28189ee7cd)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>wayland: Remove "experimental" from session name</code>](https://github.com/linuxmint/cinnamon/commit/d4b411858a02b69a27373df2d6a0e9f2ffc93430)
+- [ ] [<code>cinnamon-app: Improve icon lookup for Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/77989117375fbd247d89be342be92ba50781d0af)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings.py: Use GLib.set_prgname() instead of set_wmclass()</code>](https://github.com/linuxmint/cinnamon/commit/8523fb0e0790d70facfd0cd71f8c30a836ec22cd)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-settings.py: Fix warning formatting.</code>](https://github.com/linuxmint/cinnamon/commit/d5b14279f53c9a2acc7ababc45b71a04fb4c1ea8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver: Prevent user from typing while password is checked</code>](https://github.com/linuxmint/cinnamon/commit/63120cc16d4aff48e4451be89565eb69a6883ae5)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -354,6 +362,9 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5fb7b030f904f37d13a1f0fe1e1de2fbeea43987)
   - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>display module: Remove desktop file from build.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8acb4246ab55db983545429bd9b212596c619223)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -423,8 +434,11 @@
 - [ ] [<code>Man page renames (#206)</code>](https://github.com/linuxmint/cinnamon-session/commit/864e2d88234797aef6685c9463431550ed6dac50)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/23076526b7180261b215ad0f7fb3dbb3b5f4ded3)
-  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csm-manager.c: Don't try to restart the cinnamon CsmApp in Wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/636b69c2ffab975ee073ee910b002a1417c937ba)
+- [ ] [<code>csm-manager.c: Clean up some end-session warnings.</code>](https://github.com/linuxmint/cinnamon-session/commit/cbcc3641af44d50df5fe0eef0af60cc990dc3049)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -574,7 +588,10 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-wayland-layer-shell: Fix segfault on output removal via weak pointer</code>](https://github.com/linuxmint/muffin/commit/e2e56d139fcf4ca596e0698f7dac18c26aaf303b)
+- [ ] [<code>wayland: Implement xdg-toplevel-icon and xapp-shell protocols.</code>](https://github.com/linuxmint/muffin/commit/e441356351e4f46d7b02fc5d9ec0839293cb25d0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -753,8 +770,12 @@
 - [ ] [<code>Add libgtk-layer-shell-dev to control file (#203)</code>](https://github.com/linuxmint/xapp/commit/f2cd3c25eb7d8ba08cd1da83d7f80f14b9eb2bf9)
 - [ ] [<code>xapp-status-icon.c (wayland): Unrealize the menu before each</code>](https://github.com/linuxmint/xapp/commit/ebfdc5d688feaabd350b9ea7bd302bb1d28989c3)
 - [ ] [<code>3.3.2-unstable</code>](https://github.com/linuxmint/xapp/commit/629c1f94ee53f9b402107b00e5e3f3c6f9b18a5d)
-  - <sub>Tags: <code>3.3.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add xapp-shell protocol, to support XAppGtkWindow in wayland</code>](https://github.com/linuxmint/xapp/commit/e3a6f8d23915c96ace29d8d810a7fe12e8596b1f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
