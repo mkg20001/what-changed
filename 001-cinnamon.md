@@ -341,6 +341,8 @@
 - [ ] [<code>cinnamon-settings.py: Fix warning formatting.</code>](https://github.com/linuxmint/cinnamon/commit/d5b14279f53c9a2acc7ababc45b71a04fb4c1ea8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screensaver: Prevent user from typing while password is checked</code>](https://github.com/linuxmint/cinnamon/commit/63120cc16d4aff48e4451be89565eb69a6883ae5)
+- [ ] [<code>cinnamon-app.c: Fix double-free against muffin-owned icon.</code>](https://github.com/linuxmint/cinnamon/commit/11aae87454233a4bf573345fbd2b120998d01a63)
+- [ ] [<code>Don't round widget coordinates/sizes (#13821)</code>](https://github.com/linuxmint/cinnamon/commit/f993c5066c78b0ca87d4f08ad2a87939a4b090c6)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -438,6 +440,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csm-manager.c: Don't try to restart the cinnamon CsmApp in Wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/636b69c2ffab975ee073ee910b002a1417c937ba)
 - [ ] [<code>csm-manager.c: Clean up some end-session warnings.</code>](https://github.com/linuxmint/cinnamon-session/commit/cbcc3641af44d50df5fe0eef0af60cc990dc3049)
+- [ ] [<code>csm-manager.c: Emit the SessionOver signal.</code>](https://github.com/linuxmint/cinnamon-session/commit/8dd86cf9c8611de794d96939508899074f930a09)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
@@ -589,9 +592,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-wayland-layer-shell: Fix segfault on output removal via weak pointer</code>](https://github.com/linuxmint/muffin/commit/e2e56d139fcf4ca596e0698f7dac18c26aaf303b)
 - [ ] [<code>wayland: Implement xdg-toplevel-icon and xapp-shell protocols.</code>](https://github.com/linuxmint/muffin/commit/e441356351e4f46d7b02fc5d9ec0839293cb25d0)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>clutter: Round widget coordinates and dimensions (#830)</code>](https://github.com/linuxmint/muffin/commit/61eece4d2cbbcbd69ae9832c48cf4d00738d55c1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
