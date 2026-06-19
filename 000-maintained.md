@@ -53,6 +53,7 @@
 - [ ] [<code>Only ignore missing images for delete events</code>](https://github.com/stepchowfun/docuum/commit/cb91abfb250cd37c11954a9cece67ac8d93c69e8)
 - [ ] [<code>Tolerate missing images for untag events</code>](https://github.com/stepchowfun/docuum/commit/169f9b6b9f2cd9f1c83d332dbe78d7951b9394a0)
 - [ ] [<code>Bump Rust to 1.96.0 (#372)</code>](https://github.com/stepchowfun/docuum/commit/3016cfa959f37526ce67eae1059d1fca0a4ebb93)
+- [ ] [<code>Add Tagref configuration (#373)</code>](https://github.com/stepchowfun/docuum/commit/4b4c03c8dfd82dbd21ba8d25918a8609981c4743)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1711,6 +1712,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/snmp-topology): extract topology Function package (#22774)</code>](https://github.com/netdata/netdata.git/commit/7b5d4f410304063e924b03ddec4c0644bc59950e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(snmp_topology): split v1 topology renderer (#22775)</code>](https://github.com/netdata/netdata.git/commit/0dfdd25ae2e7eacd04acc1b7551a7d0251c4b6a0)
+- [ ] [<code>chore(snmp-topology): rename graph shaping layer (#22776)</code>](https://github.com/netdata/netdata.git/commit/f0374d63c42d52601c77b361a7acf87dcd6e2c9a)
+- [ ] [<code>chore(go.d/snmp_topology): make collection cache explicit (#22777)</code>](https://github.com/netdata/netdata.git/commit/65c4ea06c390ac3539818861668b7d12306a0769)
+- [ ] [<code>fix(journal-log-writer): accept only absolute journal directory paths. (#22771)</code>](https://github.com/netdata/netdata.git/commit/d47056a009998ccefa16959162c66424308e9ab4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7388,7 +7392,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(e2e): reject invalid telegram proof ports</code>](https://github.com/openclaw/openclaw/commit/d2e847e8cf0fa389ab4bb22f3ba70fd852ae9b8d)
 - [ ] [<code>refactor(gateway): remove deprecated attachment builder</code>](https://github.com/openclaw/openclaw/commit/1f71e922972c2639da708e47dc6587b100d9326e)
 - [ ] [<code>fix(e2e): reject invalid mock fixture ports</code>](https://github.com/openclaw/openclaw/commit/317919ec529ed8b32b970e53d4548c8590cef3ad)
+- [ ] [<code>fix(release): generate npm shrinkwraps</code>](https://github.com/openclaw/openclaw/commit/8bcb1e05b6cfca84ae3f0895974827a8f5cc63f3)
 - [ ] [<code>fix(e2e): reject invalid config writer ports</code>](https://github.com/openclaw/openclaw/commit/53bb55e023f40d840219b80472a63f3aaf51786f)
+- [ ] [<code>docs(changelog): refresh 2026.6.9 notes</code>](https://github.com/openclaw/openclaw/commit/8af89b097adb5ca8b25f9d953f32d9b529fa0ffe)
 - [ ] [<code>refactor(gateway): remove unused skills reload predicate</code>](https://github.com/openclaw/openclaw/commit/e879a67bf728a1e43210ad6b64f000305de087db)
 - [ ] [<code>refactor(gateway): remove unused connection auth facade</code>](https://github.com/openclaw/openclaw/commit/0b14724c872a885632d1723514d3108341d44f24)
 - [ ] [<code>fix(e2e): reject invalid client gateway ports</code>](https://github.com/openclaw/openclaw/commit/cebe5cb94a6143c3b189e64b737a4b15e32d9dd7)
@@ -7437,6 +7443,80 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(cli): keep relay stream helpers test-local</code>](https://github.com/openclaw/openclaw/commit/a93fc87e2c49237b91945f9985dd9684b9b24619)
 - [ ] [<code>fix(install): validate install smoke timing env</code>](https://github.com/openclaw/openclaw/commit/bfb47a03b3d491acbae9c5fc4dde19ed966f82eb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): remove stale command group helpers</code>](https://github.com/openclaw/openclaw/commit/bf8ac0d96d3143d0ac4a9c4afda6c3fee7061f87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(install): validate install e2e agent env</code>](https://github.com/openclaw/openclaw/commit/75df29c21540501b838cea29eba567e8445197e9)
+- [ ] [<code>fix(e2e): validate bun smoke timeout env</code>](https://github.com/openclaw/openclaw/commit/9328f4a67518c6f1e9b5b664ee2c8c78a2c29112)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: add QA Lab UX Matrix evidence scenario (#94306)</code>](https://github.com/openclaw/openclaw/commit/d5a27b0b96843b954568d10807e12a4e34536611)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>refactor(providers): remove stale primary model helper</code>](https://github.com/openclaw/openclaw/commit/fdb042b9ce09cdd8a2eff786f779e0f3004d955a)
+- [ ] [<code>fix(e2e): validate onboard gateway wait attempts</code>](https://github.com/openclaw/openclaw/commit/1faf8175e4726d575d9b7f2fbb1435662499b97b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(e2e): validate plugin fixture stop attempts</code>](https://github.com/openclaw/openclaw/commit/34d402f53cb679927d623c467450bf92ae882afe)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(agents): remove stale wrapper exports</code>](https://github.com/openclaw/openclaw/commit/a98bfdb2b72cb3d2c0f022e24f32f788fe88ebc8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): validate kitchen sink fixture wait attempts</code>](https://github.com/openclaw/openclaw/commit/392f5b75bfb3ca8aaef7fc97628bb16740233d3c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(scripts): match installer e2e env validation</code>](https://github.com/openclaw/openclaw/commit/39e9336d4031eaa020ddd368ae5a07a999066de5)
+- [ ] [<code>fix(live): validate gateway model limits</code>](https://github.com/openclaw/openclaw/commit/98857235d5690a3d3e81940ef8dbd8b3e330d0e8)
+- [ ] [<code>refactor(auth): remove stale external auth persist wrapper</code>](https://github.com/openclaw/openclaw/commit/5570a10bf4607e5d34cee82b2389fda233515c00)
+- [ ] [<code>fix(live): validate model sweep limits</code>](https://github.com/openclaw/openclaw/commit/aba6f7ad217f151beac76e6027460dba536ebd32)
+- [ ] [<code>clawdbot-d02.1.9.1.39: add task session registry maintenance seam (#93734)</code>](https://github.com/openclaw/openclaw/commit/7845182410402cbe5a7994ed446b6bc5d3962835)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(codex): deliver native subagent idle results</code>](https://github.com/openclaw/openclaw/commit/9928516a78faa26e64bf080a1d360f1690121dc4)
+- [ ] [<code>fix(e2e): validate docker resource limits</code>](https://github.com/openclaw/openclaw/commit/0df60ad306e743adcd0b2756df99afd9666e24e5)
+- [ ] [<code>fix(sdk): refresh plugin api baseline hash</code>](https://github.com/openclaw/openclaw/commit/73cdb78a1edd341b3b4d6cc3e56b2e353756b956)
+- [ ] [<code>fix(slack): stop leaking bot token into /api/auth.test request body (#94574)</code>](https://github.com/openclaw/openclaw/commit/fbc12e0879f746c7fd128165a1fca85407dca455)
+- [ ] [<code>fix(e2e): validate docker e2e ports</code>](https://github.com/openclaw/openclaw/commit/27310bfa34cee0411eb4370b2e575542eea93f02)
+- [ ] [<code>fix: taxonomy coverage id cleanup (#94304)</code>](https://github.com/openclaw/openclaw/commit/c4ae2be947c76d01a82cfad17b7679c12ecc123f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): validate log tail limits</code>](https://github.com/openclaw/openclaw/commit/3c9cf2d5833d106713c640f806a1eb35827f3e0c)
+- [ ] [<code>fix(agents): correct claw-score validation workflow</code>](https://github.com/openclaw/openclaw/commit/4ac192deef590f85acd5245f4bc200fb2689e6ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): validate fixture cleanup interval</code>](https://github.com/openclaw/openclaw/commit/84bcdaa9837327da878fbdebb82d61cd5947cb8d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Prevent Codex thread rotation from losing next-step context (#94093)</code>](https://github.com/openclaw/openclaw/commit/ea76a45917cac262734968872c9e246613d46a43)
+- [ ] [<code>fix(e2e): validate docker build limits</code>](https://github.com/openclaw/openclaw/commit/37eea55afa5b4c27c74ba1b40df448acedddf1b5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test: fold channel message flows into qa e2e (#93174)</code>](https://github.com/openclaw/openclaw/commit/4ca0e52d0edf76fd47c7f23c2f12b6766b623683)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(e2e): validate docker pids limits</code>](https://github.com/openclaw/openclaw/commit/6af1b97b1de76dac6e865affecb7d79e7c76759b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(live): validate docker pids limits</code>](https://github.com/openclaw/openclaw/commit/4764258b3f5564f39aca482282810e4cdae07ef4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(e2e): validate docker log limits</code>](https://github.com/openclaw/openclaw/commit/bb44c5326ee237b57d53bc5bd849e810ddc49960)
+- [ ] [<code>fix(e2e): validate cleanup log limits</code>](https://github.com/openclaw/openclaw/commit/a7b52ecad90bd225be054dd62d44a29bffc07b62)
+- [ ] [<code>fix(e2e): validate fixture log limits</code>](https://github.com/openclaw/openclaw/commit/239b4de6af9bde5023ed632b6a0a3a33e5f88547)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(e2e): validate codex media timeout</code>](https://github.com/openclaw/openclaw/commit/55323103b912ecd51ce827242e8be823ce9978bf)
+- [ ] [<code>fix(e2e): validate plugin log limits before setup</code>](https://github.com/openclaw/openclaw/commit/0d2102d2471a2634c56b459a147597a253d22170)
+- [ ] [<code>fix: preserve pending subagent completion announces (#94349)</code>](https://github.com/openclaw/openclaw/commit/95c87e31e2958fe0089f3d6874f5a1daa543e803)
+- [ ] [<code>refactor(auto-reply): add lifecycle storage seams (#93685)</code>](https://github.com/openclaw/openclaw/commit/49e6f5a524bc0cbfba549ccadb89d5c46ace475c)
+- [ ] [<code>fix(e2e): validate plugin lifecycle limits</code>](https://github.com/openclaw/openclaw/commit/7207072436beb69c49a45ccee4871d0d66d4c3f1)
+- [ ] [<code>fix(e2e): give cleanup smoke build heap headroom</code>](https://github.com/openclaw/openclaw/commit/e3bab80bda66fbab5c65a46fe55cebedbfa4dabb)
+- [ ] [<code>fix(e2e): validate chat tools timeout</code>](https://github.com/openclaw/openclaw/commit/2a0e63d12bde2c0f84cfc935d68f4652f7920c7f)
+- [ ] [<code>fix(e2e): honor chat tools body limit</code>](https://github.com/openclaw/openclaw/commit/e5de09f96a4b1853b5e25beff66d76e0846a165d)
+- [ ] [<code>fix(e2e): validate chat tools body limit</code>](https://github.com/openclaw/openclaw/commit/7f894ba2be247344bd2c9583ae24ec0a794301ea)
+- [ ] [<code>fix(e2e): validate install e2e wrapper knobs</code>](https://github.com/openclaw/openclaw/commit/701687efa35b65242ec6596d7210df87c32d01bb)
+- [ ] [<code>fix(e2e): forward code-mode client limits</code>](https://github.com/openclaw/openclaw/commit/09b56592d24850fcbcea6634b50776ee3c39afb5)
+- [ ] [<code>fix(e2e): forward install session limits</code>](https://github.com/openclaw/openclaw/commit/843b1d6fbb312fd3d47899d47ede83f78f755fc7)
+- [ ] [<code>fix(scripts): avoid mutating tracked auth-monitor template during setup (#53920)</code>](https://github.com/openclaw/openclaw/commit/e9e44bf83cbe41aa58b79b34a7b192acf41434da)
+- [ ] [<code>Standardize QA coverage IDs on dotted names (#94702)</code>](https://github.com/openclaw/openclaw/commit/e12cf72b17b8e07316c748c51d710b1c39fcf421)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(channels): remove stale setup reload helpers</code>](https://github.com/openclaw/openclaw/commit/c770c7b0842c2f3a9295e1a9c4552b8a1b961072)
+- [ ] [<code>fix(skills/1password): stop forcing tmux for desktop app auth (#52540) (#81825)</code>](https://github.com/openclaw/openclaw/commit/73241d39f658856f890832100c8df59d34964f6c)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ci): cover installer timeout normalization</code>](https://github.com/openclaw/openclaw/commit/ba69d4fb0333e66513112b5704da049985e7d3f7)
+- [ ] [<code>fix(e2e): forward gateway network client limits</code>](https://github.com/openclaw/openclaw/commit/d04cedb9fee6e240dbc47dc82ea77c0ccf543a00)
+- [ ] [<code>refactor(channels): remove stale setup adapter lookup</code>](https://github.com/openclaw/openclaw/commit/c654641e0c10e356be1f890ec4f75aca77c46dc1)
+- [ ] [<code>refactor(doctor): remove stale legacy path listers</code>](https://github.com/openclaw/openclaw/commit/01b919aeffca1aa2a49284b44e37d3be3ca8084e)
+- [ ] [<code>fix(e2e): forward browser cdp snapshot limit</code>](https://github.com/openclaw/openclaw/commit/1fb11ab30662b51a03d47410fc403df1ea3d3e48)
+- [ ] [<code>fix(e2e): forward live plugin dump limit</code>](https://github.com/openclaw/openclaw/commit/9765f7333a8bce08b240a485b271ca3fc49f38cd)
+- [ ] [<code>refactor(daemon): remove stale launchd helpers</code>](https://github.com/openclaw/openclaw/commit/900a834c60884f9dd4c966d289219daa976427d2)
+- [ ] [<code>fix(e2e): forward live plugin scan limit</code>](https://github.com/openclaw/openclaw/commit/15e101137d90f161da4f28dea118c30d6a73fd76)
+- [ ] [<code>fix(e2e): forward package assertion limits</code>](https://github.com/openclaw/openclaw/commit/c79f1e54414a88dd22c0f4658d3e0ba191e6a51e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
