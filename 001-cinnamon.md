@@ -344,6 +344,10 @@
 - [ ] [<code>cinnamon-app.c: Fix double-free against muffin-owned icon.</code>](https://github.com/linuxmint/cinnamon/commit/11aae87454233a4bf573345fbd2b120998d01a63)
 - [ ] [<code>Don't round widget coordinates/sizes (#13821)</code>](https://github.com/linuxmint/cinnamon/commit/f993c5066c78b0ca87d4f08ad2a87939a4b090c6)
 - [ ] [<code>classicSwitcher: Fix layout broken by Unicode chars with inflated font metrics</code>](https://github.com/linuxmint/cinnamon/commit/38ce8e2d619a4b6b4df4cb9ad5f1f4fd9c6b2d1a)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon/commit/612c13b1d6a01adb4849badf16427db1372e8ebd)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>screensaver: Don't prefix msgids with unnecessary "Please" words</code>](https://github.com/linuxmint/cinnamon/commit/b2e1daa2eceb56be76030d60162341bd1b23dcce)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -368,6 +372,9 @@
 - [ ] [<code>display module: Remove desktop file from build.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8acb4246ab55db983545429bd9b212596c619223)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/fe9b8002bc23e25f8748cef16a13f44d26ce89d5)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -442,7 +449,9 @@
 - [ ] [<code>csm-manager.c: Don't try to restart the cinnamon CsmApp in Wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/636b69c2ffab975ee073ee910b002a1417c937ba)
 - [ ] [<code>csm-manager.c: Clean up some end-session warnings.</code>](https://github.com/linuxmint/cinnamon-session/commit/cbcc3641af44d50df5fe0eef0af60cc990dc3049)
 - [ ] [<code>csm-manager.c: Emit the SessionOver signal.</code>](https://github.com/linuxmint/cinnamon-session/commit/8dd86cf9c8611de794d96939508899074f930a09)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/a307edd496b08ebef83490ef5eb9c26c46e3a705)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -596,7 +605,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>clutter: Round widget coordinates and dimensions (#830)</code>](https://github.com/linuxmint/muffin/commit/61eece4d2cbbcbd69ae9832c48cf4d00738d55c1)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/muffin/commit/13f25ab27cf109f8134cc5bb11239d3de46b5b3c)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -778,9 +789,11 @@
   - <sub>Tags: <code>3.3.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add xapp-shell protocol, to support XAppGtkWindow in wayland</code>](https://github.com/linuxmint/xapp/commit/e3a6f8d23915c96ace29d8d810a7fe12e8596b1f)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>3.3.3-unstable</code>](https://github.com/linuxmint/xapp/commit/7d6e697d83fc6cf96b7cc59ff7a8848df82aded3)
+  - <sub>Tags: <code>3.3.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
