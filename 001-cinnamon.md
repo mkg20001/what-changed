@@ -343,6 +343,7 @@
 - [ ] [<code>screensaver: Prevent user from typing while password is checked</code>](https://github.com/linuxmint/cinnamon/commit/63120cc16d4aff48e4451be89565eb69a6883ae5)
 - [ ] [<code>cinnamon-app.c: Fix double-free against muffin-owned icon.</code>](https://github.com/linuxmint/cinnamon/commit/11aae87454233a4bf573345fbd2b120998d01a63)
 - [ ] [<code>Don't round widget coordinates/sizes (#13821)</code>](https://github.com/linuxmint/cinnamon/commit/f993c5066c78b0ca87d4f08ad2a87939a4b090c6)
+- [ ] [<code>classicSwitcher: Fix layout broken by Unicode chars with inflated font metrics</code>](https://github.com/linuxmint/cinnamon/commit/38ce8e2d619a4b6b4df4cb9ad5f1f4fd9c6b2d1a)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
