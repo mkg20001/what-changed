@@ -55,6 +55,7 @@
 - [ ] [<code>Bump Rust to 1.96.0 (#372)</code>](https://github.com/stepchowfun/docuum/commit/3016cfa959f37526ce67eae1059d1fca0a4ebb93)
 - [ ] [<code>Add Tagref configuration (#373)</code>](https://github.com/stepchowfun/docuum/commit/4b4c03c8dfd82dbd21ba8d25918a8609981c4743)
 - [ ] [<code>Migrate to yaml_serde (#374)</code>](https://github.com/stepchowfun/docuum/commit/635860ca3b25bd7983fbc1fb17f541f9a583f6d4)
+- [ ] [<code>Update sysinfo (#375)</code>](https://github.com/stepchowfun/docuum/commit/06c67fcf193bab9e27b60e64d1928edce4907c6e)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1747,6 +1748,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update systemd journal SDK host integration (#22785)</code>](https://github.com/netdata/netdata.git/commit/c63608301ff1083eb678d2a0c28fcb635f3af392)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>pulse: per-child streaming charts on parents + lock-free host status (#22784)</code>](https://github.com/netdata/netdata.git/commit/b27c0f6c6f743433182dcb1e070c16ec4ee6c706)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(go.d/snmp_topology): add BGP adjacency links (#22790)</code>](https://github.com/netdata/netdata.git/commit/c7d67a04b0e78e0b9f25dacae0d47476add90ea1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7916,6 +7920,54 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(e2e): reject unsafe bounded response text lengths</code>](https://github.com/openclaw/openclaw/commit/0f18e829323e671bbbc6bf64a37ae42ca81a9b56)
 - [ ] [<code>fix(gateway): validate plugin descriptors and compact refresh</code>](https://github.com/openclaw/openclaw/commit/6f5fdb1e6bea447c4bda499eea68a0cee2d07115)
+- [ ] [<code>[codex] docs: clarify PR body evidence updates (#95076)</code>](https://github.com/openclaw/openclaw/commit/8972bff98d86f60e80c09860dc7a4a8b9e49da6c)
+- [ ] [<code>refactor(sessions): drop unused footer provider methods</code>](https://github.com/openclaw/openclaw/commit/b554c470a29a660f5c83352f7154b4d51b4c305c)
+- [ ] [<code>fix(agents): preserve delivered message send results (#84292)</code>](https://github.com/openclaw/openclaw/commit/cd061a4c7b403c908aa43d8da4e88970af59a6f7)
+- [ ] [<code>fix(queue): restart dormant followup drains (#95039)</code>](https://github.com/openclaw/openclaw/commit/023993249f352dd4875df584479012cbac7f80c2)
+- [ ] [<code>fix(gateway): remove device-backed node pairings (#90373)</code>](https://github.com/openclaw/openclaw/commit/6a27300a5ba4339c9ffccd89df733a522974d887)
+- [ ] [<code>test(scripts): stabilize tsdown process group timeout</code>](https://github.com/openclaw/openclaw/commit/45971784c99445b28e1ca0f344dd1b776c1b41d5)
+- [ ] [<code>refactor(theme): drop unused terminal detection</code>](https://github.com/openclaw/openclaw/commit/a54a56fb985aa81d21e7ff205e037883b6549943)
+- [ ] [<code>fix(dev): bound realtime SDP answer reads</code>](https://github.com/openclaw/openclaw/commit/d97574aae6f2f5a553ed39dac15b4696a5fe2d3a)
+- [ ] [<code>fix(gateway): bound pricing catalog streams</code>](https://github.com/openclaw/openclaw/commit/b073d7cc11dc67c6df319fdb3f7cae221238ab1e)
+- [ ] [<code>refactor(tooling): remove unused cleanup helpers</code>](https://github.com/openclaw/openclaw/commit/0eed410bd024d02b963ff022452a715a117bbff2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): bound Anthropic error streams (#95108)</code>](https://github.com/openclaw/openclaw/commit/d6cefe26f499e7d38c3d9a7944342537c95894e0)
+- [ ] [<code>refactor(github): share guard request helpers</code>](https://github.com/openclaw/openclaw/commit/aa479ac7d8f7c3a5a62e3711d2d9013225de4501)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(github): share guard comment helpers</code>](https://github.com/openclaw/openclaw/commit/ba43be9424161ac8fc71361f922e9bb6d541f361)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(memory): abort batch upload response reads (#95111)</code>](https://github.com/openclaw/openclaw/commit/c4d1f37d33266bc7cd7d15a54d26b2a8608b1a13)
+- [ ] [<code>fix(ci): cancel stale Testbox PR runs (#95105)</code>](https://github.com/openclaw/openclaw/commit/3a7a385baf9e8a5acfd94a0c34f7c4b9c9c7fc2e)
+- [ ] [<code>refactor(qa): share mantis phase timer</code>](https://github.com/openclaw/openclaw/commit/7ee1dafd4fd9d1934eb4bff4db5b5738c785c3c3)
+- [ ] [<code>fix(test): stabilize tooling guard probes (#95114)</code>](https://github.com/openclaw/openclaw/commit/be7807f65eb06451ff14f778a01b8a4a3c724ad2)
+- [ ] [<code>refactor(qa): share mantis option helpers</code>](https://github.com/openclaw/openclaw/commit/21c966616f61372a9f281d1d83a7f00f68e8d153)
+- [ ] [<code>fix(doctor): repair legacy Codex route persistence (#94478)</code>](https://github.com/openclaw/openclaw/commit/1e105d53406ef19956c356405f7e9aab45b50f49)
+- [ ] [<code>fix(test): stream QA Lab stdout artifacts (#95119)</code>](https://github.com/openclaw/openclaw/commit/f9f94e7dcd23acb88e698d0fba1cd575df10c6c5)
+- [ ] [<code>refactor(qa): reuse live transport option helper</code>](https://github.com/openclaw/openclaw/commit/0a1ce14dd1c9b155dcacd8c95399b36c9daf3795)
+- [ ] [<code>fix(test): chunk broad script test routing</code>](https://github.com/openclaw/openclaw/commit/6fc0a3a9bda54bc70d62d1e9e5b716ffaa256cc5)
+- [ ] [<code>fix(ci): cancel stale CodeQL runs (#95116)</code>](https://github.com/openclaw/openclaw/commit/d491e9c69bb94116509fd178705b845ff25dc465)
+- [ ] [<code>fix(test): honor rpc rtt help flag</code>](https://github.com/openclaw/openclaw/commit/27450f6b429d6521740c310ade85b7b5c69f798d)
+- [ ] [<code>fix(package): ignore stale packed tarballs (#95126)</code>](https://github.com/openclaw/openclaw/commit/0e980be2844c8040473e8d58b282a3ab80d853c5)
+- [ ] [<code>fix(test): preflight gauntlet missing builds</code>](https://github.com/openclaw/openclaw/commit/3c3f1010aae48a8074ebe678b50a428cb904b3e4)
+- [ ] [<code>fix(test): clean qa report cli errors</code>](https://github.com/openclaw/openclaw/commit/1f1c434eded7d888a371b8efb2088ff68c562743)
+- [ ] [<code>fix(test): clean perf summary cli errors</code>](https://github.com/openclaw/openclaw/commit/a67f809b3320eae96d553dd7c03b0ac03338186c)
+- [ ] [<code>fix(test): clean dependency report cli errors</code>](https://github.com/openclaw/openclaw/commit/d6075c1694ea6fb31678c01fc29972928397c339)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(test): guard boundary check cli args</code>](https://github.com/openclaw/openclaw/commit/faeb731a29844a08310756eec25a75d4c4fbb398)
+- [ ] [<code>fix(test): clean release check cli errors</code>](https://github.com/openclaw/openclaw/commit/423b1b3a426a283c98a6d84ee11e60eac71ace55)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(qa): share parity comparison helpers</code>](https://github.com/openclaw/openclaw/commit/6e732b306338f95d53386f378cbe8bc367121b34)
+- [ ] [<code>fix(macos): create DMG output directories (#95133)</code>](https://github.com/openclaw/openclaw/commit/b6d754e3cb62a3c5b5855c08b1a43ac98b67ca4e)
+- [ ] [<code>fix(test): guard benchmark qa cli args</code>](https://github.com/openclaw/openclaw/commit/56c040501817708a457a64224cb470ecb514068c)
+- [ ] [<code>fix(test): guard tui pty watch cli args</code>](https://github.com/openclaw/openclaw/commit/e02bee6aabb1ea091a2f6d191452cdd11ac7356d)
+- [ ] [<code>fix(test): guard model resolution profiler args</code>](https://github.com/openclaw/openclaw/commit/87358d7a7cbff9c8a65fabc035568fe22c8f5b95)
+- [ ] [<code>refactor(qa): share progress formatting helpers</code>](https://github.com/openclaw/openclaw/commit/208bed06e121cd76a1d27d13d62e22b238d17e2e)
+- [ ] [<code>fix(test): guard dev smoke cli args</code>](https://github.com/openclaw/openclaw/commit/7dca9210c93df06ff96eda10df6150fb4d3a3fcc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(docker): stabilize build signal probe (#95137)</code>](https://github.com/openclaw/openclaw/commit/7e7dc7505b1137512279aeb56ef5ad27798356b0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(test): guard realtime perf cli args</code>](https://github.com/openclaw/openclaw/commit/4575734f5909b6907ef8384b49c685b913e0cc90)
+- [ ] [<code>fix(test): guard kitchen sink rpc cli args</code>](https://github.com/openclaw/openclaw/commit/49b0487e5b3fc8e1698c28b1fecd0d47a6b4fa34)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
