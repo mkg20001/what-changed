@@ -585,6 +585,13 @@
 - [ ] [<code>chore: Use in-code check for 24 hour format</code>](https://github.com/krille-chan/fluffychat/commit/4bcfa1044471869ac245bbc0d0204790bea715c6)
 - [ ] [<code>Merge pull request #3126 from krille-chan/krille/24-hour-format-fix</code>](https://github.com/krille-chan/fluffychat/commit/37e550fe49bba0eec43179695cc7f1c349c5ac3e)
   - <sub>Tags: <code>rc2.7.0-2</code></sub>
+- [ ] [<code>build: (deps): bump actions/checkout from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/6b6e748d005b843f948649bd740af6e4290b0a79)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/cd763c08fd73070799f05b3ed2bb11cc2424692e)
+- [ ] [<code>chore(translations): Translated using Weblate (Lithuanian)</code>](https://github.com/krille-chan/fluffychat/commit/0f93f78c90dcf9f988834fbb04e76b9ec45a4f8c)
+- [ ] [<code>fix: fixes memory leaks due to missing .dispose() calls causing UI freeze</code>](https://github.com/krille-chan/fluffychat/commit/124e2b482272bc437fe90a7cb3a96a73086cd570)
+- [ ] [<code>chore: Follow up error handling for secure storage</code>](https://github.com/krille-chan/fluffychat/commit/537089324b4065d13981e0e4f3823adf7dc560f0)
+- [ ] [<code>Merge pull request #3133 from krille-chan/krille/error-handling-secure-storage</code>](https://github.com/krille-chan/fluffychat/commit/e8045723523016bab2cfccf20d48951112645392)
+  - <sub>Tags: <code>rc2.7.0-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -951,6 +958,13 @@
 - [ ] [<code>chore: Use in-code check for 24 hour format</code>](https://github.com/krille-chan/fluffychat/commit/4bcfa1044471869ac245bbc0d0204790bea715c6)
 - [ ] [<code>Merge pull request #3126 from krille-chan/krille/24-hour-format-fix</code>](https://github.com/krille-chan/fluffychat/commit/37e550fe49bba0eec43179695cc7f1c349c5ac3e)
   - <sub>Tags: <code>rc2.7.0-2</code></sub>
+- [ ] [<code>build: (deps): bump actions/checkout from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/6b6e748d005b843f948649bd740af6e4290b0a79)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/cd763c08fd73070799f05b3ed2bb11cc2424692e)
+- [ ] [<code>chore(translations): Translated using Weblate (Lithuanian)</code>](https://github.com/krille-chan/fluffychat/commit/0f93f78c90dcf9f988834fbb04e76b9ec45a4f8c)
+- [ ] [<code>fix: fixes memory leaks due to missing .dispose() calls causing UI freeze</code>](https://github.com/krille-chan/fluffychat/commit/124e2b482272bc437fe90a7cb3a96a73086cd570)
+- [ ] [<code>chore: Follow up error handling for secure storage</code>](https://github.com/krille-chan/fluffychat/commit/537089324b4065d13981e0e4f3823adf7dc560f0)
+- [ ] [<code>Merge pull request #3133 from krille-chan/krille/error-handling-secure-storage</code>](https://github.com/krille-chan/fluffychat/commit/e8045723523016bab2cfccf20d48951112645392)
+  - <sub>Tags: <code>rc2.7.0-3</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1759,6 +1773,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/snmp_topology): extract neutral topology graph model (#22791)</code>](https://github.com/netdata/netdata.git/commit/afe48444018e464ae210a602ffc9490d7cb9b92a)
 - [ ] [<code>chore(go.d/snmp_topology): remove dead l2topology (#22792)</code>](https://github.com/netdata/netdata.git/commit/19a608be14650114cba90bee01da906c512fc5a0)
 - [ ] [<code>chore(go.d/snmp_topology): align protocol enrichment (#22793)</code>](https://github.com/netdata/netdata.git/commit/6adc2ea60acb57341dee392e918babc78e94e5da)
+- [ ] [<code>test(snmp_topology): add topology v1 golden output test (#22794)</code>](https://github.com/netdata/netdata.git/commit/f20abe5a477cc15663736bee13a621b7e625f5f4)
+- [ ] [<code>chore(go.d/topology): remove unused graph dto surface (#22795)</code>](https://github.com/netdata/netdata.git/commit/74df97ec154321c0f2fbcea04d3c3fb3107209d4)
+- [ ] [<code>refactor(go.d/snmp_topology): type internal topology stats (#22796)</code>](https://github.com/netdata/netdata.git/commit/b2a980d30c685b1659af86a9eabdd783e06e7d79)
+- [ ] [<code>Add dedicated MCP ACL and enforce bearer token protection on MCP endpoints (#21880)</code>](https://github.com/netdata/netdata.git/commit/a0bbbb1c8f70b801ed42e2ed155f005a1e424277)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8191,6 +8209,189 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deadcode): remove stale feishu download helpers</code>](https://github.com/openclaw/openclaw/commit/ff4808f94d671930a3572f981b6c0e8ce151760c)
 - [ ] [<code>fix(gauntlet): clean measured groups on parent signal</code>](https://github.com/openclaw/openclaw/commit/b79dfc739c17b43c45daeae47e2c0b368ad3063b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-lab): bound test file scenario commands</code>](https://github.com/openclaw/openclaw/commit/405e5072fd51fa109b610981cf2a9f5c4ccae071)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa-lab): use temp harness in scenario runner tests</code>](https://github.com/openclaw/openclaw/commit/b93b07ee1b2d8ce4419dd0f26539f64a31aa3bc9)
+- [ ] [<code>fix(qa-lab): leave vitest timeout cleanup to wrapper</code>](https://github.com/openclaw/openclaw/commit/1ede829fbfa9b014a4c8f5ce718a5349cab4119d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-lab): kill script timeout trees on windows</code>](https://github.com/openclaw/openclaw/commit/a6e41a0cc1b804068d1637e13e6ea075c43ebd23)
+- [ ] [<code>fix(docker): clean active shell groups on parent signal</code>](https://github.com/openclaw/openclaw/commit/84895e927655c58ace5a9a73efc24d87b99b26bb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(kitchen-sink): clean command groups on parent signal</code>](https://github.com/openclaw/openclaw/commit/36934fd9f554138a67d0f0ccffdd7fa25d5004f0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(secret-providers): clean command trees on parent signal</code>](https://github.com/openclaw/openclaw/commit/8ee638236a24733ce9e211332a59bb8c0577b92c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(rpc): kill measurement gateway trees on windows</code>](https://github.com/openclaw/openclaw/commit/f719f0cf77217d1659f99af9a079dbbb92d3739b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove telegram topic cache test helpers</code>](https://github.com/openclaw/openclaw/commit/6b82d4ecb70fe299e6b55357c57a610ca741f541)
+- [ ] [<code>fix(runtime-smoke): kill bundled child trees on windows</code>](https://github.com/openclaw/openclaw/commit/4514b5a387be32037bc2dca98913a80b148673e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(secret-providers): clean PTY configure timeout trees</code>](https://github.com/openclaw/openclaw/commit/087d999fce1da33ca779804df6d06decedb08977)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(bench): kill gateway child trees on windows</code>](https://github.com/openclaw/openclaw/commit/0cd8db97f91a6d340f9267efec55db769b41df65)
+- [ ] [<code>chore(deadcode): remove bedrock test injection hooks</code>](https://github.com/openclaw/openclaw/commit/2f0f085826010b5f68f8a58dec81e644b7085ebc)
+- [ ] [<code>fix(crabbox): clean wrapper child trees on parent signal</code>](https://github.com/openclaw/openclaw/commit/e65619dd0c3efe588315c0405e7fb61030b32c09)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove msteams memory test stores</code>](https://github.com/openclaw/openclaw/commit/19ec9d89793bc69525851e79a02030764982ad1e)
+- [ ] [<code>fix(prompt-probe): clean gateway child trees</code>](https://github.com/openclaw/openclaw/commit/5384b91866158f93733dc521c3e723456fe761dc)
+- [ ] [<code>fix(prompt-probe): clean direct prompt child trees</code>](https://github.com/openclaw/openclaw/commit/0cd69753529ca8ded7d1bf9e9487dfd26d5abbc4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(memory): clean extension profiler child trees</code>](https://github.com/openclaw/openclaw/commit/048014d1abe77e8d2f87745b471ed1776a06bccf)
+- [ ] [<code>fix(install-smoke): clean Bun timeout child trees</code>](https://github.com/openclaw/openclaw/commit/9953b85e6d1a103bf77e9634691f778b84cff6e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): move plugin test mocks out of prod paths</code>](https://github.com/openclaw/openclaw/commit/5c8fa5da5cbb2839a6382885d5c6967d0112ff7f)
+- [ ] [<code>fix(boundary): clean active check child trees</code>](https://github.com/openclaw/openclaw/commit/e2c567538d8964ab594f63ea3121ee72149f273d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test-report): clean parent-signaled child trees</code>](https://github.com/openclaw/openclaw/commit/0742a2f37a6d646b6af0e7b062c6ca6ab4577429)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): move gateway auth helper out of prod path</code>](https://github.com/openclaw/openclaw/commit/6dc121eb6a8fd9c3ee75d77cdc521bd73aeaf2bf)
+- [ ] [<code>fix(build): clean tsdown child trees on parent signal</code>](https://github.com/openclaw/openclaw/commit/ad049ef083ed77398347d36a6a957d66aa8e74e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(deadcode): clean Knip child trees on parent signal</code>](https://github.com/openclaw/openclaw/commit/aaf335af04cd2f6909dd402928751d4276e3177f)
+- [ ] [<code>fix(boundary): force cleanup tsc child trees on parent signal</code>](https://github.com/openclaw/openclaw/commit/1c0c072bc22d6054e18b4968d0a2820a2f23928a)
+- [ ] [<code>fix(test-live): force cleanup Vitest child groups on parent signal</code>](https://github.com/openclaw/openclaw/commit/c33f8c20ef89e05482507d57af7503c0f47afde8)
+- [ ] [<code>fix(test-live): force cleanup shard child groups on parent signal</code>](https://github.com/openclaw/openclaw/commit/24b6e6ba96ea4c1dadf4e312960a677328728905)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(deadcode): move gateway live probe helper out of prod path</code>](https://github.com/openclaw/openclaw/commit/d72f7edf2d60cf74f2f1d8da1a9c33d261562690)
+- [ ] [<code>fix(test): clean Vitest runner child groups on signal</code>](https://github.com/openclaw/openclaw/commit/730c7269efe1d446230cdb254ea22b2b96915ebd)
+- [ ] [<code>fix(watch): clean child groups on watcher shutdown</code>](https://github.com/openclaw/openclaw/commit/6585cb3b442b224017769a6055fd5b7be7e14a16)
+- [ ] [<code>fix(check): clean managed child groups after forwarded signals</code>](https://github.com/openclaw/openclaw/commit/6fa05685ea8fade981f7038a9e2ce8c967c5b19f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(deadcode): remove unused CLI helper exports</code>](https://github.com/openclaw/openclaw/commit/e02e3d697146ca113715d682a4c22923ad9d2255)
+- [ ] [<code>fix(run-node): clean child groups on forwarded signals</code>](https://github.com/openclaw/openclaw/commit/b980d678a48fdaeac485bd4884aa57900a3e847c)
+- [ ] [<code>fix(run-node): bind process signal cleanup</code>](https://github.com/openclaw/openclaw/commit/7a077ffead4a3420262ac2a02ed8203e808eddad)
+- [ ] [<code>fix(crabbox): always mark shell changed gates as remote</code>](https://github.com/openclaw/openclaw/commit/99d8549de6dc17ab50e7d97ba30dea541952e211)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): inline unused CLI helpers</code>](https://github.com/openclaw/openclaw/commit/d81ae7a441e288a9aa87cdbac73f39c84cfecebf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): preserve spaced macOS desktop homes</code>](https://github.com/openclaw/openclaw/commit/d4f68475fd57d17f54e776a068d1e3d105b4f433)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): report signaled host server startups</code>](https://github.com/openclaw/openclaw/commit/48b338a5a9b1fee734aeb96b6a85ce0a3dd6801a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(e2e): isolate Windows background control markers</code>](https://github.com/openclaw/openclaw/commit/44422b2151916191c6dff5662e1f8a6f7e4675ca)
+- [ ] [<code>fix(e2e): reject malformed package lock pids</code>](https://github.com/openclaw/openclaw/commit/7b329ade32f5c0bbc08489b1b0273356596b89bd)
+- [ ] [<code>fix(e2e): ignore embedded diagnostic reply json</code>](https://github.com/openclaw/openclaw/commit/ee69465fe96cb044cceed8c6b8c95c402795233b)
+- [ ] [<code>fix(e2e): parse secret proof json records</code>](https://github.com/openclaw/openclaw/commit/1b4fb6291d10d20584f967fb4b121f0634845c0b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): ignore inline kitchen sink json diagnostics</code>](https://github.com/openclaw/openclaw/commit/6ad7f66af2c2bfd8e49ff4c33625a10c1c3d3f18)
+- [ ] [<code>chore(deadcode): delete unused route wrappers</code>](https://github.com/openclaw/openclaw/commit/a977dc843d9d97bcc8962edfd62f071478fa7a64)
+- [ ] [<code>fix(run-node): type signal process injection</code>](https://github.com/openclaw/openclaw/commit/7546231762ff027ac58efa74c92e00dd4a5afe15)
+- [ ] [<code>fix(e2e): ignore runtime smoke rpc log records</code>](https://github.com/openclaw/openclaw/commit/527bd807b9491a877e08d732f04a71ff1e189e2a)
+- [ ] [<code>fix(e2e): ignore bundled plugin list diagnostics</code>](https://github.com/openclaw/openclaw/commit/d0001f96f0786bd6f548f27dfaf651a3e66b64b2)
+- [ ] [<code>fix(e2e): resolve mounted macOS desktop homes</code>](https://github.com/openclaw/openclaw/commit/106961b51351e3f6cbb10839cb357b130e1a477b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>chore(deadcode): inline session visibility wrappers</code>](https://github.com/openclaw/openclaw/commit/3f0e740f8351866764f60a627d36cece18cac659)
+- [ ] [<code>fix(qa): quote qa docker stop command</code>](https://github.com/openclaw/openclaw/commit/99f58ae6d63ffd2a7ba6156b0efac07f4ee0fe37)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(qa): reuse qa shell quote helper</code>](https://github.com/openclaw/openclaw/commit/947c21ee5adad76a41c611ab91553820aa7b6678)
+- [ ] [<code>fix(qa): quote generated compose paths</code>](https://github.com/openclaw/openclaw/commit/c5623e72f3d9e4d9f217f8f62c713b5bbaad16fa)
+- [ ] [<code>chore(deadcode): inline auto-reply display wrappers</code>](https://github.com/openclaw/openclaw/commit/60612ff492b14a4b3440f58292db377cc83980fb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): reject matrix output symlink escapes</code>](https://github.com/openclaw/openclaw/commit/2252674168f7951332f7a7627a50267e2e68b031)
+- [ ] [<code>fix(qa): require boundary entry shim outputs</code>](https://github.com/openclaw/openclaw/commit/a590f7f6901464308ed254cdbe8b96076d63806b)
+- [ ] [<code>fix(qa): cap chunked credential lease payloads</code>](https://github.com/openclaw/openclaw/commit/7fc5a72433d1a904940b5913c9dbbb086d44b11d)
+- [ ] [<code>chore(deadcode): dedupe plugin JSON logger</code>](https://github.com/openclaw/openclaw/commit/29444b26f281302452c597fc932fbcb99e4fa5f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ci): use public Feishu temp-dir helper</code>](https://github.com/openclaw/openclaw/commit/b972956173eb7fe2fa2fc475af083c84701e25c3)
+- [ ] [<code>fix(ci): restore Vitest watchdog cleanup</code>](https://github.com/openclaw/openclaw/commit/bc754b316042c342851619676e6b271b6d5b5c23)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): use corepack for lab docker build fallback</code>](https://github.com/openclaw/openclaw/commit/ed500dda25c8ce6b0b7bdc11df6727a614e9d9a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): use pnpm runner for SDK package build</code>](https://github.com/openclaw/openclaw/commit/2bc20f2ec518ed23c2b2fca1388e92e8a890dfbc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): kill SDK package command trees</code>](https://github.com/openclaw/openclaw/commit/7c850bdf38e3946e7a7d463d8359158abc58769a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(canvas): use corepack for a2ui pnpm fallback</code>](https://github.com/openclaw/openclaw/commit/fddfcbe10e5907336c0dfc356a383f7bfa09a01b)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(canvas): ignore stale pnpm execpath</code>](https://github.com/openclaw/openclaw/commit/165440117ee4c6c654cea218014b96e34b571070)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(parallels): keep fresh malformed package locks</code>](https://github.com/openclaw/openclaw/commit/60159b9f003c1606fb69f9e5f59c4e0806a2daf8)
+- [ ] [<code>chore(deadcode): remove unused channel sender validator</code>](https://github.com/openclaw/openclaw/commit/021fd5de2b6173fb872842454be698bf63ff5a3b)
+- [ ] [<code>fix(parallels): pace background launch probes</code>](https://github.com/openclaw/openclaw/commit/ecac665bf3c7c6477771fdd71fba3873d21eb402)
+- [ ] [<code>fix(parallels): bound macos smoke downloads</code>](https://github.com/openclaw/openclaw/commit/3df4341e5af909f73b2da644f4cd2ae41ea08340)
+- [ ] [<code>fix(parallels): bound windows smoke downloads</code>](https://github.com/openclaw/openclaw/commit/98a7741468fb81d719eff6281b7cd7f0be0ae6d2)
+- [ ] [<code>fix(parallels): bound linux smoke downloads</code>](https://github.com/openclaw/openclaw/commit/aa893b922875ed0b24d69d928d4068d4e20fd841)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): drop unused cron summary guard</code>](https://github.com/openclaw/openclaw/commit/7a9c269541fb3e2f9431fa88503025c988599487)
+- [ ] [<code>fix(parallels): bound update tarball probe</code>](https://github.com/openclaw/openclaw/commit/2166652eb3e850b7c0accc4deb1df40ef9650531)
+- [ ] [<code>fix(crabbox): bound macos node bootstrap downloads</code>](https://github.com/openclaw/openclaw/commit/fce5db415b64fc321259e7f683793d8ccb096802)
+- [ ] [<code>fix(crabbox): bound macos bun bootstrap fetches</code>](https://github.com/openclaw/openclaw/commit/2454acc28715a2da6970e68991fcb1b3017a12e0)
+- [ ] [<code>chore(deadcode): remove unused cron failure target wrapper</code>](https://github.com/openclaw/openclaw/commit/1989726eb65bd70d998f103d65c5bc79be6d005e)
+- [ ] [<code>fix(telegram): stage full proof artifacts safely</code>](https://github.com/openclaw/openclaw/commit/32cbaecd0965166e2ec2051383c2c4d3190c03d5)
+- [ ] [<code>fix(telegram): include session probe artifacts</code>](https://github.com/openclaw/openclaw/commit/2f9f45f73406f7ddc2285285cef0c91607644902)
+- [ ] [<code>fix(openwebui): redact failed chat diagnostics</code>](https://github.com/openclaw/openclaw/commit/979925c19452296b387c83272a941df84c5f3c0c)
+- [ ] [<code>chore(deadcode): remove unused task flow retry path</code>](https://github.com/openclaw/openclaw/commit/5c0b99ae2b2ea3bf2e0cacb12e116bcac60e9ac8)
+- [ ] [<code>fix(package): keep artifact duplicate diagnostics relative</code>](https://github.com/openclaw/openclaw/commit/7cda58c1099364bcb7157189407a898722df83e4)
+- [ ] [<code>fix(mac): clean dSYM staging on zip failure</code>](https://github.com/openclaw/openclaw/commit/ad5d2cbc1bcb3f2c3d37004967b85951a87517e9)
+- [ ] [<code>fix(qa): isolate OTEL smoke exporter env</code>](https://github.com/openclaw/openclaw/commit/3632c62f8557a59d47a14bd9a2e0a8ebbc71dbb0)
+- [ ] [<code>chore(deadcode): drop unused llm provider helpers</code>](https://github.com/openclaw/openclaw/commit/dafd98dd98f61b0ae574c7e1c290f092b7c47c2d)
+- [ ] [<code>fix(qa): clean failed Parallels package locks</code>](https://github.com/openclaw/openclaw/commit/85f552bf376c338d96a3f522600d880f776c8cde)
+- [ ] [<code>fix(mac): clean failed notary zip staging</code>](https://github.com/openclaw/openclaw/commit/aea050b43e9d8e92cf0af7624e37e2c2e3f3e825)
+- [ ] [<code>fix(release): guard appcast cleanup before notes path</code>](https://github.com/openclaw/openclaw/commit/abd5fb449404fe9e2c257f5a00800a56f69e0b23)
+- [ ] [<code>fix(release): reject zero correction tags</code>](https://github.com/openclaw/openclaw/commit/85ab95295630173dcfaafcad6f487a3f1e27ad5d)
+- [ ] [<code>chore(deadcode): remove unused cron run log reader</code>](https://github.com/openclaw/openclaw/commit/e1fc4683bb9d11ec9edbe74dae5332e0b53a4370)
+- [ ] [<code>fix(crabbox): bootstrap env-option macOS stdin scripts</code>](https://github.com/openclaw/openclaw/commit/64b6488f6cd0064cbeee45411b88285bd42e03b5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(crabbox): bootstrap macOS stdin shell scripts</code>](https://github.com/openclaw/openclaw/commit/141fb2b1198f6264ab2ffef9d7398e6e814e2e49)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(package): scope trusted URL auth to original origin</code>](https://github.com/openclaw/openclaw/commit/b0df6dc10eb5b9e9fdca93063a16316f8589954e)
+- [ ] [<code>fix(package): accept uppercase artifact digests</code>](https://github.com/openclaw/openclaw/commit/b3968f69c910fa87dc443b2bf99260fbdb9cf2ee)
+- [ ] [<code>Keep core doctor health in contribution order (#86627)</code>](https://github.com/openclaw/openclaw/commit/e56fd1dc0466840241897d88411f38e9714f54f5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(docker): keep upgrade survivor auto-auth summary safe</code>](https://github.com/openclaw/openclaw/commit/0f67474251f6e7a6909c949f35d889de7ea27c0b)
+- [ ] [<code>fix(scripts): honor gtimeout in host setup wrappers</code>](https://github.com/openclaw/openclaw/commit/62b2e9ef14b4be6fd396621c8e5e248331f08695)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove duplicate Gemini schema helper</code>](https://github.com/openclaw/openclaw/commit/1f1b1aee6babb0ed12683d4a5d7ff2e476734f6d)
+- [ ] [<code>fix(ci): allow gtimeout for docker pull retry</code>](https://github.com/openclaw/openclaw/commit/f519ceab9c1722dfa41294df820ccb7defd9fea4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(qa): reject empty qa lab port flags</code>](https://github.com/openclaw/openclaw/commit/b12223a79f9361336ff691a9063535895481e846)
+- [ ] [<code>chore(deadcode): inline same-model retry backoff</code>](https://github.com/openclaw/openclaw/commit/a2ff59fdb2775e69c7d4f8a0bf595b92784c0292)
+- [ ] [<code>fix(ci): reject mistyped changed gate options</code>](https://github.com/openclaw/openclaw/commit/7dc7deaa13a1564d279d8c0160441be9c20b4ffd)
+- [ ] [<code>fix: restore clawhub home env</code>](https://github.com/openclaw/openclaw/commit/d368fd620c047606912ebed4e06490947ebb9980)
+- [ ] [<code>fix(ci): reject release metadata option typos</code>](https://github.com/openclaw/openclaw/commit/c2433d41a7940796afdb8c1d49a7952be12e5ecb)
+- [ ] [<code>test: restore plugin trust env</code>](https://github.com/openclaw/openclaw/commit/05bed72a8d4391ed61aeb21fdaa1055b8a8b6121)
+- [ ] [<code>chore(deadcode): inline tool-search allowlist helpers</code>](https://github.com/openclaw/openclaw/commit/5c36001fcba85d54610146294ae6e3519276e2a4)
+- [ ] [<code>fix: scope bundled skills env</code>](https://github.com/openclaw/openclaw/commit/3a14f247ad1b31c3601e327a73501fb9297b6402)
+- [ ] [<code>test: reuse startup bench env helper</code>](https://github.com/openclaw/openclaw/commit/da2c7e2d2b08fad2c5b68f5d5fa3282cf1236d18)
+- [ ] [<code>chore(deadcode): inline bootstrap routing helpers</code>](https://github.com/openclaw/openclaw/commit/a5417b5c6c8cc0ed47f0df0f2048ca8cfec61582)
+- [ ] [<code>fix: isolate bundled probe env</code>](https://github.com/openclaw/openclaw/commit/df68b8100673a9e5aff6b95c941849cff710fbc7)
+- [ ] [<code>test: reuse memory fd env helper</code>](https://github.com/openclaw/openclaw/commit/52e01676be237fdf64dd70990f2f0bc00633fcb7)
+- [ ] [<code>fix: share npm verifier env guard</code>](https://github.com/openclaw/openclaw/commit/0eaefc90501b90d90407064a046e630634115a26)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(deadcode): inline runtime context builders</code>](https://github.com/openclaw/openclaw/commit/2a93d7b9c53fa28cba437c26dff09f44e451b909)
+- [ ] [<code>test: scope package root fallback env</code>](https://github.com/openclaw/openclaw/commit/09fcafffbc632fc143fcedf110a7b07c13266059)
+- [ ] [<code>fix: preserve cron delivery awareness for target sessions (#93580)</code>](https://github.com/openclaw/openclaw/commit/81abc2b21b03a24649cf66fc7a3c0cf34985ec19)
+- [ ] [<code>fix: isolate plugin index loader env</code>](https://github.com/openclaw/openclaw/commit/6a3f990140d8631cac63e2434d5594cea359343d)
+- [ ] [<code>fix(crabbox): detect node-wrapped changed gates</code>](https://github.com/openclaw/openclaw/commit/4341cf24cc6db8b6d86f61b4bb9c1c52523b9c7c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test: share release journey env wrapper</code>](https://github.com/openclaw/openclaw/commit/0f830513532827114e2dc90f76cae10ca59f4d63)
+- [ ] [<code>chore(deadcode): inline inbound prompt prefix</code>](https://github.com/openclaw/openclaw/commit/7b9ddbda997ab91c9d8e5d96161b07bf02fc1558)
+- [ ] [<code>fix(qa): parse qa e2e wrapper flags</code>](https://github.com/openclaw/openclaw/commit/a49f3f9362d0bd4fa08fd4037f9bb47c1bcd123d)
+- [ ] [<code>fix(mac): reject unknown restart options</code>](https://github.com/openclaw/openclaw/commit/577e5a4692c677614efee71e0ce367ae085ae98d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: localize session transcript env</code>](https://github.com/openclaw/openclaw/commit/803064c6e04ae1878676e167b534d0fbd053cb32)
+- [ ] [<code>fix(mac): reject build-and-run wrapper args</code>](https://github.com/openclaw/openclaw/commit/63ac2e2ce09e778756a89f55e2dfc0d07031d047)
+- [ ] [<code>test: share gateway credential env guard</code>](https://github.com/openclaw/openclaw/commit/aa5fcf70f71fd8240ecad695cbf8adfb3cb2a874)
+- [ ] [<code>fix(mac): reject invalid codesign args</code>](https://github.com/openclaw/openclaw/commit/e59d0b540e00ce814e1a708d19e0b99fe3bd5066)
+- [ ] [<code>fix(mac): validate notarization wrapper args</code>](https://github.com/openclaw/openclaw/commit/bff7134a69665735fef993cbc4daed178a110a70)
+- [ ] [<code>fix: scope config open path env</code>](https://github.com/openclaw/openclaw/commit/90d2f161c94f25cb5a254e2e737913b464fafba1)
+- [ ] [<code>fix(release): validate npm publish wrapper args</code>](https://github.com/openclaw/openclaw/commit/a1201e99fc26573e44bdd87ee3f2ead475b07344)
+- [ ] [<code>fix(release): validate plugin npm publish args</code>](https://github.com/openclaw/openclaw/commit/1706bfda2c003415024047acf8335e2d6349e4e5)
+- [ ] [<code>test: reuse update method env wrapper</code>](https://github.com/openclaw/openclaw/commit/ae81aa018d014e1fa761f36de204be6210bafcde)
+- [ ] [<code>fix(release): validate plugin clawhub publish args</code>](https://github.com/openclaw/openclaw/commit/498ff1fb5a533dfaf765cfd46720475565c661d3)
+- [ ] [<code>fix(release): validate plugin npm verifier args</code>](https://github.com/openclaw/openclaw/commit/76014cfe95504dd0dc0e3721dc32b25685276f9b)
+- [ ] [<code>fix: restore env warning flags with helper</code>](https://github.com/openclaw/openclaw/commit/4461e257e36793445a1eda48c02d46d0d0e317cf)
+- [ ] [<code>chore(deadcode): inline message provider tool filtering</code>](https://github.com/openclaw/openclaw/commit/bdcc691745af751dad4e969e8e96084b31d7b9db)
+- [ ] [<code>fix(release): validate openclaw npm verifier args</code>](https://github.com/openclaw/openclaw/commit/b1f562570ad5e315a66630b029b97577cfed824c)
+- [ ] [<code>fix(release): validate package tarball check args</code>](https://github.com/openclaw/openclaw/commit/71a75b9b289567aec761c48228ba925917c98c9f)
+- [ ] [<code>test: reuse discovery env snapshot</code>](https://github.com/openclaw/openclaw/commit/1a5d84d3fed445ff5b2301a7c906d1726236f40e)
+- [ ] [<code>fix(release): validate package dist check args</code>](https://github.com/openclaw/openclaw/commit/80d3b132a57813af6bd293983f99cbdff221ef57)
+- [ ] [<code>fix(release): validate plugin runtime build args</code>](https://github.com/openclaw/openclaw/commit/2962c95010da4256e27248eb9a648c9e05545290)
+- [ ] [<code>chore(deadcode): inline approval abort classification</code>](https://github.com/openclaw/openclaw/commit/aa23d9f34e7ffbd309478975750e342941052765)
+- [ ] [<code>fix(release): validate plugin manifest runner args</code>](https://github.com/openclaw/openclaw/commit/1db811282cb6994c5aaf2bb2626b5153def55032)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): map qa e2e script changes</code>](https://github.com/openclaw/openclaw/commit/5beaaf343cd6dfbcbed18ae8c90ca7233515539b)
+- [ ] [<code>test(rpc): map rtt measurement script changes</code>](https://github.com/openclaw/openclaw/commit/9a9f4dbefe1bad8cb1b1f095960286d50f3a969a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8223,19 +8424,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Recv failure: Connection reset by peer
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
