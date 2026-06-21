@@ -1791,6 +1791,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): type snmp topology actor detail (#22797)</code>](https://github.com/netdata/netdata.git/commit/7359aa63c9be50543d39b46024477a10e1bfb3ab)
 - [ ] [<code>refactor(go.d): type snmp topology link detail (#22798)</code>](https://github.com/netdata/netdata.git/commit/04d9c8ec0c9cecd23b030d6e2133a39aa2cf2875)
 - [ ] [<code>refactor(go.d/snmp_topology): type actor scratch details (#22801)</code>](https://github.com/netdata/netdata.git/commit/6325455e2d596d8e44e852a7f89aaf98477af90f)
+- [ ] [<code>refactor(go.d/snmp_topology): extract model utility options (#22802)</code>](https://github.com/netdata/netdata.git/commit/48ed6d9a2e799dc92c83284111941c406cd90f02)
+- [ ] [<code>refactor(snmp_topology): extract topology shape package (#22803)</code>](https://github.com/netdata/netdata.git/commit/fab60adc5afe73ac0b02c38178c997bb0a31bfd2)
+- [ ] [<code>refactor(go.d/snmp_topology): extract topology v1 renderer (#22804)</code>](https://github.com/netdata/netdata.git/commit/45126faba4978a53cb50f370fc475644eeac14ec)
+- [ ] [<code>refactor(go.d/snmp_topology): extract topology enrichment (#22806)</code>](https://github.com/netdata/netdata.git/commit/c3ba60fb9d76e0ee247f6099345cdb98350db06a)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver/v2 from 2.6.1 to 2.7.0 in /src/go (#22809)</code>](https://github.com/netdata/netdata.git/commit/7edbff015412fd9aac5a467cd87c7c6f9c234e55)
+- [ ] [<code>build(deps): bump github.com/moby/moby/api from 1.54.2 to 1.55.0 in /src/go (#22810)</code>](https://github.com/netdata/netdata.git/commit/b7b55d876e9a8d4ff492f283e18f36bdea2b6438)
+- [ ] [<code>chore(go.d/snmp_topology): file-organization cleanup (#22807)</code>](https://github.com/netdata/netdata.git/commit/7e9d62ac0b685498b4af692b268f761a67a29245)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8709,6 +8717,157 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(deadcode): drop retired memory wiki vault metadata</code>](https://github.com/openclaw/openclaw/commit/03ee22666b85bc7ca372c0f15a92ea0d53c57287)
 - [ ] [<code>fix(qa): reject non-object mock OpenAI JSON</code>](https://github.com/openclaw/openclaw/commit/6f3af569523982f30a7283dc4d792b82394ae39d)
+- [ ] [<code>fix(qa): reject non-object mock Anthropic JSON</code>](https://github.com/openclaw/openclaw/commit/5e86c7eef4ec83081622abd87f421be845705bb4)
+- [ ] [<code>fix(telegram): materialize rich message line breaks as <br></code>](https://github.com/openclaw/openclaw/commit/9dbc21d283597a4518ae8f91a9705d72d159d79b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): require sampled Kova metric counts</code>](https://github.com/openclaw/openclaw/commit/d1cbe29f3d527e35de7a8646c450d7a1b9ecca93)
+- [ ] [<code>fix(mac): clean failed dSYM merges</code>](https://github.com/openclaw/openclaw/commit/b7fef7fca65b3f1d104a5e41c94fefaeefc10a88)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(test): reject loose env report limits</code>](https://github.com/openclaw/openclaw/commit/e6f41a4df0051100a99f1dae6a6af2b75ea901ab)
+- [ ] [<code>test(deadcode): dedupe wizard prompter helpers</code>](https://github.com/openclaw/openclaw/commit/89a73d08c80564228fa2152c8f5f33e917c93933)
+- [ ] [<code>test(deadcode): reuse gateway restart intent writer</code>](https://github.com/openclaw/openclaw/commit/e366349730de55f143860fde133160f009ae3390)
+- [ ] [<code>fix(security): bound trusted package URL prefixes</code>](https://github.com/openclaw/openclaw/commit/12c34fc3a95121f5a15f01c3f971a1bc5b0fe6f9)
+- [ ] [<code>fix(security): ignore Docker rerun artifact commands</code>](https://github.com/openclaw/openclaw/commit/c037a34ba7ebb9403c227097344fcbf64abc148c)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(test): reject gauntlet flag values</code>](https://github.com/openclaw/openclaw/commit/5b6f4b29190752724eead47afde9b00714a35c76)
+- [ ] [<code>test(scripts): stabilize gauntlet termination timing</code>](https://github.com/openclaw/openclaw/commit/54b2836eab4a72d07ea0ff7db0c23df44b6f06d4)
+- [ ] [<code>fix(plugins): reconcile managed npm root overrides with managed peer pins</code>](https://github.com/openclaw/openclaw/commit/2cafbd07746d7e27c44d9fcb052ef8e1e601f8e4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(qa): reject impossible confidence counts</code>](https://github.com/openclaw/openclaw/commit/d9dfcd6c8a0a7be53a469091d2598a9548a8ecbd)
+- [ ] [<code>fix(deadcode): move voicewake settings to sqlite</code>](https://github.com/openclaw/openclaw/commit/bdf81a825fa3ef66ad2c535c1eeb0bb4e31b6d1b)
+- [ ] [<code>fix(qa): escape tool coverage markdown cells</code>](https://github.com/openclaw/openclaw/commit/c85113e30e2a6eb94776c71ce963b13be04d9a72)
+- [ ] [<code>fix(qa): reject fractional live token usage</code>](https://github.com/openclaw/openclaw/commit/8a7906c716d2c0d4ad49bd9a48320fc35f51e609)
+- [ ] [<code>fix(deadcode): move update check state to sqlite</code>](https://github.com/openclaw/openclaw/commit/eb00d499d16feea600fceef92d575fa30f005649)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): validate artifact package source sha</code>](https://github.com/openclaw/openclaw/commit/5693fcda78a6014dc60d111c2fd06df62906462d)
+- [ ] [<code>fix(install): detect package manager launcher names</code>](https://github.com/openclaw/openclaw/commit/11a2e03bd4deda748336553710cb6426d448d952)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(deadcode): move current conversation bindings to sqlite</code>](https://github.com/openclaw/openclaw/commit/9f888d95e082d50380a66db18ee2e32683e688e0)
+- [ ] [<code>fix(install): use repo pnpm for git installs</code>](https://github.com/openclaw/openclaw/commit/bd74a62118aa4774706359d9494116ded8c1f6e3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(macos): prefer repo pnpm for packaging</code>](https://github.com/openclaw/openclaw/commit/088cab5ee4e6972f188f059d58e287df8f63678d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(telegram): clear progress draft before verbose tool output</code>](https://github.com/openclaw/openclaw/commit/db33402af07e79259edc05dac1a077aa0a8c8b1d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): clear progress draft before tool artifacts</code>](https://github.com/openclaw/openclaw/commit/f4dee99574808f281737f18f5e15d57b937c5ca0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>style(telegram): trim progress draft dispatch comment</code>](https://github.com/openclaw/openclaw/commit/6fd6bddb927cd545f8258e1853218fe579ab213a)
+- [ ] [<code>fix(telegram): clear progress draft before tool output (#93002) (thanks @zhangguiping-xydt)</code>](https://github.com/openclaw/openclaw/commit/d6d17709e82fe6eb15e3ae3a3df3c4ccf5089087)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: route mobile exec approvals to reviewer device (#95175)</code>](https://github.com/openclaw/openclaw/commit/5d1e649aeadff3fe03aae8b87af3f21a5eec1719)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(macos): validate DMG layout values</code>](https://github.com/openclaw/openclaw/commit/b28e68e0ceb2776704b9e4f76e985ffbb0b6dca2)
+- [ ] [<code>fix(deadcode): move plugin binding approvals to sqlite</code>](https://github.com/openclaw/openclaw/commit/ae41b009224b0a8e3a990912503258d4478fb4d0)
+- [ ] [<code>fix(telegram): stop clearing registered webhook on channel restart (#94506)</code>](https://github.com/openclaw/openclaw/commit/ac5d219be316dbaf1c413d23bcd4dd483f3f8271)
+- [ ] [<code>fix(agents): keep live tool-result prompts cache-stable</code>](https://github.com/openclaw/openclaw/commit/a60947fb3e92f45ea7eb2581da8877b10a8bebb2)
+- [ ] [<code>fix(agents): retain bounded preflight history</code>](https://github.com/openclaw/openclaw/commit/2f3399989893e6af18be49fb810e58941d7a4a45)
+- [ ] [<code>fix(deadcode): move config health state to sqlite</code>](https://github.com/openclaw/openclaw/commit/6daabd23f821c66154739de4b0f103e33343333c)
+- [ ] [<code>fix(telegram): materialize streaming progress placeholders (#95183)</code>](https://github.com/openclaw/openclaw/commit/6441e5646594992133844dc8dd837c931152e138)
+- [ ] [<code>fix(ci): regenerate Swift protocol model</code>](https://github.com/openclaw/openclaw/commit/b84665222c0ef508a0fd0a401f086868cbfafeca)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(whatsapp): preserve native quote replies (#95483)</code>](https://github.com/openclaw/openclaw/commit/b50a5aebba8f51c242c1893b79ab2cac7c9ca6f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(deadcode): move restart intents to sqlite</code>](https://github.com/openclaw/openclaw/commit/0ad48dad2c4747f255d5a156b94578f7d87386a1)
+- [ ] [<code>fix(whatsapp): wire missing Baileys retry/cache hooks for group message reliability (#94338)</code>](https://github.com/openclaw/openclaw/commit/84cf64770fc6470ad07d70eaeef2143e24e1057d)
+- [ ] [<code>fix(ci): route mac packaging scripts to macos checks</code>](https://github.com/openclaw/openclaw/commit/77a859f4ae296498dc07a0cccc473e42c73e536a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(deadcode): move restart handoffs to sqlite</code>](https://github.com/openclaw/openclaw/commit/a39a3b74de05f06227ede904a73c1b4687679d3e)
+- [ ] [<code>fix(test): route mac helper script owners</code>](https://github.com/openclaw/openclaw/commit/63fdc57b3ac288d4a59aaadc115c145bf917f99d)
+- [ ] [<code>fix(test): route release script owners</code>](https://github.com/openclaw/openclaw/commit/757ab933f4d6ffe8a93b219b8b50865c265fe981)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): route release approval script</code>](https://github.com/openclaw/openclaw/commit/33eb6ab9de7a7325add883b6683709f063408cdc)
+- [ ] [<code>fix(test): route release wrapper scripts</code>](https://github.com/openclaw/openclaw/commit/9d83eeaccfb3ec38fee053095b254d130cff28bb)
+- [ ] [<code>fix(test): route install helper scripts</code>](https://github.com/openclaw/openclaw/commit/93ec8b8c5c763a56f076bd82c1f5f1b8529e2888)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(test): route release ref resolver</code>](https://github.com/openclaw/openclaw/commit/94c7b5a874eb1a01632f6d99891b35d47b884498)
+- [ ] [<code>fix(test): route plugin dependency helpers</code>](https://github.com/openclaw/openclaw/commit/2804c24dc6e5cc4778e8a4a43b8123685d0c8042)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(deadcode): move restart sentinels to sqlite</code>](https://github.com/openclaw/openclaw/commit/514b3365b54c8b3493eaf8a94198b7c04ea34aec)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): route release preflight script</code>](https://github.com/openclaw/openclaw/commit/0c183283e5048c01f04a5cec4459ff70518f310c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(test): route proxy CA installer</code>](https://github.com/openclaw/openclaw/commit/f5f23e739ed4d0bc26dd6a399b8f91bd5d5be76a)
+- [ ] [<code>fix(test): route ios release wrappers</code>](https://github.com/openclaw/openclaw/commit/07d5cdec99b627ae1e557749ad8af5576a7aa428)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(deadcode): trim reply runtime dead helpers</code>](https://github.com/openclaw/openclaw/commit/5abf4ce2e2a34291797b884fc1c434623cf87023)
+- [ ] [<code>fix(test): route testbox env hydration</code>](https://github.com/openclaw/openclaw/commit/04c8c50cc4d2598b06ebc8e74e2aff499c586a77)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): route release signing args</code>](https://github.com/openclaw/openclaw/commit/9d275831907fffb76804787188fab9e7734aa16f)
+- [ ] [<code>fix(gateway): preserve owner MCP tools for agent RPC</code>](https://github.com/openclaw/openclaw/commit/c2ee9b0be8aeeadedffc8c6aaa9f5f291283fea5)
+- [ ] [<code>fix(test): route android release wrappers</code>](https://github.com/openclaw/openclaw/commit/0befd3c8f2266ceb658759b051755da065c9598e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(deadcode): trim runtime plugin selection wrappers</code>](https://github.com/openclaw/openclaw/commit/b47c930e7e77ff55649898b6d5dae42472471a6e)
+- [ ] [<code>fix(test): route qa otel smoke parser</code>](https://github.com/openclaw/openclaw/commit/d3c907193f0b74039744eccc13acfdad481efc77)
+- [ ] [<code>fix(test): reject rpc rtt flag values</code>](https://github.com/openclaw/openclaw/commit/b83dce7b3347358b7bbcd8be55ebafa68d951b22)
+- [ ] [<code>fix(test): reject metadata ref flags</code>](https://github.com/openclaw/openclaw/commit/d460f00eb9d8e2dd153fb8979ceb9dbe315b0cc9)
+- [ ] [<code>fix(test): reject i18n report flag values</code>](https://github.com/openclaw/openclaw/commit/6c42f73619326bd7382e64f408be741ca0f89ac8)
+- [ ] [<code>chore(deadcode): drop node daemon runtime alias</code>](https://github.com/openclaw/openclaw/commit/d64a27feeb3164cb5bc0aacdef1057f002ec7104)
+- [ ] [<code>fix(test): reject attestation platform flags</code>](https://github.com/openclaw/openclaw/commit/5bf459e23b367e952bb49f3c7b3db494dfd22b7f)
+- [ ] [<code>fix(test): reject env report flag paths</code>](https://github.com/openclaw/openclaw/commit/12756fc4c8410dbcaff68e9166d9a3ced4c7d7a8)
+- [ ] [<code>fix(test): reject docker timing flag limits</code>](https://github.com/openclaw/openclaw/commit/124ea485490693ff3fe0199f593217e23e67f872)
+- [ ] [<code>chore(deadcode): trim doctor alias wrappers</code>](https://github.com/openclaw/openclaw/commit/5b79fa13e285bd7ab2b42d7e6551f042b15ca92b)
+- [ ] [<code>fix(test): reject cpuprofile limit help tokens</code>](https://github.com/openclaw/openclaw/commit/adcba852649b0e228b908c205cc9fe7be7e30a76)
+- [ ] [<code>fix(test): reject kova help value bypasses</code>](https://github.com/openclaw/openclaw/commit/0b28a72be16b37d0a285008092364cdde665c5aa)
+- [ ] [<code>chore(deadcode): trim stale facade re-exports</code>](https://github.com/openclaw/openclaw/commit/eea777c9fc9c5648d2b1e3fad3d735c205d8710e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(plugin-sdk): refresh API surface baselines</code>](https://github.com/openclaw/openclaw/commit/5230ec66ae2bab7cfb2a216fdc6c7a4e48132fe8)
+- [ ] [<code>fix(test): bound rpc process tree sampling</code>](https://github.com/openclaw/openclaw/commit/a823cb2b30f4081f8cf063e8173fb40f3fd788f1)
+- [ ] [<code>chore(deadcode): drop inert legacy workspace doctor check</code>](https://github.com/openclaw/openclaw/commit/c8ab37f6fe642d0252c946dbe68e4128433740c3)
+- [ ] [<code>fix(ci): reject flag refs in changed scope</code>](https://github.com/openclaw/openclaw/commit/d91aee7220f7c45b240ada1b1542765608e002d4)
+- [ ] [<code>fix(test): reject group report flag values</code>](https://github.com/openclaw/openclaw/commit/8086cffd172e79c7cb7326c2e838db30abc3d34d)
+- [ ] [<code>fix(test): reject diff ref flag values</code>](https://github.com/openclaw/openclaw/commit/7069d957206102575e81dbee271d2acab3b3ac06)
+- [ ] [<code>fix(release): reject validation flag values</code>](https://github.com/openclaw/openclaw/commit/bda05dbc2f156f4fb46761263fd7b17dc88367cd)
+- [ ] [<code>fix(ci): reject hosted gate flag values</code>](https://github.com/openclaw/openclaw/commit/03ce3d41b17d3e435db32a6d4f2cf6a96e61db1b)
+- [ ] [<code>fix(docs): reject sync publish flag values</code>](https://github.com/openclaw/openclaw/commit/43e00c06c3c99eafac519f7ec29bc2a67708a2ea)
+- [ ] [<code>fix(release): reject dependency evidence flag values</code>](https://github.com/openclaw/openclaw/commit/13b0976c70be177130d844d0e2d7134e871122f5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(test): reject dependency report flag values</code>](https://github.com/openclaw/openclaw/commit/4c453c931f8c39c68fcc69099e17533af460d4eb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[codex] Add Slack relay mode for incoming messages (#94707)</code>](https://github.com/openclaw/openclaw/commit/6fa944e80f2266f9be30445c4821ade3a89f095c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(deadcode): remove inert memory provider bootstrap</code>](https://github.com/openclaw/openclaw/commit/0ea39a22769f0ae953f8969c445700b76cc914f0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): dedupe repeated literal lists</code>](https://github.com/openclaw/openclaw/commit/edd1d3319cce9219d83bfa1d58c2432086e6fe0b)
+- [ ] [<code>chore(deadcode): remove inert browser relay hook</code>](https://github.com/openclaw/openclaw/commit/06a0148072bce1fe49b45b2142d057dbc70d6175)
+- [ ] [<code>fix(config): type slack secret refs</code>](https://github.com/openclaw/openclaw/commit/7da955fae4ca2083599aa33a1f93dbfff53cb187)
+- [ ] [<code>fix(scripts): reject option-shaped package candidate values</code>](https://github.com/openclaw/openclaw/commit/102ab759e7248debc182242a2cf98501c0f7b532)
+- [ ] [<code>chore(deadcode): inline constant helper stubs</code>](https://github.com/openclaw/openclaw/commit/690efd2a162d4f5a375f828de048565682f7f67f)
+- [ ] [<code>fix(scripts): reject short flag gateway cpu values</code>](https://github.com/openclaw/openclaw/commit/52672c7af16a23440654d3be5f4d2f9df3c64f8f)
+- [ ] [<code>fix(scripts): reject short flag gauntlet values</code>](https://github.com/openclaw/openclaw/commit/ebb670b2086356606eadd74c75cb98687774604d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): reject short flag docker package values</code>](https://github.com/openclaw/openclaw/commit/6daf9307e0b9f300659f5965a54706df430bae48)
+- [ ] [<code>fix(scripts): reject short flag package roots</code>](https://github.com/openclaw/openclaw/commit/e34204a1e0ecd53047670d599a7b188f060dcec7)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline hashes</code>](https://github.com/openclaw/openclaw/commit/2e7c3ace9c546f1dfa8f8f1c104238335e63996b)
+- [ ] [<code>fix(plugin-sdk): stabilize surface report after builds</code>](https://github.com/openclaw/openclaw/commit/86fea26797028dc59c1a2fb1fd5d8d2fa20027bd)
+- [ ] [<code>fix(scripts): reject short flag closeout values</code>](https://github.com/openclaw/openclaw/commit/1b17517969251e7fe4a9c236d888121bb52112cd)
+- [ ] [<code>fix(scripts): reject short flag report values</code>](https://github.com/openclaw/openclaw/commit/e21164933a32118eb0d2d8cb4fc54db5783bbfc4)
+- [ ] [<code>chore(deadcode): remove unused helper paths</code>](https://github.com/openclaw/openclaw/commit/9adf3d92bd1e7bfb40dfb402e8631c67331e9275)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): reject short flag values in release docs parsers</code>](https://github.com/openclaw/openclaw/commit/82f43f0a62b70af47decf4fa97de96fe2ba2c4f2)
+- [ ] [<code>fix(scripts): reject short flag ownership report values</code>](https://github.com/openclaw/openclaw/commit/2a8db1fc235d37c2ac5b19251ffbe3e581a592e0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deadcode): drop unused helper exports</code>](https://github.com/openclaw/openclaw/commit/d17045db6fa2055339a8f445ed134f4b457ef37e)
+- [ ] [<code>fix(scripts): reject short flag audit severity values</code>](https://github.com/openclaw/openclaw/commit/1a5839fbd8431040933baa2ba6598b2668330918)
+- [ ] [<code>fix(scripts): reject short flag vitest profile dirs</code>](https://github.com/openclaw/openclaw/commit/6399eb8191997c71654849f32a6ff1c4d0306feb)
+- [ ] [<code>fix(scripts): reject short flag performance summary paths</code>](https://github.com/openclaw/openclaw/commit/8102d5ebc309df9bec8d858af587bf9f1e324dce)
+- [ ] [<code>fix(scripts): reject short flag startup memory paths</code>](https://github.com/openclaw/openclaw/commit/03bc600e67ca9470eaf8792359ebcfae1e714f65)
+- [ ] [<code>fix(scripts): reject short flag values in bench parsers</code>](https://github.com/openclaw/openclaw/commit/2609b9722280eb9a5e54b8df4c133a56b8dafde5)
+- [ ] [<code>chore(deadcode): drop stale helper APIs</code>](https://github.com/openclaw/openclaw/commit/409adfbe1001d6d20685a792972ea57717bc361f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): reject short flag values in benchmark CLIs</code>](https://github.com/openclaw/openclaw/commit/4684bbba978dcbe530ee7f9105d81023f77d113b)
+- [ ] [<code>chore(deadcode): remove unused infra wrappers</code>](https://github.com/openclaw/openclaw/commit/55959148ca5a60c577cebd5131b4bbf1897c25e7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(scripts): reject short flag values in helper CLIs</code>](https://github.com/openclaw/openclaw/commit/beebb35de40fe76ab15afed59cc584b27bcc9faf)
+- [ ] [<code>fix(qa): reject short flag UX evidence paths</code>](https://github.com/openclaw/openclaw/commit/648ef73bde1b3ea7f3378053d655ff72c73e0a64)
+- [ ] [<code>fix(telegram): honor outbound reaction directives (#94977)</code>](https://github.com/openclaw/openclaw/commit/32d22d04cc7360e34e6e0307888bcb4123ec9675)
+- [ ] [<code>fix(telegram): skip duplicate mirror replies (#95069)</code>](https://github.com/openclaw/openclaw/commit/e00c1eebc416a5e67ee1ae5d92bc85087229582a)
+- [ ] [<code>fix(scripts): reject short flag boundary values</code>](https://github.com/openclaw/openclaw/commit/36db108fc153b17b7ee4a39c60d45a5b8ba8ce85)
+- [ ] [<code>fix(scripts): reject short flag extension memory values</code>](https://github.com/openclaw/openclaw/commit/b77d6149e16e53c4756fa3ded3f2bb5970035d0b)
+- [ ] [<code>test: share agent state-dir env guard</code>](https://github.com/openclaw/openclaw/commit/c6386178973d05008eadc3923596b40fe1a5581f)
+- [ ] [<code>fix(scripts): reject short flag version values</code>](https://github.com/openclaw/openclaw/commit/a0f28bd3f5a0b0dbe8672625c7e62e82a40b7aa9)
+- [ ] [<code>fix(scripts): reject short flag CI timing limits</code>](https://github.com/openclaw/openclaw/commit/bebc5d847d126a83f010464b58e41b23811a94d4)
+- [ ] [<code>fix: reuse doctor env snapshot helper</code>](https://github.com/openclaw/openclaw/commit/ab8dc3af52a151c8f356eb6e81360c8de6d1feb7)
+- [ ] [<code>fix(scripts): reject short flag shrinkwrap refs</code>](https://github.com/openclaw/openclaw/commit/75a997dd7cbd783490a2fda1a49a5b3cfd9ebbaf)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -9310,11 +9469,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>make: improve make (install) on macOS</code>](https://github.com/jow-/ucode/commit/7424c3bd14e0e6fdbf31c69246236743d4f370f7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>io: support older linux ioctls</code>](https://github.com/jow-/ucode/commit/20a2ae4690890a3a3c3713468c6e3ac83d8b6330)
 - [ ] [<code>types: release previous prototype reference in ucv_prototype_set</code>](https://github.com/jow-/ucode/commit/965d76557dee5ff883bb6dfe8b02d5cc2f5f875a)
 - [ ] [<code>uloop: unregister task output fd from uloop before closing it</code>](https://github.com/jow-/ucode/commit/b702323ec1379bd68e68e8fdca4343f18c0cecae)
 - [ ] [<code>uloop: clear resource values when releasing callback resources</code>](https://github.com/jow-/ucode/commit/106b1179765acd3623525efa97f72beddaa42511)
 - [ ] [<code>ubus: clear resource values when releasing connection/object resources</code>](https://github.com/jow-/ucode/commit/acc70db934fc5b073a6eea0fa2308f0c52e02d70)
 - [ ] [<code>ubus: prevent UAF when channel disconnect_cb triggers re-entrant disconnect</code>](https://github.com/jow-/ucode/commit/9d7ade9e4c68d37521764de2e32f7af6aa25e26f)
+- [ ] [<code>fs: implement ioctl for macOS</code>](https://github.com/jow-/ucode/commit/16929698e2d32684616206581f71cad332d2675f)
+- [ ] [<code>io: implement ioctl for macOS</code>](https://github.com/jow-/ucode/commit/395bb888bd69ff88aaf9ae2061f2a462e6c73e2f)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
