@@ -425,7 +425,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
 - [ ] [<code>csm-app.c: Fix cinnamon restart limit avoidance.</code>](https://github.com/linuxmint/cinnamon-session/commit/e8238bfa2f7ffd44dc77618d7eaa671e855d1e9c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-session/commit/7f3bb6df15cc89df82634cf7c9ae5b39968ee1b9)
@@ -609,6 +609,7 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-wayland-gtk-shell.c: Turn on desktop-icons in 'capabilities'.</code>](https://github.com/linuxmint/muffin/commit/811be2a974039a038060f22e5ad5b42bbbf95aa4)
+- [ ] [<code>meta-stage-native.c: Implement set_cursor_visible vfunc.</code>](https://github.com/linuxmint/muffin/commit/6911dcae9a78970f2feb3274ca3925923d8b2dbb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -681,9 +682,11 @@
 - [ ] [<code>nemo-view.c: Update ready_to_load() to match change in ec06509a10.</code>](https://github.com/linuxmint/nemo/commit/71b73d1f6852d00262923baf81bd358c559a6512)
 - [ ] [<code>nemo-view.c: Don't disable update interval progression while loading.</code>](https://github.com/linuxmint/nemo/commit/65c9b8901df780b79c8ea63f5a7e46459e8fde45)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo/commit/bc5f6a9983d4ad146b374a50b6687741d831ee13)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>nemo-places.sidebar.c: Restrict eject button clicks to primary</code>](https://github.com/linuxmint/nemo/commit/852b546539217fcd4d196d702a6af72de2653780)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
