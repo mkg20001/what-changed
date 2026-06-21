@@ -606,8 +606,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>clutter: Round widget coordinates and dimensions (#830)</code>](https://github.com/linuxmint/muffin/commit/61eece4d2cbbcbd69ae9832c48cf4d00738d55c1)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/muffin/commit/13f25ab27cf109f8134cc5bb11239d3de46b5b3c)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-wayland-gtk-shell.c: Turn on desktop-icons in 'capabilities'.</code>](https://github.com/linuxmint/muffin/commit/811be2a974039a038060f22e5ad5b42bbbf95aa4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
