@@ -592,6 +592,11 @@
 - [ ] [<code>chore: Follow up error handling for secure storage</code>](https://github.com/krille-chan/fluffychat/commit/537089324b4065d13981e0e4f3823adf7dc560f0)
 - [ ] [<code>Merge pull request #3133 from krille-chan/krille/error-handling-secure-storage</code>](https://github.com/krille-chan/fluffychat/commit/e8045723523016bab2cfccf20d48951112645392)
   - <sub>Tags: <code>rc2.7.0-3</code></sub>
+- [ ] [<code>Merge pull request #3135 from krille-chan/krille/improve-error-handling-for-unlock-passphrase</code>](https://github.com/krille-chan/fluffychat/commit/baa806df34c3fa3f513415af515b6683a6d4a683)
+  - <sub>Tags: <code>rc2.7.0-4</code></sub>
+- [ ] [<code>ci: fix build_apk release job by removing fastlane</code>](https://github.com/krille-chan/fluffychat/commit/b9ddc181d918bf0edf7aef517a64e37ebe7ed6a5)
+- [ ] [<code>Merge pull request #3136 from krille-chan/krille/fix-build-apk-in-release</code>](https://github.com/krille-chan/fluffychat/commit/cf84daff5cffbdd8d0574f163b5eb723c33e78cf)
+  - <sub>Tags: <code>rc2.7.0-5</code> <code>v2.7.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -965,6 +970,11 @@
 - [ ] [<code>chore: Follow up error handling for secure storage</code>](https://github.com/krille-chan/fluffychat/commit/537089324b4065d13981e0e4f3823adf7dc560f0)
 - [ ] [<code>Merge pull request #3133 from krille-chan/krille/error-handling-secure-storage</code>](https://github.com/krille-chan/fluffychat/commit/e8045723523016bab2cfccf20d48951112645392)
   - <sub>Tags: <code>rc2.7.0-3</code></sub>
+- [ ] [<code>Merge pull request #3135 from krille-chan/krille/improve-error-handling-for-unlock-passphrase</code>](https://github.com/krille-chan/fluffychat/commit/baa806df34c3fa3f513415af515b6683a6d4a683)
+  - <sub>Tags: <code>rc2.7.0-4</code></sub>
+- [ ] [<code>ci: fix build_apk release job by removing fastlane</code>](https://github.com/krille-chan/fluffychat/commit/b9ddc181d918bf0edf7aef517a64e37ebe7ed6a5)
+- [ ] [<code>Merge pull request #3136 from krille-chan/krille/fix-build-apk-in-release</code>](https://github.com/krille-chan/fluffychat/commit/cf84daff5cffbdd8d0574f163b5eb723c33e78cf)
+  - <sub>Tags: <code>rc2.7.0-5</code> <code>v2.7.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1777,6 +1787,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/topology): remove unused graph dto surface (#22795)</code>](https://github.com/netdata/netdata.git/commit/74df97ec154321c0f2fbcea04d3c3fb3107209d4)
 - [ ] [<code>refactor(go.d/snmp_topology): type internal topology stats (#22796)</code>](https://github.com/netdata/netdata.git/commit/b2a980d30c685b1659af86a9eabdd783e06e7d79)
 - [ ] [<code>Add dedicated MCP ACL and enforce bearer token protection on MCP endpoints (#21880)</code>](https://github.com/netdata/netdata.git/commit/a0bbbb1c8f70b801ed42e2ed155f005a1e424277)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-480-nightly.</code>](https://github.com/netdata/netdata.git/commit/6f22e11aab7fc68f258cd2d6bc46e67250268966)
+- [ ] [<code>refactor(go.d): type snmp topology actor detail (#22797)</code>](https://github.com/netdata/netdata.git/commit/7359aa63c9be50543d39b46024477a10e1bfb3ab)
+- [ ] [<code>refactor(go.d): type snmp topology link detail (#22798)</code>](https://github.com/netdata/netdata.git/commit/04d9c8ec0c9cecd23b030d6e2133a39aa2cf2875)
+- [ ] [<code>refactor(go.d/snmp_topology): type actor scratch details (#22801)</code>](https://github.com/netdata/netdata.git/commit/6325455e2d596d8e44e852a7f89aaf98477af90f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8485,6 +8499,216 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deadcode): share memory vector blob encoding</code>](https://github.com/openclaw/openclaw/commit/ba34052a0e1bc7c1c17f3ea513fcb4170a082921)
 - [ ] [<code>test(scripts): focus guard inventory routing</code>](https://github.com/openclaw/openclaw/commit/eae1e8f3f8d8bbaab6415e4395da70651edb1619)
 - [ ] [<code>test(scripts): focus config guard routing</code>](https://github.com/openclaw/openclaw/commit/e0c1add79ae6744ce1faf98af423f443f15d0f59)
+- [ ] [<code>test(scripts): focus deprecated config routing</code>](https://github.com/openclaw/openclaw/commit/ebbf506a772e604f88a33e079e9ae6f0892d241c)
+- [ ] [<code>chore(deadcode): drop duplicate provider default refs</code>](https://github.com/openclaw/openclaw/commit/b43eedbb18187163bb115a3ab921a916ae024162)
+- [ ] [<code>test(scripts): focus extension package routing</code>](https://github.com/openclaw/openclaw/commit/8b4eedf1bc6f4b9e5069b31f79deeeee65666364)
+- [ ] [<code>fix(sessions): reset stale per-channel origin fields on channel switch (#95328)</code>](https://github.com/openclaw/openclaw/commit/73c988a9c88582c17d89f8a1587d9ec60589feca)
+- [ ] [<code>chore(deadcode): share telegram send runtime loader</code>](https://github.com/openclaw/openclaw/commit/e012f2cd3cc847add0554999e5a6175292ec6822)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): focus plugin sdk metadata routing</code>](https://github.com/openclaw/openclaw/commit/025f8fb08732c494d47cf8cd977c7d9d00511894)
+- [ ] [<code>test(scripts): focus plugin sdk entry metadata routing</code>](https://github.com/openclaw/openclaw/commit/9e70d251b09c891d5c706960f5feeb97ffe8afd7)
+- [ ] [<code>chore(deadcode): drop duplicate pnpm runner declaration</code>](https://github.com/openclaw/openclaw/commit/ab41a311cfdc612119ec05f87e79f163613b7c85)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): route scripts lib metadata changes</code>](https://github.com/openclaw/openclaw/commit/1b5e1e2d5340c4d1f99597f49b615d0e1dbb1945)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(scripts): route script fixture metadata</code>](https://github.com/openclaw/openclaw/commit/c191d7978b3202b433e855b002458976289aec01)
+- [ ] [<code>chore(deadcode): drop duplicate script declarations</code>](https://github.com/openclaw/openclaw/commit/e46aaead2cd662dcb7fd9a2a0c8671a4f7c523c9)
+- [ ] [<code>test(scripts): route docs i18n and k8s metadata</code>](https://github.com/openclaw/openclaw/commit/c2de9d0822eaf4806d1cdba4ab056592ce96e8de)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): route docs i18n module changes</code>](https://github.com/openclaw/openclaw/commit/cbbb466852e1289f7d340fecd02567fe81bb1afc)
+- [ ] [<code>chore(deadcode): drop unused private exports</code>](https://github.com/openclaw/openclaw/commit/97b97a9999f8515a7990a9485e91b3fb8dee78c2)
+- [ ] [<code>chore(deadcode): drop unused i18n config type</code>](https://github.com/openclaw/openclaw/commit/fce586538a50530a26cebeb0479d52fd6159be33)
+- [ ] [<code>chore(deadcode): dedupe plugin lookup table types</code>](https://github.com/openclaw/openclaw/commit/9750d887f50247cc2f7e70b8afe917d3635dc55e)
+- [ ] [<code>fix(zai): fall back to manifest baseUrl for synthesized GLM-5 models (#94461)</code>](https://github.com/openclaw/openclaw/commit/db54a3268b770493d9485181478599405f43c8c8)
+- [ ] [<code>fix(agents): classify Zhipu GLM overload as overloaded for failover (#93241)</code>](https://github.com/openclaw/openclaw/commit/6c1041339da6c1e0a66eca2f8127b8d752e4543f)
+- [ ] [<code>chore(deadcode): drop unused sdk specifier helper</code>](https://github.com/openclaw/openclaw/commit/d4c2fa7aed1b1d842dbb3a66cc09059b2711a1e1)
+- [ ] [<code>fix(channels): resolve native /think menu levels via runtime catalog for live-discovered models (#94067)</code>](https://github.com/openclaw/openclaw/commit/e3ccf8743f559f83ce72fbe97e606bb761847d3d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(zai): expose GLM-5.2 reasoning levels [AI-assisted] (#94136)</code>](https://github.com/openclaw/openclaw/commit/50c2cc6a45642cfcb98e3fe174873fc93a255c48)
+- [ ] [<code>fix(opencode-go): add current Go models</code>](https://github.com/openclaw/openclaw/commit/66f84a9bf1082de26f92b2b3741cc2f34aba34fa)
+- [ ] [<code>fix(scripts): kill managed child trees on windows</code>](https://github.com/openclaw/openclaw/commit/85f71f4c8fca59d5d30625432c2be05592106b03)
+- [ ] [<code>fix(opencode-go): align Kimi input with runtime</code>](https://github.com/openclaw/openclaw/commit/715dc718fc5a2a5d6f7e9ec16e0269382b726e83)
+- [ ] [<code>chore(deadcode): share plugin snapshot fingerprint</code>](https://github.com/openclaw/openclaw/commit/cba9c02095364243987b4588b2578b82e0aa8635)
+- [ ] [<code>test(release): stabilize validation contracts</code>](https://github.com/openclaw/openclaw/commit/f1a48dac184ba088e1708559a12f4fa5cd0f8161)
+- [ ] [<code>fix(plugins): restore StepFun ClawHub release</code>](https://github.com/openclaw/openclaw/commit/ecb82f1be93024be23c1b191ebea92c63230b6c0)
+- [ ] [<code>fix(ci): deduplicate release Telegram validation</code>](https://github.com/openclaw/openclaw/commit/f3ee317f71f9c0263f7aca4913998bc55783bfc1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(release): align full validation workflow contract</code>](https://github.com/openclaw/openclaw/commit/89e73240a10637feff9631965cf33cd9f5cfee8a)
+- [ ] [<code>fix(release): terminate command descendants on signal</code>](https://github.com/openclaw/openclaw/commit/51d1789cea07bde7800f7f7710eaecb7a0cd5ad0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mac): retry DMG detach</code>](https://github.com/openclaw/openclaw/commit/2ca5b7c93e15df00978c62e57fde5fa9a9fca168)
+- [ ] [<code>chore(release): close out 2026.6.9</code>](https://github.com/openclaw/openclaw/commit/b039e949b66a003d120fe3ca1699b6bdd31fde4c)
+- [ ] [<code>fix(scripts): kill run-with-env trees on windows</code>](https://github.com/openclaw/openclaw/commit/8d2e6d7686b0b5c1cc1f9b9d104b3bf7479d47d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(testing): kill group report trees on windows</code>](https://github.com/openclaw/openclaw/commit/5af318b95d9a7e0fcb8b92683dcc7eec2e294131)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): kill boundary prep trees on windows</code>](https://github.com/openclaw/openclaw/commit/b0f21f8af7dfadca985b7b8534aa4cd7f4f46c91)
+- [ ] [<code>fix(package): kill candidate resolver trees on windows</code>](https://github.com/openclaw/openclaw/commit/34806b39cd7baf10fbcf567828cc6426d7e15e4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): kill telegram credential trees on windows</code>](https://github.com/openclaw/openclaw/commit/0030a192c8e4c7501263ecc7f8165c8ac633ca21)
+- [ ] [<code>fix(crabbox): kill telegram proof trees on windows</code>](https://github.com/openclaw/openclaw/commit/38c8b0c196b5b190c151c9bc7fc9726aa552db45)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): share session cost totals</code>](https://github.com/openclaw/openclaw/commit/eb03d0ee2ba18710cff382a544a0dd3db58214f2)
+- [ ] [<code>fix(rpc): kill kitchen sink trees on windows</code>](https://github.com/openclaw/openclaw/commit/3650766f2697958afcdf1a441cd201677616a985)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): preserve secret proof windows tree cleanup</code>](https://github.com/openclaw/openclaw/commit/7b28b73e786b770b096a16e34da9eb4a182cae63)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): forward-port 2026.6.9 closeout fixes</code>](https://github.com/openclaw/openclaw/commit/0f8df48a91dd3832e7cfa91a07aaf5e2dfd4d45b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(dev): kill tui pty watch trees on windows</code>](https://github.com/openclaw/openclaw/commit/195890f815708ddcad88d5f158c3e8308ed0de32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(build): kill tsdown trees on windows</code>](https://github.com/openclaw/openclaw/commit/83785a6e79eb64841e450ae148a516732ba2dee4)
+- [ ] [<code>fix(build): kill startup metadata trees on windows</code>](https://github.com/openclaw/openclaw/commit/78f30a010c7e678bed06b21b52dfcc0b25b3db33)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(testing): force taskkill group report trees on windows</code>](https://github.com/openclaw/openclaw/commit/3df5207389cd0e19c1bb92f682679602b7a222df)
+- [ ] [<code>fix(rpc): force taskkill kitchen sink trees on windows</code>](https://github.com/openclaw/openclaw/commit/5b212162d364362acec05d9bcaa11e6c21ac479e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(rpc): force taskkill rtt gateway trees on windows</code>](https://github.com/openclaw/openclaw/commit/ca1aa33ebad164ae570d4b036966f2e1ce58e30c)
+- [ ] [<code>fix(scripts): force taskkill managed trees on windows</code>](https://github.com/openclaw/openclaw/commit/2029f87f29ec171abfb6f04b7a1de8d24ad54d3d)
+- [ ] [<code>fix(scripts): force taskkill run-with-env trees on windows</code>](https://github.com/openclaw/openclaw/commit/f640ca11f95368589804e4f3250c8dfade7b6c59)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(package): force taskkill candidate runner trees on windows</code>](https://github.com/openclaw/openclaw/commit/4b2298e8cbcb9181e0ab699a4fa45bbcb8f34413)
+- [ ] [<code>fix(scripts): force taskkill boundary node steps on windows</code>](https://github.com/openclaw/openclaw/commit/4d17a52924a66a083beee6a924e85a621ba71467)
+- [ ] [<code>test(scripts): route dockerfile metadata changes</code>](https://github.com/openclaw/openclaw/commit/2f38b5aa2ed1392011d60d61d31a1bca9bd9fc21)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): route extensionless helper scripts</code>](https://github.com/openclaw/openclaw/commit/b2d78abe94d56a96f88d335d1fbd78dfa0df1778)
+- [ ] [<code>test(scripts): route podman template metadata</code>](https://github.com/openclaw/openclaw/commit/486c9e6ba365bfa1d8b32c5c25d9a8cb5f02bf4a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(scripts): route doctor switch shims</code>](https://github.com/openclaw/openclaw/commit/862ef1cec116c5c1b0e491a3f86e594a97377e9b)
+- [ ] [<code>test(scripts): route pr wrapper scripts</code>](https://github.com/openclaw/openclaw/commit/dec76bb5eb0211adc24697df4061551ee0944068)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): remove private auth monitor defaults</code>](https://github.com/openclaw/openclaw/commit/af3e509ab823dac5f91b16915ee7067b369656a3)
+- [ ] [<code>test(scripts): route docs spellcheck config</code>](https://github.com/openclaw/openclaw/commit/e91ca8df8608be4af4c3975f1d82bc9ecbad6e02)
+- [ ] [<code>test(scripts): route github action metadata</code>](https://github.com/openclaw/openclaw/commit/7b259bd2a488f1311116cc67f71d62406cf5eea2)
+- [ ] [<code>test(scripts): cover workflow docker routes</code>](https://github.com/openclaw/openclaw/commit/992ddf6310b3eee9197e21adea297258b8db422f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(scripts): route github yaml pinning guards</code>](https://github.com/openclaw/openclaw/commit/2f213a1606dc1f2659810fa9153f376acd2e0abd)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(scripts): route setup pnpm action helper</code>](https://github.com/openclaw/openclaw/commit/e9a47fe554ae16b656e6bf169f202a62dcba8477)
+- [ ] [<code>fix(bench): force taskkill gateway bench trees on windows</code>](https://github.com/openclaw/openclaw/commit/29033e67af458352a3ec6a26a0e782c4a0452393)
+- [ ] [<code>fix(qa): force taskkill telegram credential trees on windows</code>](https://github.com/openclaw/openclaw/commit/c8b48c78d0e85ef463d248f7a7bce03fd160fd12)
+- [ ] [<code>fix(crabbox): force taskkill telegram proof trees on windows</code>](https://github.com/openclaw/openclaw/commit/140a2fa5206f34105c3c801357b14678cb41fa25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(runtime-smoke): force taskkill bundled trees on windows</code>](https://github.com/openclaw/openclaw/commit/273eb888749f4b7af51a2c536efe6c5559784bda)
+- [ ] [<code>chore(deadcode): share deferred test helper</code>](https://github.com/openclaw/openclaw/commit/8797564254d2f535c1d455d1a88eee094975607e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa-lab): force taskkill scenario trees on windows</code>](https://github.com/openclaw/openclaw/commit/c43822077ad02a7fd9d57e0bfaf60832654f6b6d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): make release scorecard categories explicit (#95406)</code>](https://github.com/openclaw/openclaw/commit/9ab8e466d230d5599cc2ee05936fe5a9412de48a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa-lab): taskkill timed-out cli trees on windows</code>](https://github.com/openclaw/openclaw/commit/b970d57175874dbaff6b38cea6fd6c105b7737b0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(qa-lab): taskkill gateway children on windows</code>](https://github.com/openclaw/openclaw/commit/5b224093891ca45843c9b13de7436254c2fe4a9c)
+- [ ] [<code>test: fold HTTP API script proof into QA Lab (#94700)</code>](https://github.com/openclaw/openclaw/commit/5dd30c39951a6f05f5c12e4041a1109061e3c05e)
+- [ ] [<code>fix(qa): taskkill lifecycle probe trees on windows</code>](https://github.com/openclaw/openclaw/commit/604aa301899f9a6dc901ea383349cd82932eac2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): route prompt snapshot helper changes</code>](https://github.com/openclaw/openclaw/commit/0004cfd59e3bf864803e0dee310de182cbde0dae)
+- [ ] [<code>test: route broad flow tests out of unit-fast (#95499)</code>](https://github.com/openclaw/openclaw/commit/bfe0caefd1a481e8d3b139f8f1d1e5a3c2a95e1a)
+- [ ] [<code>chore(deadcode): share levenshtein distance helper</code>](https://github.com/openclaw/openclaw/commit/b574da57cf2c26c854c681c34ddd299b967a4753)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-matrix): taskkill scenario cli trees on windows</code>](https://github.com/openclaw/openclaw/commit/b06e2f9149e879ef647763dcc4c8b2329928aa38)
+- [ ] [<code>test(scripts): gate runtime sidecar baseline changes</code>](https://github.com/openclaw/openclaw/commit/d46b64df6663ccfd436b51296ca68d7acfd0fa90)
+- [ ] [<code>fix(sdk): taskkill package e2e trees on windows</code>](https://github.com/openclaw/openclaw/commit/06574920dd2de71147fd8f70048410fac11b24fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): run macOS app tests for app changes</code>](https://github.com/openclaw/openclaw/commit/3f4d1cfcce56e5a90ead7597147a9d052458aae0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore(deadcode): dedupe session lineage patching</code>](https://github.com/openclaw/openclaw/commit/ab39bab52ad10bbec3bdb6b717d6a27e7a3e9110)
+- [ ] [<code>fix(memory-host-sdk): taskkill qmd process trees on windows</code>](https://github.com/openclaw/openclaw/commit/830691b2010bd0406399adb8a2e97e0b043e2ca8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): route package runner declarations</code>](https://github.com/openclaw/openclaw/commit/5134dd0c54c41d221ada52c07ed65d5c00b7fb9f)
+- [ ] [<code>fix(scripts): taskkill managed children via system32 on windows</code>](https://github.com/openclaw/openclaw/commit/c22e300084f713d48c853759c532cf73c123fc01)
+- [ ] [<code>fix(scripts): resolve taskkill from system32</code>](https://github.com/openclaw/openclaw/commit/6b0210a5fd0cdc71a0154af5708bf41fbda2f81f)
+- [ ] [<code>test(scripts): mirror declaration route owners</code>](https://github.com/openclaw/openclaw/commit/37a4b565eac53f5222a826908fdf7d6caf748194)
+- [ ] [<code>chore(deadcode): remove stale internal exports</code>](https://github.com/openclaw/openclaw/commit/fc8542b377079b76e493bbcd92fba358af4da28b)
+- [ ] [<code>fix(rpc): resolve taskkill from system32 in script probes</code>](https://github.com/openclaw/openclaw/commit/0a7b0096477f055f6fdb408f5d64d441abddc9ea)
+- [ ] [<code>fix(qalab): resolve taskkill from system32 in cleanup probes</code>](https://github.com/openclaw/openclaw/commit/8c9c8aad2e7540f1c573dce4232b92d818626a59)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(package): resolve taskkill from system32 in candidate runner</code>](https://github.com/openclaw/openclaw/commit/b15f745a605c9f63985834f74e7973085e2892e2)
+- [ ] [<code>chore(deadcode): remove stale migrate argv wrapper</code>](https://github.com/openclaw/openclaw/commit/f8d2c4b25ad632e70c71e6fed867535cc4ca064a)
+- [ ] [<code>fix(scripts): resolve taskkill in test group report</code>](https://github.com/openclaw/openclaw/commit/e016f0b4963d4e112ab003155cc95a301bfec386)
+- [ ] [<code>fix(scripts): resolve taskkill in startup metadata</code>](https://github.com/openclaw/openclaw/commit/1d4b712f9a9c2c529270689d09aa068b9ef57d30)
+- [ ] [<code>fix(plugins): keep extension tests on public boundaries</code>](https://github.com/openclaw/openclaw/commit/c372f6ef0bd0ddea873632a931bf27c9bd1f1539)
+- [ ] [<code>fix(build): resolve taskkill in tsdown wrapper</code>](https://github.com/openclaw/openclaw/commit/675cae58d74b3da36647e660e3d5a6a555eb1a9f)
+- [ ] [<code>test(scripts): route e2e helper owners</code>](https://github.com/openclaw/openclaw/commit/63f2c562229ca1651220c435e4104ffe096398b6)
+- [ ] [<code>fix(scripts): resolve taskkill in boundary artifacts</code>](https://github.com/openclaw/openclaw/commit/7dbae1b2cd3009b0acca1db6eb8d1035582fbe4b)
+- [ ] [<code>test(scripts): route npm telegram runner</code>](https://github.com/openclaw/openclaw/commit/bc2f4ce9233a0c7d4fe611316d5f1e4693ea01b6)
+- [ ] [<code>fix(secret-provider): resolve taskkill in e2e cleanup</code>](https://github.com/openclaw/openclaw/commit/e9e42d5db4db1f3dc9e8510041774f04e52176d2)
+- [ ] [<code>fix(telegram): resolve taskkill in credential helper</code>](https://github.com/openclaw/openclaw/commit/1f1155597bc3187bf2aef59003d95e134161bd84)
+- [ ] [<code>test(scripts): route plugin update registry helper</code>](https://github.com/openclaw/openclaw/commit/7b00fd6c45e0c1717738ba00cd06e351741ee084)
+- [ ] [<code>fix(plugins): resolve taskkill in bundled runtime smoke</code>](https://github.com/openclaw/openclaw/commit/78b717a54c0be829f780d82e52d640fb78980bed)
+- [ ] [<code>chore(deadcode): remove stale web artifact helpers</code>](https://github.com/openclaw/openclaw/commit/0321c04663af84a86584a20f445d381e8d818ceb)
+- [ ] [<code>fix(dev): resolve taskkill in tui pty watcher</code>](https://github.com/openclaw/openclaw/commit/ac0537e363c8a81ab4d5b159081aaa93776e2b86)
+- [ ] [<code>fix(bench): resolve taskkill in gateway child cleanup</code>](https://github.com/openclaw/openclaw/commit/73b35cc3ca8299779b1896b5130817968162e98c)
+- [ ] [<code>fix(telegram): resolve taskkill in crabbox proof</code>](https://github.com/openclaw/openclaw/commit/9940110b881bd740a3723e12681dcba6738c31d0)
+- [ ] [<code>fix(i18n): resolve taskkill in control ui runner</code>](https://github.com/openclaw/openclaw/commit/282eb74128d9c03678df04a80f1609ddad05cee8)
+- [ ] [<code>test(scripts): cover e2e text file utilities</code>](https://github.com/openclaw/openclaw/commit/c9758bf2a090a747ec7fd794d1c895d3deda83ab)
+- [ ] [<code>fix(docs): resolve taskkill in i18n codex helper</code>](https://github.com/openclaw/openclaw/commit/206bbb01b0462961135cb1ef9ba365b0f46264b6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(release): resolve taskkill in cross-os checks</code>](https://github.com/openclaw/openclaw/commit/91531ba35c859e0c37b89f567feb02f000bd9c4a)
+- [ ] [<code>test(scripts): route fixture config helper</code>](https://github.com/openclaw/openclaw/commit/3f597619c8375efa8bac59e7b75c09c671f9f4eb)
+- [ ] [<code>test(scripts): route mock OpenAI fixture helper</code>](https://github.com/openclaw/openclaw/commit/675c56692ae2aa7624186c1432d536be94ce8a72)
+- [ ] [<code>fix(windows): resolve cmd handoff path</code>](https://github.com/openclaw/openclaw/commit/7dd01d15c56da2ee50f55746ba725d708682fca9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove stale copilot doctor probes</code>](https://github.com/openclaw/openclaw/commit/3b332fd0a485eb3bedc0f42eeed773b11ac2ecff)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(windows): resolve process inspection tools</code>](https://github.com/openclaw/openclaw/commit/e9b694ef9cd8b7528a76d85b8be2a830b296a5e1)
+- [ ] [<code>test(scripts): route incremental line reader</code>](https://github.com/openclaw/openclaw/commit/7975ec0b11a83107056c4c1ace9d59ab3a0467e2)
+- [ ] [<code>fix(windows): resolve taskkill in core spawns</code>](https://github.com/openclaw/openclaw/commit/a192b2ea52b3166a7d190bf5f60f3feb030306bb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(scripts): route plugin fixture commands</code>](https://github.com/openclaw/openclaw/commit/d25549f14207674e7ee17096d6ca082cb7247091)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(scripts): resolve Windows tools in kitchen sink walk</code>](https://github.com/openclaw/openclaw/commit/c000e4811d681736fc7100f89011a0bcc06d167c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove stale qa-matrix wrappers</code>](https://github.com/openclaw/openclaw/commit/35d7cb0bffe7e13c3717c2fc01d3143818d50b64)
+- [ ] [<code>test(scripts): route config reload metadata helper</code>](https://github.com/openclaw/openclaw/commit/9242137ca7a8e08a40da932a237993155f590f75)
+- [ ] [<code>fix(scripts): resolve Windows cmd shim launcher</code>](https://github.com/openclaw/openclaw/commit/6c4028e073694e6b7bdae2c61d6c060c623625cf)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(scripts): route onboard config helpers</code>](https://github.com/openclaw/openclaw/commit/1435fc123f276ac2c090775c1ccd152140c63a0b)
+- [ ] [<code>fix(qa-lab): resolve Windows taskkill path</code>](https://github.com/openclaw/openclaw/commit/61d1fd1f72174f7a4082b31057655b0d7dc3f694)
+- [ ] [<code>test(scripts): route doctor install wrapper helper</code>](https://github.com/openclaw/openclaw/commit/f19052b3f33d4ce752d823623ec7c5f980022581)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(scripts): route auth profile store assertions</code>](https://github.com/openclaw/openclaw/commit/eb7789c8cbe6754cd09bf1b3026513cdf12c5a17)
+- [ ] [<code>fix(qa-matrix): resolve Windows taskkill path</code>](https://github.com/openclaw/openclaw/commit/15300291ed26208b8ab39da613007602df1a4ef4)
+- [ ] [<code>test(extensions): pin Windows taskkill test roots</code>](https://github.com/openclaw/openclaw/commit/735d70d9db9565cfaee26bff60eb311f588f7f11)
+- [ ] [<code>test(scripts): route ClawHub fixture server</code>](https://github.com/openclaw/openclaw/commit/425f512897223f7e6e739532fd8f0e4739cd7f24)
+- [ ] [<code>chore(deadcode): dedupe internal event formatting</code>](https://github.com/openclaw/openclaw/commit/e6c899dfa550f7a97603db062c3c02087806c3b0)
+- [ ] [<code>fix(agents): resolve Windows extraction tools</code>](https://github.com/openclaw/openclaw/commit/a5fde9119c9c50685a392bff078a2f76a03d749d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(agents): fix tools-manager mock typing</code>](https://github.com/openclaw/openclaw/commit/d87f8325d06fc9863a7f13bd83f99334b590f344)
+- [ ] [<code>test(scripts): route Parallels lib helpers</code>](https://github.com/openclaw/openclaw/commit/a4c8b17b9e2f21d89f2541f62b06de10c87acb2e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(scripts): route fixture common helper</code>](https://github.com/openclaw/openclaw/commit/7bd4aab21f4bdd9372f8323f31a9b33547f47d01)
+- [ ] [<code>chore(deadcode): remove stale proof scripts</code>](https://github.com/openclaw/openclaw/commit/6ddbcbd460e96ce22ddce1adbdde4c179e0021f5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(infra): resolve Windows binary lookup tool</code>](https://github.com/openclaw/openclaw/commit/d3b44442f6c8bedd765dc20a06316d3420b5d854)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(core): resolve Windows PATH locator tools</code>](https://github.com/openclaw/openclaw/commit/72b9bc730370e3b1155fb231621c2bc7b2c87b56)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(scripts): route Codex install assertions</code>](https://github.com/openclaw/openclaw/commit/e486a1d1cf7e1de98ccc533302d6cfc974e3fc3a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>chore(deadcode): remove stale cron usage helper</code>](https://github.com/openclaw/openclaw/commit/59bf85c586823ac5666213d9414590bb9044bf18)
+- [ ] [<code>fix(qa-lab): resolve Windows node lookup tool</code>](https://github.com/openclaw/openclaw/commit/a70b34a3cba60e11fab350eb1a762022f6da5f1f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(infra): resolve Windows port inspection tools</code>](https://github.com/openclaw/openclaw/commit/c4facb2bb372e99037f497e2640ca7bdc5cbc5f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): reject QA Lab host port collisions</code>](https://github.com/openclaw/openclaw/commit/66e5cfdd86179d61e77b2614ef52a482fd045539)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(deadcode): remove stale heartbeat transcript prune test</code>](https://github.com/openclaw/openclaw/commit/3a53eb5d77a3f68738b45f36ad17b22b1feec9f1)
+- [ ] [<code>fix(infra): share trusted Windows process argv lookup</code>](https://github.com/openclaw/openclaw/commit/15c880aeff1f4e55964ad7204d14733a2d1362f7)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>fix(qa-lab): resolve Windows PowerShell path</code>](https://github.com/openclaw/openclaw/commit/b8a5dac1a2f07bec19a7d5b7490efa1ce0d222df)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): validate QA bus poll numbers</code>](https://github.com/openclaw/openclaw/commit/600bace8537a279bdc3f1a29460d074e1f62569b)
+- [ ] [<code>chore(deadcode): remove stale readability compare script</code>](https://github.com/openclaw/openclaw/commit/6e5f4d685ec9a50317db9a687a0a0f09a88e9393)
+- [ ] [<code>fix(daemon): resolve Windows scheduled-task tools</code>](https://github.com/openclaw/openclaw/commit/2a140e6e6ae8c48edb5bd52d8d177915f0555d70)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): reject coerced evidence artifact indexes</code>](https://github.com/openclaw/openclaw/commit/b5fc9514c0bcf5b177272abed50be7d6b1f2b3e7)
+- [ ] [<code>test(sdk): resolve Windows package taskkill path</code>](https://github.com/openclaw/openclaw/commit/b796890b97773c07e48c522926f0252b29209aed)
+- [ ] [<code>fix(qa): reject malformed mock OpenAI JSON</code>](https://github.com/openclaw/openclaw/commit/f69ba12a37fcf575f29542013cc2cbbcdbc1c3dd)
+- [ ] [<code>fix(ci): filter ClawSweeper comment dispatches before token minting (#95308)</code>](https://github.com/openclaw/openclaw/commit/0d351b9875600c236d85ccf3f3fedeabc3e1c4d7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): drop retired memory wiki vault metadata</code>](https://github.com/openclaw/openclaw/commit/03ee22666b85bc7ca372c0f15a92ea0d53c57287)
+- [ ] [<code>fix(qa): reject non-object mock OpenAI JSON</code>](https://github.com/openclaw/openclaw/commit/6f3af569523982f30a7283dc4d792b82394ae39d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
