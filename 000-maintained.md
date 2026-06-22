@@ -1799,6 +1799,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/moby/moby/api from 1.54.2 to 1.55.0 in /src/go (#22810)</code>](https://github.com/netdata/netdata.git/commit/b7b55d876e9a8d4ff492f283e18f36bdea2b6438)
 - [ ] [<code>chore(go.d/snmp_topology): file-organization cleanup (#22807)</code>](https://github.com/netdata/netdata.git/commit/7e9d62ac0b685498b4af692b268f761a67a29245)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.68.1 to 0.69.0 in /src/go (#22811)</code>](https://github.com/netdata/netdata.git/commit/5ddf9b68fee201bea85a7ae8bd4d9a4f9f5c3cd9)
+- [ ] [<code>build(deps): bump github.com/Azure/azure-sdk-for-go/sdk/azidentity from 1.13.1 to 1.14.0 in /src/go (#22808)</code>](https://github.com/netdata/netdata.git/commit/7cfd05d9cd2f0a5d0948c164ad8079a49c03d86b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8868,6 +8870,86 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(scripts): reject short flag CI timing limits</code>](https://github.com/openclaw/openclaw/commit/bebc5d847d126a83f010464b58e41b23811a94d4)
 - [ ] [<code>fix: reuse doctor env snapshot helper</code>](https://github.com/openclaw/openclaw/commit/ab8dc3af52a151c8f356eb6e81360c8de6d1feb7)
 - [ ] [<code>fix(scripts): reject short flag shrinkwrap refs</code>](https://github.com/openclaw/openclaw/commit/75a997dd7cbd783490a2fda1a49a5b3cfd9ebbaf)
+- [ ] [<code>fix(qa): reject short flag gateway smoke values</code>](https://github.com/openclaw/openclaw/commit/3bae0d6b8201457def39a513a4c9bc2874cc27a0)
+- [ ] [<code>chore(deadcode): remove test-only helper APIs</code>](https://github.com/openclaw/openclaw/commit/609d7a14b10c17e921905de4e1001264e7b33963)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): reject short flag Discord smoke values</code>](https://github.com/openclaw/openclaw/commit/89768d456bf6606c1f66b8b166bd61215cc6ff0c)
+- [ ] [<code>test: route gateway call env resets</code>](https://github.com/openclaw/openclaw/commit/c3b1e926e86d40d6a54300937d01b2a393ab4bf5)
+- [ ] [<code>chore(deadcode): remove unused state path readers</code>](https://github.com/openclaw/openclaw/commit/179eb155547a43d53f07e663adefbbbdb069a318)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): reject short flag TUI PTY values</code>](https://github.com/openclaw/openclaw/commit/dfbc9ab246ea5c44acc8c302498f349de7290fe8)
+- [ ] [<code>fix: isolate provider runtime env cache</code>](https://github.com/openclaw/openclaw/commit/3e1d3c5febd4f44028f9573bdf3852930ff03f6c)
+- [ ] [<code>fix(scripts): reject flag device-pair Telegram values</code>](https://github.com/openclaw/openclaw/commit/6823f56d8e4fdb5838daa5d023442d6ba7e6a788)
+- [ ] [<code>chore(deadcode): drop unused exact session lookup</code>](https://github.com/openclaw/openclaw/commit/2ef61eb782ce0eab992e17453df607e269f93bd7)
+- [ ] [<code>fix(scripts): validate iOS node CLI values before help</code>](https://github.com/openclaw/openclaw/commit/6b45e9af7a320a6aa56f85f0c0e80c1f14395c24)
+- [ ] [<code>fix(e2e): reject flag Telegram credential values</code>](https://github.com/openclaw/openclaw/commit/0e53358945fb2052a9c83ab0402c74a9a47e985a)
+- [ ] [<code>fix(channels): preserve migrated account policies</code>](https://github.com/openclaw/openclaw/commit/7b461676072d78ddc71f183aa5ff111286e5d3b5)
+- [ ] [<code>test: restore heartbeat state env</code>](https://github.com/openclaw/openclaw/commit/c94ebdbebd4c3f48a90acc5cd0cd3fec80470662)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline hash</code>](https://github.com/openclaw/openclaw/commit/a03032a2728b40b084e0037a79cc209772b06d34)
+- [ ] [<code>fix: restore media cache state env</code>](https://github.com/openclaw/openclaw/commit/4b881509eb083552e5e20e066176228ba4eeb325)
+- [ ] [<code>fix(e2e): reject help flag Crabbox proof values</code>](https://github.com/openclaw/openclaw/commit/b95b725c830d05d51e5a2735a37fe13f0f0d4a8b)
+- [ ] [<code>fix(e2e): reject flag Parallels smoke values</code>](https://github.com/openclaw/openclaw/commit/5b96eb01724cfe338b454b2ab6fe607e1ef4cd06)
+- [ ] [<code>test: restore host cleanup state env</code>](https://github.com/openclaw/openclaw/commit/cd9060e06ac5a692b957bf3be36a858d2f758dfc)
+- [ ] [<code>chore(deadcode): remove stale channel presence helper</code>](https://github.com/openclaw/openclaw/commit/984c8f6ea06b09b58c1c8a1adb724b660d17eff9)
+- [ ] [<code>fix(gateway): reject malformed restart request params</code>](https://github.com/openclaw/openclaw/commit/108d6d7eca0000a736e28d198e77100f4d7774e5)
+- [ ] [<code>chore(deadcode): dedupe live assistant text extraction</code>](https://github.com/openclaw/openclaw/commit/735505442c4fe8434fbb548cdf4c23eb951c182c)
+- [ ] [<code>fix(qa-lab): cap agent wait timeout payloads</code>](https://github.com/openclaw/openclaw/commit/1c63da09d87b7f61eb48a69a8b45f681cc00a2f2)
+- [ ] [<code>fix(qa-lab): version UI assets from repo root</code>](https://github.com/openclaw/openclaw/commit/fd13192adca6863f995e9a490c0a8b4eb1c1669b)
+- [ ] [<code>fix(gateway): expire default node pending work</code>](https://github.com/openclaw/openclaw/commit/f6d432e545e2e2be91d17badc48354a0135e5294)
+- [ ] [<code>fix(gateway): cap plugin session message reads</code>](https://github.com/openclaw/openclaw/commit/b66b4504f87205dd8ba0393e763e23a4a6158a79)
+- [ ] [<code>chore(deadcode): remove unused agent-core harness APIs</code>](https://github.com/openclaw/openclaw/commit/464adfe5e54473c31c10fcef9a08f39aab2ebc21)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sdk): preserve zero run timeout watchdog</code>](https://github.com/openclaw/openclaw/commit/2bdcc8314d3fce9ee2d0300759cd6a1d9bb45a7d)
+- [ ] [<code>fix(tui): clamp local shutdown grace timeout</code>](https://github.com/openclaw/openclaw/commit/c21dcfc7c272201484514bbc096bd51ab112bd47)
+- [ ] [<code>chore(deadcode): remove unused agent-core prompt formatter</code>](https://github.com/openclaw/openclaw/commit/328a44695fbbb3c0bea684211ac91f2ef36b3223)
+- [ ] [<code>fix(mcp): cap channel bridge request limits</code>](https://github.com/openclaw/openclaw/commit/a39e548ede228aa1978bf9d509613cbed6db0c99)
+- [ ] [<code>fix(channels): bound capabilities probes</code>](https://github.com/openclaw/openclaw/commit/8ecdb97b636e4c3fcc6d142d217327404ae06581)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix #95378: https://github.com/openclaw/openclaw/issues/95378 (#95390)</code>](https://github.com/openclaw/openclaw/commit/ec7a548062d3ad489079d6737da973a9171bad28)
+- [ ] [<code>fix(ollama): support GLM-5.2 cloud discovery</code>](https://github.com/openclaw/openclaw/commit/11484f8a1483b7c42aa2971de2d88289fcef7046)
+- [ ] [<code>fix(process): clamp command timeouts</code>](https://github.com/openclaw/openclaw/commit/1425bb3a03189813787194c23b8a38518166005a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sdk): tighten surface report budgets</code>](https://github.com/openclaw/openclaw/commit/77b6ca9a9b83ec9dc00401452e7d6c8f0ea3e954)
+- [ ] [<code>fix(process): clamp execfile timeouts</code>](https://github.com/openclaw/openclaw/commit/66b94ba577b8836a4afa7cb59cd1a749bf2a8d68)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(clawhub): clamp request timeouts</code>](https://github.com/openclaw/openclaw/commit/8cd0c11227f6f4096d089cd6108d6f2ae31252b7)
+- [ ] [<code>chore(deadcode): remove unused test bindings</code>](https://github.com/openclaw/openclaw/commit/d43bc3760e8c465e43214d9950dd818c89e96fd4)
+- [ ] [<code>fix(minimax): clamp vlm request timeouts</code>](https://github.com/openclaw/openclaw/commit/4b6182ee2a250005e0c25edfeae4db6ec59b7cb8)
+- [ ] [<code>fix(media): clamp image description timeouts</code>](https://github.com/openclaw/openclaw/commit/88b21fc30b4ac615b3d3870e483190bc832f9846)
+- [ ] [<code>chore(deadcode): remove unused vitest helper config</code>](https://github.com/openclaw/openclaw/commit/ef41560059981e66167ab89defda0b8ce10167f8)
+- [ ] [<code>fix(replies): clamp block delivery timeouts</code>](https://github.com/openclaw/openclaw/commit/6c85b90469f94955ef00c1609e1f1d6fd2cf4ca8)
+- [ ] [<code>fix(agents): clamp session owner wait timeouts</code>](https://github.com/openclaw/openclaw/commit/4c736df975fed8e39f18db43bfaea9654b9ac0c7)
+- [ ] [<code>chore(deadcode): trim unused discord vitest runtime shims</code>](https://github.com/openclaw/openclaw/commit/880425b03c493fed3de04cebbf02fe17671ae494)
+- [ ] [<code>fix(process): clamp queue task timeouts</code>](https://github.com/openclaw/openclaw/commit/1f6ae32cabb9d5ed308bb30715c287936ef483f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove stale changed-test routes</code>](https://github.com/openclaw/openclaw/commit/11a3903ede0b80096c454de96339e1a885ecc94c)
+- [ ] [<code>fix(scripts): clamp kitchen sink timeouts</code>](https://github.com/openclaw/openclaw/commit/f719813a7e77444f6e0a2d4cad5c8f2345a88b7b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(imessage): keep split-send coalescing opt-in (#93143)</code>](https://github.com/openclaw/openclaw/commit/a0714a3d685516b8e2a88d0667f6fb0324d497bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove unused tooling helpers</code>](https://github.com/openclaw/openclaw/commit/8c0767ffa4de3401a02efd2a96ee44e198128b6b)
+- [ ] [<code>fix(scripts): clamp telegram proof timeouts</code>](https://github.com/openclaw/openclaw/commit/c578608b783ffd23e6606c796fdb636e7e81e32d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(claude-cli): disable unsupported background tools (#95008) (thanks @anagnorisis2peripeteia)</code>](https://github.com/openclaw/openclaw/commit/298a0cd55f5ebe4c53575ee72700b4919987dc44)
+- [ ] [<code>fix: keep trusted policies with hook registry (#94545)</code>](https://github.com/openclaw/openclaw/commit/4cb94cc2cf2d3a9be2aace20c1350cac98766ae7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): clamp parallels host timeouts</code>](https://github.com/openclaw/openclaw/commit/790dfb66a8c992e581d75eec34db46f260a8053d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deadcode): remove stale vitest coverage excludes</code>](https://github.com/openclaw/openclaw/commit/dbb58341b51b9c818dbf84332d86db6bda59fa86)
+- [ ] [<code>fix(telegram): render progress drafts with clean HTML transport</code>](https://github.com/openclaw/openclaw/commit/e37b0f8cd3844ca2a79d3ffe1ab70dd0d98a791b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): clamp parallels phase timeouts</code>](https://github.com/openclaw/openclaw/commit/11959ad1002e5d3ef51e38df583d239417a2146c)
+- [ ] [<code>chore(deadcode): prune stale routing config</code>](https://github.com/openclaw/openclaw/commit/a09e1b9aa0e4b266b7caf2113e2eb346d99d86a6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(scripts): clamp parallels update timeouts</code>](https://github.com/openclaw/openclaw/commit/3e5ca880bfe00cdd98cd61f337bc1b6bb346bed7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(e2e): refresh docker setup fixtures</code>](https://github.com/openclaw/openclaw/commit/29185aed68fa20a5a81244653fa2a5c172c2a73c)
+- [ ] [<code>chore(deadcode): prune stale codeql paths</code>](https://github.com/openclaw/openclaw/commit/afadf1f7da4ca913c9f343aad0f827924a3501a1)
+- [ ] [<code>fix(scripts): clamp plugin lifecycle timers</code>](https://github.com/openclaw/openclaw/commit/8ef73be8e8a80535d7046a015c1348f008610442)
+- [ ] [<code>fix(scripts): clamp gauntlet command timers</code>](https://github.com/openclaw/openclaw/commit/f9fc380e9032c6bc231e1d801ac7375996cfeaf9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): clamp docker all timers</code>](https://github.com/openclaw/openclaw/commit/75c6a8fff5cac6ba50ae48e9074278d84e68ba8d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
