@@ -350,8 +350,9 @@
 - [ ] [<code>screensaver: Don't prefix msgids with unnecessary "Please" words</code>](https://github.com/linuxmint/cinnamon/commit/b2e1daa2eceb56be76030d60162341bd1b23dcce)
 - [ ] [<code>soundManager.js: Disable during logout.</code>](https://github.com/linuxmint/cinnamon/commit/6e4339e43a6a050abd0eeb539050fa498c7e722a)
 - [ ] [<code>a11y@cinnamon.org: Use a working keymap in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/37bf7bac31d7d5b4cddee96eaa0c15ba14031aaf)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>org.cinnamon.gschema.xml: Remove unused org.cinnamon.background</code>](https://github.com/linuxmint/cinnamon/commit/f8bd99f12ab416d80914cb37d82741fdeb8b33eb)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -613,6 +614,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-wayland-gtk-shell.c: Turn on desktop-icons in 'capabilities'.</code>](https://github.com/linuxmint/muffin/commit/811be2a974039a038060f22e5ad5b42bbbf95aa4)
 - [ ] [<code>meta-stage-native.c: Implement set_cursor_visible vfunc.</code>](https://github.com/linuxmint/muffin/commit/6911dcae9a78970f2feb3274ca3925923d8b2dbb)
+- [ ] [<code>native: Add preferred-primary GPU selection via udev tag (#811)</code>](https://github.com/linuxmint/muffin/commit/4a1f7ceb3d07d3f010229659c15b668a6086dba9)
+- [ ] [<code>debug: Show GL renderer in .xsession-errors</code>](https://github.com/linuxmint/muffin/commit/53c7f64e6f033703f4383e4680f3a4e3278d75cd)
+- [ ] [<code>wayland: Implement wl_drm protocol to advertise render node to clients</code>](https://github.com/linuxmint/muffin/commit/11d90f79fe866287b4aea0e96b9fc81ffc53ae6a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland/dma-buf: Advertise real format modifiers to clients</code>](https://github.com/linuxmint/muffin/commit/50d9593bb08faa6475b65d30ce1d89b27c73a239)
+- [ ] [<code>meta-egl.c: Don't pass DRM_FORMAT_MOD_INVALID as an explicit modifier.</code>](https://github.com/linuxmint/muffin/commit/2bbeb3b0d5833726342e7f4d63c0ea7180772791)
+- [ ] [<code>wayland/dma-buf: Implement zwp_linux_dmabuf_v1 feedback (v4)</code>](https://github.com/linuxmint/muffin/commit/4e4de5ff25619207fd2f53a4636bc3f6229adede)
+- [ ] [<code>wayland: Prefer gbm over EGL (nvidia) (#773)</code>](https://github.com/linuxmint/muffin/commit/db93b03e610f51eab64ed5f1f9bb0c3bd0d90ddc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
