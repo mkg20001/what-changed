@@ -9490,6 +9490,72 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(types): remove stale internal contract aliases</code>](https://github.com/openclaw/openclaw/commit/3d787b51812cf2883524fa8413acf09d647564ec)
 - [ ] [<code>refactor(docs-i18n): remove unreachable chunk helpers</code>](https://github.com/openclaw/openclaw/commit/01d212bfa3e28f904ab071a64b7e0a086fc344ab)
 - [ ] [<code>refactor(android): remove stale UI helpers</code>](https://github.com/openclaw/openclaw/commit/1423487351d6719e90d23d83a7f1820aaf666a51)
+- [ ] [<code>refactor(android): remove orphan runtime accessors</code>](https://github.com/openclaw/openclaw/commit/2e0dd66d39bab5a556b5f94986337bdd9939f9ea)
+- [ ] [<code>refactor(android): remove stale canvas and overlay helpers</code>](https://github.com/openclaw/openclaw/commit/e9756f9e71b528fea1c01ed573e5cc888de2d232)
+- [ ] [<code>refactor(android): test auth resolution directly</code>](https://github.com/openclaw/openclaw/commit/88c3bb539189973d6e61dc3ac7454b31ee89cb3e)
+- [ ] [<code>refactor(android): remove orphan helpers and aliases</code>](https://github.com/openclaw/openclaw/commit/af328b2b212812067f77b683b20cf90d43e52972)
+- [ ] [<code>feat(qa): expose active memory toggles to scenarios (#95858)</code>](https://github.com/openclaw/openclaw/commit/ed2dfee7d79e775647a47ab27a911f76b74a0d08)
+- [ ] [<code>refactor(macos): remove orphan helpers and view state</code>](https://github.com/openclaw/openclaw/commit/d6111ff72c77ff16978ced1faa451546d9911e83)
+- [ ] [<code>Doctor: expose sandbox registry findings (#84326)</code>](https://github.com/openclaw/openclaw/commit/037ee6de0a62c815e8093f20d36fffc40ae9adb6)
+- [ ] [<code>refactor(parallels): remove orphaned package shell helpers</code>](https://github.com/openclaw/openclaw/commit/1cdc28605d4202ef433674d31ffd5cdb0065076b)
+- [ ] [<code>refactor(onboard): remove obsolete interactive helpers</code>](https://github.com/openclaw/openclaw/commit/75b9e761b73949cbb85ff0b93fd38f0c1bc84eb8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(e2e): remove unused shell wrappers</code>](https://github.com/openclaw/openclaw/commit/aeedfceb28e0f8b4200993f9728b97c5b55e67b4)
+- [ ] [<code>refactor(parallels): remove unused macOS exec wrapper</code>](https://github.com/openclaw/openclaw/commit/8357260081ca7c4212a7f74337e326d7ca47e1a6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(minimax): request hex TTS output explicitly</code>](https://github.com/openclaw/openclaw/commit/739e6cbbf88eee016efa5b353a76f5154db69978)
+- [ ] [<code>feat(gateway-cli): scope usage-cost by agent (#94483)</code>](https://github.com/openclaw/openclaw/commit/75af913ba63cdac8d71662cdef93d8d973eaabfe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(install): remove stale shell helpers</code>](https://github.com/openclaw/openclaw/commit/adc4d9fe02af76f0ffc8f8cfdeeb73fd8b662bc1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(installer): skip llama postinstall in Windows source installs</code>](https://github.com/openclaw/openclaw/commit/ea9065bc68dd4ff94495b85a7dcb4491cf41b67a)
+- [ ] [<code>refactor(pr): remove unused path predicates</code>](https://github.com/openclaw/openclaw/commit/0edd84f910564173ace15f011de3b1280a0c05c1)
+- [ ] [<code>refactor(e2e): remove orphaned fixture manifest helper</code>](https://github.com/openclaw/openclaw/commit/c0b6183b7bc0e5b620b5a0042a83f069393b6eb4)
+- [ ] [<code>feat(qa): crabline channel driver (#91502)</code>](https://github.com/openclaw/openclaw/commit/63b13ea837fe6db244ad2c8bb14781e312123337)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: move tui pty into node ci shard (#95872)</code>](https://github.com/openclaw/openclaw/commit/a1c2454b08515a035885f3a3dfa997607d0adb83)
+- [ ] [<code>fix(agents): resolve webchat current session status</code>](https://github.com/openclaw/openclaw/commit/ef6207678941cd630c8238817cc3b2eb88cb1a09)
+- [ ] [<code>refactor(e2e): remove stale upgrade survivor setup</code>](https://github.com/openclaw/openclaw/commit/961130c7073acf4b51782df92f201abd43989070)
+- [ ] [<code>fix(ci): restore macOS and Windows QA gates</code>](https://github.com/openclaw/openclaw/commit/dcb6b0dd6f6a2be647d80cae29fc83e4db767b81)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): keep cron cloud idle watchdog enabled (#94445)</code>](https://github.com/openclaw/openclaw/commit/5e915e1f89c2e21c048d6b9961ef9346cf45eab9)
+- [ ] [<code>feat(qa): forward shared suite flags to multipass runner (#91506)</code>](https://github.com/openclaw/openclaw/commit/de9c94cbbb5a9ac6363f07efc0f65c56ba979bec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: add manual release qa evidence workflow (#95876)</code>](https://github.com/openclaw/openclaw/commit/89de454f822cac98505651fe3ee8340a054f3e37)
+- [ ] [<code>fix(installer): detect native Windows ARM64 hosts</code>](https://github.com/openclaw/openclaw/commit/fac091b39de230d9ed90e8412123126cf676004f)
+- [ ] [<code>fix(ci): use workflow revision for proof checks</code>](https://github.com/openclaw/openclaw/commit/2ce4a7483a82f952ba689df13a5ec35d7d474cbc)
+- [ ] [<code>fix(memory-core): report active dreaming phases in status (#93113)</code>](https://github.com/openclaw/openclaw/commit/fc15c58715f4eafbd258abaeb0e90a715bd67f60)
+- [ ] [<code>Simplify color mode button labels (#95837)</code>](https://github.com/openclaw/openclaw/commit/3c06770a828e8bc6eee86b5b4bdb1773f50ac14e)
+- [ ] [<code>refactor(cli): share gateway startup tracing</code>](https://github.com/openclaw/openclaw/commit/330fc9f7b9c3b0df6b8472d73ca30b7a2962258f)
+- [ ] [<code>refactor(cli): share precomputed help parsing</code>](https://github.com/openclaw/openclaw/commit/3f7ef1be37ce0c4c106561f478224f351df8a64b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): avoid redacted config cleanup patch</code>](https://github.com/openclaw/openclaw/commit/264b37e9d292efb2567f10c376fb558c691c6773)
+- [ ] [<code>refactor(models): reuse shared model key helper</code>](https://github.com/openclaw/openclaw/commit/a409df6f9c534230a217386d3020063a30323d1e)
+- [ ] [<code>refactor(models): centralize model key normalization</code>](https://github.com/openclaw/openclaw/commit/cc32f277fed4569c634bf0f06a93db785dbb0f96)
+- [ ] [<code>fix: /status is too verbose for pinned model sessions (#95797)</code>](https://github.com/openclaw/openclaw/commit/3675c01410190f300ecdf2372ec8fda34208365d)
+- [ ] [<code>refactor(media): share duplicate guard action results</code>](https://github.com/openclaw/openclaw/commit/a70dae40b7c5ddeab47aab1ebd2c09372aebecb4)
+- [ ] [<code>test: make qqbot symlinked media helper test robust on Windows</code>](https://github.com/openclaw/openclaw/commit/82316c2f45f7129322ebc3950c48770b5a018e96)
+- [ ] [<code>refactor(files): share nested ignore rule loading</code>](https://github.com/openclaw/openclaw/commit/321e58c03059650a639f298e49cfdedbc0e07601)
+- [ ] [<code>improve: refresh Android overview control surface (#95557)</code>](https://github.com/openclaw/openclaw/commit/5e342c774d8db4b8d311bdca980837d10d1a8781)
+- [ ] [<code>test(qa): accept Sonnet max thinking support</code>](https://github.com/openclaw/openclaw/commit/befe04f465bb28efa69b2e75843fc66f373f860b)
+- [ ] [<code>fix: route Android exec approvals to in-app inbox (#95593)</code>](https://github.com/openclaw/openclaw/commit/e39249100ebb0dc18e476ff5a2c8fc851686d7c1)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(media): share local source path resolution</code>](https://github.com/openclaw/openclaw/commit/2f8ad67a5e72ce33a9e6ba2b16aa7a8eee31f8bf)
+- [ ] [<code>refactor(secrets): share env var candidate deduplication</code>](https://github.com/openclaw/openclaw/commit/c51661f1bfbac3a75344cc08f8ec7bf28efae956)
+- [ ] [<code>refactor(plugins): share public artifact candidate loading</code>](https://github.com/openclaw/openclaw/commit/d96ac02dc625259eccd90037807bdf6330cde9c6)
+- [ ] [<code>test(qa): scope provider-sensitive flow fixtures</code>](https://github.com/openclaw/openclaw/commit/086c629556a52a639e0c2983e792cb9d8b383fb1)
+- [ ] [<code>fix(cli): resolve trajectory export stores consistently (#95570)</code>](https://github.com/openclaw/openclaw/commit/391e492f5632597319584af438afb6f29c9994bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(exec): share policy layer merging</code>](https://github.com/openclaw/openclaw/commit/b60f63150f517b97ed9c36143f25ec0c086b8a0e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: generalize QA profile evidence workflow (#95880)</code>](https://github.com/openclaw/openclaw/commit/fee8ab4764ed2c86ec927fe27984f72b114e663c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): bound provider JSON response reads (#95218)</code>](https://github.com/openclaw/openclaw/commit/2592f8a51a4e99a127eb076d4a18974c62c979fa)
+- [ ] [<code>fix(memory-wiki): preserve human notes block on source re-ingest (#95614)</code>](https://github.com/openclaw/openclaw/commit/0ec12df2451263479e149b724627e20969d0fb1a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): keep image generation fixture on mock lane</code>](https://github.com/openclaw/openclaw/commit/43f2b61f3b01aa922265e7e06c385164d236f475)
+- [ ] [<code>refactor(agents): share session truncation warnings</code>](https://github.com/openclaw/openclaw/commit/32494c7aced4d49f0d55e8ce1e2bb86330562740)
+- [ ] [<code>feat(android): add settings detail panels (#95148)</code>](https://github.com/openclaw/openclaw/commit/ea56b135c830a57c1d56fb53ebbabb800603b59a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
