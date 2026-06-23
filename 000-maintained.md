@@ -1217,6 +1217,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>test: skip unusable Bun compile probes</code>](https://github.com/steipete/mcporter/commit/f02bef36d2f6e61d4d675d7505527708bb3714a6)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore(deps): update dependencies</code>](https://github.com/steipete/mcporter/commit/2a9b353b2142426543c61aada42997dd3d63346d)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1864,6 +1865,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/l2topology): move L2 pipeline internal (#22833)</code>](https://github.com/netdata/netdata.git/commit/b25ee5f5832ecad2a2efc218147a680a2593fab9)
 - [ ] [<code>chore(go.d/l2topology): move graph projector internal (#22834)</code>](https://github.com/netdata/netdata.git/commit/12e50f726ba076a709999e1f151e1d44f87d8743)
 - [ ] [<code>docs: Add Parent-to-Cloud claim step to centralization deployment guide (#22736)</code>](https://github.com/netdata/netdata.git/commit/7d678c537f1665375327c3f58c7e26dd2dfe3b78)
+- [ ] [<code>Fix debugfs audit capability service limit (#22831)</code>](https://github.com/netdata/netdata.git/commit/c093ef88e83c92f5a0a232d284052468eda77a3b)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(go.d/snmp-topology): preserve capability actor type (#22839)</code>](https://github.com/netdata/netdata.git/commit/a229049e97ca0bce3c9f1d7a84f9834907152a41)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4504,6 +4508,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(geniex-qairt): update subproject commit to e30fbae</code>](https://github.com/NexaAI/nexa-sdk/commit/16a449ce5d632414326b17e96af361558f780f37)
 - [ ] [<code>chore: migrate issue URL in benchmark.c to qualcomm/nexa-sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/5cbf8283d5be94b9d667a18bc74378e6e4cfb1cf)
 - [ ] [<code>docs: sync scripts/README.md from upstream README</code>](https://github.com/NexaAI/nexa-sdk/commit/9a9b91185e5f7e4f2fb330671009e89ebbc5c513)
+- [ ] [<code>chore(build): track public geniex-qairt repo, bump to latest main</code>](https://github.com/NexaAI/nexa-sdk/commit/01505154179e2a23346dfd6c599e0a2271f7129c)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -9833,6 +9838,107 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(qa): preserve active mac restart locks</code>](https://github.com/openclaw/openclaw/commit/d980f2555a9daf32b21a12224a2a14d441dd1549)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>fix(ci): allow release QA evidence workflow calls</code>](https://github.com/openclaw/openclaw/commit/c714bfd8b6aae4fbd328ae1b6f5d7491b66cfd9b)
+- [ ] [<code>fix(ci): pass resolved ref to maturity QA evidence</code>](https://github.com/openclaw/openclaw/commit/0177521375d593067cd540e453d05ab054ed3948)
+- [ ] [<code>fix(ci): keep release QA evidence branch-compatible</code>](https://github.com/openclaw/openclaw/commit/9dbdefd43c4b815078a8a74504013e8081dc9a31)
+- [ ] [<code>fix(qa): bound docker e2e log replay</code>](https://github.com/openclaw/openclaw/commit/e856a24754c3ff1ef9efbb5b8fa36aa2c9e031c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): reject duplicate qa e2e outputs</code>](https://github.com/openclaw/openclaw/commit/7374ecc777629f2f0ea5697b42f0def53180ffd7)
+- [ ] [<code>fix(qa): reject duplicate report artifacts</code>](https://github.com/openclaw/openclaw/commit/d51582a93604f1c38761ee98107e6c64962f814d)
+- [ ] [<code>fix(qa): reject ambiguous dependency report inputs</code>](https://github.com/openclaw/openclaw/commit/0e091482a3760d67732a82498038f28be0cf71d0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(qa): reject duplicate single-value flags</code>](https://github.com/openclaw/openclaw/commit/72816124c909abb87ca69679923513639f6775e1)
+- [ ] [<code>fix(qa): reject duplicate test report controls</code>](https://github.com/openclaw/openclaw/commit/3d6127f7e40bd68dbe8fbdb7551ad50eff81c93e)
+- [ ] [<code>fix(qa): reject duplicate dependency evidence options</code>](https://github.com/openclaw/openclaw/commit/8cda4399d06f8b9e852714499cb2620374a5e3d3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(qa): reject duplicate package candidate options</code>](https://github.com/openclaw/openclaw/commit/2af06042c2add36d02f758955300787c599ec83b)
+- [ ] [<code>fix(qa): reject duplicate docker package options</code>](https://github.com/openclaw/openclaw/commit/7cc0879d0e80634f2d901c246e96f7cf4890a49b)
+- [ ] [<code>fix(plugin-sdk): refresh api baseline hash</code>](https://github.com/openclaw/openclaw/commit/34d2d54d6cdaf323021f5abbe10695f1216172a7)
+- [ ] [<code>fix(release): reject duplicate candidate checklist options</code>](https://github.com/openclaw/openclaw/commit/c638f2beda87a3309daa19766e4d17b417f2c71f)
+- [ ] [<code>fix(qa): reject duplicate hosted gate options</code>](https://github.com/openclaw/openclaw/commit/a02a8cca79df052359415385c403219b5bfc4174)
+- [ ] [<code>fix(qa): reject duplicate ux evidence options</code>](https://github.com/openclaw/openclaw/commit/08f8de3aeec935bf2dffb9101347b691f4000e3b)
+- [ ] [<code>fix(qa): reject duplicate otel smoke options</code>](https://github.com/openclaw/openclaw/commit/d38fb7456a2a28f25a083a57a326a7e5cee40730)
+- [ ] [<code>refactor: add transcript update identity contract (#89912)</code>](https://github.com/openclaw/openclaw/commit/475252453b4b3a9189d324af6d582f6ddc351bd0)
+- [ ] [<code>fix(qa): reject duplicate gateway smoke options</code>](https://github.com/openclaw/openclaw/commit/5078ffdeb47530ad443b62fd80c99cf0941e1522)
+- [ ] [<code>fix: clear config secret refs through env helper</code>](https://github.com/openclaw/openclaw/commit/93cfd59dd6bee10627030defb44878187104329c)
+- [ ] [<code>fix(qa): reject duplicate Parallels platforms</code>](https://github.com/openclaw/openclaw/commit/d3ac8e3caac8044d44c9810e93e3626f26de2339)
+- [ ] [<code>test: route shared token reload env writes</code>](https://github.com/openclaw/openclaw/commit/20d1dc8f0ad7c913a7559146a009d90641f1dbbe)
+- [ ] [<code>fix(qa): require Telegram proof report before publish</code>](https://github.com/openclaw/openclaw/commit/720e295cff18f2fa10659295c4cdc9fc9040a5c3)
+- [ ] [<code>fix: route shared auth secret env writes</code>](https://github.com/openclaw/openclaw/commit/e11539234b0f3589ebdf37b37c9db3475499ca38)
+- [ ] [<code>fix(qa): reject duplicate RPC RTT methods</code>](https://github.com/openclaw/openclaw/commit/3d2c52c935140264bf269a75990ada0b12f751f8)
+- [ ] [<code>fix(qa): require MCP API list evidence</code>](https://github.com/openclaw/openclaw/commit/3f2b205dde190c9d9011154deb4429f673da51eb)
+- [ ] [<code>fix(qa): reject polluted Tool Search proof lanes</code>](https://github.com/openclaw/openclaw/commit/02556f9caf068ecfe8cb18c494a0875c29ee93f2)
+- [ ] [<code>test: route network runtime env setup</code>](https://github.com/openclaw/openclaw/commit/b827629418534e025e0f82bf1ed0e807307bc3d8)
+- [ ] [<code>fix: simplify Fly Machine env cleanup</code>](https://github.com/openclaw/openclaw/commit/e94deea4f23e19f39bdc145d6808ebe886e0aee6)
+- [ ] [<code>fix(qa): reject duplicate gauntlet selectors</code>](https://github.com/openclaw/openclaw/commit/52251261ca0fd007711840a34150ef483e65d8f2)
+- [ ] [<code>test: scope send state env helper</code>](https://github.com/openclaw/openclaw/commit/6834a2d47bbfe7ef2dfab323ad6db6f2ac0686db)
+- [ ] [<code>fix: restore task state env through helper</code>](https://github.com/openclaw/openclaw/commit/fed369085fcb3a96afcac4a23bf9c27bfb0b8c5f)
+- [ ] [<code>test: scope transcript reader env setup</code>](https://github.com/openclaw/openclaw/commit/e63d11ea24f5b085cfac99c7c53cad6c9686c6d9)
+- [ ] [<code>fix(maint): use rebase PR landing</code>](https://github.com/openclaw/openclaw/commit/c045fbf8ec11e0f6b817212df113471b3b6557a0)
+- [ ] [<code>fix(maint): choose latest hosted CI run</code>](https://github.com/openclaw/openclaw/commit/541f9b25d2256192bd3d8131efb47763702beec6)
+- [ ] [<code>fix(maint): protect pending hosted CI reruns</code>](https://github.com/openclaw/openclaw/commit/69891cf2acc9a550b9e5243b7ab5f210aee91251)
+- [ ] [<code>fix(qa): disable pnpm verify in cpu scenarios</code>](https://github.com/openclaw/openclaw/commit/010c7f7110d8232029fa0332863a4f5584d204b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): reject missing memory fd args</code>](https://github.com/openclaw/openclaw/commit/928607ac4aa32e924b0b0050e896cbe428f0cc2c)
+- [ ] [<code>test(extensions): use real response mocks</code>](https://github.com/openclaw/openclaw/commit/aad78d399c1e1785b88bde30c399d524699f32f6)
+- [ ] [<code>test(extensions): use real provider response mocks</code>](https://github.com/openclaw/openclaw/commit/fa0427347af26565cecb8d39acaff24898ad2459)
+- [ ] [<code>test(extensions): use real chutes response mocks</code>](https://github.com/openclaw/openclaw/commit/fa263affd584e780185393c7322f25cd475f13f3)
+- [ ] [<code>fix(qa): reject duplicate startup bench cases</code>](https://github.com/openclaw/openclaw/commit/7bde374c478daf98a9f0c32bddc808691369a1f8)
+- [ ] [<code>feat(copilot): mirror native plan and subagent events</code>](https://github.com/openclaw/openclaw/commit/0bc5fb86a8ca33365e159422bb99016c454d4d9e)
+- [ ] [<code>fix(harness): recover Copilot native subagent tasks</code>](https://github.com/openclaw/openclaw/commit/273eed4c51cb39545ee82a9c864891d9421980fc)
+- [ ] [<code>fix(qa): reject duplicate sibling bench cases</code>](https://github.com/openclaw/openclaw/commit/8e6624cb6cb8db7f19fa4f8e20e5aea632eec262)
+- [ ] [<code>fix(acpx): detect wrapper orphan on any PPID change, not just init reparenting (#96032)</code>](https://github.com/openclaw/openclaw/commit/71f84f910a92a448876dec4605609056f6e0c37f)
+- [ ] [<code>fix(qa): reject unknown docker timing options</code>](https://github.com/openclaw/openclaw/commit/8c09419f206b0209bc235ea3fdd83995ccdf6297)
+- [ ] [<code>fix(qa): reject duplicate sqlite bench controls</code>](https://github.com/openclaw/openclaw/commit/bde5be874ae80e37e6a52d85ae2bb4d16f09bf73)
+- [ ] [<code>fix(qa): reject duplicate abort leak controls</code>](https://github.com/openclaw/openclaw/commit/e9b017d9dc4de7e2b849cd5ca1e741ab1b60456c)
+- [ ] [<code>fix(qa): reject duplicate telegram proof controls</code>](https://github.com/openclaw/openclaw/commit/2cbb4e70ccaf545490019d29cbc0dbc3a3a0eb0e)
+- [ ] [<code>chore(acpx): bump bundled client to 0.11.2 (#96124)</code>](https://github.com/openclaw/openclaw/commit/bc243568e7272c1f32190f8700d09c691396b20a)
+- [ ] [<code>fix(qa): reject duplicate cli bench controls</code>](https://github.com/openclaw/openclaw/commit/524e19726fb782a7428fe9d87cbc6f0bb8e30808)
+- [ ] [<code>fix(qa): reject duplicate gateway startup controls</code>](https://github.com/openclaw/openclaw/commit/c308295cd3e23ad9cb3ab4c249dc7d1fbf2cc96b)
+- [ ] [<code>fix(qa): reject duplicate gateway restart controls</code>](https://github.com/openclaw/openclaw/commit/a822c9abaa6f2798b6909ec119f01bfdbc87564d)
+- [ ] [<code>fix(qa): reject duplicate model bench controls</code>](https://github.com/openclaw/openclaw/commit/b22ae2a4da87976d0066dd04db0ef449d74ba4dd)
+- [ ] [<code>Fix WebChat dispatch failure session status (#84352)</code>](https://github.com/openclaw/openclaw/commit/92c10d4edcad62221fcff2084563d091f9abfb2b)
+- [ ] [<code>fix(qa): reject duplicate model resolution perf controls</code>](https://github.com/openclaw/openclaw/commit/0850d83de1b0bd710f7e7e1d7a79e948b4d675ca)
+- [ ] [<code>fix(qa): reject duplicate gateway cpu controls</code>](https://github.com/openclaw/openclaw/commit/b8811b7dde14078a9cce3eedaf58a9d30a0533ae)
+- [ ] [<code>ci: make release maturity scorecard opt-in</code>](https://github.com/openclaw/openclaw/commit/58552f6d7c8b20f68a8c6539a4599ecfb5abef43)
+- [ ] [<code>fix(qa): reject duplicate plugin gauntlet controls</code>](https://github.com/openclaw/openclaw/commit/dc9c11be917ebdc711b956250aa80a8e5b47bea6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ci): read sparse android guard files from git</code>](https://github.com/openclaw/openclaw/commit/9ff7abc8989c1770856b27d5b06e6bb6695ce666)
+- [ ] [<code>fix(qa): reject duplicate rpc rtt controls</code>](https://github.com/openclaw/openclaw/commit/d095d98a02b99a8ad0f42f128367b5ae2a99ea5a)
+- [ ] [<code>refactor: migrate plugin transcript mirrors (#89518)</code>](https://github.com/openclaw/openclaw/commit/258b83c4386cdaf2cee0d64af64d20bb09443347)
+- [ ] [<code>fix(qa): prove direct reply routing via qa channel</code>](https://github.com/openclaw/openclaw/commit/6f80552ee99bb654472fd9fe47797122d04e38b3)
+- [ ] [<code>refactor: add embedded run session target seam (#90439)</code>](https://github.com/openclaw/openclaw/commit/0dfa22c6e0fc7edfc1effe9190ccade84a8996cd)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(docs): skip i18n Go tests without toolchain</code>](https://github.com/openclaw/openclaw/commit/3bed73f249940bdf3878f99fb8b6182b5f65e0cc)
+- [ ] [<code>perf(gateway): drop redundant per-access session-key case scan (#95699)</code>](https://github.com/openclaw/openclaw/commit/a86ca4f4ba97573584972511e69f7c8e47e6f988)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline hash</code>](https://github.com/openclaw/openclaw/commit/f1c8cda0904f9341fd291f9b053e02371ea6ab36)
+- [ ] [<code>fix(ci): avoid relinking identical node tools</code>](https://github.com/openclaw/openclaw/commit/59713194fc26edbb101bb78184332fb7a601a43d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(skills): accept owner-qualified verify refs (#95992)</code>](https://github.com/openclaw/openclaw/commit/6343e1483faf707420b99a9fbd159b9c4057a247)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): remove simpleicons icon color paths (#95987)</code>](https://github.com/openclaw/openclaw/commit/0feffda3fc6df1331bf237da7d42a82fe8b6a0a5)
+- [ ] [<code>chore(android): prepare 2026.6.9 Play release</code>](https://github.com/openclaw/openclaw/commit/9405b8f075ab549071d12aa5c80377729e9ce968)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: use accessor-backed transcript corpus for memory (#96162)</code>](https://github.com/openclaw/openclaw/commit/c24d266b2d0943a2376ae9ac87a2fd8e200920e1)
+- [ ] [<code>fix(ios): defer local network discovery until onboarding</code>](https://github.com/openclaw/openclaw/commit/8bddafba658c8bfcdfe2246a93bce9dcf44a0f55)
+- [ ] [<code>test(ios): guard local network permission trigger points</code>](https://github.com/openclaw/openclaw/commit/fcedd37067ec7e5f6b7a1d35d2f68481622fa4b6)
+- [ ] [<code>test(cli): isolate service env in run and update suites</code>](https://github.com/openclaw/openclaw/commit/3a93d7fd68075f359b118694e55635a9e4e131ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(infra): bound ClawHub fetchJson and error response bodies</code>](https://github.com/openclaw/openclaw/commit/48853df18c7a93b5cecef388ba0f2eabcbd6cc18)
+- [ ] [<code>fix(infra): cap ClawHub install-resolution JSON via shared bounded reader</code>](https://github.com/openclaw/openclaw/commit/31f1ce1af6302e27d546765034c65a610cbf8492)
+- [ ] [<code>fix(infra): preserve ClawHub body timeouts</code>](https://github.com/openclaw/openclaw/commit/cf67d8dded290f1859fa2e4d3c8764efe7aaefde)
+- [ ] [<code>fix(matrix): bound non-raw JSON response body in transport</code>](https://github.com/openclaw/openclaw/commit/a36d29c347c1b24db7876e606ce4a4cd1ddc8729)
+- [ ] [<code>fix(matrix): use JSON-specific idle-timeout diagnostic on bounded JSON read</code>](https://github.com/openclaw/openclaw/commit/4e99ec62242ee6b20ed8b31ab4e39b9bac4c6c15)
+- [ ] [<code>fix(matrix): bound SDK response bodies</code>](https://github.com/openclaw/openclaw/commit/21c8cf98897f2dd54bc820c5da22c6d2a789953e)
+- [ ] [<code>fix(memory): abort orphaned qmd search subprocess when memory_search times out</code>](https://github.com/openclaw/openclaw/commit/78184ea7e42f2f0509d57de5ecc5ccbd4982873c)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(memory): thread qmd search abort signal through grouped collection search</code>](https://github.com/openclaw/openclaw/commit/2a021f3b9b491ac6914bc2f98617d1edec9081a6)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(memory): abort orphaned qmd subprocess on the mcporter search path too</code>](https://github.com/openclaw/openclaw/commit/eadd69b44c57d7cbd867317a695942e672fac79e)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(memory): abort orphaned qmd search processes</code>](https://github.com/openclaw/openclaw/commit/73dd758310e8b36b39912fe5392a6a2f6634c982)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(memory): clean up qmd fixture gracefully</code>](https://github.com/openclaw/openclaw/commit/c9ddf2eca6e8bf4e602de838b678501f39c38c32)
+- [ ] [<code>ci: build iOS app for iOS changes</code>](https://github.com/openclaw/openclaw/commit/cc981f8a7303ad46c085f856746d9c506e8fa577)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
