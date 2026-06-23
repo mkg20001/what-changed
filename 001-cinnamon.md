@@ -348,7 +348,10 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>screensaver: Don't prefix msgids with unnecessary "Please" words</code>](https://github.com/linuxmint/cinnamon/commit/b2e1daa2eceb56be76030d60162341bd1b23dcce)
+- [ ] [<code>soundManager.js: Disable during logout.</code>](https://github.com/linuxmint/cinnamon/commit/6e4339e43a6a050abd0eeb539050fa498c7e722a)
+- [ ] [<code>a11y@cinnamon.org: Use a working keymap in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/37bf7bac31d7d5b4cddee96eaa0c15ba14031aaf)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
