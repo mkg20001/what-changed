@@ -9939,6 +9939,38 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(memory): clean up qmd fixture gracefully</code>](https://github.com/openclaw/openclaw/commit/c9ddf2eca6e8bf4e602de838b678501f39c38c32)
 - [ ] [<code>ci: build iOS app for iOS changes</code>](https://github.com/openclaw/openclaw/commit/cc981f8a7303ad46c085f856746d9c506e8fa577)
+- [ ] [<code>fix(qa): bootstrap raw macos package scripts</code>](https://github.com/openclaw/openclaw/commit/252673d5b19ee69a2a3a7715dcd143892e46a2f6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(ci): align plugin prerelease manifest env</code>](https://github.com/openclaw/openclaw/commit/654544b6b7c49d78afbacacd4861bcc830172780)
+- [ ] [<code>fix(qa): retain crabline delivery targets</code>](https://github.com/openclaw/openclaw/commit/009d6b261aad1565e3e4854b7f4c6aa9fd08f64b)
+- [ ] [<code>refactor: migrate bundled transcript target lookups (#89911)</code>](https://github.com/openclaw/openclaw/commit/132d70bfb3c950dde0cf42980343cdc97e84daaf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: route plugin host hook state through accessor (#96191)</code>](https://github.com/openclaw/openclaw/commit/a8f387ba199c6d903a261415f2aeee5c3e6d81df)
+- [ ] [<code>fix: route gateway history through session accessor target (#96179)</code>](https://github.com/openclaw/openclaw/commit/b08d901dd2fc449735fde89c23c775b14b2928a7)
+- [ ] [<code>refactor: add abort target session accessor (#96201)</code>](https://github.com/openclaw/openclaw/commit/f8ed4de460f72a2db318a884527f77f839f8869b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory-core): migrate dreaming cleanup lifecycle (#96193)</code>](https://github.com/openclaw/openclaw/commit/8a7b3c755a42d1ad1bb30f6dfa3a9e42f128cfa8)
+- [ ] [<code>fix: bridge ACP metadata to session accessors (#96195)</code>](https://github.com/openclaw/openclaw/commit/9512294e8f629cc7e2ab0df01f593c6cc662c8dd)
+- [ ] [<code>docs(ios): add app review notes</code>](https://github.com/openclaw/openclaw/commit/4f5e25aa540af99660ca2e199fefffb269a53f5d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: migrate agent session accessors (#96182)</code>](https://github.com/openclaw/openclaw/commit/6f2869c296ffc3e82ad22e0d744bdb9c73eb3177)
+- [ ] [<code>refactor: guard reply session initialization (#96218)</code>](https://github.com/openclaw/openclaw/commit/95e37f8e9517772ffd7448ebc3a874b7c66197ab)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(gateway): add alias mutation accessor (#96213)</code>](https://github.com/openclaw/openclaw/commit/ae433525f0b11b150ab9282826a6fa2dcdfb1b5f)
+- [ ] [<code>refactor: migrate command session persistence to accessor (#96204)</code>](https://github.com/openclaw/openclaw/commit/5839ef519a81b3b630259a126864203a785518ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: route live model reads through session accessor (#96206)</code>](https://github.com/openclaw/openclaw/commit/96cee6cb6442e77c8ac1642e4c1cd7e4cd4c76c4)
+- [ ] [<code>fix(whatsapp): quote current follow-up in durable replies (#96220)</code>](https://github.com/openclaw/openclaw/commit/c70accc86f8438ecfbf1489b3a53988569656519)
+- [ ] [<code>build(ios): attach app review notes PDF</code>](https://github.com/openclaw/openclaw/commit/b93eeceac0f5c78f3275d04d15e10e91bedbe8c7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
+- [ ] [<code>docs(ios): update Talk app store metadata</code>](https://github.com/openclaw/openclaw/commit/5e98cb6ace3a8411266556a28397c0c030ff19e8)
+- [ ] [<code>fix(qa): retain long smoke debug requests</code>](https://github.com/openclaw/openclaw/commit/bdc6e37503fc3882cee79c53218c094cd8235dcf)
+- [ ] [<code>fix(qa): scope no-outbound waits</code>](https://github.com/openclaw/openclaw/commit/960b9fa4f3dd26145f6094c29b527338c7ff79eb)
+- [ ] [<code>fix(qa): settle channel no-reply check</code>](https://github.com/openclaw/openclaw/commit/ab9d3ad6d784dc63d73cd065a2aae1d59c4f31c1)
+- [ ] [<code>test(qa): show unexpected no-outbound messages</code>](https://github.com/openclaw/openclaw/commit/24d1af9e2db0395f4c523aabd74382dd59d1f59f)
+- [ ] [<code>fix(qa): drain fanout child completions</code>](https://github.com/openclaw/openclaw/commit/e457c4c3245db5e79ec138ac86c76dafcd128d92)
+- [ ] [<code>fix(qa): enforce fanout completion drain</code>](https://github.com/openclaw/openclaw/commit/0e71ae5df4e536c5ca6a7130cfefda636f59564c)
+- [ ] [<code>fix(macos): drop Textual from chat packaging</code>](https://github.com/openclaw/openclaw/commit/cd7e3df1eac91f2446d01dae9547d3ae93434ad5)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
