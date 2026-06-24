@@ -352,7 +352,9 @@
 - [ ] [<code>a11y@cinnamon.org: Use a working keymap in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/37bf7bac31d7d5b4cddee96eaa0c15ba14031aaf)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>org.cinnamon.gschema.xml: Remove unused org.cinnamon.background</code>](https://github.com/linuxmint/cinnamon/commit/f8bd99f12ab416d80914cb37d82741fdeb8b33eb)
+- [ ] [<code>cinnamon-slideshow.py: Exit when Cinnamon does.</code>](https://github.com/linuxmint/cinnamon/commit/b798ba9136b1f294b7d41efce922734da062fffb)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
