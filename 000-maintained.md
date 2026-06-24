@@ -616,6 +616,7 @@
 - [ ] [<code>fix: empty translations and add ci job</code>](https://github.com/krille-chan/fluffychat/commit/0f8e943904c68860dcaad2da5738f3990875c56b)
 - [ ] [<code>chore: bump version to 2.7.2</code>](https://github.com/krille-chan/fluffychat/commit/5958dbf9902d5cfad68fd41094c0425a1774aae4)
   - <sub>Tags: <code>rc2.7.2-0</code> <code>v2.7.2</code></sub>
+- [ ] [<code>build: (deps): bump actions/cache from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/4eace42c94ce8cfafd51593a7d912a96cd2ee739)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1013,6 +1014,8 @@
 - [ ] [<code>fix: empty translations and add ci job</code>](https://github.com/krille-chan/fluffychat/commit/0f8e943904c68860dcaad2da5738f3990875c56b)
 - [ ] [<code>chore: bump version to 2.7.2</code>](https://github.com/krille-chan/fluffychat/commit/5958dbf9902d5cfad68fd41094c0425a1774aae4)
   - <sub>Tags: <code>rc2.7.2-0</code> <code>v2.7.2</code></sub>
+- [ ] [<code>build: (deps): bump actions/cache from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/4eace42c94ce8cfafd51593a7d912a96cd2ee739)
+- [ ] [<code>fix: forward only deep copy of contentshareitem</code>](https://github.com/krille-chan/fluffychat/commit/3d199dfdb7905400e1fdcfc5e076fab077a96ad7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1868,6 +1871,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix debugfs audit capability service limit (#22831)</code>](https://github.com/netdata/netdata.git/commit/c093ef88e83c92f5a0a232d284052468eda77a3b)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>fix(go.d/snmp-topology): preserve capability actor type (#22839)</code>](https://github.com/netdata/netdata.git/commit/a229049e97ca0bce3c9f1d7a84f9834907152a41)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-515-nightly.</code>](https://github.com/netdata/netdata.git/commit/69e83381414e9e9d0592e43dae29b38a0f3abf52)
+- [ ] [<code>docs: cgroups.plugin README — cgroup.name override, accuracy overhaul, Learn publication (#22726)</code>](https://github.com/netdata/netdata.git/commit/7c864c298720446a49da112f8fbc598405e06f80)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Network Performance Monitoring section + SNMP integration catalog (#22840)</code>](https://github.com/netdata/netdata.git/commit/49152000210b7853c96c4da86a9c088fd62a0884)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: Add kickstart SSL/certificate download troubleshooting (#22739)</code>](https://github.com/netdata/netdata.git/commit/0eb423f34465499bbcf7a3bae97c1b2cafafe082)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#22842)</code>](https://github.com/netdata/netdata.git/commit/fb240c09428551d659b508f0c056ba111ab6b78a)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: Document disabling auto-updates (#22737)</code>](https://github.com/netdata/netdata.git/commit/8ee8b210eb768b95b9671acd883cbcb6d3c3e831)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>test(go.d/snmp-topology): add scenario golden harness (#22843)</code>](https://github.com/netdata/netdata.git/commit/47719326ed3461dd3d4718757269fa2d1f54534a)
+- [ ] [<code>docs: Correct windows.plugin disabled defaults and add missing config entries (#22743)</code>](https://github.com/netdata/netdata.git/commit/3ca70195bdf5675c981deabadfcf4342d5dadce9)
+- [ ] [<code>docs: Clarify Groups tab requires SCIM SSO in User Management (#22744)</code>](https://github.com/netdata/netdata.git/commit/b0c546de73d9fdd9098dadc4bf517aa4efc5b661)
+- [ ] [<code>fix(go.d/snmp): tolerate invalid optional typed row values (#22846)</code>](https://github.com/netdata/netdata.git/commit/a1c48bb3ff2e99deee3e1aa643ba7d5cc51fc2de)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -9971,6 +9989,79 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(qa): drain fanout child completions</code>](https://github.com/openclaw/openclaw/commit/e457c4c3245db5e79ec138ac86c76dafcd128d92)
 - [ ] [<code>fix(qa): enforce fanout completion drain</code>](https://github.com/openclaw/openclaw/commit/0e71ae5df4e536c5ca6a7130cfefda636f59564c)
 - [ ] [<code>fix(macos): drop Textual from chat packaging</code>](https://github.com/openclaw/openclaw/commit/cd7e3df1eac91f2446d01dae9547d3ae93434ad5)
+- [ ] [<code>fix(codex): prefer gateway-managed generated images</code>](https://github.com/openclaw/openclaw/commit/d9298a74be69b170bcf969cc694c5321e75f3d6e)
+- [ ] [<code>fix(crabbox): require Xcode for macOS proof</code>](https://github.com/openclaw/openclaw/commit/4d034639adfdcfd58ac8d793fdea625c88897428)
+- [ ] [<code>fix: UI glitch: config is not visible (#96145)</code>](https://github.com/openclaw/openclaw/commit/63874fa0d1194675fa6a96a7178ea187d971afa6)
+- [ ] [<code>perf(browser): index role snapshot references</code>](https://github.com/openclaw/openclaw/commit/28a90b0e8257614dabb2d37cb3b395be80668a0d)
+- [ ] [<code>perf(codex): index rollout transcript ids</code>](https://github.com/openclaw/openclaw/commit/2ad2e4f2dc6cb11d19f2f5e09303986abf93b782)
+- [ ] [<code>perf(reply): hoist direct-send fragment index</code>](https://github.com/openclaw/openclaw/commit/54c0048d6c9c8e6c847eb1ffb376be5490501d18)
+- [ ] [<code>fix(maint): keep PR landing on squash</code>](https://github.com/openclaw/openclaw/commit/da15cf48bf4813cd64bb7fd64bbd291a8bad9a13)
+- [ ] [<code>fix(ios): make screenshot upload deterministic</code>](https://github.com/openclaw/openclaw/commit/3dea94f4cbb698081bf6fb03770a7bc40748ad36)
+- [ ] [<code>fix(gateway): resolve plugin-registered gateway methods through live registry (#94154)</code>](https://github.com/openclaw/openclaw/commit/20a87e17f52d66b07625289c90e135120a78b2da)
+- [ ] [<code>fix(ci): resolve performance target refs before checkout</code>](https://github.com/openclaw/openclaw/commit/d4c151844a0f83aa73a287aa81026195434873be)
+- [ ] [<code>fix #92582: Bug: doctor falsely warns local memory embeddings are not ready (#95393)</code>](https://github.com/openclaw/openclaw/commit/ce0142f04e4c428c19e3326f62208a195ffa3b11)
+- [ ] [<code>fix(qa): accept pnpm separator for lab up (#96246)</code>](https://github.com/openclaw/openclaw/commit/d42b86421969693e07dd8b97ed9fc9182c3bf005)
+- [ ] [<code>fix(ios): wait for screenshot checksum propagation</code>](https://github.com/openclaw/openclaw/commit/8739f1e17e03530ecdf13d90d623a2a135b7f202)
+- [ ] [<code>fix(ports): route isPortBusy through checkPortInUse to catch IPv4-only occupants (#94949)</code>](https://github.com/openclaw/openclaw/commit/2fc260aa09584d8a4b9d97eabb6415c2e3e565af)
+- [ ] [<code>fix(workboard): hide archived cards in CLI list by default (#94562)</code>](https://github.com/openclaw/openclaw/commit/d15e89a83e6143057b9299d00324029b84b1fc2e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(nextcloud-talk): ignore signed non-message webhook events (#96243)</code>](https://github.com/openclaw/openclaw/commit/7b9f4aefa2814465435c3bb98aeaa604a189f928)
+- [ ] [<code>test: scope post-attach sentinel env</code>](https://github.com/openclaw/openclaw/commit/c2d102b6ee81f55f5d676f995ec30598ca962ec2)
+- [ ] [<code>fix(exec): preserve turn-source routing target in approval followups for plugin channels (#96140)</code>](https://github.com/openclaw/openclaw/commit/82ccee027cc5d1f1c8774b30df7a526b0d3c30ee)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: restore supervisor hint env via helper</code>](https://github.com/openclaw/openclaw/commit/89acdd95dcbd61a08555b3a54fe105ddf0922c30)
+- [ ] [<code>test: scope preauth env override</code>](https://github.com/openclaw/openclaw/commit/c7946082303c22cd8783e269d5dda3c33ca2632b)
+- [ ] [<code>fix: restore chat media state env via helper</code>](https://github.com/openclaw/openclaw/commit/3875f678a03e8ca7327a30b888e69de12393741f)
+- [ ] [<code>test: scope chat cli home fixture</code>](https://github.com/openclaw/openclaw/commit/bf29f73f19a1c20a87373399b17b8290816c610e)
+- [ ] [<code>fix: route approval e2e env setup</code>](https://github.com/openclaw/openclaw/commit/10acda05140a2674767448b813b9f64866cdb02b)
+- [ ] [<code>test: route operator approval env setup</code>](https://github.com/openclaw/openclaw/commit/93bb6e6c147fcb5db5ec8b5ba3d96f877a30bed1)
+- [ ] [<code>ci: move codeql quality off blacksmith (#96258)</code>](https://github.com/openclaw/openclaw/commit/89460288c4eb0d0e881d7f6be3a2b87b57fd43ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): close out 2026.6.10 on main (#96271)</code>](https://github.com/openclaw/openclaw/commit/0671c089007334856b17fd518dada048d43e4ea5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): run heartbeat_prompt_contribution on harness prompt builds (#96233)</code>](https://github.com/openclaw/openclaw/commit/cf86a9799c3f7aa492e9aef6a6ca6341ae67c4c2)
+- [ ] [<code>fix: avoid O(N²) shallow-copy in mapSensitivePaths schema traversal (#55018)</code>](https://github.com/openclaw/openclaw/commit/89b2db77d4d5dbb4645ef7e6f8d3b6f906ff3d81)
+- [ ] [<code>fix(compaction): route codex oauth compaction natively (#95831)</code>](https://github.com/openclaw/openclaw/commit/487951f813a8dec95c3e96a4ba8f702dbc07b3f0)
+- [ ] [<code>fix(auto-reply): align channel intro wording with chat_type (#96244)</code>](https://github.com/openclaw/openclaw/commit/9e3a917d9ee0032b89c425cb1847825930c4df63)
+- [ ] [<code>test(gateway): stabilize suite bind defaults</code>](https://github.com/openclaw/openclaw/commit/2ab3b223ed697bc62734f811f04265cdda647677)
+- [ ] [<code>fix(qa): recover Playwright Chromium on Ubuntu 26</code>](https://github.com/openclaw/openclaw/commit/fd66b44f5e2caa3f802b072f646e08e68ab587b0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs(skills): add OpenClaw CI limits runbook (#96302)</code>](https://github.com/openclaw/openclaw/commit/f9cf00c3512a0d70418795c3da81ccf91999f5a6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(qa): launch control ui flows with runnable chromium</code>](https://github.com/openclaw/openclaw/commit/12345e4c9b812503442d8732e434c7b7c7b4a06e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(openshell): preserve uploaded workspace root</code>](https://github.com/openclaw/openclaw/commit/d1a7d457e6711ebbe1f2a72a725c90e931ba185c)
+- [ ] [<code>test(openshell): align e2e with current cli</code>](https://github.com/openclaw/openclaw/commit/60695c121577be4ed4289e877cc74f10402af841)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ci(openshell): provision gateway for e2e</code>](https://github.com/openclaw/openclaw/commit/52aef229091fd56f623cf5811f2d5ad52764bb82)
+- [ ] [<code>docs(testing): document openshell e2e prerequisites</code>](https://github.com/openclaw/openclaw/commit/9d381d4530b9d8b0a6785accb2d4cd571b90b448)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(qa): isolate OTEL collector telemetry port</code>](https://github.com/openclaw/openclaw/commit/a96418c65f8f66b76fcf88cafd7cdb42825c7996)
+- [ ] [<code>docs: add maturity docs routes (#91483)</code>](https://github.com/openclaw/openclaw/commit/4a503ed45e59827915135b241399a228a3e6bc1c)
+- [ ] [<code>fix(openshell): upload staged workspace contents</code>](https://github.com/openclaw/openclaw/commit/d9034da0a60600cb1d2e081cb80e619ff7d180c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(commitments): keep table columns aligned when an id or scope is truncated (#95923)</code>](https://github.com/openclaw/openclaw/commit/33afb1ec70d5528fede46d4088423172974a382a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): preserve npm pack json output</code>](https://github.com/openclaw/openclaw/commit/74214000bf48d0aac8bebdd3af37fd3a48e3dcb8)
+- [ ] [<code>fix(msteams): use valid PascalCase Adaptive Card enums for the welcome heading (#96290)</code>](https://github.com/openclaw/openclaw/commit/9773cbafdbc03f5291a99f3cd23926508e3c8d8e)
+- [ ] [<code>test(qa): clean up smoke taxonomy profile (#96320)</code>](https://github.com/openclaw/openclaw/commit/9666db607eb5a52b4db7eaf7343c9db89ef14477)
+- [ ] [<code>fix(model-param-b): match both adjacent <num>b tokens sharing one delimiter (#96288)</code>](https://github.com/openclaw/openclaw/commit/560ecafa2dfdc8f5bf2a21f9212bfd971d10ea7d)
+- [ ] [<code>test(qa): log effective channel driver in progress (#96327)</code>](https://github.com/openclaw/openclaw/commit/bd43c36bb1322d5edac9fb9cb82321d0a67eca17)
+- [ ] [<code>fix(acp-core): never return undefined from stringifyNonErrorCause (#96270)</code>](https://github.com/openclaw/openclaw/commit/599294b9af1fd24d450529fe04390d55a9e47a82)
+- [ ] [<code>fix(wiki): wiki_get and wiki compile miss nested source files (#96022)</code>](https://github.com/openclaw/openclaw/commit/63ee4cd2405c932f338de269147ed0510910c0e8)
+- [ ] [<code>#94162: Performance: bundle-tools loading adds 6-7s latency on every agent request (#94230)</code>](https://github.com/openclaw/openclaw/commit/a2725b6a24c85f921f813b8255fbc3c0eae8188f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(qa): issue unique mock tool call ids (#96338)</code>](https://github.com/openclaw/openclaw/commit/f65aca64fc3713293be3a32a6964d922b85fc3a8)
+- [ ] [<code>fix #95495: [Bug]: 2026.6.9 silently relocates memory store with no migration, forcing a full re-embed (1499 files) with zero upgrade-time warning (#95631)</code>](https://github.com/openclaw/openclaw/commit/414c250af90d0e19d44b407cf31b32a2221956c4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): allow async runtime fixture starts</code>](https://github.com/openclaw/openclaw/commit/8242923fe3938af09024df1685380b2b5a8d368a)
+- [ ] [<code>fix(qa): accept Codex capped read evidence (#96366)</code>](https://github.com/openclaw/openclaw/commit/e9720c27fa6957cb2b7e022ad10947b779d86f46)
+- [ ] [<code>feat(copilot): add BYOK provider parity</code>](https://github.com/openclaw/openclaw/commit/bfffc77bfc86f24572696db3613285c9e68031d9)
+- [ ] [<code>fix(sdk): refresh API baseline hash</code>](https://github.com/openclaw/openclaw/commit/20293036cab562276cf295e5889887fc04e93d00)
+- [ ] [<code>fix(tools-manager): require clean exit in commandExists (#96361)</code>](https://github.com/openclaw/openclaw/commit/380f2749becc001c4f949a922d9a0fd427e2b539)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(qa): clarify Matrix smoke provider mode</code>](https://github.com/openclaw/openclaw/commit/ae06d846faf3273a26314d8310647a13544b4057)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
