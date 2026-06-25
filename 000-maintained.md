@@ -621,6 +621,7 @@
 - [ ] [<code>refactor: remove unused code in matrix service</code>](https://github.com/krille-chan/fluffychat/commit/94653f06e98daaf5869b59aeae8c0cbf1ff650a8)
 - [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
+- [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1023,6 +1024,7 @@
 - [ ] [<code>refactor: remove unused code in matrix service</code>](https://github.com/krille-chan/fluffychat/commit/94653f06e98daaf5869b59aeae8c0cbf1ff650a8)
 - [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
+- [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1230,6 +1232,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deps): update dependencies</code>](https://github.com/steipete/mcporter/commit/2a9b353b2142426543c61aada42997dd3d63346d)
 - [ ] [<code>test: make metadata fixture executable on Windows (#220)</code>](https://github.com/steipete/mcporter/commit/782e028abebcf216004997c2b6f56f1fce9bf4f4)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(daemon): preserve replacement socket ownership</code>](https://github.com/steipete/mcporter/commit/fe87142d899fc8140205e206eb6ba6898bed472a)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1915,6 +1918,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Document supported Windows versions for Windows Agent installer (#22759)</code>](https://github.com/netdata/netdata.git/commit/824a438c66271054e48bcdd6c596bfa4d2b46cb3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(go.d): replace AgentWide with MethodScope (#22868)</code>](https://github.com/netdata/netdata.git/commit/34f34b80fc6922e0559a0aa70c1d1520b5368716)
+- [ ] [<code>refactor(go.d): split function declaration API (#22869)</code>](https://github.com/netdata/netdata.git/commit/4faa2958d3b2c4368608eaf8eb2b0b551f8cd788)
+- [ ] [<code>feat(go.d): withdraw unavailable shared functions (#22870)</code>](https://github.com/netdata/netdata.git/commit/7e5f3795e56ef0712c46323055ba5654c55386d1)
+- [ ] [<code>feat(go.d): reconcile instance function availability (#22871)</code>](https://github.com/netdata/netdata.git/commit/ff36f1bfc2d81978a28f7b8f51b18d6237cf86aa)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4579,6 +4585,36 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>style(docs): add nav logo icon, rename title, and fix CodeGroup tab styles</code>](https://github.com/NexaAI/nexa-sdk/commit/e7bec8faa304329d96a78d8aaeee972cf7b6e422)
 - [ ] [<code>fix(sdk): route model-manager core logs through the log callback</code>](https://github.com/NexaAI/nexa-sdk/commit/b9f1c589837477a4015f0a05f8cef9230a9e475e)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: pin Node.js to v22 LTS in docs README</code>](https://github.com/NexaAI/nexa-sdk/commit/1fecf9178307b40631ed94d68ed8b3d4f43e607b)
+- [ ] [<code>docs(python): simplify quickstart from_pretrained examples</code>](https://github.com/NexaAI/nexa-sdk/commit/5e3c0c8452fd1140678616470c9a31d584b64df6)
+- [ ] [<code>docs(install): clarify QAIRT naming and Linux driver prerequisites</code>](https://github.com/NexaAI/nexa-sdk/commit/7c79c140afddfdbbc8be6cc4cb4cbb9327d9d3f0)
+- [ ] [<code>docs: relicense from Apache 2.0 to BSD 3-Clause</code>](https://github.com/NexaAI/nexa-sdk/commit/88082202b0fca5d5b23f0c26ab1b2fd6d1cfe343)
+- [ ] [<code>[Docs] Updated after making a pass</code>](https://github.com/NexaAI/nexa-sdk/commit/18c27a5b0b84fca7e2c532aa8c63431556ddda72)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(docs): remove nav logo icon and delete unused logo.svg</code>](https://github.com/NexaAI/nexa-sdk/commit/6391cff51a14cfe4e1f839904237eb45a542b36a)
+- [ ] [<code>docs: sync scripts/README.md from upstream README</code>](https://github.com/NexaAI/nexa-sdk/commit/0aed5cae76b1e24962623e76133aac76a6938e43)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(sdk): fix license name in README — Apache-2.0 → BSD-3-Clause</code>](https://github.com/NexaAI/nexa-sdk/commit/d235ea9e9af582e273abf733e17325c900d8dfb4)
+- [ ] [<code>docs: fix stale pybind11 license path in NOTICE</code>](https://github.com/NexaAI/nexa-sdk/commit/02c1e94e307b9ec5dc07f14fba7aa7934efbdf9b)
+- [ ] [<code>docs: fix stale httplib license path in NOTICE</code>](https://github.com/NexaAI/nexa-sdk/commit/a2a0b18e76e63033050d576c0d092d5a649a45fe)
+- [ ] [<code>docs: fix stale nlohmann/json license path in NOTICE</code>](https://github.com/NexaAI/nexa-sdk/commit/36a75d4cf57cd1de3f8753440b17cad18b3bc11c)
+- [ ] [<code>chore: add CODE-OF-CONDUCT.md (Contributor Covenant v2.1)</code>](https://github.com/NexaAI/nexa-sdk/commit/1968a6f1199b61ea665376bd27bf89efea8b149a)
+- [ ] [<code>chore: add GitHub issue templates (bug report + feature request)</code>](https://github.com/NexaAI/nexa-sdk/commit/5d031330a304f6186bc59a274a9be19755ca634a)
+- [ ] [<code>chore: add GitHub pull request template</code>](https://github.com/NexaAI/nexa-sdk/commit/8ead6862b155eb4ba4b595f53c5f069920107965)
+- [ ] [<code>chore: add dependabot.yaml for GitHub Actions version updates</code>](https://github.com/NexaAI/nexa-sdk/commit/50929355ad422954c446baf277b7de3f3539a797)
+- [ ] [<code>chore: add stale-issues workflow to mark inactive issues/PRs</code>](https://github.com/NexaAI/nexa-sdk/commit/dc7c4bbe2a2053d64cedc715216dcf181763b4f1)
+- [ ] [<code>chore: add BSD-3-Clause copyright headers to sdk/include/ files</code>](https://github.com/NexaAI/nexa-sdk/commit/d8852590a3fd26f3335f25a7ec9a3a676d8bfc26)
+- [ ] [<code>chore: add BSD-3-Clause copyright headers to sdk/src/ files</code>](https://github.com/NexaAI/nexa-sdk/commit/f9930d9a1cb419463f111cef494ce3914dc06a27)
+- [ ] [<code>chore: add BSD-3-Clause copyright headers to sdk/plugins/llama_cpp/ files</code>](https://github.com/NexaAI/nexa-sdk/commit/2c5542ee5c2ee95b46ed287f55a1b340c2d10a99)
+- [ ] [<code>chore: add BSD-3-Clause copyright headers to sdk/plugins/qairt/ files</code>](https://github.com/NexaAI/nexa-sdk/commit/a813a5c29eafd3cb7c62938a4b1333b62bc3a621)
+- [ ] [<code>chore: add BSD-3-Clause copyright headers to bindings/android/ C++ files</code>](https://github.com/NexaAI/nexa-sdk/commit/6e6aa3cc3daefe4a3fb34df71864b3b432f133a4)
+- [ ] [<code>chore: add SECURITY.md with vulnerability reporting instructions</code>](https://github.com/NexaAI/nexa-sdk/commit/9477898d675a9cfdaa4600a03ae6865bd9f85c0e)
+- [ ] [<code>ci: add qcom-preflight-checks workflow (copyright, email, repolinter, Semgrep)</code>](https://github.com/NexaAI/nexa-sdk/commit/9290d76d20c358a6502c2d3a884767ab136aecce)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: add repolint.json for automated repo structure checks</code>](https://github.com/NexaAI/nexa-sdk/commit/b3633bdad5074863dd4028c1243e58d53a7a9c8e)
+- [ ] [<code>chore: add CODEOWNERS file</code>](https://github.com/NexaAI/nexa-sdk/commit/9e18387ca4492c9d6a42b4b731f35c5f9bd2330f)
+- [ ] [<code>chore: update CODEOWNERS with all contributors</code>](https://github.com/NexaAI/nexa-sdk/commit/7cd27a97a60bfeda271bf5a69b30cb51a8980efb)
+- [ ] [<code>docs: sync docs/ from internal repo</code>](https://github.com/NexaAI/nexa-sdk/commit/522921fef906206483fbd6caf294f5f9c15fed2c)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10290,6 +10326,65 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: isolate reply media state env</code>](https://github.com/openclaw/openclaw/commit/21b21583cc8cdee99c2824a3deb06410fabd5f28)
 - [ ] [<code>fix: narrow cron path env cleanup</code>](https://github.com/openclaw/openclaw/commit/0757cad597ecd61714731fe2eba25decf319d3da)
 - [ ] [<code>fix: narrow test config path</code>](https://github.com/openclaw/openclaw/commit/4ecb45bf7729bbe6f0f36ef77eae6749de896b2e)
+- [ ] [<code>fix(acp-core): clear stale active run lookups (#96427)</code>](https://github.com/openclaw/openclaw/commit/1ba1fecaa62a7ed12cd265078a62866b5e83e9cf)
+- [ ] [<code>fix(media-generation): preserve trimmed default model flag (#96430)</code>](https://github.com/openclaw/openclaw/commit/2e6e17f7c50237bb0dd8a40414d29d27ee80a9d8)
+- [ ] [<code>fix(outbound): advance queue entry to unknown_after_send on mid-batch failure with send evidence</code>](https://github.com/openclaw/openclaw/commit/71422a9a5a5829d8e5bcc6bfe5b28b2a70f7cf91)
+- [ ] [<code>test(outbound): add real-queue integration test for unknown_after_send on mid-batch failure</code>](https://github.com/openclaw/openclaw/commit/f9e0dce7310937d2fa05797e8a3acb4a1c1f4012)
+- [ ] [<code>fix(test): remove unused import and unnecessary type assertions in queue integration test</code>](https://github.com/openclaw/openclaw/commit/7f2c04ce118893d401f21fc7cef41aa6af45ac6c)
+- [ ] [<code>test(outbound): add drain no-replay guard for unknown_after_send; clarify fallback intent</code>](https://github.com/openclaw/openclaw/commit/c0a61f535182c9ee9afbda56e8e29976c44e044e)
+- [ ] [<code>fix(outbound): prevent partial-send recovery replay</code>](https://github.com/openclaw/openclaw/commit/210ea659f77f3b600043952a5686e640311846e3)
+- [ ] [<code>fix: recover channel after stop timeout in health monitor</code>](https://github.com/openclaw/openclaw/commit/8b4be2fdd4f92c981ea8bead8aef860502786ba3)
+- [ ] [<code>fix(gateway): resume channel after pending task recovery</code>](https://github.com/openclaw/openclaw/commit/6039da3ed6ccad92d72c197fe5bd3df55ae3803d)
+- [ ] [<code>fix(gateway): resume channel after pending task recovery</code>](https://github.com/openclaw/openclaw/commit/ecd29fe5726914e99c824a0aea92bc73aecc3dae)
+- [ ] [<code>fix(clownfish): address review for repair-94016-live-pr-inventory-20260617t082059-003-20260617a (1)</code>](https://github.com/openclaw/openclaw/commit/ace22feb3fe2e9045193f7e55cfa689b34607179)
+- [ ] [<code>fix(clownfish): repair validation for repair-94016-live-pr-inventory-20260617t082059-003-20260617a (2)</code>](https://github.com/openclaw/openclaw/commit/31a0f97dd944e0f4af193d400a652ab75612973b)
+- [ ] [<code>fix(gateway): use normalizeMessageChannel for send validation to support plugin channels</code>](https://github.com/openclaw/openclaw/commit/5881dc8ac37115d330ecfe9a5d267ebe16d532aa)
+- [ ] [<code>fix(gateway): preserve webchat send guard</code>](https://github.com/openclaw/openclaw/commit/01ce03c5b13cf576bcfbc2d5147ad1a52ab807c1)
+- [ ] [<code>Doctor: expose session artifact findings (#95976)</code>](https://github.com/openclaw/openclaw/commit/82a6a57330cde5d4894fb2cb109618ca66f5091e)
+- [ ] [<code>fix(trajectory): export legacy v1 sessions without entry timestamps</code>](https://github.com/openclaw/openclaw/commit/446d98d6016284dac7c7a50b5be7eb4f3aad7463)
+- [ ] [<code>fix(sdk): tighten wildcard surface budget</code>](https://github.com/openclaw/openclaw/commit/497d53d821e608ae0060631ef41dbc51d9c38ce0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(status): route usage to session-selected model</code>](https://github.com/openclaw/openclaw/commit/bead84f0ee6e29d25b0acdafb2a18679c4eed9d5)
+- [ ] [<code>refactor(status): reuse runtime authority decision</code>](https://github.com/openclaw/openclaw/commit/29670c13f67134b0f4c2ba75de5a5dc6c54b46e8)
+- [ ] [<code>fix(media): strip internal UUID suffix from outbound media filenames</code>](https://github.com/openclaw/openclaw/commit/cf512f639b31c792ef53b936891ed3ec3bbfc9ce)
+- [ ] [<code>fix(media): scope UUID filename restore to media store</code>](https://github.com/openclaw/openclaw/commit/dc12b998dab1d5474c61ed4fa013176884add9e5)
+- [ ] [<code>fix(outbound): reject reserved Telegram targets</code>](https://github.com/openclaw/openclaw/commit/56baf9d079633c9041dc658ea281b9b9e4dc4ff2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(outbound): skip sync reserved-literal rejection for heartbeat mode</code>](https://github.com/openclaw/openclaw/commit/f12ade0082ad424b892ecbc1b8cce7e3f5886a2f)
+- [ ] [<code>fix(outbound): preserve configured directory entries before reserved-literal rejection in resolveMessagingTarget</code>](https://github.com/openclaw/openclaw/commit/bbf494955d3e371e07cb02bd8f3e158aefebd8b3)
+- [ ] [<code>fix(outbound): defer reserved-literal errors to async session-route resolver</code>](https://github.com/openclaw/openclaw/commit/5fccf06b5f2b88cb6260f8260662335743adcdad)
+- [ ] [<code>fix(outbound): preserve reserved Telegram directory targets</code>](https://github.com/openclaw/openclaw/commit/cd3793185bfa88adb2808bcf8e787db6bd83150e)
+- [ ] [<code>fix(outbound): satisfy target resolver lint</code>](https://github.com/openclaw/openclaw/commit/116758e69adca05900f48b4cf34ff48aea31a4c4)
+- [ ] [<code>fix(outbound): fail closed heartbeat reserved Telegram misses</code>](https://github.com/openclaw/openclaw/commit/3092b4fd0df249ede8f2fff7be8cfdc8efb1c3b4)
+- [ ] [<code>test(outbound): align Telegram resolver fixtures with chat capabilities</code>](https://github.com/openclaw/openclaw/commit/ba004b3547ce26a3314e10fd933f6bf4858c368f)
+- [ ] [<code>fix(outbound): preserve reserved directory target on route miss</code>](https://github.com/openclaw/openclaw/commit/9047b1cfa123c53da658062b1d5886cc38303099)
+- [ ] [<code>fix(cron): preserve reserved directory targets</code>](https://github.com/openclaw/openclaw/commit/3a03d1e70b401aa6f8ea580726225592b77f3d0a)
+- [ ] [<code>fix(outbound): require exact reserved directory matches</code>](https://github.com/openclaw/openclaw/commit/3c8ff0d1c3c0a5223ae3d476a5848d6e767946b1)
+- [ ] [<code>refactor: centralize reserved target error checks</code>](https://github.com/openclaw/openclaw/commit/57c07d7f3b1a21fc84fb255adba2f61985801c72)
+- [ ] [<code>refactor(outbound): distill reserved target delivery cleanup</code>](https://github.com/openclaw/openclaw/commit/1adb119ba0523ee952a8b60490126d0ae8c77d43)
+- [ ] [<code>fix(outbound): preserve narrowed delivery target type</code>](https://github.com/openclaw/openclaw/commit/8bc069f76f621d59a00bdd1999d2d36ffa797d0a)
+- [ ] [<code>fix(telegram): keep draft preview chunks surrogate-safe</code>](https://github.com/openclaw/openclaw/commit/4bd68aef657e98e0bc2ae981b19485b10474fdf6)
+- [ ] [<code>test(telegram): fold draft preview surrogate clamp coverage</code>](https://github.com/openclaw/openclaw/commit/a3b4e8102f4895a7e41cfb6e151b938ae1da1b4c)
+- [ ] [<code>fix(cron): avoid gateway restart on setup timeout (#96396)</code>](https://github.com/openclaw/openclaw/commit/19707cce1d7336e2fe5e8431b0d79240692ebb96)
+- [ ] [<code>fix: cron stream stalls fail over before job timeout (#96096)</code>](https://github.com/openclaw/openclaw/commit/7fefc5ff58de020a1eadd7c31d649c9a442a3f98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(infra): isolate matrix outbound queue integration</code>](https://github.com/openclaw/openclaw/commit/7cce191b0530a3327fde262ca1069eebd6153468)
+- [ ] [<code>fix(qwen): bound video success response (#96604)</code>](https://github.com/openclaw/openclaw/commit/cc124d2921b88d241a567f17368bd55049d84f83)
+- [ ] [<code>fix(google): bound video success response (#96605)</code>](https://github.com/openclaw/openclaw/commit/bfc33ac11405df7192e41a8125934abd72ac311c)
+- [ ] [<code>fix(byteplus): bound video-generation success response (#96606)</code>](https://github.com/openclaw/openclaw/commit/7b5ee739eb22b53022a5674a3bf674dc0e6c33d5)
+- [ ] [<code>fix(voyage): bound embedding-batch status, error, and non-OK responses (#96608)</code>](https://github.com/openclaw/openclaw/commit/d3620da3e031b2b52414165d09315d78a13c6836)
+- [ ] [<code>fix(github-copilot): bound usage response (#96607)</code>](https://github.com/openclaw/openclaw/commit/646e54ae3578b48259912d288d0cecfcb132a035)
+- [ ] [<code>fix(cli): sync official plugins during update all (#96831)</code>](https://github.com/openclaw/openclaw/commit/0247eab773354d1408dd40bfe642128a8ba3c467)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openrouter): bound video catalog JSON reads (#96505)</code>](https://github.com/openclaw/openclaw/commit/5715b5500067e4af80ca40da10775de4b3648cea)
+- [ ] [<code>fix(codex): prefer desktop app-server for Computer Use on macOS (#96730)</code>](https://github.com/openclaw/openclaw/commit/b3ac552c821bb79db8b5a2c1ed2fac9d444733df)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(speech): bound TTS/STT voice-list and transcription JSON response reads (#96496)</code>](https://github.com/openclaw/openclaw/commit/66e2fcc6f83eb6aef394401a19342d7af19b1478)
+- [ ] [<code>fix(github-copilot): bound model discovery and embeddings JSON response (#96499)</code>](https://github.com/openclaw/openclaw/commit/1aa7cafc35a1aaaf1cd2f9b905d6cca2603ba994)
+- [ ] [<code>fix(auto-reply): serialize reply session initialization</code>](https://github.com/openclaw/openclaw/commit/d2da8c79d9b8199915ba280fe88a1be5f8d3f6b8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): report omitted chat-history messages in truncation log (#96788)</code>](https://github.com/openclaw/openclaw/commit/c68484acc4b14a3cf2ee473aa7b7120f2d765daf)
+- [ ] [<code>fix(telegram): back off session init spool retries</code>](https://github.com/openclaw/openclaw/commit/13ecca5408cbc94e66105608bfe770d0fc660d76)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
