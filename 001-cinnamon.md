@@ -353,6 +353,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>org.cinnamon.gschema.xml: Remove unused org.cinnamon.background</code>](https://github.com/linuxmint/cinnamon/commit/f8bd99f12ab416d80914cb37d82741fdeb8b33eb)
 - [ ] [<code>cinnamon-slideshow.py: Exit when Cinnamon does.</code>](https://github.com/linuxmint/cinnamon/commit/b798ba9136b1f294b7d41efce922734da062fffb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenshot: Allow disabling the flash.</code>](https://github.com/linuxmint/cinnamon/commit/48dc291ef0c7ae485a603bdce650945f146325b3)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -405,9 +407,10 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix build for non seccomp arches (#272)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8cc65c781d798cc510b424d450899f7912ec33d3)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gnome-xkb-info.c: avoid double-free when encountering parser errors.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1227ceb56829860744b6ce538719cedd3d9388e6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
