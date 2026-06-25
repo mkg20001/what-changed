@@ -619,6 +619,8 @@
 - [ ] [<code>build: (deps): bump actions/cache from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/4eace42c94ce8cfafd51593a7d912a96cd2ee739)
 - [ ] [<code>fix: forward only deep copy of contentshareitem</code>](https://github.com/krille-chan/fluffychat/commit/3d199dfdb7905400e1fdcfc5e076fab077a96ad7)
 - [ ] [<code>refactor: remove unused code in matrix service</code>](https://github.com/krille-chan/fluffychat/commit/94653f06e98daaf5869b59aeae8c0cbf1ff650a8)
+- [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
+- [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1019,6 +1021,8 @@
 - [ ] [<code>build: (deps): bump actions/cache from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/4eace42c94ce8cfafd51593a7d912a96cd2ee739)
 - [ ] [<code>fix: forward only deep copy of contentshareitem</code>](https://github.com/krille-chan/fluffychat/commit/3d199dfdb7905400e1fdcfc5e076fab077a96ad7)
 - [ ] [<code>refactor: remove unused code in matrix service</code>](https://github.com/krille-chan/fluffychat/commit/94653f06e98daaf5869b59aeae8c0cbf1ff650a8)
+- [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
+- [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1224,6 +1228,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: skip unusable Bun compile probes</code>](https://github.com/steipete/mcporter/commit/f02bef36d2f6e61d4d675d7505527708bb3714a6)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>chore(deps): update dependencies</code>](https://github.com/steipete/mcporter/commit/2a9b353b2142426543c61aada42997dd3d63346d)
+- [ ] [<code>test: make metadata fixture executable on Windows (#220)</code>](https://github.com/steipete/mcporter/commit/782e028abebcf216004997c2b6f56f1fce9bf4f4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1903,6 +1909,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update systemd journal SDK to 0.7.5 (#22859)</code>](https://github.com/netdata/netdata.git/commit/0a2c8f788b6053129c7120a8ecf93b952340201d)
 - [ ] [<code>fix(integrations): correct NPM catalog brand icons + brand SNMP-trap tiles (#22860)</code>](https://github.com/netdata/netdata.git/commit/3c3e18cd03e0033e7ea06dbf6569843f5eb77d6e)
 - [ ] [<code>Regenerate integrations docs (#22861)</code>](https://github.com/netdata/netdata.git/commit/394ae9b0e23b32d7455496e49a0540b34a2a5dc4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-537-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ff9ebbd869f00fe77de3a0ec4cdbb83083a0095)
+- [ ] [<code>docs: Clarify parent-child update_every relationship in streaming README (#22761)</code>](https://github.com/netdata/netdata.git/commit/cdf6b5f9d03647bb81f350372eeddc43b8490dfa)
+- [ ] [<code>docs(npm): add screenshots to Network Performance Monitoring pages (#22863)</code>](https://github.com/netdata/netdata.git/commit/28c11dbe0661c25e50df751584fde55af6f11ba6)
+- [ ] [<code>docs: Document supported Windows versions for Windows Agent installer (#22759)</code>](https://github.com/netdata/netdata.git/commit/824a438c66271054e48bcdd6c596bfa4d2b46cb3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(go.d): replace AgentWide with MethodScope (#22868)</code>](https://github.com/netdata/netdata.git/commit/34f34b80fc6922e0559a0aa70c1d1520b5368716)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2738,6 +2750,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>gen-networkd: wpa supplicant unit requires netplan-configure.service</code>](https://github.com/canonical/netplan/commit/bd1c1e0e1b226ddcb4efdd7eaa9c19ca93c51d94)
 - [ ] [<code>tests: only consider netplan-generated files in integration tests (#576)</code>](https://github.com/canonical/netplan/commit/396c1ada3448b485b685d8b096c71af35a8f2ad3)
+- [ ] [<code>fix: added fix to handle exception on file permission issue</code>](https://github.com/canonical/netplan/commit/586c9ced3dce2f5550e686b5f7eb646a3e4d2d73)
 
 #### [nexa](https://github.com/NexaAI/nexa-sdk): [refs/tags/v0.2.73 → HEAD](https://github.com/NexaAI/nexa-sdk/compare/refs/tags/v0.2.73...HEAD)
 
@@ -10242,6 +10255,41 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(plugin-sdk): update surface budget</code>](https://github.com/openclaw/openclaw/commit/3ab7a72764922356e116ee2031aab02c02401ed1)
 - [ ] [<code>docs: clarify maturity scorecard scoring (#96594)</code>](https://github.com/openclaw/openclaw/commit/61d4ff782eeaab0b451c96ebac84f5f900f28bb5)
 - [ ] [<code>ci: default maturity evidence to all profile (#96595)</code>](https://github.com/openclaw/openclaw/commit/8a5cb85c31e5ce04886af7532d779b6d98925f40)
+- [ ] [<code>fix(cron): preserve enabled-with-defaults failure alert through store roundtrip (fixes #96589) (AI-assisted) (#96615)</code>](https://github.com/openclaw/openclaw/commit/a21144d8a606c9c0fc0c534877ebfe675508fa0d)
+- [ ] [<code>test(plugins): review channel daemon spawn findings</code>](https://github.com/openclaw/openclaw/commit/1a04b8eb9853db2d993c054a264d3ae7a05f9b9c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): preserve absent embedded session keys</code>](https://github.com/openclaw/openclaw/commit/31a65e0647ae85eb4c9048051145f07003722caf)
+- [ ] [<code>fix(qa): align runtime parity evidence with Codex</code>](https://github.com/openclaw/openclaw/commit/dad7168c2f812ceee2f3d03dfd118f985ab5ea5c)
+- [ ] [<code>test(qa): allow Codex fanout completion window</code>](https://github.com/openclaw/openclaw/commit/068ae4eb4b0dcad250a1539fce3fa0f8bce481a0)
+- [ ] [<code>test(qa): extend fanout marker wait</code>](https://github.com/openclaw/openclaw/commit/8d4e40d293aeaa6ffa4e148792a6bc353d2dd8a1)
+- [ ] [<code>test(qa): scope fanout marker proof to channel runtime</code>](https://github.com/openclaw/openclaw/commit/643410c1f3c0a700d8694f1f230d4cedcd2960db)
+- [ ] [<code>fix(test): isolate upgrade survivor artifacts</code>](https://github.com/openclaw/openclaw/commit/e7f2b125f62827aa099ffa317aadb8362b34755e)
+- [ ] [<code>fix(sdk): refresh plugin sdk api baseline</code>](https://github.com/openclaw/openclaw/commit/56d95b18f4bc64343d263d10c337f2f0681d1af1)
+- [ ] [<code>fix(context): count fullwidth chars in token estimates (#96442)</code>](https://github.com/openclaw/openclaw/commit/31e941c3fc32a2bbb6aeb0a3ae6f5f46777b2a1b)
+- [ ] [<code>fix(media-understanding): parse nested Gemini output JSON (#96432)</code>](https://github.com/openclaw/openclaw/commit/793b604b2377cd52f465291bfce6ab1cb3c7963a)
+- [ ] [<code>fix(imessage): only strip standalone role-turn markers, not prose ending in a role word (#96392)</code>](https://github.com/openclaw/openclaw/commit/770b19f496c1637774e660d31306105b671d1526)
+- [ ] [<code>fix(agent-core): preserve empty prompt arguments (#96405)</code>](https://github.com/openclaw/openclaw/commit/c030b305a444ae7ef3b748d17b706304c686c2a4)
+- [ ] [<code>fix: route persisted result config env</code>](https://github.com/openclaw/openclaw/commit/e6a2f61e94807130a220172144ff79dadc95619a)
+- [ ] [<code>fix(discord): keep audio voice replies threaded (#95978)</code>](https://github.com/openclaw/openclaw/commit/99f56cd548c0c9168b9d7e2544632534a697cf57)
+- [ ] [<code>perf(gateway): cache transcript field regexes (#96707)</code>](https://github.com/openclaw/openclaw/commit/42d0a1267e3f927780bff073e44e509465209b83)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(document-extract): render PDF image fallback per page so multi-page scans don't starve later pages (#96390)</code>](https://github.com/openclaw/openclaw/commit/d7dff3cbf405688e533139d5eb43d9f85072b7e7)
+- [ ] [<code>test: centralize shell snapshot env</code>](https://github.com/openclaw/openclaw/commit/08b7fddf804a2c139e60f1e6c2e06e2e4fc1f8d4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(git-hooks): skip sequencer pre-commit formatting (#95842)</code>](https://github.com/openclaw/openclaw/commit/af906225fa5434f802666373433f9db52711eb69)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>perf(plugins): reuse installed manifest realpaths (#96710)</code>](https://github.com/openclaw/openclaw/commit/94ae918d8f407377694648fe1279fe2ac06a8e01)
+- [ ] [<code>fix: route session history config env</code>](https://github.com/openclaw/openclaw/commit/33d7a2a3f7147091d61383964349a3948ef78055)
+- [ ] [<code>test: centralize tool manager agent env</code>](https://github.com/openclaw/openclaw/commit/3c2a3d9d2bc400acbd78cf527b50b8ab6ffcea9b)
+- [ ] [<code>fix: preserve exec env test cleanup</code>](https://github.com/openclaw/openclaw/commit/3ce398712a5064790f7fe62e76a68b9fca1dd7ed)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: stabilize allowlist config env</code>](https://github.com/openclaw/openclaw/commit/1d1c2f4f726e3fd29ecc374031396bad0d562888)
+- [ ] [<code>fix: guard current turn state env</code>](https://github.com/openclaw/openclaw/commit/2b8c089b7699a096c2e3afb0836932f1c5ce4384)
+- [ ] [<code>test: preserve daemon coverage env scope</code>](https://github.com/openclaw/openclaw/commit/d693b70bfcc1e0cf3a201cdc8fd1b67c99c7a2f3)
+- [ ] [<code>fix: scope embedded image state env</code>](https://github.com/openclaw/openclaw/commit/c8c4490b1729b4cb21f0c2f084f3e9df3c54912a)
+- [ ] [<code>test: isolate reply media state env</code>](https://github.com/openclaw/openclaw/commit/21b21583cc8cdee99c2824a3deb06410fabd5f28)
+- [ ] [<code>fix: narrow cron path env cleanup</code>](https://github.com/openclaw/openclaw/commit/0757cad597ecd61714731fe2eba25decf319d3da)
+- [ ] [<code>fix: narrow test config path</code>](https://github.com/openclaw/openclaw/commit/4ecb45bf7729bbe6f0f36ef77eae6749de896b2e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
