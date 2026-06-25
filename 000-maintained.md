@@ -1895,6 +1895,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d): publish SNMP topology function after data is ready (#22853)</code>](https://github.com/netdata/netdata.git/commit/c9f1e30ad877a5806106bb8246f7fe3378e77957)
 - [ ] [<code>build: enable netflow plugin in static and docker builds (#22852)</code>](https://github.com/netdata/netdata.git/commit/1d67d523435b7c570369f72a03d2dceff01e7857)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>refactor(go.d): funnel function reconcile through job manager (#22856)</code>](https://github.com/netdata/netdata.git/commit/36379c04ee4961ee3b24a8a5b3322b70651dc693)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>NPM docs: capability overviews + Integrations submenu (#22854)</code>](https://github.com/netdata/netdata.git/commit/77702fc4b1f3d84a06e802537143c4636e526143)
+- [ ] [<code>Regenerate integrations docs (#22858)</code>](https://github.com/netdata/netdata.git/commit/dbc2e53dd1c3f39849597d3377620a568f433a6e)
+- [ ] [<code>refactor(go.d): prepare function publication state (#22857)</code>](https://github.com/netdata/netdata.git/commit/0ccadad8c7f33b9526cd0c0e9565ba4f4491cccb)
+- [ ] [<code>Update systemd journal SDK to 0.7.5 (#22859)</code>](https://github.com/netdata/netdata.git/commit/0a2c8f788b6053129c7120a8ecf93b952340201d)
+- [ ] [<code>fix(integrations): correct NPM catalog brand icons + brand SNMP-trap tiles (#22860)</code>](https://github.com/netdata/netdata.git/commit/3c3e18cd03e0033e7ea06dbf6569843f5eb77d6e)
+- [ ] [<code>Regenerate integrations docs (#22861)</code>](https://github.com/netdata/netdata.git/commit/394ae9b0e23b32d7455496e49a0540b34a2a5dc4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -10208,6 +10216,32 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: drop unrelated formatting churn</code>](https://github.com/openclaw/openclaw/commit/4a7659920c7d400665cb11357f654365a403dad8)
 - [ ] [<code>fix: preserve plugin maintenance config compatibility</code>](https://github.com/openclaw/openclaw/commit/fab0048d7bebb6d0d3065446eaf95d977f9751ea)
 - [ ] [<code>test: import model-run prune helper</code>](https://github.com/openclaw/openclaw/commit/0cdb050bac194ac2c5356ed7c877acca38ad81ec)
+- [ ] [<code>fix(whatsapp): route group activation through session accessor (#96530)</code>](https://github.com/openclaw/openclaw/commit/2c714ac2e09f7e5fc4aaada0472cbc3eceb802ec)
+- [ ] [<code>Harden agent diagnostic redaction</code>](https://github.com/openclaw/openclaw/commit/d8ee630b203c86fd5d91331156614a441ec9e52c)
+- [ ] [<code>docs: require OpenProse remote import consent</code>](https://github.com/openclaw/openclaw/commit/259877dccf1c6e2e8abce5deb92450af1a8b53a6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Require owner gate for MCP chat command</code>](https://github.com/openclaw/openclaw/commit/ad5a26cf699afd7a387a187aee77bbc7d04793df)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix: gate diagnostics command to owners</code>](https://github.com/openclaw/openclaw/commit/170bf72e64a9b85933e156244cccda7bd0270df4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(providers): bound self-hosted provider discovery JSON reads (#95244)</code>](https://github.com/openclaw/openclaw/commit/dad5ce64d4f1ba35e8f4cff73ddd3d704d4c5898)
+- [ ] [<code>fix(cron): omit failed webhook output summaries</code>](https://github.com/openclaw/openclaw/commit/1d172637d6dda23a0b108c624239264eae0e5042)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: count maturity coverage ids (#96543)</code>](https://github.com/openclaw/openclaw/commit/15bfadf2bd1cd443964de17deb7e7245329eec62)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(plugins): stop ClawHub version install from inheriting latest compatibility (#96506)</code>](https://github.com/openclaw/openclaw/commit/f47fb91d29baf6f23c00befa40ac02b5873c8517)
+- [ ] [<code>fix(openshell): pin local mirror fs mutations</code>](https://github.com/openclaw/openclaw/commit/c6f5725906dcaaaeeb0b5942addc844ffc579caf)
+- [ ] [<code>perf(imessage): show typing sooner for slow replies (#95621)</code>](https://github.com/openclaw/openclaw/commit/f2af052ceed9acc5d2b8d9ff78f72ab23fae456f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): extend Codex on-demand install timeout</code>](https://github.com/openclaw/openclaw/commit/3ab8d6aa609ab7f1a6bee14500694bd7ca243489)
+- [ ] [<code>fix(agent): replace self-wait with deferred release in retained-lock abort cleanup (#96100)</code>](https://github.com/openclaw/openclaw/commit/0a042f68dfbe17f82b442d56f35bc83d70ca59b1)
+- [ ] [<code>Bound successful provider response reads</code>](https://github.com/openclaw/openclaw/commit/0a14444924e34e031133c997b00d30573353c5a0)
+- [ ] [<code>fix: surface provider authentication failures in channels (#96599)</code>](https://github.com/openclaw/openclaw/commit/113d6f3c648379ab144ab8a9126384944ed8248c)
+- [ ] [<code>fix(agent): emit model.usage diagnostic for HTTP ingress traffic (#96152)</code>](https://github.com/openclaw/openclaw/commit/b4bdea0d029eac2921f201cb7b9c7283cd384131)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugin-sdk): update surface budget</code>](https://github.com/openclaw/openclaw/commit/3ab7a72764922356e116ee2031aab02c02401ed1)
+- [ ] [<code>docs: clarify maturity scorecard scoring (#96594)</code>](https://github.com/openclaw/openclaw/commit/61d4ff782eeaab0b451c96ebac84f5f900f28bb5)
+- [ ] [<code>ci: default maturity evidence to all profile (#96595)</code>](https://github.com/openclaw/openclaw/commit/8a5cb85c31e5ce04886af7532d779b6d98925f40)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
