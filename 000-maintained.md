@@ -623,6 +623,7 @@
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
+- [ ] [<code>chore: update matrix sdk and use correct account management uri</code>](https://github.com/krille-chan/fluffychat/commit/d41a9ee7698554a246c28a122c873a9b22d927d1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1027,6 +1028,7 @@
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
+- [ ] [<code>chore: update matrix sdk and use correct account management uri</code>](https://github.com/krille-chan/fluffychat/commit/d41a9ee7698554a246c28a122c873a9b22d927d1)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1179,6 +1181,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avifImageYUVAnyToRGBAnySlow: Fix integer overflows</code>](https://github.com/AOMediaCodec/libavif/commit/eb565694d376eabcf5bf452bc786e9839b25ed98)
 - [ ] [<code>avifgainmaputil: add --ignore-alpha flag to discard alpha channel (#3273)</code>](https://github.com/AOMediaCodec/libavif/commit/3f4212ffcfaf0eba9897781672d8e65bbb98cec3)
 - [ ] [<code>Use valid xmp_data buffer in JpegTest.TooLargeXMP</code>](https://github.com/AOMediaCodec/libavif/commit/32393ae1eefc568feed206d126434cd0c28893fd)
+- [ ] [<code>Secure GitHub actions (#3279)</code>](https://github.com/AOMediaCodec/libavif/commit/f349be9bce0bc5e18be0a30cc0f5cde304d5d29d)
+- [ ] [<code>ci-windows-installed.yml: Revert to windows-latest</code>](https://github.com/AOMediaCodec/libavif/commit/ea160ac56df44c571cd5781cbc24b2aeb1419b46)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1931,6 +1935,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d): withdraw unavailable shared functions (#22870)</code>](https://github.com/netdata/netdata.git/commit/7e5f3795e56ef0712c46323055ba5654c55386d1)
 - [ ] [<code>feat(go.d): reconcile instance function availability (#22871)</code>](https://github.com/netdata/netdata.git/commit/ff36f1bfc2d81978a28f7b8f51b18d6237cf86aa)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-545-nightly.</code>](https://github.com/netdata/netdata.git/commit/38cc8a7962211b06edc3c813d752c950cc5c118a)
+- [ ] [<code>[codex] fix windows events row rendering crashes (#22872)</code>](https://github.com/netdata/netdata.git/commit/5a71b1c88ed0fb271492bef82192925e2369d49b)
+- [ ] [<code>sow: make SOWs and specs local-only with per-worktree origin linking (#22873)</code>](https://github.com/netdata/netdata.git/commit/fc5af8c90eb0c958adf64c1c77e3f23926d5f456)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4636,6 +4643,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: split source-checkout token into CLONE_PAT, keep GH_PAT for geniex dispatch</code>](https://github.com/NexaAI/nexa-sdk/commit/6e70b350bd40671471651b7dcfac6adab363ba23)
 - [ ] [<code>Merge pull request #1102 from qualcomm/ci/publish-s3-via-geniex</code>](https://github.com/NexaAI/nexa-sdk/commit/f7584390e8eeb78d03ae92bf65061d428f4e6440)
   - <sub>Tags: <code>v0.3.8</code></sub>
+- [ ] [<code>chore(deps): bump actions/cache from 5 to 6 (#1096)</code>](https://github.com/NexaAI/nexa-sdk/commit/2fe0fb00ff748107056672d99d80a3e77da99f0f)
+- [ ] [<code>chore(deps): bump actions/upload-pages-artifact from 3 to 5 (#1097)</code>](https://github.com/NexaAI/nexa-sdk/commit/ae7cb4aaa5f3b120c5ff5f1ed61ed9d13c480aa2)
+- [ ] [<code>chore(deps): bump actions/setup-node from 4 to 6 (#1098)</code>](https://github.com/NexaAI/nexa-sdk/commit/0c295e1b86ddab6bd1bff2eaf3ce83f61845a935)
+- [ ] [<code>chore(deps): bump actions/deploy-pages from 4 to 5 (#1099)</code>](https://github.com/NexaAI/nexa-sdk/commit/06a3e9b78c8b0c8aafd1bde210960ed847fda5ab)
+- [ ] [<code>chore(deps): bump docker/build-push-action from 6 to 7 (#1100)</code>](https://github.com/NexaAI/nexa-sdk/commit/a4a867b03fcd205366925696795fe1677ece4574)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10436,6 +10448,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: scope dreaming env batch one</code>](https://github.com/openclaw/openclaw/commit/535af4452b2fe80a0bf4d43e935c7e9950b61d45)
 - [ ] [<code>fix: restore dreaming env after setup</code>](https://github.com/openclaw/openclaw/commit/c05d0d5bbfb0868348972e0164913c163966e8d1)
 - [ ] [<code>fix(image-gen): bound image generation provider JSON response reads (#96495)</code>](https://github.com/openclaw/openclaw/commit/527f8f0cbba1b5653dc990fd368c004f03803cf8)
+- [ ] [<code>test: scope narrative env cleanup</code>](https://github.com/openclaw/openclaw/commit/6f162f321ac660fee2f4c702a214621a50d5317c)
+- [ ] [<code>fix: isolate memory index test state</code>](https://github.com/openclaw/openclaw/commit/8079aa62a23bf3fc24bc40b1fdec84dbe38701b7)
+- [ ] [<code>test: preserve memory startup env state</code>](https://github.com/openclaw/openclaw/commit/7718e25b2a92307c96b39b29134ae8cddc85ac33)
+- [ ] [<code>fix: retain qmd test environment state</code>](https://github.com/openclaw/openclaw/commit/94d93d4c85f96253ec9231fee63f7b7ea08c4614)
+- [ ] [<code>test: scope manager reindex state</code>](https://github.com/openclaw/openclaw/commit/e4f63577d047ecd7ee4246cd3875cbd677009cb6)
+- [ ] [<code>fix: preserve watcher test state</code>](https://github.com/openclaw/openclaw/commit/338e119533bc82f561b91f2d8a6ae52e2ae9af7a)
+- [ ] [<code>fix(webchat): make model selector width adaptive to prevent long name… (#96990)</code>](https://github.com/openclaw/openclaw/commit/512f0f1bf74936685588a0b0dd22eaf5a3535175)
+- [ ] [<code>test: normalize feishu env fixtures</code>](https://github.com/openclaw/openclaw/commit/80c754ddf459c9b0acf3759d26b35501c296cfe4)
+- [ ] [<code>fix: close memory test failure paths</code>](https://github.com/openclaw/openclaw/commit/1cd6f81a46ae56d3f505253a589323542801e552)
+- [ ] [<code>docs: update changelog for v2026.6.10 (#97079)</code>](https://github.com/openclaw/openclaw/commit/e5123e44b0f5a86695cf5eb1bc29d509c7a9beb2)
+- [ ] [<code>fix feishu login qr rendering (#97087)</code>](https://github.com/openclaw/openclaw/commit/1089253ca97c86bc8ef5df139c1c672d27ce59f4)
+- [ ] [<code>perf(memory): add QMD search diagnostics and runtime cache (#96655)</code>](https://github.com/openclaw/openclaw/commit/9636bea901d082e8efb13da0319cc9f882897a30)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
