@@ -10385,6 +10385,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(gateway): report omitted chat-history messages in truncation log (#96788)</code>](https://github.com/openclaw/openclaw/commit/c68484acc4b14a3cf2ee473aa7b7120f2d765daf)
 - [ ] [<code>fix(telegram): back off session init spool retries</code>](https://github.com/openclaw/openclaw/commit/13ecca5408cbc94e66105608bfe770d0fc660d76)
+- [ ] [<code>fix(exec): fail invalid explicit workdir before running (#94441)</code>](https://github.com/openclaw/openclaw/commit/95b97e5b0b5e5c3ad00c7fbf1700973e22e50d8a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: reset diff viewer controllers on rehydrate (#96138)</code>](https://github.com/openclaw/openclaw/commit/941e8f1ef2630b96798b2b8543ed5e0b43b9092c)
+- [ ] [<code>fix: reload control ui on service worker update (#96141)</code>](https://github.com/openclaw/openclaw/commit/1f941a026e8a4536826bd8bc30646639683d753a)
+- [ ] [<code>fix: fallback on safe prompt timeouts (#96142)</code>](https://github.com/openclaw/openclaw/commit/0da26499dac23d4fb7b1893635f7ce7f8baae612)
+- [ ] [<code>fix: avoid plugin update range fallback after metadata failure (#96143)</code>](https://github.com/openclaw/openclaw/commit/dd0e4f6e61b808fb77a5b85d2773e73c0dee2078)
+- [ ] [<code>fix(status): restore Codex synthetic usage in status</code>](https://github.com/openclaw/openclaw/commit/a0b397748fa3c89d7ec033846261be43c77dc772)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
