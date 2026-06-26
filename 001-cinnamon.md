@@ -493,8 +493,11 @@
 - [ ] [<code>csd-xsettings-manager.c: Don't override GTK_IM_MODULE if it's</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/de97f127ffbc1af42e1bd53ff5e46e26b834b697)
 - [ ] [<code>Fix volume up not working on FreeBSD (#460)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d554992dfc829c5ebbb7f5af5ede77331c0c8129)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/12eb7e49e13a6e37c9ab05ebae110c406daab9eb)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-keyboard-manager.c: Remove some dead keyboard layout code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5428974bc2cf1f6a5b36351eef13805575ce6b5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
