@@ -622,6 +622,7 @@
 - [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1025,6 +1026,7 @@
 - [ ] [<code>build: Update to latest matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dd9f2f54fe098041301f8c09739edc8e9f5b5df4)
 - [ ] [<code>build: Use soft logout matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/8999a9a611c016e018e0df6b224f4b403d30cac8)
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1233,6 +1235,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: make metadata fixture executable on Windows (#220)</code>](https://github.com/steipete/mcporter/commit/782e028abebcf216004997c2b6f56f1fce9bf4f4)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>fix(daemon): preserve replacement socket ownership</code>](https://github.com/steipete/mcporter/commit/fe87142d899fc8140205e206eb6ba6898bed472a)
+- [ ] [<code>docs: add daemon fix to changelog</code>](https://github.com/steipete/mcporter/commit/b5102af1df7796659a01d0bb6bd5e2f2ab32eeae)
+- [ ] [<code>test: remove live dependency from generated CLI alias test</code>](https://github.com/steipete/mcporter/commit/0779953cc59e3b7fc43c6330c5009854117d516c)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>chore(release): finalize 0.12.1 changelog</code>](https://github.com/steipete/mcporter/commit/61340d3159604e2b26653d4c9d1c3299b95047cb)
+  - <sub>Tags: <code>v0.12.1</code></sub>
+- [ ] [<code>test: match daemon cleanup expectations on Windows</code>](https://github.com/steipete/mcporter/commit/84e5c50c5ca6038ead772d3b8f64866c1f0e7b37)
+- [ ] [<code>chore(release): start 0.12.2</code>](https://github.com/steipete/mcporter/commit/f96caafe7a5a803573e99866fe75655c86054b3a)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1921,6 +1930,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): split function declaration API (#22869)</code>](https://github.com/netdata/netdata.git/commit/4faa2958d3b2c4368608eaf8eb2b0b551f8cd788)
 - [ ] [<code>feat(go.d): withdraw unavailable shared functions (#22870)</code>](https://github.com/netdata/netdata.git/commit/7e5f3795e56ef0712c46323055ba5654c55386d1)
 - [ ] [<code>feat(go.d): reconcile instance function availability (#22871)</code>](https://github.com/netdata/netdata.git/commit/ff36f1bfc2d81978a28f7b8f51b18d6237cf86aa)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-545-nightly.</code>](https://github.com/netdata/netdata.git/commit/38cc8a7962211b06edc3c813d752c950cc5c118a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4615,6 +4625,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: add CODEOWNERS file</code>](https://github.com/NexaAI/nexa-sdk/commit/9e18387ca4492c9d6a42b4b731f35c5f9bd2330f)
 - [ ] [<code>chore: update CODEOWNERS with all contributors</code>](https://github.com/NexaAI/nexa-sdk/commit/7cd27a97a60bfeda271bf5a69b30cb51a8980efb)
 - [ ] [<code>docs: sync docs/ from internal repo</code>](https://github.com/NexaAI/nexa-sdk/commit/522921fef906206483fbd6caf294f5f9c15fed2c)
+- [ ] [<code>chore: migrate repo URLs from qcom-ai-hub to qualcomm/nexa-sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/680bb5fe96aef38a893f02881bd4d7bcfcc7eb99)
+- [ ] [<code>ci: adapt workflows to qualcomm/nexa-sdk</code>](https://github.com/NexaAI/nexa-sdk/commit/5228afc19ed80334d04a39b06b2825b72831bba2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: publish docker images to Docker Hub only</code>](https://github.com/NexaAI/nexa-sdk/commit/f2aa7e913e2f0f624a3e86d553cec7253d1ff1e6)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat(bench): add --accuracy mode that prints generated text</code>](https://github.com/NexaAI/nexa-sdk/commit/5a3483bce0e7499a9ac3a59054f17f7788db1f4d)
+- [ ] [<code>ci: publish S3 via geniex repo to satisfy OIDC trust</code>](https://github.com/NexaAI/nexa-sdk/commit/7574cdcf1070fab940883d412b5dd280e9948817)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>ci: split source-checkout token into CLONE_PAT, keep GH_PAT for geniex dispatch</code>](https://github.com/NexaAI/nexa-sdk/commit/6e70b350bd40671471651b7dcfac6adab363ba23)
+- [ ] [<code>Merge pull request #1102 from qualcomm/ci/publish-s3-via-geniex</code>](https://github.com/NexaAI/nexa-sdk/commit/f7584390e8eeb78d03ae92bf65061d428f4e6440)
+  - <sub>Tags: <code>v0.3.8</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10392,6 +10413,29 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: fallback on safe prompt timeouts (#96142)</code>](https://github.com/openclaw/openclaw/commit/0da26499dac23d4fb7b1893635f7ce7f8baae612)
 - [ ] [<code>fix: avoid plugin update range fallback after metadata failure (#96143)</code>](https://github.com/openclaw/openclaw/commit/dd0e4f6e61b808fb77a5b85d2773e73c0dee2078)
 - [ ] [<code>fix(status): restore Codex synthetic usage in status</code>](https://github.com/openclaw/openclaw/commit/a0b397748fa3c89d7ec033846261be43c77dc772)
+- [ ] [<code>fix(signal): bind approval reactions from structured deliveries</code>](https://github.com/openclaw/openclaw/commit/6830aa39eaa16429daec9e03688e6e04e9e75841)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Stabilize Google Meet chrome-node launch config (#96908)</code>](https://github.com/openclaw/openclaw/commit/448b7c75b669525945ee87d36c1dd98225f17963)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(exec): harden backend sandbox exec cleanup (#96926)</code>](https://github.com/openclaw/openclaw/commit/0fdfc9f65ff4ba2c0a68728060108b73cb32ceb9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(signal): use brew for macos signal-cli install (#96909)</code>](https://github.com/openclaw/openclaw/commit/3b292ba9d4bcc5827605e6e163e81bd74b87c8e3)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(codex): expose plugin apps after delayed inventory load (#96872)</code>](https://github.com/openclaw/openclaw/commit/a6a4652c708aa8d7515d9c3c759fe3a7b4d6db4d)
+- [ ] [<code>ci: park timing summary collection (#96930)</code>](https://github.com/openclaw/openclaw/commit/899f65097b289d0bb033c2aa584cc54c7741c2b0)
+- [ ] [<code>fix(signal): avoid duplicate cli missing note (#96932)</code>](https://github.com/openclaw/openclaw/commit/751a6c23f098e16a82f4afe7d4d674df1412a968)
+- [ ] [<code>Doctor: add lint --all (#96471)</code>](https://github.com/openclaw/openclaw/commit/4fc504d321b6b1264ff7495dabfe2170a462e6e7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix Telegram spooled claim refresh (#96962)</code>](https://github.com/openclaw/openclaw/commit/db255b1154c11fe8c3c19c62e27e0ff726a07edb)
+- [ ] [<code>fix(weixin): startAccount preserves session routing (#93686)</code>](https://github.com/openclaw/openclaw/commit/e9f9a68d68c9c217475099aa988020e4e3cc6245)
+- [ ] [<code>fix(scripts): bypass gh wrapper shims</code>](https://github.com/openclaw/openclaw/commit/81e53202f25f216ddfd795cc28bdd06c856d9de1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(outbound): ignore empty delivery receipts (#79811)</code>](https://github.com/openclaw/openclaw/commit/9a735bea03f627cadd246ea8dfc4cdd65659045e)
+- [ ] [<code>fix: rebase clawhub install trust (#81364)</code>](https://github.com/openclaw/openclaw/commit/ec737ee74d9be52101992f0cd5d17f5d3953344b)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: scope dreaming env batch one</code>](https://github.com/openclaw/openclaw/commit/535af4452b2fe80a0bf4d43e935c7e9950b61d45)
+- [ ] [<code>fix: restore dreaming env after setup</code>](https://github.com/openclaw/openclaw/commit/c05d0d5bbfb0868348972e0164913c163966e8d1)
+- [ ] [<code>fix(image-gen): bound image generation provider JSON response reads (#96495)</code>](https://github.com/openclaw/openclaw/commit/527f8f0cbba1b5653dc990fd368c004f03803cf8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
