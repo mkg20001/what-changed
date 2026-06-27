@@ -355,8 +355,9 @@
 - [ ] [<code>cinnamon-slideshow.py: Exit when Cinnamon does.</code>](https://github.com/linuxmint/cinnamon/commit/b798ba9136b1f294b7d41efce922734da062fffb)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenshot: Allow disabling the flash.</code>](https://github.com/linuxmint/cinnamon/commit/48dc291ef0c7ae485a603bdce650945f146325b3)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenShield.js: Restore original float time.</code>](https://github.com/linuxmint/cinnamon/commit/131b0548d4a2e0258c1bfb96f88ed1e6db85b9c2)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
