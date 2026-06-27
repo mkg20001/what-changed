@@ -1246,6 +1246,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v0.12.1</code></sub>
 - [ ] [<code>test: match daemon cleanup expectations on Windows</code>](https://github.com/steipete/mcporter/commit/84e5c50c5ca6038ead772d3b8f64866c1f0e7b37)
 - [ ] [<code>chore(release): start 0.12.2</code>](https://github.com/steipete/mcporter/commit/f96caafe7a5a803573e99866fe75655c86054b3a)
+- [ ] [<code>fix: preserve large piped CLI output (#215)</code>](https://github.com/steipete/mcporter/commit/74d992a874b8bee02734f824c90647fa6ee9105b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: route HTTP tool selectors correctly (#219)</code>](https://github.com/steipete/mcporter/commit/550108cd681ecd3267af05454c8712cf2d9fa56e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): prepare 0.12.2</code>](https://github.com/steipete/mcporter/commit/25daad40e90109b7bcc6f5a5c5c76ea57ac5e9d6)
+  - <sub>Tags: <code>v0.12.2</code></sub>
+- [ ] [<code>chore(release): start 0.12.3</code>](https://github.com/steipete/mcporter/commit/18b42a04c20d5fc59c460fd62f0ac13a28f2afde)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1938,6 +1945,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[codex] fix windows events row rendering crashes (#22872)</code>](https://github.com/netdata/netdata.git/commit/5a71b1c88ed0fb271492bef82192925e2369d49b)
 - [ ] [<code>sow: make SOWs and specs local-only with per-worktree origin linking (#22873)</code>](https://github.com/netdata/netdata.git/commit/fc5af8c90eb0c958adf64c1c77e3f23926d5f456)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>docs(skills): add static-binary build skill; fix Cloud log-query source filtering & time units (#22880)</code>](https://github.com/netdata/netdata.git/commit/c42e3e7c20d798427ed78338da1a7860ee431f9f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4641,13 +4650,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: publish S3 via geniex repo to satisfy OIDC trust</code>](https://github.com/NexaAI/nexa-sdk/commit/7574cdcf1070fab940883d412b5dd280e9948817)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>ci: split source-checkout token into CLONE_PAT, keep GH_PAT for geniex dispatch</code>](https://github.com/NexaAI/nexa-sdk/commit/6e70b350bd40671471651b7dcfac6adab363ba23)
-- [ ] [<code>Merge pull request #1102 from qualcomm/ci/publish-s3-via-geniex</code>](https://github.com/NexaAI/nexa-sdk/commit/f7584390e8eeb78d03ae92bf65061d428f4e6440)
-  - <sub>Tags: <code>v0.3.8</code></sub>
 - [ ] [<code>chore(deps): bump actions/cache from 5 to 6 (#1096)</code>](https://github.com/NexaAI/nexa-sdk/commit/2fe0fb00ff748107056672d99d80a3e77da99f0f)
 - [ ] [<code>chore(deps): bump actions/upload-pages-artifact from 3 to 5 (#1097)</code>](https://github.com/NexaAI/nexa-sdk/commit/ae7cb4aaa5f3b120c5ff5f1ed61ed9d13c480aa2)
 - [ ] [<code>chore(deps): bump actions/setup-node from 4 to 6 (#1098)</code>](https://github.com/NexaAI/nexa-sdk/commit/0c295e1b86ddab6bd1bff2eaf3ce83f61845a935)
 - [ ] [<code>chore(deps): bump actions/deploy-pages from 4 to 5 (#1099)</code>](https://github.com/NexaAI/nexa-sdk/commit/06a3e9b78c8b0c8aafd1bde210960ed847fda5ab)
 - [ ] [<code>chore(deps): bump docker/build-push-action from 6 to 7 (#1100)</code>](https://github.com/NexaAI/nexa-sdk/commit/a4a867b03fcd205366925696795fe1677ece4574)
+- [ ] [<code>ci: drop CLONE_PAT from source checkouts now that repos are public (#1103)</code>](https://github.com/NexaAI/nexa-sdk/commit/daaf56f609e3df7e035654ee1f9739b44fc10422)
+- [ ] [<code>update README Documentation (#1105)</code>](https://github.com/NexaAI/nexa-sdk/commit/f8a5b39d72828d1c339d11d666d293bf553bf720)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: rename `qualcomm/geniex` and update license / terms-of-use (#1106)</code>](https://github.com/NexaAI/nexa-sdk/commit/3126434af8aaec84e5d2e02ad60e7ba44fdccb59)
+- [ ] [<code>feat: update terms of use and BSD license for all packages (#1107)</code>](https://github.com/NexaAI/nexa-sdk/commit/da7f27d7f1c6b052153eaa9d59e8aa872c6265a6)
+- [ ] [<code>chore(android): drop demo app, moved to ai-hub-apps (#1104)</code>](https://github.com/NexaAI/nexa-sdk/commit/9c7af505eb8f5d86254a9d712a66318b9ba25a9b)
+  - <sub>Tags: <code>v0.3.8</code> <code>v0.3.9</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: set custom domain to geniex.aihub.qualcomm.com</code>](https://github.com/NexaAI/nexa-sdk/commit/29aa4facb6bb59a098e85e8bc7488d7ffc6189c9)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10461,6 +10477,68 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix feishu login qr rendering (#97087)</code>](https://github.com/openclaw/openclaw/commit/1089253ca97c86bc8ef5df139c1c672d27ce59f4)
 - [ ] [<code>perf(memory): add QMD search diagnostics and runtime cache (#96655)</code>](https://github.com/openclaw/openclaw/commit/9636bea901d082e8efb13da0319cc9f882897a30)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(chunk): keep surrogate pairs whole when hard-splitting an over-long line (#96951)</code>](https://github.com/openclaw/openclaw/commit/29680046801dfa6a98557e57b25af7a9f9166664)
+- [ ] [<code>fix(markdown): a fenced-code line with trailing text is content, not a closing fence (#96745)</code>](https://github.com/openclaw/openclaw/commit/1b6557dfa25019f70bff53f27eb9b9d0b0d5e25f)
+- [ ] [<code>perf(update): reuse missing plugin payload id set (#96950)</code>](https://github.com/openclaw/openclaw/commit/a0e9ca1e954479ca3e7b9264e31ee8c3cae10f4f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(link-understanding): strip markdown links whose label contains brackets (#96476)</code>](https://github.com/openclaw/openclaw/commit/d4a01e48bcc5385cd1741a443d051a8769dbff7b)
+- [ ] [<code>perf(plugins): classify cached tool candidates once (#96948)</code>](https://github.com/openclaw/openclaw/commit/c1336b6b412b7827865fc500d71b9d93856af8fc)
+- [ ] [<code>perf(memory): copy only requested embedding dimensions (#96952)</code>](https://github.com/openclaw/openclaw/commit/4c4396c4c2505e8c59ef73b1aa2a1e674042deec)
+- [ ] [<code>feat(i18n): add Hindi and Russian docs and Control UI locales</code>](https://github.com/openclaw/openclaw/commit/689baa5c1e48be2aa31564fd5c3fd21bf4dfb754)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(ui): refresh zh-CN control ui locale</code>](https://github.com/openclaw/openclaw/commit/ce88d65779316b735bc405d6e10210defe69be7f)
+- [ ] [<code>chore(ui): refresh zh-TW control ui locale</code>](https://github.com/openclaw/openclaw/commit/ba70d365ac5e1805597204a89c12929c6624d5b0)
+- [ ] [<code>chore(ui): refresh pt-BR control ui locale</code>](https://github.com/openclaw/openclaw/commit/57f62a5fd9660f76a5365665ccd362b03ed78ca4)
+- [ ] [<code>chore(ui): refresh de control ui locale</code>](https://github.com/openclaw/openclaw/commit/7b549a26e8bb7c28e399041b03ecd5c6aac9fcc1)
+- [ ] [<code>chore(ui): refresh es control ui locale</code>](https://github.com/openclaw/openclaw/commit/68bed5e9028a1755f1a90bbe48f6f215083d094e)
+- [ ] [<code>chore(ui): refresh ja-JP control ui locale</code>](https://github.com/openclaw/openclaw/commit/8d61631b40dbc58a7d859252dfd226d07f2d467b)
+- [ ] [<code>chore(ui): refresh ko control ui locale</code>](https://github.com/openclaw/openclaw/commit/6d62dae2159ceeb463e4f347ee8508b7f93f5517)
+- [ ] [<code>chore(ui): refresh fr control ui locale</code>](https://github.com/openclaw/openclaw/commit/0023cc816a30e0c8879c7fb9b61a1ec9c0ff5ac8)
+- [ ] [<code>chore(ui): refresh it control ui locale</code>](https://github.com/openclaw/openclaw/commit/cb4e9e41188d1313c8b54d1f3e76b3d9436ad087)
+- [ ] [<code>chore(ui): refresh ar control ui locale</code>](https://github.com/openclaw/openclaw/commit/6b98d179b6a0510dafe0d67ef6989e38a851b270)
+- [ ] [<code>chore(ui): refresh tr control ui locale</code>](https://github.com/openclaw/openclaw/commit/a70e7ce24bf0d73c8bf96bcb03e4a53bd6d2c577)
+- [ ] [<code>chore(ui): refresh uk control ui locale</code>](https://github.com/openclaw/openclaw/commit/c6757d7a75af8b0bd5f6b29fcb19b192c0fb19cc)
+- [ ] [<code>chore(ui): refresh id control ui locale</code>](https://github.com/openclaw/openclaw/commit/9cc10a8382da033c0f3bdec5ec6970954fa1f33f)
+- [ ] [<code>chore(ui): refresh pl control ui locale</code>](https://github.com/openclaw/openclaw/commit/816c2cf1f8296f0f3e9f15f5aaf07c23c63686c6)
+- [ ] [<code>chore(ui): refresh th control ui locale</code>](https://github.com/openclaw/openclaw/commit/ab8cd3dac9d33818b46b9a35854e645d27d92bd7)
+- [ ] [<code>chore(ui): refresh vi control ui locale</code>](https://github.com/openclaw/openclaw/commit/44e522cf6b618b90ab30e6795820863123fa8e34)
+- [ ] [<code>chore(ui): refresh nl control ui locale</code>](https://github.com/openclaw/openclaw/commit/6109420e5c1daf9cff3c9e31e06ce938d488927f)
+- [ ] [<code>chore(ui): refresh fa control ui locale</code>](https://github.com/openclaw/openclaw/commit/b3eee037401068acdcc8aa135e1cc5dfcaf541d7)
+- [ ] [<code>test(i18n): include Hindi and Russian registry locales</code>](https://github.com/openclaw/openclaw/commit/eba1ca683f6c3c9b83f943dd81d6b98cd6b0532a)
+- [ ] [<code>perf(status): select recent sessions without full sort (#96955)</code>](https://github.com/openclaw/openclaw/commit/41c00a65d6fb4e48b00a3811c461c9edb5eb2eb3)
+- [ ] [<code>fix(tools): treat no-op writes and edits as terminal tool-loop failures (fixes #96983) (#97044)</code>](https://github.com/openclaw/openclaw/commit/ab966c214be08d99c23695f496c6688bcc12486a)
+- [ ] [<code>perf(sessions): find matching checkpoints without sorting (#96964)</code>](https://github.com/openclaw/openclaw/commit/aca905cce50aacc2c9d26bf31434835721c9259f)
+- [ ] [<code>ci: right-size runner registration caps (#97119)</code>](https://github.com/openclaw/openclaw/commit/a82902c725b215294318ac16b50b2a40d0d23aa7)
+- [ ] [<code>docs: clarify macOS release workflow refs (#97116)</code>](https://github.com/openclaw/openclaw/commit/bdd365a3488205291b0bbc8079dc872bb6f3fcf7)
+- [ ] [<code>perf(ui): use sets for usage selection filters (#96945)</code>](https://github.com/openclaw/openclaw/commit/b7a9d3005c0b458a5f6a2f7c5ff0fc33edb986b1)
+- [ ] [<code>fix(auth): suppress recovery hint for format failures (#95779)</code>](https://github.com/openclaw/openclaw/commit/6db4624f438d122570c65a15e29283ffff9896d3)
+- [ ] [<code>fix(matrix): truncate thread starter body on code-point boundaries (#97121)</code>](https://github.com/openclaw/openclaw/commit/289865b39226c685af382a81da55c38ce3df9049)
+- [ ] [<code>fix(cron): reject invalid no-output timeout (#96516)</code>](https://github.com/openclaw/openclaw/commit/91726e96244a25937cad15a13bd8b0650c1fe510)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: wake yielded parent after subagents finish (#97090)</code>](https://github.com/openclaw/openclaw/commit/6883c6c070f6adbf7b2454c2929b89c37da46a97)
+- [ ] [<code>docs: document agent issue and PR routing (#96714)</code>](https://github.com/openclaw/openclaw/commit/43dd34262ecb02e0d201b03cb553259339578c52)
+- [ ] [<code>fix(mcp): include image source for screenshot results (#90902)</code>](https://github.com/openclaw/openclaw/commit/a846b879ecd9bcb18c39f61e84bceea04b75bba3)
+- [ ] [<code>fix #94040: [Bug]: nodes approve failed: GatewayClientRequestError: unknown requestId (#94452)</code>](https://github.com/openclaw/openclaw/commit/deb0ffdcdf92cf825e83d892946580a99f57c421)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: scaffold provider plugins from init (#94352)</code>](https://github.com/openclaw/openclaw/commit/808c227edbf71be56c029de1698b205f44723ae9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(release): update appcast for 2026.6.10</code>](https://github.com/openclaw/openclaw/commit/e0932e0bc4e1e601fe2ce92aab7ce5972184cedf)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Revert "docs: document agent issue and PR routing (#96714)"</code>](https://github.com/openclaw/openclaw/commit/c691872b9e990fa2f96fbea701c964c5f8ea5882)
+- [ ] [<code>fix(codex): wait for native tool completion (#96818)</code>](https://github.com/openclaw/openclaw/commit/8252fc009f223a7bfb91385e0c4d8e9c2608ab80)
+- [ ] [<code>Reapply "docs: document agent issue and PR routing (#96714)"</code>](https://github.com/openclaw/openclaw/commit/fa78cfbfb7831edc5962a020cc22c47a5d3004db)
+- [ ] [<code>Track mobile release SHAs with refs</code>](https://github.com/openclaw/openclaw/commit/ff35f3bb2cd6c9cc0fd8e28676b0d812e8e92725)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): truncate tool-display detail on code-point boundaries (#96958)</code>](https://github.com/openclaw/openclaw/commit/e09b9dfc1ba9842324046bfdf0ad97934c457d19)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(googlechat): replace unbounded response.json() with readProviderJsonResponse (#96772)</code>](https://github.com/openclaw/openclaw/commit/4f3d81b918552371cecbfb067fafe626072ae407)
+- [ ] [<code>fix(cli): keep built-in nodes commands off the plugin load path (#96702)</code>](https://github.com/openclaw/openclaw/commit/4932366b9293b460bcceb7133d7d564c12f9403b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(catalog): bump Weixin plugin to 2.4.6 (#96801)</code>](https://github.com/openclaw/openclaw/commit/12ea61a08dbc97a6b54aad0a59c3d20fd4d0b728)
+- [ ] [<code>fix(agents): truncate exec command detail on code-point boundaries (#96963)</code>](https://github.com/openclaw/openclaw/commit/4d9cd7d227554dea2ffff4bb2965103d90c984dc)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(voice-call): emit canonical session keys (#89884)</code>](https://github.com/openclaw/openclaw/commit/65fec9d787e3669ed027c1b5cdf4bb148f085e91)
+- [ ] [<code>fix(openai-chatgpt-responses): bound streaming success-body SSE reads at 16 MiB (#96762)</code>](https://github.com/openclaw/openclaw/commit/5880e0afc4dc2e132651073d5daac24f48ed2587)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
