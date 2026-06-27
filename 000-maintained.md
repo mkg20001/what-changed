@@ -4723,7 +4723,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(sdk): drop leftover nexa-sdk references</code>](https://github.com/NexaAI/nexa-sdk/commit/ca79e628cb80f292fe3d5b520df616a82169e55f)
 - [ ] [<code>chore(ci): rename nexa-sdk to GenieX in workflows</code>](https://github.com/NexaAI/nexa-sdk/commit/58bd313a99c814e5157cb09e962840d5ae1aa6f7)
 - [ ] [<code>Merge pull request #1111 from qualcomm/chore/drop-nexa-references</code>](https://github.com/NexaAI/nexa-sdk/commit/4c1bd205001f1fea3e6b5bafee011b54b575994d)
-  - <sub>Tags: <code>v0.3.10-alpha.4</code></sub>
+  - <sub>Tags: <code>v0.3.10</code> <code>v0.3.10-alpha.4</code></sub>
+- [ ] [<code>chore(ci): deploy docs only via workflow_dispatch</code>](https://github.com/NexaAI/nexa-sdk/commit/32d5967b4c74cedbbdeda67d6d8bad04e8028cd8)
+- [ ] [<code>Update license metadata for Python and Maven artifacts (#1114)</code>](https://github.com/NexaAI/nexa-sdk/commit/1618a77ab107328427400b11087efcdaf0500645)
+  - <sub>Tags: <code>v0.3.11</code></sub>
+- [ ] [<code>feat: use qualcomm/ repo for all license links (#1115)</code>](https://github.com/NexaAI/nexa-sdk/commit/15e1a121d29d320ace1336000cf994b74cf67c9e)
+  - <sub>Tags: <code>v0.3.12</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10615,6 +10620,47 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: relax local TUI PTY startup wait</code>](https://github.com/openclaw/openclaw/commit/fbfadbd806e16932f2c6bcaf4f283dbb1fc536f8)
 - [ ] [<code>feat(codex): add always plugin approval mode (#97123)</code>](https://github.com/openclaw/openclaw/commit/c5d34c8376f8aa32744786cae0473c60e39ef444)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(google-media): bound JSON response reads (#96920)</code>](https://github.com/openclaw/openclaw/commit/a7bfc06f4597ee946cbc066cb41750a7e8f59c52)
+- [ ] [<code>fix(google): bound TTS success JSON response reads (#96984)</code>](https://github.com/openclaw/openclaw/commit/5ccfc97b319ee627bd84710ceb4cd1f81b0088f0)
+- [ ] [<code>fix(scripts): route i18n formatter through pnpm runner (#95534)</code>](https://github.com/openclaw/openclaw/commit/9d800b71c060bdebcfabb9b363dd004c74e3c1bd)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(qqbot): bound STT transcription JSON response (#96968)</code>](https://github.com/openclaw/openclaw/commit/6e8f30c0e2bb9b35759a29ec91a9e8725fd721aa)
+- [ ] [<code>fix(telegram): avoid duplicate dm chat window context (#89855)</code>](https://github.com/openclaw/openclaw/commit/2100ee7cc843f4b1776d41816f8f57dadcd2fe18)
+- [ ] [<code>fix(clickclack): bound REST success JSON response reads (#96970)</code>](https://github.com/openclaw/openclaw/commit/f4fa10c2c5acae26156868fe50f01d52a464f4b1)
+- [ ] [<code>fix(nostr): bound seen tracker timer options (#97133)</code>](https://github.com/openclaw/openclaw/commit/8fa24325b58fdc766a58782250bb45b468f51f15)
+- [ ] [<code>Refactor external plugin catalog toward feeds (#95846)</code>](https://github.com/openclaw/openclaw/commit/4010b81a77f40c17ebfc55a6b47571dc1ef92902)
+- [ ] [<code>fix(validation): preserve null in anyOf unions instead of coercing to empty string (fixes #96716) (#97212)</code>](https://github.com/openclaw/openclaw/commit/361869e43422e7f194abf584f5a86bf7e8b6e80c)
+- [ ] [<code>Doctor: expose state integrity findings (#95979)</code>](https://github.com/openclaw/openclaw/commit/cb4244fe15e30619423173ab746cc73e468b7346)
+- [ ] [<code>fix(irc): sanitize internal tool-trace lines from outbound text (#97214)</code>](https://github.com/openclaw/openclaw/commit/ddedf13190c105374be3cb7347a809ca384d5cd4)
+- [ ] [<code>fix(whatsapp): convert GFM bold-italic without leaving literal asterisks (#96570)</code>](https://github.com/openclaw/openclaw/commit/7830faa5febc9001f6a92b2e15aafc3cb31ffc98)
+- [ ] [<code>fix(msteams): keep truncated parent context text well-formed (#96569)</code>](https://github.com/openclaw/openclaw/commit/4b9e01813e684100cbf4c47f8a77118a6ab5f587)
+- [ ] [<code>fix(qa-lab): treat claude-cli as Anthropic-family for live turn timeouts (#96567)</code>](https://github.com/openclaw/openclaw/commit/a048aeae16b6aaea38ac4a90a7bd16ea8f0fe3f8)
+- [ ] [<code>fix(terminal): wrap long wide-char words by visible width, not code-point count (#96746)</code>](https://github.com/openclaw/openclaw/commit/f857e8d66eb30bbd9b936a784256198e1f9ffa3f)
+- [ ] [<code>feat(xai): route OAuth login through device-code flow (#97249)</code>](https://github.com/openclaw/openclaw/commit/84bcd500c974ec0eeaa23a678b946638108f8208)
+- [ ] [<code>fix(agents): keep missing tool results on current model (#95543)</code>](https://github.com/openclaw/openclaw/commit/b9c64142e281b9317e76f1a15c54ee3960a16278)
+- [ ] [<code>fix(telegram): recover stalled ingress spool claims (#97118)</code>](https://github.com/openclaw/openclaw/commit/b8e3de11608d12354b17cadd3703b3823b055a24)
+- [ ] [<code>fix(msteams): truncate reflection prompt on UTF-16 boundary (#96578)</code>](https://github.com/openclaw/openclaw/commit/6c5a9fde9f1c2f63e2bf4b65f4d9a4a3acea2a5b)
+- [ ] [<code>fix(qqbot): truncate reminder job name on code-point boundary (#96575)</code>](https://github.com/openclaw/openclaw/commit/d693ed4af3e795ee11a85d6c3524bbec0747b531)
+- [ ] [<code>fix(codex): keep CLI session preview text on code-point boundaries (#96582)</code>](https://github.com/openclaw/openclaw/commit/b5c662f4f54c1afe646519eb307e9c67ee83f6b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(whatsapp): elide auto-reply text on UTF-16 boundary (#96580)</code>](https://github.com/openclaw/openclaw/commit/cb8bc71ff80ffae5558690a7566356f69180421b)
+- [ ] [<code>fix(slack): truncate approval mrkdwn on UTF-16 boundary (#96576)</code>](https://github.com/openclaw/openclaw/commit/90c20d15c22e2ef9130344da2e262de5711e6410)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(googlechat): truncate approval card text on UTF-16 boundary (#96573)</code>](https://github.com/openclaw/openclaw/commit/2e881ab1c679d1b20c4f352fe98e71236f2eeb99)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(synology-chat): truncate sanitized input on UTF-16 boundary (#96574)</code>](https://github.com/openclaw/openclaw/commit/e5c3c59c6757c4af0d98fa6e501ff6aeef58f8c9)
+- [ ] [<code>fix(telegram): use idempotent retry context for delete/reaction (#96612)</code>](https://github.com/openclaw/openclaw/commit/ce15f348bbc419e91c8ab0034cf2a06382f5e912)
+- [ ] [<code>fix(duckduckgo): guard out-of-range numeric HTML entities (#96583)</code>](https://github.com/openclaw/openclaw/commit/2720ac06b7c86ef49d5724aeba741d24eae54555)
+- [ ] [<code>Doctor: expose plugin registry findings (#96169)</code>](https://github.com/openclaw/openclaw/commit/1bdde669503019a100f479d6a00be5d3c1e4b557)
+- [ ] [<code>fix(model-fallback): don't rethrow provider-side AbortErrors as user cancellations (#90908)</code>](https://github.com/openclaw/openclaw/commit/98ed83f848de30e2a66f6a5d6d1ce0b8ae098ac9)
+- [ ] [<code>docs: align v2026.6.10 changelog heading (#97297)</code>](https://github.com/openclaw/openclaw/commit/78d70230b65ce5526ff3a983c00b01b3f7646b43)
+- [ ] [<code>docs: update changelog for v2026.6.9 (#97124)</code>](https://github.com/openclaw/openclaw/commit/ebf1ba70d590d28098afe60417657cd2bdb48ed4)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: revert v2026.6.9 changelog update (#97306)</code>](https://github.com/openclaw/openclaw/commit/b14a95b3fd5f75d5c2d673dbf82037567bbc3309)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): replay retained preview gaps</code>](https://github.com/openclaw/openclaw/commit/199700de264a4150b8c7ab45657fe40f297cad9c)
+- [ ] [<code>test(telegram): cover retained preview chunk gaps</code>](https://github.com/openclaw/openclaw/commit/c52adf7505a73fdb8a4c715b354a7e1995ad066e)
+- [ ] [<code>Add hosted external catalog feed loader (#95868)</code>](https://github.com/openclaw/openclaw/commit/c29e1fe764f3928051e2db443c439e946aae7680)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
