@@ -17,7 +17,7 @@
 
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.0/dbeaver-ce-26.1.0-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.0/dbeaver-ce-26.1.0-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.1/dbeaver-ce-26.1.1-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.1/dbeaver-ce-26.1.1-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
@@ -624,6 +624,27 @@
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
 - [ ] [<code>chore: update matrix sdk and use correct account management uri</code>](https://github.com/krille-chan/fluffychat/commit/d41a9ee7698554a246c28a122c873a9b22d927d1)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/3e6e931a6f37cebe9d2bdcc95a10dfa9a17d83ba)
+- [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/d1ec10120ec3e7ef842757f3977ac8dfd19050c2)
+- [ ] [<code>chore(translations): Added translation using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/6fed7d1469b04644daab894ada7c8c102c814eb1)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/eb035eda58bcf2efe44cb44775a1c1bb44df4d56)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/ac70026574ad4fb8321439f5a4951def4899b58d)
+- [ ] [<code>chore(translations): Translated using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/c406fcbcdd9efda59793bb667e401be247087c9f)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/90634a4bd2f9abd3a88b53493ae4d5ddb0da705d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/fe0478f40f95158bab2e8c6c5f674dda91673dc9)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/88a773023c3fe5b552a0d4661215be130c98d3cd)
+- [ ] [<code>chore(translations): Translated using Weblate (Japanese)</code>](https://github.com/krille-chan/fluffychat/commit/ec9bd8e402bbc13a924b1353ff4c73e82b0f8082)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/398517938edd4d361554789cf0eedbbbfb370b8d)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d0a0cd7d6bcfa4982eb88fa533ad9d2a97369c59)
+- [ ] [<code>chore(translations): Translated using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/12d8a7514b122dc50d7b4b9ae4150a1141f10496)
+- [ ] [<code>chore(translations): Deleted translation using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/d35ce20ccbc0501c4d07bb82287583de5c04fa0a)
+- [ ] [<code>build: update iOS auto generated build files and delete ephemeral</code>](https://github.com/krille-chan/fluffychat/commit/208d70f062317bd8deea9a50aeb35bab352952e9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci: add check for up to date build files in iOS</code>](https://github.com/krille-chan/fluffychat/commit/d2761f8d0f6932b43b5d8692ca201c81129a76ee)
+- [ ] [<code>chore: give reactions dynamically width again</code>](https://github.com/krille-chan/fluffychat/commit/ec254161dcc8b305eddee78a659e3fff7446c23a)
+- [ ] [<code>chore: add scrollcontroller to chat backup devices list</code>](https://github.com/krille-chan/fluffychat/commit/5986cc5623e68b8c85776bc1f31ea2ef4518fcc8)
+- [ ] [<code>build: update matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/94e22d4511576844151959f8f4787255c95a7af1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1029,6 +1050,27 @@
 - [ ] [<code>feat: Reset recovery key flow</code>](https://github.com/krille-chan/fluffychat/commit/4773a4a25d46821ec96626f7e1fcf5c7dcbf963a)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.2 to 4.1.5</code>](https://github.com/krille-chan/fluffychat/commit/b11cf17bd4f54bb74d7be6a565667783ede6581e)
 - [ ] [<code>chore: update matrix sdk and use correct account management uri</code>](https://github.com/krille-chan/fluffychat/commit/d41a9ee7698554a246c28a122c873a9b22d927d1)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/3e6e931a6f37cebe9d2bdcc95a10dfa9a17d83ba)
+- [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/d1ec10120ec3e7ef842757f3977ac8dfd19050c2)
+- [ ] [<code>chore(translations): Added translation using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/6fed7d1469b04644daab894ada7c8c102c814eb1)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/eb035eda58bcf2efe44cb44775a1c1bb44df4d56)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/ac70026574ad4fb8321439f5a4951def4899b58d)
+- [ ] [<code>chore(translations): Translated using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/c406fcbcdd9efda59793bb667e401be247087c9f)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/90634a4bd2f9abd3a88b53493ae4d5ddb0da705d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/fe0478f40f95158bab2e8c6c5f674dda91673dc9)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/88a773023c3fe5b552a0d4661215be130c98d3cd)
+- [ ] [<code>chore(translations): Translated using Weblate (Japanese)</code>](https://github.com/krille-chan/fluffychat/commit/ec9bd8e402bbc13a924b1353ff4c73e82b0f8082)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/398517938edd4d361554789cf0eedbbbfb370b8d)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d0a0cd7d6bcfa4982eb88fa533ad9d2a97369c59)
+- [ ] [<code>chore(translations): Translated using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/12d8a7514b122dc50d7b4b9ae4150a1141f10496)
+- [ ] [<code>chore(translations): Deleted translation using Weblate (Toki Pona)</code>](https://github.com/krille-chan/fluffychat/commit/d35ce20ccbc0501c4d07bb82287583de5c04fa0a)
+- [ ] [<code>build: update iOS auto generated build files and delete ephemeral</code>](https://github.com/krille-chan/fluffychat/commit/208d70f062317bd8deea9a50aeb35bab352952e9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci: add check for up to date build files in iOS</code>](https://github.com/krille-chan/fluffychat/commit/d2761f8d0f6932b43b5d8692ca201c81129a76ee)
+- [ ] [<code>chore: give reactions dynamically width again</code>](https://github.com/krille-chan/fluffychat/commit/ec254161dcc8b305eddee78a659e3fff7446c23a)
+- [ ] [<code>chore: add scrollcontroller to chat backup devices list</code>](https://github.com/krille-chan/fluffychat/commit/5986cc5623e68b8c85776bc1f31ea2ef4518fcc8)
+- [ ] [<code>build: update matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/94e22d4511576844151959f8f4787255c95a7af1)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1947,6 +1989,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>docs(skills): add static-binary build skill; fix Cloud log-query source filtering & time units (#22880)</code>](https://github.com/netdata/netdata.git/commit/c42e3e7c20d798427ed78338da1a7860ee431f9f)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-549-nightly.</code>](https://github.com/netdata/netdata.git/commit/0f96cfee9f5044e78e42164aa6387134ac73c869)
+- [ ] [<code>fix(aclk): prevent unbounded one-core CPU spins in the cloud-connection loops (#22879)</code>](https://github.com/netdata/netdata.git/commit/b42dc4064ad9be8281a101b4c8bd9498f5045c5d)
+- [ ] [<code>aclk: grow inbound mqtt buffer on demand (#22878)</code>](https://github.com/netdata/netdata.git/commit/120ca90bf6a9d2c68fa093e2fd95b9456be8aeec)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4664,6 +4710,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v0.3.8</code> <code>v0.3.9</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>docs: set custom domain to geniex.aihub.qualcomm.com</code>](https://github.com/NexaAI/nexa-sdk/commit/29aa4facb6bb59a098e85e8bc7488d7ffc6189c9)
+- [ ] [<code>fix(python): drop deprecated BSD license classifier (PEP 639)</code>](https://github.com/NexaAI/nexa-sdk/commit/87c005b14d71a6918fed7662b0198d2086a45a12)
+  - <sub>Tags: <code>v0.3.10-alpha.1</code></sub>
+- [ ] [<code>docs: switch architecture diagram to geniex_arch_v2.png</code>](https://github.com/NexaAI/nexa-sdk/commit/aaa6e2013eed88ab9ddb5e408c0fcc663f618ff2)
+- [ ] [<code>docs: point Android sample app to ai-hub-apps and add a prominent CTA</code>](https://github.com/NexaAI/nexa-sdk/commit/8663cafb9afe2b173bf7bea4fdc702b4d40d4f83)
+- [ ] [<code>docs: swap nav logo for light/dark variants and update title styling</code>](https://github.com/NexaAI/nexa-sdk/commit/8e144080f4950910db5dfc153d325e97658fbc3c)
+- [ ] [<code>docs: update Slack links to https://aihub.qualcomm.com/community/slack</code>](https://github.com/NexaAI/nexa-sdk/commit/98928b732cb71ab9575782997688c0af3cb44d79)
+- [ ] [<code>Merge pull request #1110 from qualcomm/alan-readme-docs-jun26</code>](https://github.com/NexaAI/nexa-sdk/commit/4ef07940c61a220470502628c12997bac26f6ce1)
+  - <sub>Tags: <code>v0.3.10-alpha.3</code></sub>
+- [ ] [<code>fix(bazel): update go bindings use_repo name after repo rename</code>](https://github.com/NexaAI/nexa-sdk/commit/fd58b5490ce102b438216d2948aa54792ead01de)
+  - <sub>Tags: <code>v0.3.10-alpha.2</code></sub>
+- [ ] [<code>chore(sdk): drop leftover nexa-sdk references</code>](https://github.com/NexaAI/nexa-sdk/commit/ca79e628cb80f292fe3d5b520df616a82169e55f)
+- [ ] [<code>chore(ci): rename nexa-sdk to GenieX in workflows</code>](https://github.com/NexaAI/nexa-sdk/commit/58bd313a99c814e5157cb09e962840d5ae1aa6f7)
+- [ ] [<code>Merge pull request #1111 from qualcomm/chore/drop-nexa-references</code>](https://github.com/NexaAI/nexa-sdk/commit/4c1bd205001f1fea3e6b5bafee011b54b575994d)
+  - <sub>Tags: <code>v0.3.10-alpha.4</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10539,6 +10599,22 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(voice-call): emit canonical session keys (#89884)</code>](https://github.com/openclaw/openclaw/commit/65fec9d787e3669ed027c1b5cdf4bb148f085e91)
 - [ ] [<code>fix(openai-chatgpt-responses): bound streaming success-body SSE reads at 16 MiB (#96762)</code>](https://github.com/openclaw/openclaw/commit/5880e0afc4dc2e132651073d5daac24f48ed2587)
+- [ ] [<code>fix(agents): guard delivery-evidence attachment recursion against cycles (#97041)</code>](https://github.com/openclaw/openclaw/commit/498567190d292041adf19c6e59e91e8ca3882799)
+- [ ] [<code>fix(provider-transport-fetch): bound SSE buffer to prevent OOM (#96989)</code>](https://github.com/openclaw/openclaw/commit/1bccd293043745dd0274f7537d4a730a7ba8d739)
+- [ ] [<code>fix(telegram): retain socket failure context (#97130)</code>](https://github.com/openclaw/openclaw/commit/072d3ed7b5e488997629253a90a2a328c765443f)
+- [ ] [<code>test(policy): add config coverage report (#87081)</code>](https://github.com/openclaw/openclaw/commit/4d0f19a96838f52f71ccf1048003826302d95b9c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(opencode-go): re-arm idle timer on block-boundary events to prevent false stalled-stream abort (#97128)</code>](https://github.com/openclaw/openclaw/commit/552ec2b49d4ab178ee09c7e5d7b6fa2c248e113e)
+- [ ] [<code>fix(agent-core): ignore truncated tool calls (#97140)</code>](https://github.com/openclaw/openclaw/commit/56259606d15f66c90415baddca9e08b156ef6b33)
+- [ ] [<code>Scope agent cron operations to the calling agent (#96883)</code>](https://github.com/openclaw/openclaw/commit/cee2aca4091265288ce1351b2c97e1f02a2e6dad)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(trajectory): preserve usage in truncated events</code>](https://github.com/openclaw/openclaw/commit/bf2a8ecfdb89132de59f5b397867b1ea3beee1a3)
+- [ ] [<code>fix(trajectory): preserve codex completion usage</code>](https://github.com/openclaw/openclaw/commit/67118d5ab9129f6444dc8a65b982ebaec0b3e4ed)
+- [ ] [<code>test(trajectory): cover truncated usage preservation</code>](https://github.com/openclaw/openclaw/commit/898ca9741cba5c6ca1c5ba8b41f20b9a2636fd55)
+- [ ] [<code>fix: defer active implicit session rollover (#97164)</code>](https://github.com/openclaw/openclaw/commit/6f1076351cbef3a3e7fe1df6199dc8f1dff6a583)
+- [ ] [<code>test: relax local TUI PTY startup wait</code>](https://github.com/openclaw/openclaw/commit/fbfadbd806e16932f2c6bcaf4f283dbb1fc536f8)
+- [ ] [<code>feat(codex): add always plugin approval mode (#97123)</code>](https://github.com/openclaw/openclaw/commit/c5d34c8376f8aa32744786cae0473c60e39ef444)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
