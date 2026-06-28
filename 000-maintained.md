@@ -646,6 +646,12 @@
 - [ ] [<code>chore: give reactions dynamically width again</code>](https://github.com/krille-chan/fluffychat/commit/ec254161dcc8b305eddee78a659e3fff7446c23a)
 - [ ] [<code>chore: add scrollcontroller to chat backup devices list</code>](https://github.com/krille-chan/fluffychat/commit/5986cc5623e68b8c85776bc1f31ea2ef4518fcc8)
 - [ ] [<code>build: update matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/94e22d4511576844151959f8f4787255c95a7af1)
+- [ ] [<code>refactor: do not pass clients into app lock</code>](https://github.com/krille-chan/fluffychat/commit/8386fa8f144836022c2da15fa6674d99d7c7da10)
+- [ ] [<code>feat: implement biometrics for app lock</code>](https://github.com/krille-chan/fluffychat/commit/20ee668b4c6fcd81b31289aa2149c6420c46e963)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: applock follow up</code>](https://github.com/krille-chan/fluffychat/commit/3089a19a9f64ef44058db6e7d2bd629497e4a316)
+- [ ] [<code>chore: ask user before forwarding</code>](https://github.com/krille-chan/fluffychat/commit/5ea2fe6ce0ad7724567f7635080301730b04418f)
+- [ ] [<code>chore: follow up app lock</code>](https://github.com/krille-chan/fluffychat/commit/599bdb8da6e7925a8ee981e20bc9b3163fbede0e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1072,6 +1078,12 @@
 - [ ] [<code>chore: give reactions dynamically width again</code>](https://github.com/krille-chan/fluffychat/commit/ec254161dcc8b305eddee78a659e3fff7446c23a)
 - [ ] [<code>chore: add scrollcontroller to chat backup devices list</code>](https://github.com/krille-chan/fluffychat/commit/5986cc5623e68b8c85776bc1f31ea2ef4518fcc8)
 - [ ] [<code>build: update matrix branch</code>](https://github.com/krille-chan/fluffychat/commit/94e22d4511576844151959f8f4787255c95a7af1)
+- [ ] [<code>refactor: do not pass clients into app lock</code>](https://github.com/krille-chan/fluffychat/commit/8386fa8f144836022c2da15fa6674d99d7c7da10)
+- [ ] [<code>feat: implement biometrics for app lock</code>](https://github.com/krille-chan/fluffychat/commit/20ee668b4c6fcd81b31289aa2149c6420c46e963)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: applock follow up</code>](https://github.com/krille-chan/fluffychat/commit/3089a19a9f64ef44058db6e7d2bd629497e4a316)
+- [ ] [<code>chore: ask user before forwarding</code>](https://github.com/krille-chan/fluffychat/commit/5ea2fe6ce0ad7724567f7635080301730b04418f)
+- [ ] [<code>chore: follow up app lock</code>](https://github.com/krille-chan/fluffychat/commit/599bdb8da6e7925a8ee981e20bc9b3163fbede0e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1994,6 +2006,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(aclk): prevent unbounded one-core CPU spins in the cloud-connection loops (#22879)</code>](https://github.com/netdata/netdata.git/commit/b42dc4064ad9be8281a101b4c8bd9498f5045c5d)
 - [ ] [<code>aclk: grow inbound mqtt buffer on demand (#22878)</code>](https://github.com/netdata/netdata.git/commit/120ca90bf6a9d2c68fa093e2fd95b9456be8aeec)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-552-nightly.</code>](https://github.com/netdata/netdata.git/commit/8f8e2742162098407170cbc71386889dbb422183)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -10672,6 +10685,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: simplify macOS app overview (#97120)</code>](https://github.com/openclaw/openclaw/commit/7bbd09047bd7ce1ce573e0d434abcf72a76de1f6)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Doctor: expose gateway runtime findings (#97075)</code>](https://github.com/openclaw/openclaw/commit/3630d502eb9be9e1be7c685efbb6cd80b445fdcc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: link local e2e qa coverage wrappers (#97150)</code>](https://github.com/openclaw/openclaw/commit/78f7de01c1aa0c91d2f1eb74a06088fb1b40c33e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Persist hosted catalog snapshots in state (#95964)</code>](https://github.com/openclaw/openclaw/commit/d1b917120a47600d6bb361adcb6b933978ce6e39)
+- [ ] [<code>fix(imessage): stage remote media for plugin claims (#91803)</code>](https://github.com/openclaw/openclaw/commit/830467bc93065f6ef5a1302b3c86bf14c930c3df)
+- [ ] [<code>Add hosted catalog source profile validation (#95969)</code>](https://github.com/openclaw/openclaw/commit/1b0766080a30bd976217bea0b2b87efba439734a)
+- [ ] [<code>fix: scanned PDF pages reach chat vision models (#97354)</code>](https://github.com/openclaw/openclaw/commit/07b934901a3247c504775f88eb958b628864889a)
+- [ ] [<code>fix: avoid stale dashboard child context budgets (#97332)</code>](https://github.com/openclaw/openclaw/commit/c6ade83a5ccb12f2df2bce4aa745bdb28c60dd92)
+- [ ] [<code>ci: log macOS Swift build phases (#97151)</code>](https://github.com/openclaw/openclaw/commit/69af58ba2613de7889a3d24d7813d247158df73b)
+- [ ] [<code>test: promote OpenAI HTTP QA coverage (#97369)</code>](https://github.com/openclaw/openclaw/commit/119dc4bd821ec69503b3faf4b78f04e25e39775d)
+- [ ] [<code>fix: seed Slack thread context after reset (#97100)</code>](https://github.com/openclaw/openclaw/commit/9c95abd49d4567097f22090929bd9ea542b0ecbe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cron): propagate cleanupCliLiveSessionOnRunEnd to isolated cron CLI branch (#97227)</code>](https://github.com/openclaw/openclaw/commit/6c7a6ff1c49062a874eeb23ba5fc4adcbd2cc26d)
+- [ ] [<code>Fix/discord bound probe getme json reads (#97278)</code>](https://github.com/openclaw/openclaw/commit/7ba9212665a728993550a65ef5d8fdd235d4a160)
+- [ ] [<code>Fix/zalo bound api json response reads (#97277)</code>](https://github.com/openclaw/openclaw/commit/38ddcef78f072d647136a1e28bf7383b0e203a37)
+- [ ] [<code>[AI] fix(plugins): recognize document-extractors as a capability kind… (#91597)</code>](https://github.com/openclaw/openclaw/commit/d17b970bb50d8835ee3e8d23e43aec91a08da4e0)
+- [ ] [<code>fix(agents): preserve structured tool result visible text (#97268)</code>](https://github.com/openclaw/openclaw/commit/8d168c836af38332a75529ca8c1af2cf28494427)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
