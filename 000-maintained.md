@@ -58,6 +58,7 @@
 - [ ] [<code>Update sysinfo (#375)</code>](https://github.com/stepchowfun/docuum/commit/06c67fcf193bab9e27b60e64d1928edce4907c6e)
 - [ ] [<code>Update dependencies (#376)</code>](https://github.com/stepchowfun/docuum/commit/d2b7c6234a4133b16a26d252172f2f87a57bf6e2)
 - [ ] [<code>Use Chrono's Unix epoch constant (#377)</code>](https://github.com/stepchowfun/docuum/commit/f9b72c7e6a8e35471eeb449585f8b4407c3a7a70)
+- [ ] [<code>Update GitHub Actions to latest versions</code>](https://github.com/stepchowfun/docuum/commit/22f1f987266415acbef9bbc77a06bc01554bb7f9)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -10661,6 +10662,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(telegram): replay retained preview gaps</code>](https://github.com/openclaw/openclaw/commit/199700de264a4150b8c7ab45657fe40f297cad9c)
 - [ ] [<code>test(telegram): cover retained preview chunk gaps</code>](https://github.com/openclaw/openclaw/commit/c52adf7505a73fdb8a4c715b354a7e1995ad066e)
 - [ ] [<code>Add hosted external catalog feed loader (#95868)</code>](https://github.com/openclaw/openclaw/commit/c29e1fe764f3928051e2db443c439e946aae7680)
+- [ ] [<code>fix(auto-reply): truncate user-facing text on UTF-16 boundary (#97299)</code>](https://github.com/openclaw/openclaw/commit/1b8b8500cee077d7ac7927def0f566febf7dacb8)
+- [ ] [<code>Doctor: expose configured plugin install findings (#96171)</code>](https://github.com/openclaw/openclaw/commit/36722014efa35714a2e5e7853385c2ba937d0c76)
+- [ ] [<code>Add hosted catalog snapshot fallback (#95877)</code>](https://github.com/openclaw/openclaw/commit/12685ee6b7520c1798e4f6f8f5c7cc60f56e8d55)
+- [ ] [<code>fix: page sessions_history beyond truncated tails (#97101)</code>](https://github.com/openclaw/openclaw/commit/dc575d148a7cb69d0650d271943279a4cd60a7de)
+- [ ] [<code>test: clarify delegated Testbox proof status</code>](https://github.com/openclaw/openclaw/commit/461e551e85f88a71db774e9822b78d5038caeb1e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: surface delegated Testbox proof status</code>](https://github.com/openclaw/openclaw/commit/c53dbcaf4dff6077d0f0958c3b1d23f6f1351139)
+- [ ] [<code>docs: simplify macOS app overview (#97120)</code>](https://github.com/openclaw/openclaw/commit/7bbd09047bd7ce1ce573e0d434abcf72a76de1f6)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Doctor: expose gateway runtime findings (#97075)</code>](https://github.com/openclaw/openclaw/commit/3630d502eb9be9e1be7c685efbb6cd80b445fdcc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
