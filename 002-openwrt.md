@@ -144,6 +144,7 @@
 - [ ] [<code>ubusd_acl: use size_t for strlen result in ubusd_acl_alloc_obj</code>](https://git.openwrt.org/project/ubus.git/commit/020a64b9b1693295a3fde34147aef48bf47c76ae)
 - [ ] [<code>ubusd: use size_t for string and blob length variables</code>](https://git.openwrt.org/project/ubus.git/commit/f92ffd289dcc07b20d0fcf34e10e5c685240e5bd)
 - [ ] [<code>ubusd: use fixed-width types for sequence counters</code>](https://git.openwrt.org/project/ubus.git/commit/795b32bb96b611493f423666236e9c1e49e0736c)
+- [ ] [<code>ubusd_id: use GRND_INSECURE to avoid blocking boot on getrandom()</code>](https://git.openwrt.org/project/ubus.git/commit/24864e7840b3a02a9ef76284a373f6b2f00b8a9b)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
