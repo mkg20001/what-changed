@@ -1250,6 +1250,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci-windows-installed.yml: Revert to windows-latest</code>](https://github.com/AOMediaCodec/libavif/commit/ea160ac56df44c571cd5781cbc24b2aeb1419b46)
 - [ ] [<code>Remove revision param of johnwason/vcpkg-action</code>](https://github.com/AOMediaCodec/libavif/commit/a29cfb5c59ac1ff7bee9f0af4f4df1f004102e1d)
 - [ ] [<code>TonemapCommand::Run: Use `image` consistently (#3283)</code>](https://github.com/AOMediaCodec/libavif/commit/89e519864258d68c1e2175cf8e7d0eb3556d4ba8)
+- [ ] [<code>Fix comment typos</code>](https://github.com/AOMediaCodec/libavif/commit/4f3a99351e3294942911d6550d0d0dd75e52ea90)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2031,6 +2032,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Document virtual node GUI and dynamic configuration creation (#22766)</code>](https://github.com/netdata/netdata.git/commit/db1cd54fe3154c43ad9cc636c2531611d598ba0f)
 - [ ] [<code>docs: Add Cloud firewall egress allowlisting to agent security doc (#22765)</code>](https://github.com/netdata/netdata.git/commit/861773d5a03507735754f1e48b3be74daf9ca557)
 - [ ] [<code>docs(map): route Service Discovery via integration_placeholder (#22895)</code>](https://github.com/netdata/netdata.git/commit/6b0c00ee6aa5cb65f6318f98e8b2340b484fa929)
+- [ ] [<code>docs: fix SD learn rel path (#22898)</code>](https://github.com/netdata/netdata.git/commit/548c78a0cd507a50d57b669a28c87246f9e9341e)
+- [ ] [<code>chore(codeowners): own .agents/ with maintainers (#22899)</code>](https://github.com/netdata/netdata.git/commit/223d2a75ef4ec619fe4c232163e0a3eb1d58e313)
+- [ ] [<code>Refactor SPINLOCK_TRACKED to store acquire-site function names inline (#22890)</code>](https://github.com/netdata/netdata.git/commit/66aee690aa7394574a9b5ae7dc6a8260227bc0e0)
+- [ ] [<code>build(rust): keep line tables instead of full debuginfo (#22907)</code>](https://github.com/netdata/netdata.git/commit/128d69a66ad0f879126ac2cdc10370733b9b9b03)
+- [ ] [<code>build(packaging): enable scripts.d plugin in static and docker builds (#22892)</code>](https://github.com/netdata/netdata.git/commit/d96d0c0093f2b9455ee20ad0bc1dc6602c337d72)
+- [ ] [<code>Fix _is_parent label update on receiver bursts (#22902)</code>](https://github.com/netdata/netdata.git/commit/cc5d48deb2f6c66b35030aba202dc63d47f051c7)
+- [ ] [<code>Netdata fixes part 1 (#22900)</code>](https://github.com/netdata/netdata.git/commit/c5d8dec3d784f6d97de6818bc567d05b10a3dd34)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4774,6 +4782,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(build): bundle Android NDK libomp.so into the SDK package (#1119)</code>](https://github.com/NexaAI/nexa-sdk/commit/ad53a7b0ab11050139f5bb1213d060911df6317f)
   - <sub>Tags: <code>v0.3.13</code></sub>
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(deps): bump actions/checkout from 6 to 7</code>](https://github.com/NexaAI/nexa-sdk/commit/88738e705732f9fd23aaa5d4980040ac8fc5235c)
+- [ ] [<code>chore(deps): bump docker/setup-buildx-action from 3 to 4</code>](https://github.com/NexaAI/nexa-sdk/commit/5c17922f8e126b76ace63e188d3f21070ed0b6f3)
+- [ ] [<code>chore(deps): bump actions/configure-pages from 5 to 6</code>](https://github.com/NexaAI/nexa-sdk/commit/771c6c6631ce93b3e1151271a3c47d05af5838ae)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5192,6 +5203,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): add earbud case category icon</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1c519cddc8359eb164f7fd61d5245f8fb6c46bfc)
 - [ ] [<code>build: v2.9.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f88d149a38e833bab178c5744da8505f3a8df6e)
   - <sub>Tags: <code>v2.9.0</code></sub>
+- [ ] [<code>ci: bump actions/checkout from 6.0.3 to 7.0.0 (#307)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/40e014c2f163f2868fd3f207305d7abe3651992a)
+- [ ] [<code>ci: bump taiki-e/install-action from 2.81.4 to 2.82.0 (#308)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/41d9af1540b1817c767a6c84b204fdf19eeeb863)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.5 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.5...HEAD)
 
@@ -10980,6 +10993,49 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(codex): preserve per-app approval reviewer policy (#97327)</code>](https://github.com/openclaw/openclaw/commit/389c355bcf3f827960b4ee0075200df5dff31158)
 - [ ] [<code>fix #95519: [Bug]: Fallback should trigger on provider upstream_error / LLM request failed (#95542)</code>](https://github.com/openclaw/openclaw/commit/cfd8ba8fc81defb9ad2af8e5c0981d65c3a5ab03)
 - [ ] [<code>fix(memory): record structured dreaming outcomes (#97723)</code>](https://github.com/openclaw/openclaw/commit/db2488b6e3d6cda03fc60b30059cdf22038c0acd)
+- [ ] [<code>fix(ui): collapse failed internal tool calls when the turn still replied (#89683) (#90122)</code>](https://github.com/openclaw/openclaw/commit/355c43fe0c9eb1f9e0980a8e407f6ea8c325f350)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(tasks): recover terminal lost cron rows (#86088)</code>](https://github.com/openclaw/openclaw/commit/be94853de0d0a282cfbe63316084a73613819084)
+- [ ] [<code>test(config): add unit tests for mapZodIssueToConfigIssue (#97736)</code>](https://github.com/openclaw/openclaw/commit/d21ddd3f7a881aa76e4974e3b816ebabc458cb97)
+- [ ] [<code>test(firecrawl): add unit tests for firecrawl client functions (#97714)</code>](https://github.com/openclaw/openclaw/commit/86b9b88f4066655e73590638eaffc81677bf475d)
+- [ ] [<code>fix(os): use sw_vers for macOS version on Darwin instead of os.release() (#95225)</code>](https://github.com/openclaw/openclaw/commit/825d9a66623a694d8dc959fc1d2f38e64b611940)
+- [ ] [<code>fix(session-memory): skip transcript-only assistant messages in getRecentSessionContent (#94401)</code>](https://github.com/openclaw/openclaw/commit/1052652a7168025dfa7d52c75e80460fde87f8cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): enable bundled static catalog fallback for cron Attempt 2 (#96070)</code>](https://github.com/openclaw/openclaw/commit/6de357ad477260bb60a6c9196ca0a8f23ad68d7e)
+- [ ] [<code>feat(whatsapp): support Baileys WebSocket URL override (#97155)</code>](https://github.com/openclaw/openclaw/commit/0deddfa20428918d896a970a545b4dfbac0fa8d1)
+- [ ] [<code>test(infra): add numeric option helper coverage</code>](https://github.com/openclaw/openclaw/commit/ecf054a40fb8448350ef967e4cbe53d48cb58b97)
+- [ ] [<code>fix(discord): bound PluralKit and voice-message JSON reads</code>](https://github.com/openclaw/openclaw/commit/597a0ba43ca3bbc35b33216abefc37449ea279ec)
+- [ ] [<code>fix(cron): warn when allowed web_search has no provider</code>](https://github.com/openclaw/openclaw/commit/685b95b607bbf891397c58928bacbc9e6020eefd)
+- [ ] [<code>fix(nodes): guard node scalar fields against malformed entries</code>](https://github.com/openclaw/openclaw/commit/5f60724b6d7befef8bb8bad6ed5ad2b74260b47e)
+- [ ] [<code>test: link ClawHub packaged plugin QA evidence (#97712)</code>](https://github.com/openclaw/openclaw/commit/beab0ecb02ddea0c3881bda029961304314c3796)
+- [ ] [<code>fix(status): surface should-run plugin drift (#97878)</code>](https://github.com/openclaw/openclaw/commit/888f399499c446a711832142b87a406cdf4cdc88)
+- [ ] [<code>fix(compaction): count bashExecution and summary turns in pre-prompt overflow precheck (#97861)</code>](https://github.com/openclaw/openclaw/commit/24626e5266b75f92c6d26e93d8451d875444e5f0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): call process.exit(1) in root help and version fast path error handlers (#97793) (#97807)</code>](https://github.com/openclaw/openclaw/commit/84cd3aa7f59a16d7589589828c228d64bc980865)
+- [ ] [<code>fix(chutes): bound OAuth token error response reads (#97808)</code>](https://github.com/openclaw/openclaw/commit/9949f6bd85000aaeebb6d2a2c2009c2461deb4a0)
+- [ ] [<code>fix(whatsapp): validate WebSocket URL env (#97697)</code>](https://github.com/openclaw/openclaw/commit/2ec67089801834d8bb686967cb7d026270277a5c)
+- [ ] [<code>fix(microsoft-foundry): bound connection test error reads (#97812)</code>](https://github.com/openclaw/openclaw/commit/eb5fb2aa69f4bd42014b7d7b0ac08ce13825f6eb)
+- [ ] [<code>fix(nextcloud-talk): bound bot preflight error reads (#97811)</code>](https://github.com/openclaw/openclaw/commit/09167523bf4092aba45ec7b28f4d7b1ea1d23c1b)
+- [ ] [<code>test(shared): add unit tests for surrogate-safe UTF-16 string slicing helpers (#97805)</code>](https://github.com/openclaw/openclaw/commit/f92ec2d4e88b7c4cea6cf733c70028c641ab3be4)
+- [ ] [<code>fix(secrets): strip control characters from secret input (#96444)</code>](https://github.com/openclaw/openclaw/commit/bc7f0f1223cd760ab812eeab526e02ae6ae27d68)
+- [ ] [<code>feat(qa): wire crabline slack transport (#97891)</code>](https://github.com/openclaw/openclaw/commit/2cc43aec2deb62c357e52d3f833fa9e38ef45020)
+- [ ] [<code>fix(line): preserve uploaded file names for media detection (#96403)</code>](https://github.com/openclaw/openclaw/commit/aa5ec51af0088fe59b56736fcdfe34b8b1bd1006)
+- [ ] [<code>docs: add generated docs map (#95954)</code>](https://github.com/openclaw/openclaw/commit/7e428797ec787fae5e17845ee9d2af59201264ba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(cron): keep a due recurring run when an edit re-saves the same schedule (#96159)</code>](https://github.com/openclaw/openclaw/commit/e38d64c5f88b269ca99843696815e285f905dce7)
+- [ ] [<code>feat(qa): wire crabline whatsapp transport (#95920)</code>](https://github.com/openclaw/openclaw/commit/5816e0194e59b860ecfd0b42db593080c23ed225)
+- [ ] [<code>test: add ClawHub release candidate QA proof (#97896)</code>](https://github.com/openclaw/openclaw/commit/80a3c515fd133454da70e3dcea60141939b17d3e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auth): strip controls from masked API keys (#96445)</code>](https://github.com/openclaw/openclaw/commit/2906d6c38f12f64c842b5c36572685041b8bbd39)
+- [ ] [<code>fix(google-meet): fall back to manual OAuth paste when callback port is occupied (#96492)</code>](https://github.com/openclaw/openclaw/commit/38ab207591e428be8fa809a2331cf8fcad802c49)
+- [ ] [<code>fix(agents): stop recording accepted sessions_spawn launches as tool failures (#96851)</code>](https://github.com/openclaw/openclaw/commit/82dfd89107432d7f8383cdf5c3d5ecca15650672)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: bump ClawHub package publish workflow (#97907)</code>](https://github.com/openclaw/openclaw/commit/d43366b4e392a02763c45bcdd095cee437eb3f23)
+- [ ] [<code>test: add hosted media provider QA live evidence (#97900)</code>](https://github.com/openclaw/openclaw/commit/05d83125c91284bbfff39bafdca83c83f1dffe8c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): require privileged dreaming config changes (#97869)</code>](https://github.com/openclaw/openclaw/commit/29f787f10ed4539c410749ef33a2d64928c9be0f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: retry platform checkout fetch timeouts (#97912)</code>](https://github.com/openclaw/openclaw/commit/15de9d881a847626c27631b6dd87dbfe10729757)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
