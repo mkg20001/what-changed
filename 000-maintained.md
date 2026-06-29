@@ -5161,6 +5161,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(gui): add key bind to open settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/009d7aa2eb134ed53738a6d73709004992524572)
 - [ ] [<code>fix(gui): buttons that open context drawer should toggle it</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e574021d9409dc18a60f570bdae0d5afa0edde3)
 - [ ] [<code>feat(gui): add key bind to close dialogs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31941a142c36dcedbcaf56e2c4eb5b72972ac7ff)
+- [ ] [<code>feat(lib): add support for a3954</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8883d124297adae24119ded7d15b1f7a1b4ace87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: don't depend on unstable just features</code>](https://github.com/Oppzippy/OpenSCQ30/commit/05bc59bb1cfd043bb985108688ef3cc8a05706b1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dda7cf2a6558bcbff494647fe1dcd8e39bbbc7b5)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.5 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.5...HEAD)
 
@@ -10802,6 +10807,53 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(web-fetch): decode astral HTML entities and stop double-decoding &amp; (#96268)</code>](https://github.com/openclaw/openclaw/commit/a1d1381c2b4b3ab2d48c5bcd4d94358b78039926)
 - [ ] [<code>fix(gateway): handle exec approvals persistence errors (#79861)</code>](https://github.com/openclaw/openclaw/commit/904c8717d0bb364a9850466d8e1486085244db60)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(issue-template): split logs and screenshots into separate fields (#73649)</code>](https://github.com/openclaw/openclaw/commit/7236e5f89f42868e680751fc1e2696380e19d287)
+- [ ] [<code>Replace SHA-1 with SHA-256 for config fingerprinting (#59695)</code>](https://github.com/openclaw/openclaw/commit/26f92a4f8d5f663a0d51ba7f0a5497e4763df900)
+- [ ] [<code>Add prototype pollution guard to resolveConfigPath (#59694)</code>](https://github.com/openclaw/openclaw/commit/f37e45ecc1f4a32d6dbd3dca095e50ed17021ec8)
+- [ ] [<code>fix(doctor): warn and document QMD session recall gates (#80947)</code>](https://github.com/openclaw/openclaw/commit/78029e43d2d4e71ead075308ec9031152956cb58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(shared): use UTF-16 safe truncation in subagent line display (#97557)</code>](https://github.com/openclaw/openclaw/commit/c9d2edfb7e597edb9792fee22e10f615079927af)
+- [ ] [<code>fix(cron): truncate failure alert error text on UTF-16 boundary (#97298)</code>](https://github.com/openclaw/openclaw/commit/686a2876c7f4163ca801b5d740c2f7a57c303550)
+- [ ] [<code>fix(terminal-core): strip controls from terminal links (#96440)</code>](https://github.com/openclaw/openclaw/commit/d1d0176accb3f06623760a65d797d60a0acf35b9)
+- [ ] [<code>Add marketplace feed entries command (#96158)</code>](https://github.com/openclaw/openclaw/commit/9bb004359ee5ee15b0881c2bce89bd4385db5a3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): clarify strict json parsing (#80981)</code>](https://github.com/openclaw/openclaw/commit/8e698115600c4be459e9f4c007192d2c406bf311)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(google): bound embedding-batch JSON response reads (#97535)</code>](https://github.com/openclaw/openclaw/commit/91297bf420822bbfd8883af157fe9d1c77774dde)
+- [ ] [<code>fix(cli): differentiate gateway-restart hint for hot-loadable agent config sets (#80722) (#80823)</code>](https://github.com/openclaw/openclaw/commit/a54919dcbc95890fd48549e7682a78fa5bb43052)
+- [ ] [<code>Fix Discord gzip response parsing (#80788)</code>](https://github.com/openclaw/openclaw/commit/8f31b3218f9dc89adf67ad9b33da01f8afff6ca4)
+- [ ] [<code>Fix iOS chat Dynamic Type text (#97552)</code>](https://github.com/openclaw/openclaw/commit/a54206f0f5d113c4294878cc5654ee327a406355)
+- [ ] [<code>Fix getSubagentDepth for legacy subagent session keys (AI-assisted) (#54593)</code>](https://github.com/openclaw/openclaw/commit/542e9a4e67b366dc19355280820b0c6c5fc6b6c4)
+- [ ] [<code>fix(cron): treat exact-second cron slots as valid in stale-future repair (#81731)</code>](https://github.com/openclaw/openclaw/commit/e99f254f1cd98b59b92003ad33a6b440c4d6e2da)
+- [ ] [<code>fix(usage): show every calendar day in Daily Token Usage / Daily Cost chart (#81467)</code>](https://github.com/openclaw/openclaw/commit/affd7471b3d2655d53e3ea8d4425d412c8e12d5f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): make `models aliases remove` honest about built-in aliases (#81641)</code>](https://github.com/openclaw/openclaw/commit/5dc73df8604b8633126971cc79f56c52090a0a0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add marketplace feed telemetry (#96194)</code>](https://github.com/openclaw/openclaw/commit/9c5ee4676d0732e72ee9a939ae4918dc89bcaab8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(line): load accounts.default and default-enable named accounts (#81471)</code>](https://github.com/openclaw/openclaw/commit/0647260f8727b3d8d833bef0c368bf0b46f7c048)
+- [ ] [<code>fix(cron): guard against undefined sourceDelivery in isolated executor (#85249)</code>](https://github.com/openclaw/openclaw/commit/30b39c6eab438bf921307d2f9b6a9435d5274857)
+- [ ] [<code>fix: recover terminal session status on visible inbound turns (#89045)</code>](https://github.com/openclaw/openclaw/commit/6f90ee4cb895e820f530732f17c7af34bb8a427f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): preserve chunked bot replies</code>](https://github.com/openclaw/openclaw/commit/b5854c6f77683119e0b92fe12effdd04a398f30a)
+- [ ] [<code>fix(telegram): track chunked outbound sends</code>](https://github.com/openclaw/openclaw/commit/bc2728c6b17ab04536fffba9d573083166311da4)
+- [ ] [<code>fix(telegram): preserve literal reasoning tags</code>](https://github.com/openclaw/openclaw/commit/52eb5946c7963b68570879a18255a81cd56f1f33)
+- [ ] [<code>test: inventory conditional test gates</code>](https://github.com/openclaw/openclaw/commit/2a01602a7f33dc3905e40b1c35f89e1e2a90c8d7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>perf: skip manifest normalization in status summary (#87831)</code>](https://github.com/openclaw/openclaw/commit/87aae9f11d270c414e1ae97cff34540069cf71e7)
+- [ ] [<code>fix(status): warm gateway context cache in background (#97576)</code>](https://github.com/openclaw/openclaw/commit/33aef6582ce5002312456ccb32ce4c0b34337246)
+- [ ] [<code>fix(webchat): keep media loads pinned to bottom (#97575)</code>](https://github.com/openclaw/openclaw/commit/180a960ede9e5fb30055e00a45110081e152374e)
+- [ ] [<code>Avoid post-run auth success lane delay (#85829)</code>](https://github.com/openclaw/openclaw/commit/68b533dc9fe490aeb627a2e746cafe74b16e138e)
+- [ ] [<code>fix: detect chained test modifiers</code>](https://github.com/openclaw/openclaw/commit/e9ee58c434194f277b3414b326d71ce4374a69ed)
+- [ ] [<code>test: restore embedded agent fixture types</code>](https://github.com/openclaw/openclaw/commit/19cac35a06ed8b107ab6a0fac5ad60ec8e3982e0)
+- [ ] [<code>fix: preserve status model alias display</code>](https://github.com/openclaw/openclaw/commit/1d4e7899a47f4483d29848eac02e1fb89de2a2ee)
+- [ ] [<code>fix(slack): truncate rich text preview on UTF-16 boundary (#96577)</code>](https://github.com/openclaw/openclaw/commit/e8d7b1feafe85cacf54c3226d0f4a25f8caa97c5)
+- [ ] [<code>fix(heartbeat): clear pendingFinalDelivery* on send success (#83187)</code>](https://github.com/openclaw/openclaw/commit/305fa9c4ddbe41e56ecf3bac41828a8e323a583a)
+- [ ] [<code>fix(zai): bound Z.AI endpoint-probe error body reads to prevent OOM (#97540)</code>](https://github.com/openclaw/openclaw/commit/411a5e63be1e6e48232bbae399b0e284d866b6d8)
+- [ ] [<code>fix(proxy-capture): bound captured response bodies to prevent OOM (#97551)</code>](https://github.com/openclaw/openclaw/commit/c1d17c8ddd3383006310b049ad902fabfb413fb4)
+- [ ] [<code>improve(qa-lab): bound Discord API response reads in mantis smoke (#97548)</code>](https://github.com/openclaw/openclaw/commit/0f619eaa1529c81838facf50c4caa6efa90dac28)
+- [ ] [<code>fix(inworld): bound TTS audio, voices, and error response reads to prevent OOM (#95416)</code>](https://github.com/openclaw/openclaw/commit/4c8470c0699cbbb1ce6a7423928a41a465d1c05e)
+- [ ] [<code>docs: map guanbear clawtributor emails (#90547)</code>](https://github.com/openclaw/openclaw/commit/87db23e5432bf4279bba3f8c04326515a42b85f7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
