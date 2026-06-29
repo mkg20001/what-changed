@@ -357,6 +357,10 @@
 - [ ] [<code>screenshot: Allow disabling the flash.</code>](https://github.com/linuxmint/cinnamon/commit/48dc291ef0c7ae485a603bdce650945f146325b3)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenShield.js: Restore original float time.</code>](https://github.com/linuxmint/cinnamon/commit/131b0548d4a2e0258c1bfb96f88ed1e6db85b9c2)
+- [ ] [<code>power applet: Retry the power daemon when it becomes active.</code>](https://github.com/linuxmint/cinnamon/commit/24847d4e0b268b19da7d5983a0351284cc7d53d1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel: Drop xinerama conversions for panel monitor indices.</code>](https://github.com/linuxmint/cinnamon/commit/c4223ce402b1fef09cd8770f70552d1c28c7ad49)
+- [ ] [<code>osdWindow: cleanup unused code.</code>](https://github.com/linuxmint/cinnamon/commit/0d2cb3c7c0ea94df4d7c49ea3cd17d4716fa4eb3)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -634,6 +638,8 @@
 - [ ] [<code>meta-renderer-native.c: native: Only accept GBM renderer when it's</code>](https://github.com/linuxmint/muffin/commit/28d652bb51954f7e33e4d64ee664ab83f27c8cc9)
 - [ ] [<code>meta-wayland-layer-shell.c: Avoid double-free during unclean client</code>](https://github.com/linuxmint/muffin/commit/e0fb430fa668132db0b81fd720bb45a6c8384c6d)
 - [ ] [<code>meta-wayland-dma-buf.c: Clean up excessive logging.</code>](https://github.com/linuxmint/muffin/commit/75390a95faa913c0aa52ac68f46861d83b4de79c)
+- [ ] [<code>monitors: order logical monitors primary-first, then by connector</code>](https://github.com/linuxmint/muffin/commit/476ea9b2fadc41733e58cf0c8437b5bce245bd9c)
+- [ ] [<code>display: Update some documentation.</code>](https://github.com/linuxmint/muffin/commit/262554d3029b296d1a98902ef75cbe2c8dde6bd8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
