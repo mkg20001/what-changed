@@ -633,6 +633,7 @@
 - [ ] [<code>wayland: Prefer gbm over EGL (nvidia) (#773)</code>](https://github.com/linuxmint/muffin/commit/db93b03e610f51eab64ed5f1f9bb0c3bd0d90ddc)
 - [ ] [<code>meta-renderer-native.c: native: Only accept GBM renderer when it's</code>](https://github.com/linuxmint/muffin/commit/28d652bb51954f7e33e4d64ee664ab83f27c8cc9)
 - [ ] [<code>meta-wayland-layer-shell.c: Avoid double-free during unclean client</code>](https://github.com/linuxmint/muffin/commit/e0fb430fa668132db0b81fd720bb45a6c8384c6d)
+- [ ] [<code>meta-wayland-dma-buf.c: Clean up excessive logging.</code>](https://github.com/linuxmint/muffin/commit/75390a95faa913c0aa52ac68f46861d83b4de79c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
