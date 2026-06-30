@@ -11036,6 +11036,37 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(memory): require privileged dreaming config changes (#97869)</code>](https://github.com/openclaw/openclaw/commit/29f787f10ed4539c410749ef33a2d64928c9be0f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: retry platform checkout fetch timeouts (#97912)</code>](https://github.com/openclaw/openclaw/commit/15de9d881a847626c27631b6dd87dbfe10729757)
+- [ ] [<code>feat(qa): add transport scenario requirements (#97915)</code>](https://github.com/openclaw/openclaw/commit/843ad143647ec5472242d3d52d448952d44b21b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(voicecall): redact read-scoped status payloads (#97870)</code>](https://github.com/openclaw/openclaw/commit/825aafac577a1e887d1bfcec3eaa3972a71f76b2)
+- [ ] [<code>fix(voice): require admin for voice set (#97874)</code>](https://github.com/openclaw/openclaw/commit/cbdbb22c603e3df38093bb17cdfb8a399cf1b67f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Ollama Cloud tool calls fail on second turn (#96474)</code>](https://github.com/openclaw/openclaw/commit/3047e6c43dfe515059ea4e5134f4597083936709)
+- [ ] [<code>fix(pdf): guard native provider requests (#97872)</code>](https://github.com/openclaw/openclaw/commit/b7b2e1f77eb4d2d58982db065642d70db50d4c8c)
+- [ ] [<code>Update QA Lab Crabline integration (#97941)</code>](https://github.com/openclaw/openclaw/commit/5dae3d49e6233dcc739c2f0eb1ffa66cac24a712)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: dedupe Linux checkout step (#97940)</code>](https://github.com/openclaw/openclaw/commit/f7cca686f78daa58039cd6c66543a90c4f3755ab)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: /pair qr fails to show QR code in chat surfaces (#97933)</code>](https://github.com/openclaw/openclaw/commit/052dc59526a2dfdab64b3b16d8fe31650d902856)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ci): dedupe workflow sanity checkout (#97946)</code>](https://github.com/openclaw/openclaw/commit/0b2cd9cc414a2466a59fc7c8a571a867f05c4bfe)
+- [ ] [<code>chore(ci): dedupe BuildKit pre-pull step (#97951)</code>](https://github.com/openclaw/openclaw/commit/a255fc6dc4166f532c312464d736b1b047a1922e)
+- [ ] [<code>chore(ci): dedupe Crabbox Docker check (#97950)</code>](https://github.com/openclaw/openclaw/commit/4f95c6969b410ad9541dc397b1fbb8cfb0f0dde9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): require admin scope for browser proxy invoke (#85916)</code>](https://github.com/openclaw/openclaw/commit/456c48f368cb1978433f21f295a7da7cb1faec9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ci): dedupe QA live credential check (#97947)</code>](https://github.com/openclaw/openclaw/commit/a107b95ee788a5322566638a0aafaee6c7cdedb3)
+- [ ] [<code>chore(ci): dedupe release QA credential check (#97948)</code>](https://github.com/openclaw/openclaw/commit/2acffd7f3d9643cc8636e5b372a5df798a2591c3)
+- [ ] [<code>docs(ci): update runner registration budget (#97943)</code>](https://github.com/openclaw/openclaw/commit/18b2ff683fd3c06df568884e94db51843b046b2d)
+- [ ] [<code>test(qa): expand docker lane adapter (#97937)</code>](https://github.com/openclaw/openclaw/commit/fd3f354f462615c491894aa27066466df2878552)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(browser): block node routes when sandbox host control is disabled (#97958)</code>](https://github.com/openclaw/openclaw/commit/2cf765f73263df77d4593941ca5a768d8e53b084)
+- [ ] [<code>fix(codex): restrict computer-use installation (#97955)</code>](https://github.com/openclaw/openclaw/commit/e87b0df675756aaacb38e95aa886cb4f83b15482)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[codex] docs: add release notes placeholder (#97959)</code>](https://github.com/openclaw/openclaw/commit/606bcc8d14d6f4ee318cab7dc093fcd333987e98)
+- [ ] [<code>fix(acp): require owner for runtime controls (#97953)</code>](https://github.com/openclaw/openclaw/commit/6ead092302842a0c082b3126c08319b0da133a4a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): deliver durable reasoning when enabled</code>](https://github.com/openclaw/openclaw/commit/455f813d6ee606864e6db17a51ad6e7adfd13786)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
