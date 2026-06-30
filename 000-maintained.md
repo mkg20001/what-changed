@@ -657,6 +657,9 @@
 - [ ] [<code>chore: follow up app lock check on main.dart</code>](https://github.com/krille-chan/fluffychat/commit/d3ffeaa55829165a61958fd3c06d859f15487aab)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/be2036182f1a99f85fb6ff41d15d1b8c85bace9f)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4d4f1f4b5ec05209f4011dfe6fa33cee4f513c06)
+- [ ] [<code>build: (deps): bump share_plus from 13.1.0 to 13.2.0</code>](https://github.com/krille-chan/fluffychat/commit/c1b2ad6438a96b252e1e01d458e230678abc97bc)
+- [ ] [<code>build: (deps): bump record from 6.2.1 to 7.1.1</code>](https://github.com/krille-chan/fluffychat/commit/60617b6b5ac05e66eb271a3a6bf69237ade83ccd)
+- [ ] [<code>chore: bring displaynames back to top of messages</code>](https://github.com/krille-chan/fluffychat/commit/896b2fa792cb4f3fa40e4892ab2c8db86d18ec75)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1094,6 +1097,9 @@
 - [ ] [<code>chore: follow up app lock check on main.dart</code>](https://github.com/krille-chan/fluffychat/commit/d3ffeaa55829165a61958fd3c06d859f15487aab)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/be2036182f1a99f85fb6ff41d15d1b8c85bace9f)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4d4f1f4b5ec05209f4011dfe6fa33cee4f513c06)
+- [ ] [<code>build: (deps): bump share_plus from 13.1.0 to 13.2.0</code>](https://github.com/krille-chan/fluffychat/commit/c1b2ad6438a96b252e1e01d458e230678abc97bc)
+- [ ] [<code>build: (deps): bump record from 6.2.1 to 7.1.1</code>](https://github.com/krille-chan/fluffychat/commit/60617b6b5ac05e66eb271a3a6bf69237ade83ccd)
+- [ ] [<code>chore: bring displaynames back to top of messages</code>](https://github.com/krille-chan/fluffychat/commit/896b2fa792cb4f3fa40e4892ab2c8db86d18ec75)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2039,6 +2045,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(packaging): enable scripts.d plugin in static and docker builds (#22892)</code>](https://github.com/netdata/netdata.git/commit/d96d0c0093f2b9455ee20ad0bc1dc6602c337d72)
 - [ ] [<code>Fix _is_parent label update on receiver bursts (#22902)</code>](https://github.com/netdata/netdata.git/commit/cc5d48deb2f6c66b35030aba202dc63d47f051c7)
 - [ ] [<code>Netdata fixes part 1 (#22900)</code>](https://github.com/netdata/netdata.git/commit/c5d8dec3d784f6d97de6818bc567d05b10a3dd34)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-572-nightly.</code>](https://github.com/netdata/netdata.git/commit/b6946aabf5c7f9ec88abb71d66efe02d0d5d804c)
+- [ ] [<code>Netdata fixes part 2 (#22901)</code>](https://github.com/netdata/netdata.git/commit/f4d2e24d968445875334dce741cfd5e6a45b02cb)
+- [ ] [<code>Netdata fixes part 3 (#22903)</code>](https://github.com/netdata/netdata.git/commit/561407871e85e6722fccee8457607069a8887ce8)
+- [ ] [<code>Netdata fixes part 4 (#22904)</code>](https://github.com/netdata/netdata.git/commit/e245a097dda70ee6c69ef4f734d9b1db81da2efc)
+- [ ] [<code>Netdata fixes part 6 (#22906)</code>](https://github.com/netdata/netdata.git/commit/c68c056dca5c7ee15b33f84fd594ab7b201c8d6c)
+- [ ] [<code>Netdata fixes part 7 (#22909)</code>](https://github.com/netdata/netdata.git/commit/57dc7f8d134c0fd4cb70e2e1dca9aa6cfebb7ecb)
+- [ ] [<code>Fix coverity issues (#22835)</code>](https://github.com/netdata/netdata.git/commit/0b0ed423c62efca0faa4a4d86683f0d68595e420)
+- [ ] [<code>Netdata fixes part 8 (#22908)</code>](https://github.com/netdata/netdata.git/commit/f9fd2936a4c4467bfdfcbd612362a5cb54b7486e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4785,6 +4799,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deps): bump actions/checkout from 6 to 7</code>](https://github.com/NexaAI/nexa-sdk/commit/88738e705732f9fd23aaa5d4980040ac8fc5235c)
 - [ ] [<code>chore(deps): bump docker/setup-buildx-action from 3 to 4</code>](https://github.com/NexaAI/nexa-sdk/commit/5c17922f8e126b76ace63e188d3f21070ed0b6f3)
 - [ ] [<code>chore(deps): bump actions/configure-pages from 5 to 6</code>](https://github.com/NexaAI/nexa-sdk/commit/771c6c6631ce93b3e1151271a3c47d05af5838ae)
+- [ ] [<code>fix(sdk): auto-detect QAIRT VLM bundles in geniex-bench (#1124)</code>](https://github.com/NexaAI/nexa-sdk/commit/c9e4c601b18cf37b912e3613ffa10e369a0a42ac)
+  - <sub>Tags: <code>v0.3.13-alpha.3</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -11067,6 +11083,22 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(acp): require owner for runtime controls (#97953)</code>](https://github.com/openclaw/openclaw/commit/6ead092302842a0c082b3126c08319b0da133a4a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(telegram): deliver durable reasoning when enabled</code>](https://github.com/openclaw/openclaw/commit/455f813d6ee606864e6db17a51ad6e7adfd13786)
+- [ ] [<code>fix(cron): scope agent wake targets (#97949)</code>](https://github.com/openclaw/openclaw/commit/4aa07513fe89db11bc0335971f0a69cd5f03f8d5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(globals): add unit tests for global CLI flag state helpers (#96735)</code>](https://github.com/openclaw/openclaw/commit/28347ba51c3ddc6fc2d81850e8581059485b5f7d)
+- [ ] [<code>fix(imessage): require authorization for group actions (#97961)</code>](https://github.com/openclaw/openclaw/commit/587eefe5ad916ca14a586eae7708031a21b7724e)
+- [ ] [<code>fix(ios): reset sidebar navigation stacks (#94991)</code>](https://github.com/openclaw/openclaw/commit/54b09580f61b5d3ad41c1483dfd9d65cd4b2274a)
+- [ ] [<code>fix(codex): require admin for native controls (#97952)</code>](https://github.com/openclaw/openclaw/commit/72f837a4a4782bec761b5facb09f5559f2db5a19)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(matrix): use fixed crypto bootstrap command (#97181)</code>](https://github.com/openclaw/openclaw/commit/85ee71223f0dc4f5322b1c4732e262b9c1af82e8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(qqbot): tighten bundled skill guardrails (#98032)</code>](https://github.com/openclaw/openclaw/commit/56c2d637d9405d00b38a2ca87b92a25f8622d93d)
+- [ ] [<code>fix(codex): keep plugin apps available when inventory is missing (#98042)</code>](https://github.com/openclaw/openclaw/commit/58367137eac6677bc62f0401947f1bb6de5dfa5a)
+- [ ] [<code>fix(agents): skip pre-prompt precheck when context engine owns compaction (#95342)</code>](https://github.com/openclaw/openclaw/commit/444a093593776c8886ff7857acbe1b3db3fc2469)
+- [ ] [<code>fix: gate group activation changes by owner (#97838)</code>](https://github.com/openclaw/openclaw/commit/3d4b7cade9cda614a29b920d6953ecd96219c476)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: gate active memory global toggles (#97841)</code>](https://github.com/openclaw/openclaw/commit/738b2be4b49b0182788e70abb5454faf82407a2d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
