@@ -1257,6 +1257,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove revision param of johnwason/vcpkg-action</code>](https://github.com/AOMediaCodec/libavif/commit/a29cfb5c59ac1ff7bee9f0af4f4df1f004102e1d)
 - [ ] [<code>TonemapCommand::Run: Use `image` consistently (#3283)</code>](https://github.com/AOMediaCodec/libavif/commit/89e519864258d68c1e2175cf8e7d0eb3556d4ba8)
 - [ ] [<code>Fix comment typos</code>](https://github.com/AOMediaCodec/libavif/commit/4f3a99351e3294942911d6550d0d0dd75e52ea90)
+- [ ] [<code>Allow any value for avifDecoder::imageSizeLimit</code>](https://github.com/AOMediaCodec/libavif/commit/bd2703d3c8d51b53d18105c128dc533c4cf0967d)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2053,6 +2054,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Netdata fixes part 7 (#22909)</code>](https://github.com/netdata/netdata.git/commit/57dc7f8d134c0fd4cb70e2e1dca9aa6cfebb7ecb)
 - [ ] [<code>Fix coverity issues (#22835)</code>](https://github.com/netdata/netdata.git/commit/0b0ed423c62efca0faa4a4d86683f0d68595e420)
 - [ ] [<code>Netdata fixes part 8 (#22908)</code>](https://github.com/netdata/netdata.git/commit/f9fd2936a4c4467bfdfcbd612362a5cb54b7486e)
+- [ ] [<code>docs: Add outbound communication paths to Agent security design page (#22778)</code>](https://github.com/netdata/netdata.git/commit/b79b3cba1bd4646a20c221d6f00fe57b70452b04)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs: document managing automatic updates in the Update guide (#22768)</code>](https://github.com/netdata/netdata.git/commit/755c2e0a6473c686360aa5b052eb61e813f5b7e7)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: Add EKS Kubernetes monitoring cross-link to AWS install guide (#22817)</code>](https://github.com/netdata/netdata.git/commit/8a95fb469bda088fee0949540cd8f84ba0aea861)
+- [ ] [<code>Remove openSUSE Leap 15.6 from CI and package builds. (#22239)</code>](https://github.com/netdata/netdata.git/commit/411dd515eee5c71fd1a50d59322ac173906f8daf)
+- [ ] [<code>Fix DBEngine retention accounting underflow (#22914)</code>](https://github.com/netdata/netdata.git/commit/4bfa95ea250db1fa4ca331e4ee9706a70fbb17a8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -11098,6 +11106,51 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: gate group activation changes by owner (#97838)</code>](https://github.com/openclaw/openclaw/commit/3d4b7cade9cda614a29b920d6953ecd96219c476)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: gate active memory global toggles (#97841)</code>](https://github.com/openclaw/openclaw/commit/738b2be4b49b0182788e70abb5454faf82407a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: require owner for trajectory export (#97840)</code>](https://github.com/openclaw/openclaw/commit/6cb82eaab8650bcd0fb9cb4d8ae0d60fcf341b3c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugin-sdk): guard legacy dedupe JSON parse against malformed files (#98125)</code>](https://github.com/openclaw/openclaw/commit/169acd1e4ed4da06cb046df0c8fd2d61b2b3d700)
+- [ ] [<code>fix(agents): classify Anthropic orphaned tool-use replay errors (#98163)</code>](https://github.com/openclaw/openclaw/commit/a75431c586ceb0626cd25b487f3230362e2a6bd5)
+- [ ] [<code>fix(cli): bound docs search API response reads with committed test (#98188)</code>](https://github.com/openclaw/openclaw/commit/f284ce3b4df717dde2bbec22f840906c31bcb1f0)
+- [ ] [<code>fix(text): strip antml:namespaced tool call XML from visible content</code>](https://github.com/openclaw/openclaw/commit/b2787a1c7a7ae1a20d05411bba1dbf9091490c23)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory-wiki): strip fenced code blocks before wikilink extraction (fixes #97945) (AI-assisted) (#97954)</code>](https://github.com/openclaw/openclaw/commit/c896718acb2ac565da79a6f019bca943eb87721b)
+- [ ] [<code>fix(discord): expose sender bot status in context (#97824)</code>](https://github.com/openclaw/openclaw/commit/984f5a51ca84ed074d56e5b007abbfb97d79a4da)
+- [ ] [<code>fix(googlechat): expose sender bot status in context (#97825)</code>](https://github.com/openclaw/openclaw/commit/37341a703223bc44b03570307c271c0f8ea1749c)
+- [ ] [<code>fix(slack): expose sender bot status in context (#97822)</code>](https://github.com/openclaw/openclaw/commit/5c4e478df4ef92237cc26711fe0506021621dacd)
+- [ ] [<code>fix(feishu): route non-thread p2p DM replies to user:<open_id></code>](https://github.com/openclaw/openclaw/commit/62fa674a399e81084eba0f9363bc98ab9872d6a3)
+- [ ] [<code>fix(feishu): require explicit reply send target</code>](https://github.com/openclaw/openclaw/commit/f078962d17595be440581b953c8b2f5a18a66fec)
+- [ ] [<code>chore(release): update appcast for 2026.6.11</code>](https://github.com/openclaw/openclaw/commit/8d1a31c9a4b22729928664ceae5fa3689dce1b23)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): hydrate album sibling media context</code>](https://github.com/openclaw/openclaw/commit/9aec0f089bbb126766a14dc0088adf1007b547d8)
+- [ ] [<code>fix(telegram): omit skipped album context</code>](https://github.com/openclaw/openclaw/commit/bba63d3fe0e0d988ff38d24ed93593488f41bf7a)
+- [ ] [<code>test(telegram): satisfy album context lint</code>](https://github.com/openclaw/openclaw/commit/44f3c3e43aa3a8855396aeebac5f3311dd4ff21a)
+- [ ] [<code>refactor(telegram): simplify album prompt selection</code>](https://github.com/openclaw/openclaw/commit/86bdfec6b70808ed2fdb3c609da534f06cd65672)
+- [ ] [<code>fix(gateway): reject agent RPC runs for deleted-agent sessions</code>](https://github.com/openclaw/openclaw/commit/71e6505fb1427ed5faacc052b125599c4927839e)
+- [ ] [<code>test(gateway): add live agent RPC deleted-agent integration proof</code>](https://github.com/openclaw/openclaw/commit/60f30be526d1085bcada98ec28b4b4531847fb9a)
+- [ ] [<code>test(gateway): model ops as configured in voice-wake agent fixture</code>](https://github.com/openclaw/openclaw/commit/8cf599cb93b2ce6ace0938beef9b33292e7b4fbf)
+- [ ] [<code>fix(gateway): guard deleted-agent sessions before agent reset commands</code>](https://github.com/openclaw/openclaw/commit/379756fc92af4bf777fe28e15336d9cb9d66ac6b)
+- [ ] [<code>fix(gateway): reject deleted-agent sessions before dedupe and attachment offload</code>](https://github.com/openclaw/openclaw/commit/afe137d83950ceda62836330ea4531c189a9ba1c)
+- [ ] [<code>refactor(gateway): distill deleted-agent RPC guard</code>](https://github.com/openclaw/openclaw/commit/35d06e6356a6b46ba9be13eeaaf682f30c22b0a1)
+- [ ] [<code>fix(gateway): reject deleted-agent exec followups before dedupe</code>](https://github.com/openclaw/openclaw/commit/8829dc4aae5b6371d5a3c83e80ef1c9886cb2589)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(signal): guard containerRestRequest JSON.parse against malformed responses (#98073)</code>](https://github.com/openclaw/openclaw/commit/7d98ad2a92640a067a2e11620f209ca84c46fe9f)
+- [ ] [<code>fix(config): fail closed when config is unreadable before a full-file write</code>](https://github.com/openclaw/openclaw/commit/14198836b2c6b6bfeb59efa89c233a5b57e0e0da)
+- [ ] [<code>test(config): distill unreadable config write guard cases</code>](https://github.com/openclaw/openclaw/commit/c1605064d0198bc15c3432f1e9e9fd33bbd5c8f1)
+- [ ] [<code>fix(config): preserve unreadable write rejection for exported writes</code>](https://github.com/openclaw/openclaw/commit/68c533cfb339cbb8650832cb2a4bf38dba7022fa)
+- [ ] [<code>fix(channels): keep text previews UTF-16 safe</code>](https://github.com/openclaw/openclaw/commit/c16bb8725a8a04d5de92855769cf87e13574384f)
+- [ ] [<code>fix(provider-transport-fetch): raise SSE sanitize buffer cap to 16 MiB</code>](https://github.com/openclaw/openclaw/commit/81d60ca30dfdf48e4ec069ac283dc95c5659e5bd)
+- [ ] [<code>test(provider-transport-fetch): cover split large SSE event</code>](https://github.com/openclaw/openclaw/commit/3f147ae5cacc657f32e9cc783a871df610ae23b1)
+- [ ] [<code>Streamline OpenClaw onboarding (#98218)</code>](https://github.com/openclaw/openclaw/commit/786abe78df5370a18e0e33b1f0f5fc5eda4faf99)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix: bump ClawHub publish CLI pin (#98233)</code>](https://github.com/openclaw/openclaw/commit/5e0652f284a87a602b3ae87076bbec32bf111243)
+- [ ] [<code>chore(release): close out 2026.6.11 on main</code>](https://github.com/openclaw/openclaw/commit/66e676d29b92d040716376a75aca32bad655cfac)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(moonshot): bound video description JSON response reads (#96502)</code>](https://github.com/openclaw/openclaw/commit/765d05c2e4a891873b782c969957c6eddc163405)
+- [ ] [<code>fix: preserve legacy ClawHub plugin family (#98249)</code>](https://github.com/openclaw/openclaw/commit/5a89484eb31dd2a8863c5c49aabbad06ecb0e48d)
+- [ ] [<code>fix(imessage): recognize MiniMax mm: reasoning tags in reflection guard (completes #93767) (#93820)</code>](https://github.com/openclaw/openclaw/commit/076da567f434388e03153692fdce099f1e6c5ca5)
+- [ ] [<code>fix(usage): reject inverted startDate-endDate range in usage.cost and sessions.usage (#94096)</code>](https://github.com/openclaw/openclaw/commit/640258d7b31d47e9bec3ad15e1e41f2096726070)
+- [ ] [<code>Doctor: expose auth profile findings (#97125)</code>](https://github.com/openclaw/openclaw/commit/9f07b21e6231ddb5db3fa845e4fc2763fcdecf86)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
