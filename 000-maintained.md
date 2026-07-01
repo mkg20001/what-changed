@@ -1328,6 +1328,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(release): prepare 0.12.2</code>](https://github.com/steipete/mcporter/commit/25daad40e90109b7bcc6f5a5c5c76ea57ac5e9d6)
   - <sub>Tags: <code>v0.12.2</code></sub>
 - [ ] [<code>chore(release): start 0.12.3</code>](https://github.com/steipete/mcporter/commit/18b42a04c20d5fc59c460fd62f0ac13a28f2afde)
+- [ ] [<code>fix: render array item types in list signatures</code>](https://github.com/steipete/mcporter/commit/938594cb4dd39dc6f79f9ee01b9a72bc290aae4c)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2061,6 +2062,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Add EKS Kubernetes monitoring cross-link to AWS install guide (#22817)</code>](https://github.com/netdata/netdata.git/commit/8a95fb469bda088fee0949540cd8f84ba0aea861)
 - [ ] [<code>Remove openSUSE Leap 15.6 from CI and package builds. (#22239)</code>](https://github.com/netdata/netdata.git/commit/411dd515eee5c71fd1a50d59322ac173906f8daf)
 - [ ] [<code>Fix DBEngine retention accounting underflow (#22914)</code>](https://github.com/netdata/netdata.git/commit/4bfa95ea250db1fa4ca331e4ee9706a70fbb17a8)
+- [ ] [<code>Netdata fixes part 5 (#22905)</code>](https://github.com/netdata/netdata.git/commit/26133aa6df2916bb60f041b1c076ef760cf18122)
+- [ ] [<code>Netdata fixes part 9 (#22910)</code>](https://github.com/netdata/netdata.git/commit/0761b13acf101e86116d4e08beaf054f214c8648)
+- [ ] [<code>Netdata fixes part 10 (#22911)</code>](https://github.com/netdata/netdata.git/commit/4e9981a2e4d13ee50b6188a532c75cb0b3c62edf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Netdata fixes part 11 (#22912)</code>](https://github.com/netdata/netdata.git/commit/ce67318e9b712098deffe6fbe8416e88981ec35c)
+- [ ] [<code>Netdata fixes part 12 (#22913)</code>](https://github.com/netdata/netdata.git/commit/bf1912b3aa5e64dc0e68c4e568000bdb317bf03b)
+- [ ] [<code>Netdata fixes part 13 (#22915)</code>](https://github.com/netdata/netdata.git/commit/e6b6d12d2f4b372dc8355d29a13d8223d741f4e7)
+- [ ] [<code>Netdata fixes part 14 (#22916)</code>](https://github.com/netdata/netdata.git/commit/94a14a4c9927c864b80cdf38bbf8449b4b63ba1b)
+- [ ] [<code>NetFlow: restore sFlow visibility and listener docs (#22925)</code>](https://github.com/netdata/netdata.git/commit/f4ff3823ba24ff59f42535d673214ad22695d82b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4809,6 +4819,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deps): bump actions/configure-pages from 5 to 6</code>](https://github.com/NexaAI/nexa-sdk/commit/771c6c6631ce93b3e1151271a3c47d05af5838ae)
 - [ ] [<code>fix(sdk): auto-detect QAIRT VLM bundles in geniex-bench (#1124)</code>](https://github.com/NexaAI/nexa-sdk/commit/c9e4c601b18cf37b912e3613ffa10e369a0a42ac)
   - <sub>Tags: <code>v0.3.13-alpha.3</code></sub>
+- [ ] [<code>docs: add developer preview status badge to README</code>](https://github.com/NexaAI/nexa-sdk/commit/9022d59daa41e6ca9649e2290e95933a67dc6d94)
+- [ ] [<code>docs: note developer preview status on landing page</code>](https://github.com/NexaAI/nexa-sdk/commit/a4ec03fd11044a25d09bdf564d45912d9b7b740c)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -11152,6 +11164,37 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(usage): reject inverted startDate-endDate range in usage.cost and sessions.usage (#94096)</code>](https://github.com/openclaw/openclaw/commit/640258d7b31d47e9bec3ad15e1e41f2096726070)
 - [ ] [<code>Doctor: expose auth profile findings (#97125)</code>](https://github.com/openclaw/openclaw/commit/9f07b21e6231ddb5db3fa845e4fc2763fcdecf86)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mcp): require owner for Claude permission replies (#98256)</code>](https://github.com/openclaw/openclaw/commit/b885c81479d022502785671b4ed8daf2b42977d7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): stop `pairing list` crashing with empty channel enum (#98142)</code>](https://github.com/openclaw/openclaw/commit/44ec7580e2f0d61cd7f830ddb6b7dac67faa0f7e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(exec): bind Windows allowlist execution path (#98260)</code>](https://github.com/openclaw/openclaw/commit/3811001d278300adaf52fa70f009b08a5b1cbad5)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(telegram): recover stalled ingress spool claims</code>](https://github.com/openclaw/openclaw/commit/6528912e90905c8d16a14e963b6236a78e55f507)
+- [ ] [<code>fix(parallels): stabilize Windows beta smoke transport</code>](https://github.com/openclaw/openclaw/commit/2499b64f9be668e50de3881f2dc14db2dc07272c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci(release): allow token plugin npm recovery</code>](https://github.com/openclaw/openclaw/commit/4355e719b87e7bd6407e4a23a1e32cddf5531144)
+- [ ] [<code>ci(release): restore trusted plugin npm publishing</code>](https://github.com/openclaw/openclaw/commit/ccb515fa6920c58169c9080f7f34fa2b0f37e23a)
+- [ ] [<code>ci(release): restore plugin npm token env</code>](https://github.com/openclaw/openclaw/commit/e03f12ef3b8a791832f64c0ff6076edafeafaa44)
+- [ ] [<code>test(codex): harden run-attempt temp cleanup</code>](https://github.com/openclaw/openclaw/commit/31f58cd9def9adfff079bd0fa5a9ffb763fe48b1)
+- [ ] [<code>test(qa): accept async image fixture coverage</code>](https://github.com/openclaw/openclaw/commit/51e0997c2bbdba39413b0523c856c11907ce04fe)
+- [ ] [<code>fix(release): use workspace host deps in release lockfile</code>](https://github.com/openclaw/openclaw/commit/3e2646a7864c17dd8ba543d991e8ca1fd9e9676b)
+- [ ] [<code>test(qa): make memory channel scenario wait for final answer</code>](https://github.com/openclaw/openclaw/commit/cb00045afca9353f9794937b6a2cb35ff1390050)
+- [ ] [<code>ci(release): stabilize anthropic live smoke selection</code>](https://github.com/openclaw/openclaw/commit/a841c2788202c10a5daa250e998a6d8a01a0836e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(slack): prefer current thread session for inherited outbound replies (#97168)</code>](https://github.com/openclaw/openclaw/commit/5e572dcf781a03376ddb587828a1d711c420e1f8)
+- [ ] [<code>fix(plugins): apply output text transforms to toolcall_delta and toolcall_end events (#97769)</code>](https://github.com/openclaw/openclaw/commit/5a73361ed2b39598656cb57c6c046115beb475e6)
+- [ ] [<code>fix(doctor): merge colliding model-ref map keys instead of dropping (#96544)</code>](https://github.com/openclaw/openclaw/commit/82871fe21b3b1e31dc28eaeeaf79cd91c073500f)
+- [ ] [<code>fix(memory-wiki): gracefully handle unparsable YAML frontmatter in vault scans (#96125) (#97177)</code>](https://github.com/openclaw/openclaw/commit/1289abddcb966cfa1535c7b82a08f555d9848445)
+- [ ] [<code>fix #96840: [Bug]: Targetless message.send fails with 'Action send requires a target' in WebChat despite docs stating source-reply sink should handle it (#97167)</code>](https://github.com/openclaw/openclaw/commit/29371cfe1fed763df59b56d15b39793c832f939c)
+- [ ] [<code>fix(ios): advance onboarding step after QR scan (#98302)</code>](https://github.com/openclaw/openclaw/commit/44b4a0ac059846a20a2f645049088fef7525f288)
+- [ ] [<code>fix(anthropic-oauth): bound OAuth token endpoint response reads (#96644)</code>](https://github.com/openclaw/openclaw/commit/b1fae752f81eab4fcdc91629a408bc62cf2af0b2)
+- [ ] [<code>fix: warn when configured channel plugins cannot load (#96397)</code>](https://github.com/openclaw/openclaw/commit/16b275a0fba7f30008fe0ae0e0f2e6503bb0aaf6)
+- [ ] [<code>test: migrate src/commands tests to shared temp dir helpers (#96359)</code>](https://github.com/openclaw/openclaw/commit/91d0e77e2e9695eb24f0040642adbec92895e66d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): clear agentTurn thinking override by blanking the field (#96293)</code>](https://github.com/openclaw/openclaw/commit/ba3f68030b871952860fb1162b93c09b5d4c7c46)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: migrate leaky raw mkdtemp calls to createSuiteTempRootTracker() (#96058)</code>](https://github.com/openclaw/openclaw/commit/856cd1824cd87100440e472c3e187b7cee150a77)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
