@@ -361,7 +361,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel: Drop xinerama conversions for panel monitor indices.</code>](https://github.com/linuxmint/cinnamon/commit/c4223ce402b1fef09cd8770f70552d1c28c7ad49)
 - [ ] [<code>osdWindow: cleanup unused code.</code>](https://github.com/linuxmint/cinnamon/commit/0d2cb3c7c0ea94df4d7c49ea3cd17d4716fa4eb3)
+- [ ] [<code>ChooserButtonWidgets.py: Remove custom popup positioning workaround.</code>](https://github.com/linuxmint/cinnamon/commit/95f71f05338871b07b9d8d3128bb6f73411a437a)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
