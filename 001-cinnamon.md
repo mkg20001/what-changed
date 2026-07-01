@@ -362,8 +362,10 @@
 - [ ] [<code>panel: Drop xinerama conversions for panel monitor indices.</code>](https://github.com/linuxmint/cinnamon/commit/c4223ce402b1fef09cd8770f70552d1c28c7ad49)
 - [ ] [<code>osdWindow: cleanup unused code.</code>](https://github.com/linuxmint/cinnamon/commit/0d2cb3c7c0ea94df4d7c49ea3cd17d4716fa4eb3)
 - [ ] [<code>ChooserButtonWidgets.py: Remove custom popup positioning workaround.</code>](https://github.com/linuxmint/cinnamon/commit/95f71f05338871b07b9d8d3128bb6f73411a437a)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>wayland: Fix HiDPI icon resource scaling</code>](https://github.com/linuxmint/cinnamon/commit/4fc21656c47445aec4f46c03e1fecc12fd49423f)
+- [ ] [<code>wayland: Fix HiDPI image resource scaling in St/CSS</code>](https://github.com/linuxmint/cinnamon/commit/3e373f4a763856a3b64ee4d2dc806c54f1b383ac)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -642,6 +644,12 @@
 - [ ] [<code>meta-wayland-dma-buf.c: Clean up excessive logging.</code>](https://github.com/linuxmint/muffin/commit/75390a95faa913c0aa52ac68f46861d83b4de79c)
 - [ ] [<code>monitors: order logical monitors primary-first, then by connector</code>](https://github.com/linuxmint/muffin/commit/476ea9b2fadc41733e58cf0c8437b5bce245bd9c)
 - [ ] [<code>display: Update some documentation.</code>](https://github.com/linuxmint/muffin/commit/262554d3029b296d1a98902ef75cbe2c8dde6bd8)
+- [ ] [<code>cursor/native: Fix typo</code>](https://github.com/linuxmint/muffin/commit/49babddc7ccdb91b9293d3607da0ccdd1e4194dc)
+- [ ] [<code>cursor/native: Track actual HW cursor BO size</code>](https://github.com/linuxmint/muffin/commit/41842acd11235bcbd81b26e27d2d58cd7a4ff603)
+- [ ] [<code>meta-wayland-surface: Fix damage scaling when wp_viewport sets dst without src rect</code>](https://github.com/linuxmint/muffin/commit/5848bfdd2c1110918a44f031cdbc1d58ba1726e3)
+- [ ] [<code>wayland: Handle early maximized client commits</code>](https://github.com/linuxmint/muffin/commit/a85a711e006f70e9f39027ee51597bfb8b749048)
+- [ ] [<code>wayland: Avoid size-change effects during forced maximize transition.</code>](https://github.com/linuxmint/muffin/commit/2ff6d6267973429d06e13c4f98645574a31bcae1)
+- [ ] [<code>xdg-shell: Don't warn on geometry committed before first buffer.</code>](https://github.com/linuxmint/muffin/commit/a92dc1915a6c09a7ecb91ad3c5065ea4692ec0b6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
