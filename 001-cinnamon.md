@@ -365,7 +365,17 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>wayland: Fix HiDPI icon resource scaling</code>](https://github.com/linuxmint/cinnamon/commit/4fc21656c47445aec4f46c03e1fecc12fd49423f)
 - [ ] [<code>wayland: Fix HiDPI image resource scaling in St/CSS</code>](https://github.com/linuxmint/cinnamon/commit/3e373f4a763856a3b64ee4d2dc806c54f1b383ac)
+- [ ] [<code>session: Remove cinnamon2d</code>](https://github.com/linuxmint/cinnamon/commit/3ba28f61071c1e57fd794dfc488f9f54e87bb051)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>sound applet: Don't modify panel icon while playing</code>](https://github.com/linuxmint/cinnamon/commit/95ecab0f8d52764f658b551d3d1b550ba87d2ad2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon/commit/b12b72b7c54a69557eae925613cd87b1927097c8)
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon/commit/b8a9aace65af6ba658544f50effb7eb76d6d1875)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -419,6 +429,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>gnome-xkb-info.c: avoid double-free when encountering parser errors.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1227ceb56829860744b6ce538719cedd3d9388e6)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4e34b8fa200a67d3a2f84c608c6676107e697112)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8336b75f23cc230718106a21e597a299efb2f921)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -505,8 +519,10 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-keyboard-manager.c: Remove some dead keyboard layout code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5428974bc2cf1f6a5b36351eef13805575ce6b5)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/42e5c8d0a3baba074942848e6905f6e649452533)
+  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -650,6 +666,12 @@
 - [ ] [<code>wayland: Handle early maximized client commits</code>](https://github.com/linuxmint/muffin/commit/a85a711e006f70e9f39027ee51597bfb8b749048)
 - [ ] [<code>wayland: Avoid size-change effects during forced maximize transition.</code>](https://github.com/linuxmint/muffin/commit/2ff6d6267973429d06e13c4f98645574a31bcae1)
 - [ ] [<code>xdg-shell: Don't warn on geometry committed before first buffer.</code>](https://github.com/linuxmint/muffin/commit/a92dc1915a6c09a7ecb91ad3c5065ea4692ec0b6)
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/muffin/commit/ae058b13602fec94aba37bde4f30477a76399dd3)
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Allow activation tokens without surfaces</code>](https://github.com/linuxmint/muffin/commit/f4294790087d36c51a0f7cb9adb1c59439bc88c0)
+- [ ] [<code>wayland: Make focus stealing prevention optional</code>](https://github.com/linuxmint/muffin/commit/3405478766110857c9fea0c265ec39d8b3169a83)
+- [ ] [<code>debian: update symbols</code>](https://github.com/linuxmint/muffin/commit/a27605dd9f18ab9672e034669b2011b630f00dd2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -727,6 +749,9 @@
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>nemo-places.sidebar.c: Restrict eject button clicks to primary</code>](https://github.com/linuxmint/nemo/commit/852b546539217fcd4d196d702a6af72de2653780)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/nemo/commit/2e72e878324c4fcd2e38e1806907b4ef7cd874ba)
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
