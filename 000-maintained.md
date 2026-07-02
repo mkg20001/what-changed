@@ -4802,6 +4802,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(build): bump up build sdk container image</code>](https://github.com/NexaAI/nexa-sdk/commit/c313655acbf3499363b2a722b9ce1b45d1d2e08a)
 - [ ] [<code>Merge pull request #1128 from qualcomm/fix/htp-v75-hexagon-toolchain</code>](https://github.com/NexaAI/nexa-sdk/commit/39550a0772f7d6c14c58b230b45d42f06a5b3914)
   - <sub>Tags: <code>v0.3.13-alpha.4</code></sub>
+- [ ] [<code>chore(sdk): bump pinned aihm release to v0.57.0</code>](https://github.com/NexaAI/nexa-sdk/commit/6d4be3cc88860d3d74a863a35d9468ddba168cb4)
+- [ ] [<code>chore(repolint): exclude third-party swagger-ui bundles from license header check</code>](https://github.com/NexaAI/nexa-sdk/commit/6698435dc9ce266964e9a5fa57715035ee208f54)
+- [ ] [<code>chore(cli): switch to BSD-3-Clause SPDX headers</code>](https://github.com/NexaAI/nexa-sdk/commit/bfd345f3fe32eab86a428db19217087bb4b96f20)
+- [ ] [<code>chore(sdk/benchmark): switch to BSD-3-Clause SPDX headers</code>](https://github.com/NexaAI/nexa-sdk/commit/7ffbcb03bfdc14f32063bd28a2b81cb85fa6fdd0)
+- [ ] [<code>chore(sdk/model-manager): add BSD-3-Clause SPDX headers</code>](https://github.com/NexaAI/nexa-sdk/commit/6fd94d791aacd5ed7cb8bf6831fc55a8c85d8507)
+- [ ] [<code>chore(bindings/python): switch to BSD-3-Clause SPDX headers</code>](https://github.com/NexaAI/nexa-sdk/commit/356a5dc8c5cb010b8a4785da396709a0b26ea259)
+- [ ] [<code>chore(bindings): switch to BSD-3-Clause SPDX headers for Go, Android, sync</code>](https://github.com/NexaAI/nexa-sdk/commit/04bd027b7d202829a541be6d32109cafec3516ab)
+- [ ] [<code>chore(tests): switch to BSD-3-Clause SPDX headers</code>](https://github.com/NexaAI/nexa-sdk/commit/c308da60e71deb2f98427d89ea018a2f68cbd10f)
+- [ ] [<code>chore: switch to BSD-3-Clause SPDX headers for release + docs scripts</code>](https://github.com/NexaAI/nexa-sdk/commit/5d071499ff3742ba64a43c9952d65a7ec22f5c91)
+- [ ] [<code>ci(release): publish stable tags to production PyPI</code>](https://github.com/NexaAI/nexa-sdk/commit/a1f3eeae608eba4c6b6e4c506f77cb9d49150a79)
+- [ ] [<code>docs(dx): add NPU driver symlink and hybrid CPU-fallback troubleshooting</code>](https://github.com/NexaAI/nexa-sdk/commit/9d2207dc950fcf18e21578edca50163e04f4b977)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -11556,6 +11568,45 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(telegram): durably retry inbound media dropped during restart (#98076)</code>](https://github.com/openclaw/openclaw/commit/14a6cd9ee6723b0c44da3f4440157d24499ceb76)
 - [ ] [<code>fix(telegram): narrow durable inbound media retry to transient + abort (#98076)</code>](https://github.com/openclaw/openclaw/commit/f9d7afda100cd86763ff4c43219a2d92d4c43a87)
 - [ ] [<code>fix(telegram): keep media retry policy local</code>](https://github.com/openclaw/openclaw/commit/44e88f550b699d6d3b6b236b557281f38d2ee8ab)
+- [ ] [<code>fix(cron): detach session-targeted cron runs (#98755)</code>](https://github.com/openclaw/openclaw/commit/bc7f9a36ec5576756c44f97c3a4930679efb3a03)
+- [ ] [<code>fix(install): preserve SecretRef service env values (#96065)</code>](https://github.com/openclaw/openclaw/commit/e79865569c5022db95f4707415ab28f537e07c5f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: diagnose Windows LAN Gateway firewall blocks (#98666)</code>](https://github.com/openclaw/openclaw/commit/eb417fa206e6ec76df12c500d08f8fd8691298e9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(codex): rename destructive approval mode to ask (#98501)</code>](https://github.com/openclaw/openclaw/commit/d9b5afad180b1276be788706ecee5733e5c42ec1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): persist only new sent-message cache entries</code>](https://github.com/openclaw/openclaw/commit/abaef63a35807c26c802bf245ca2372c4db2c757)
+- [ ] [<code>fix(telegram): retry transient getUpdates API errors in ingress worker</code>](https://github.com/openclaw/openclaw/commit/5a10a29807abd349eee44e40bcf9c07585fa80c5)
+- [ ] [<code>chore(android): prepare 2026.6.11 Play release</code>](https://github.com/openclaw/openclaw/commit/341231831b706df0024d2d9e2096438e3581b5af)
+- [ ] [<code>fix(telegram): back off and dead-letter poisoned spooled updates</code>](https://github.com/openclaw/openclaw/commit/8dbcf6db167292fc43b1abda1f639e9df15d8d35)
+- [ ] [<code>fix(telegram): requeue spooled replays on transient store errors</code>](https://github.com/openclaw/openclaw/commit/eb41c7d2d39ae5b353689d14edd83b1bad73e5d2)
+- [ ] [<code>fix(telegram): tombstone completed spooled updates to dedupe refetches</code>](https://github.com/openclaw/openclaw/commit/ce9ec4e1c3d2543a68438346c3b56d461aca098d)
+- [ ] [<code>fix(telegram): age-gate retry-limit spool tombstones (#98776)</code>](https://github.com/openclaw/openclaw/commit/55d31beeef005e3b6df2096ee80a30a45086e247)
+- [ ] [<code>feat(cli): add attach launcher (#96454)</code>](https://github.com/openclaw/openclaw/commit/6df7db9f9e49c574bd12f2443869319a5661db89)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Add iOS release agent guardrails</code>](https://github.com/openclaw/openclaw/commit/77f632e7dbd467c9898c53148fc52c8707211f65)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Document iOS release failure stop rule</code>](https://github.com/openclaw/openclaw/commit/3832b2be5f60e01c1d38f177d60cca693428c553)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add Android release agent guardrails</code>](https://github.com/openclaw/openclaw/commit/0ea304d02fbf32d76d994de43cc26e912ed51dc4)
+- [ ] [<code>Document Android release failure stop rule</code>](https://github.com/openclaw/openclaw/commit/03d23c56d14d450e6bc228c75db0c847aa44012b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): fall back to plain text when rich entities are rejected on the durable send path</code>](https://github.com/openclaw/openclaw/commit/6ef0abbaae493966fe20d82a6dc3b78d2c916457)
+- [ ] [<code>fix(telegram): fall back to plain captions when Telegram rejects caption HTML</code>](https://github.com/openclaw/openclaw/commit/a53833e842fdc4790f5681e748d29bc0330b8c9c)
+- [ ] [<code>fix(telegram): drop rejected native quotes instead of failing the send</code>](https://github.com/openclaw/openclaw/commit/fd18e39e51124e66f1048dd0396551e41d91ca95)
+- [ ] [<code>fix(telegram): honor long flood-wait retry_after on outbound sends</code>](https://github.com/openclaw/openclaw/commit/f8769559aecc166e448957a6c0124ed7f927478d)
+- [ ] [<code>doctor: expose channel plugin blocker findings (#97496)</code>](https://github.com/openclaw/openclaw/commit/cdaafe198cb7788389f7de99aef8632fab5fde33)
+- [ ] [<code>fix(ci): restore docs and test type checks (#98792)</code>](https://github.com/openclaw/openclaw/commit/17482a402680c5489db4acde5b338b4a641920e4)
+- [ ] [<code>improve(ios): simplify Talk controls and composer alignment (#98736)</code>](https://github.com/openclaw/openclaw/commit/3e50f41dd6ea3446b5c98a2f19ec70982ac908e6)
+- [ ] [<code>docs(changelog): refresh 2026.7.1 notes</code>](https://github.com/openclaw/openclaw/commit/dbf837f574f9f59dd45949a551888c29fa8319c0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): distinguish reachable gateway from failed status probe (#98183)</code>](https://github.com/openclaw/openclaw/commit/8e28e88387515345c5fa63a2f5a808b16dfa531d)
+- [ ] [<code>fix(ios): generate light app store screenshots only</code>](https://github.com/openclaw/openclaw/commit/6ad2626cfd8b0fd556ae0e190849fb018f3abd34)
+- [ ] [<code>docs(telegram): move maintainer decisions into scoped AGENTS.md</code>](https://github.com/openclaw/openclaw/commit/3558391a75fd9f2aafb7adcc47f262c44b515eb1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(browser): guard setDeep against empty keys array (#98138)</code>](https://github.com/openclaw/openclaw/commit/273729bd95ef4523fa87e1f8722214f90602ac27)
+- [ ] [<code>fix(agents): don't inject A2A turns into isolated-cron sessions_send (#92257) (#92283)</code>](https://github.com/openclaw/openclaw/commit/c49714f7b6d2a6690ccd03363a568c6e0a4b68fc)
+- [ ] [<code>fix(codex): preserve app approvals in side forks (#98812)</code>](https://github.com/openclaw/openclaw/commit/27104c1afb13af39e675f637b5812b12a7088ba7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
