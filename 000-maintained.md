@@ -59,6 +59,9 @@
 - [ ] [<code>Update dependencies (#376)</code>](https://github.com/stepchowfun/docuum/commit/d2b7c6234a4133b16a26d252172f2f87a57bf6e2)
 - [ ] [<code>Use Chrono's Unix epoch constant (#377)</code>](https://github.com/stepchowfun/docuum/commit/f9b72c7e6a8e35471eeb449585f8b4407c3a7a70)
 - [ ] [<code>Update GitHub Actions to latest versions</code>](https://github.com/stepchowfun/docuum/commit/22f1f987266415acbef9bbc77a06bc01554bb7f9)
+- [ ] [<code>Update Rust to 1.96.1 (#380)</code>](https://github.com/stepchowfun/docuum/commit/f7b4c06a6d3463fa85da150fcf1a916868e0fb6e)
+- [ ] [<code>Make the integration test deterministic (#381)</code>](https://github.com/stepchowfun/docuum/commit/989214c5b8ccb0fd1210b9f55c1d5e4039f74657)
+- [ ] [<code>Update dependencies (#382)</code>](https://github.com/stepchowfun/docuum/commit/de4caf35bd6f13ab4fdf8b127151b75f7ac36656)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -670,6 +673,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/ab6709aa30ea1db8fb78c65e2da235fb1d666aa4)
 - [ ] [<code>fix: privacy and tos url</code>](https://github.com/krille-chan/fluffychat/commit/ed7e1a21bdcfb837ec20017847ef960d14f1aedb)
 - [ ] [<code>build: use flutter 3.44.4</code>](https://github.com/krille-chan/fluffychat/commit/bc8e8562b55836bb89f2e3cacd017df4683e5283)
+- [ ] [<code>build: (deps): bump latlong2 from 0.9.1 to 0.10.1</code>](https://github.com/krille-chan/fluffychat/commit/3ff781d9dc1045102420365d5374ad39361af2d6)
+- [ ] [<code>build: (deps): bump flutter_map from 8.3.0 to 8.3.1</code>](https://github.com/krille-chan/fluffychat/commit/6c3a81dcb3192a1d8b5ee37798566e82030947dd)
+- [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/3ddb0710b0949161364d7e85095a92cd503c3ac4)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b0b1173c0f4059c3a792a23c5425aa811f364592)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1120,6 +1127,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/ab6709aa30ea1db8fb78c65e2da235fb1d666aa4)
 - [ ] [<code>fix: privacy and tos url</code>](https://github.com/krille-chan/fluffychat/commit/ed7e1a21bdcfb837ec20017847ef960d14f1aedb)
 - [ ] [<code>build: use flutter 3.44.4</code>](https://github.com/krille-chan/fluffychat/commit/bc8e8562b55836bb89f2e3cacd017df4683e5283)
+- [ ] [<code>build: (deps): bump latlong2 from 0.9.1 to 0.10.1</code>](https://github.com/krille-chan/fluffychat/commit/3ff781d9dc1045102420365d5374ad39361af2d6)
+- [ ] [<code>build: (deps): bump flutter_map from 8.3.0 to 8.3.1</code>](https://github.com/krille-chan/fluffychat/commit/6c3a81dcb3192a1d8b5ee37798566e82030947dd)
+- [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/3ddb0710b0949161364d7e85095a92cd503c3ac4)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b0b1173c0f4059c3a792a23c5425aa811f364592)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2044,6 +2055,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Clarify netdata.conf is comment-only with built-in defaults (#22823)</code>](https://github.com/netdata/netdata.git/commit/681848e8d10920e0f11971ffad1a0485619abfc8)
 - [ ] [<code>docs: Add Windows free-tier dashboard lock note to access control doc (#22824)</code>](https://github.com/netdata/netdata.git/commit/f8d39ff9a16a0d02f0ad8cfa2484d0932b27154f)
 - [ ] [<code>Update vendored NetIPC to 98ec474 (#22936)</code>](https://github.com/netdata/netdata.git/commit/ca9a5426a6b1cdf6e1b2c82d3d5710e9e0a66fed)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-607-nightly.</code>](https://github.com/netdata/netdata.git/commit/fdd4a6fa3fef4c9f4f98d9fe29ed9862f95e2759)
+- [ ] [<code>feat(go.d): add AWS cloudwatch collector (#22874)</code>](https://github.com/netdata/netdata.git/commit/5fab48743f511a6bf0cdced25df27cac7b1c4a93)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: Add SQL Server Express edition support note to mssql metadata (#22838)</code>](https://github.com/netdata/netdata.git/commit/97204ee3b2b133d1b565762e286c02e30e616d91)
+- [ ] [<code>feat(go.d/cloudwatch): add Amazon CloudFront support (#22944)</code>](https://github.com/netdata/netdata.git/commit/30357a5e3c9f9c51aa5fb4e48ec01d256daf6c0a)
+- [ ] [<code>docs: consolidate cloud VM sizing into impact-on-resources.md (#22837)</code>](https://github.com/netdata/netdata.git/commit/1c429419def6cdf858f8b7ba924bfcc987a33446)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4814,6 +4833,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci(release): publish stable tags to production PyPI</code>](https://github.com/NexaAI/nexa-sdk/commit/a1f3eeae608eba4c6b6e4c506f77cb9d49150a79)
 - [ ] [<code>docs(dx): add NPU driver symlink and hybrid CPU-fallback troubleshooting</code>](https://github.com/NexaAI/nexa-sdk/commit/9d2207dc950fcf18e21578edca50163e04f4b977)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #1137 from qualcomm/docs/npu-driver-troubleshooting</code>](https://github.com/NexaAI/nexa-sdk/commit/3e80f9c8817aa059fdfdaf3d0b569c7cac2af8b9)
+  - <sub>Tags: <code>v0.3.14</code></sub>
+- [ ] [<code>docs: simplify Docker install to Docker Hub only (#1139)</code>](https://github.com/NexaAI/nexa-sdk/commit/d1fbab1b272250aee28bf6737eee37786ad090e8)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -11607,6 +11629,78 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(browser): guard setDeep against empty keys array (#98138)</code>](https://github.com/openclaw/openclaw/commit/273729bd95ef4523fa87e1f8722214f90602ac27)
 - [ ] [<code>fix(agents): don't inject A2A turns into isolated-cron sessions_send (#92257) (#92283)</code>](https://github.com/openclaw/openclaw/commit/c49714f7b6d2a6690ccd03363a568c6e0a4b68fc)
 - [ ] [<code>fix(codex): preserve app approvals in side forks (#98812)</code>](https://github.com/openclaw/openclaw/commit/27104c1afb13af39e675f637b5812b12a7088ba7)
+- [ ] [<code>fix(discord): guard JSON.parse against malformed API response bodies (#97889)</code>](https://github.com/openclaw/openclaw/commit/050e1f3b5c9fdd7148b045d02d54bd7a0ba21057)
+- [ ] [<code>test(plugins): repair prerelease validation fixtures</code>](https://github.com/openclaw/openclaw/commit/c0511692d8d075f3e5f70209003c9b9fa3a9f351)
+- [ ] [<code>test(gateway): isolate live release agent state</code>](https://github.com/openclaw/openclaw/commit/1cbcff7c898b97be3784c52378e0ed372c7979d3)
+- [ ] [<code>fix(wizard): reject loose gateway port input (#98689)</code>](https://github.com/openclaw/openclaw/commit/40e02a418c853b0afd7c6b4326e40f781bbb0c0d)
+- [ ] [<code>fix(release): ignore HTML entities in note references</code>](https://github.com/openclaw/openclaw/commit/38442853e104c7b650b5922d27ec22a46cf6afb3)
+- [ ] [<code>fix(nostr): clear per-relay publish timeout timer to prevent dangling handles (#98720)</code>](https://github.com/openclaw/openclaw/commit/a7a444e7ef1e75218d3a14f39ac8018b40ff4750)
+- [ ] [<code>fix(memory-wiki): retry transient existing-page reads in wiki_apply and chatgpt import (#98787)</code>](https://github.com/openclaw/openclaw/commit/db6a3c2e87d650dce5026ec2c994dbe7b7342167)
+- [ ] [<code>fix(ci): recover incomplete Swift build caches (#98818)</code>](https://github.com/openclaw/openclaw/commit/c1eee1a41a8d578582d43fbbd37c7f8cd4005971)
+- [ ] [<code>Require explicit iOS release versions</code>](https://github.com/openclaw/openclaw/commit/080481fec95a0c987f39bd784f85a335e793351b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(plugins): align release fixtures with runtime contracts</code>](https://github.com/openclaw/openclaw/commit/cc76e06e7a2fc2f8946762b6654d0b63b3e33085)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(ios): modernize navigation and settings (#98811)</code>](https://github.com/openclaw/openclaw/commit/313560d5b98e0b508f0abfdafafc55cb2509d44b)
+- [ ] [<code>docs: update mobile app release messaging (#98843)</code>](https://github.com/openclaw/openclaw/commit/0cdce792213af738e2f4752438c1ed31f431552b)
+- [ ] [<code>ci: remove security guard rollout floor</code>](https://github.com/openclaw/openclaw/commit/7fa26e088d283f9dbde607d1148e62c682b7d471)
+- [ ] [<code>test: prefer auto-cleaning temp dir helper (#93209)</code>](https://github.com/openclaw/openclaw/commit/5ff247b99ec1e1bdcf3136d6131b31d219caa52b)
+- [ ] [<code>fix(memory-wiki): preserve guarded collision handling</code>](https://github.com/openclaw/openclaw/commit/76db9a3376228db6a6f58cd705fc236aa697446c)
+- [ ] [<code>test(vercel-ai-gateway): complete guarded fetch fixtures</code>](https://github.com/openclaw/openclaw/commit/1fcce9f1ee9962123f72e2807d8a795591528f32)
+- [ ] [<code>chore(config): refresh documentation baseline</code>](https://github.com/openclaw/openclaw/commit/87178b84668bcd1c4165106f0d74cded132821ce)
+- [ ] [<code>test(maturity): derive expected score from source</code>](https://github.com/openclaw/openclaw/commit/4a2a97777e358d729abbaab95f8a5ed75d5dba4a)
+- [ ] [<code>chore(ios): generate release artifacts locally</code>](https://github.com/openclaw/openclaw/commit/8e95e56e2dac8af2ebded2b20126932e2e8ac3ef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(memory): align dreaming corpus promotion expectations</code>](https://github.com/openclaw/openclaw/commit/1f3839623991fa9850104fe2b95a2709bc77842b)
+- [ ] [<code>fix(ci): reset SwiftPM state between build retries</code>](https://github.com/openclaw/openclaw/commit/d310b786cfece282f7187ea89bb9ec3a1e84c26a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): honor configured defaultAccount for omitted-account sends and actions</code>](https://github.com/openclaw/openclaw/commit/85771aec05d768796664fcf2b223fb7b22229641)
+- [ ] [<code>fix(telegram): align account inspection default routing</code>](https://github.com/openclaw/openclaw/commit/13613ecaf10faa63e80ebb3cbfc2edd3e1258aa2)
+- [ ] [<code>fix(telegram): spool webhook updates durably before acking Telegram</code>](https://github.com/openclaw/openclaw/commit/b7ec2851f38d7957c73934a51aa18a28ab92f178)
+- [ ] [<code>fix(telegram): retry transient webhook startup init errors</code>](https://github.com/openclaw/openclaw/commit/b23500a935572ccb0de947c9ba46d215516ba2f8)
+- [ ] [<code>fix(telegram): close webhook and evicted probe transports</code>](https://github.com/openclaw/openclaw/commit/ac10e6bff52a78cd80e33e98a98c7bd58792c594)
+- [ ] [<code>fix(telegram): stop rate-limiting authenticated webhook traffic</code>](https://github.com/openclaw/openclaw/commit/2643c8cbfb9a326814d107d1a65b1c9822a41f41)
+- [ ] [<code>fix(telegram): keep timed-out webhook lanes guarded (#98806)</code>](https://github.com/openclaw/openclaw/commit/6a96bbc7ad77bf60df4608d978d740c95e28eb65)
+- [ ] [<code>fix(fal): route grok-imagine and nano-banana-2-lite edits to correct endpoints (#98688)</code>](https://github.com/openclaw/openclaw/commit/6e79ca3cbc7d7526a1ab3a251b1c438ba2424dd0)
+- [ ] [<code>fix(agents): normalize string tool-result replay (#98891)</code>](https://github.com/openclaw/openclaw/commit/e095dc8409332377d382a2f980f04e9e3fc382b3)
+- [ ] [<code>fix(imessage): native poll vote-cue, echo suppression, and same-sender comment fold</code>](https://github.com/openclaw/openclaw/commit/8c7ac9b9b9df46fd0ca8432983909b1768320298)
+- [ ] [<code>Doctor: expose tool result cap findings (#97500)</code>](https://github.com/openclaw/openclaw/commit/b2c507c5f04c239105f0dfa7d0401e5af343421e)
+- [ ] [<code>fix: keep Telegram outbound context on transcript time (#98769)</code>](https://github.com/openclaw/openclaw/commit/c8dba85b5d41b1390c4ac0c911a4739a861f3c4f)
+- [ ] [<code>fix(agents): handle claude live write timeout rejection</code>](https://github.com/openclaw/openclaw/commit/8939c10d77b06a052387c6eb5b75e7b7a84cb39e)
+- [ ] [<code>fix(auto-reply): persist heartbeat cli session bindings</code>](https://github.com/openclaw/openclaw/commit/b60803dfaae3980056bdada08ef92e8fd55b7069)
+- [ ] [<code>fix(agents): recover cli context overflow sessions</code>](https://github.com/openclaw/openclaw/commit/52cabf877d5059417be1aa0825e20ff2e2774dc5)
+- [ ] [<code>fix(agents): keep cli live retry artifacts</code>](https://github.com/openclaw/openclaw/commit/d02d8b1ea5c9bdf635188799fdf91492952ace41)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): fold assistant string normalization into transcript ingest (#98908)</code>](https://github.com/openclaw/openclaw/commit/a5bf55d690e7780581b3d4b6c0460cbe0644a46b)
+- [ ] [<code>test(ci): route cli reliability helper dependency</code>](https://github.com/openclaw/openclaw/commit/ebb43e2dca5552ed2a7a367e31ce2b55e1cd2061)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(agents): fail fast with attributable reason after MCP stdio session dies mid-run (#98738)</code>](https://github.com/openclaw/openclaw/commit/e845a26fd68e10b258188d3bbefd47830e86d8db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-matrix): read account state from sqlite</code>](https://github.com/openclaw/openclaw/commit/75240f43856421c1e123ef380f357c09315a4cce)
+- [ ] [<code>fix: backup skips volatile cache paths (#98879)</code>](https://github.com/openclaw/openclaw/commit/e0970cfec57219e461506f438c487586a1a7f2f7)
+- [ ] [<code>fix(process): preserve split utf8 subprocess output</code>](https://github.com/openclaw/openclaw/commit/809bc619c4eb352c3b1ce4940f9347d4142274a5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(agents): unify cli stream output classification</code>](https://github.com/openclaw/openclaw/commit/d18817019ff96cd0c86768ebd5f5edfb73e45768)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-matrix): accept final command preview edits</code>](https://github.com/openclaw/openclaw/commit/4d7d34e6a5f800b50e225ca46f132a30b6a51169)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(anthropic): restore Fable 5 Vertex simple completions (#98932)</code>](https://github.com/openclaw/openclaw/commit/2913d3aee90c79bc420129606b3912662359723d)
+- [ ] [<code>fix(cron): restore persistent session targets (#98947)</code>](https://github.com/openclaw/openclaw/commit/be5906e19dd7290e5ec3d46d2d87244b3375d1e6)
+- [ ] [<code>fix(agents): preserve embedded completions usage (#96523)</code>](https://github.com/openclaw/openclaw/commit/cb44f40474bd88d3ba2e1c3c3f60767c9f6194e5)
+- [ ] [<code>perf(build): canonicalize plugin SDK declarations (#98758)</code>](https://github.com/openclaw/openclaw/commit/d32c4cf3007fab55cbf7fbdd7c082e4a175a2cb7)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(mattermost): paginate peer directory members (#98877)</code>](https://github.com/openclaw/openclaw/commit/a741956448625a240d7b65f4b23c596e59e0b6f7)
+- [ ] [<code>feat(ios): refine the chat experience (#98953)</code>](https://github.com/openclaw/openclaw/commit/c4102f5d67b6e8cf047f71f18903b2e334ef860e)
+- [ ] [<code>fix(terminal): preserve sibling home-prefix paths (#98876)</code>](https://github.com/openclaw/openclaw/commit/c170e91529eaf0d9582061366992d764e339f516)
+- [ ] [<code>feat(ios): PR1 brand color palette overhaul (#98930)</code>](https://github.com/openclaw/openclaw/commit/133ce01e4ae9159f8209a876d869bd0fa74d6400)
+- [ ] [<code>fix(android): make offline chat actionable (#94566)</code>](https://github.com/openclaw/openclaw/commit/f2abf57d32ad5fb1d4fdc8a2051094071b1b5b67)
+- [ ] [<code>fix(agents): preserve fresh tool result text under aggregate cap (#98955)</code>](https://github.com/openclaw/openclaw/commit/d45b8be939a15c94e0c1286c2eff5660fc8320e6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>[codex] Support Android selected photo access (#98059)</code>](https://github.com/openclaw/openclaw/commit/04e4c3719de3c4e558fa62314861932d09e5778d)
+- [ ] [<code>fix(android): return settings details to their originating tab on Back (#98914)</code>](https://github.com/openclaw/openclaw/commit/a8c7657cd7940c0bb3326a1c44aaa4bf7b544ca3)
+- [ ] [<code>fix(ios): back from settings details returns to the originating screen (#98898)</code>](https://github.com/openclaw/openclaw/commit/9d3e2633658c3aedd1b002b0d37d8b6cedc3419a)
+- [ ] [<code>fix(feishu): include video upload duration (#98235)</code>](https://github.com/openclaw/openclaw/commit/22d686d13ee4a31701eb18c2dc96aede311452f0)
+- [ ] [<code>fix(discord): gate guild metadata reads [AI] (#98966)</code>](https://github.com/openclaw/openclaw/commit/5bcd25f0fb6de3cc2ba6b6a7688a9361eb355143)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
