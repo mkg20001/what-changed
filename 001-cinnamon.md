@@ -374,8 +374,9 @@
   - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon/commit/b8a9aace65af6ba658544f50effb7eb76d6d1875)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>st: Respect clutter_actor_get_resource_scale()'s return code.</code>](https://github.com/linuxmint/cinnamon/commit/295a3c774dbf3e2384fb13708a491e349fef0874)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
