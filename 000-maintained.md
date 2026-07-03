@@ -677,6 +677,8 @@
 - [ ] [<code>build: (deps): bump flutter_map from 8.3.0 to 8.3.1</code>](https://github.com/krille-chan/fluffychat/commit/6c3a81dcb3192a1d8b5ee37798566e82030947dd)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/3ddb0710b0949161364d7e85095a92cd503c3ac4)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b0b1173c0f4059c3a792a23c5425aa811f364592)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/dfa13f33dacd81ad4f9c794a00a5ae4d999e6a8e)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/b22f4d1803149e4a1b8662c3ecac41a684386511)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1131,6 +1133,8 @@
 - [ ] [<code>build: (deps): bump flutter_map from 8.3.0 to 8.3.1</code>](https://github.com/krille-chan/fluffychat/commit/6c3a81dcb3192a1d8b5ee37798566e82030947dd)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/3ddb0710b0949161364d7e85095a92cd503c3ac4)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b0b1173c0f4059c3a792a23c5425aa811f364592)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/dfa13f33dacd81ad4f9c794a00a5ae4d999e6a8e)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/b22f4d1803149e4a1b8662c3ecac41a684386511)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2075,6 +2079,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): route jobmgr commands through an executor seam (#22951)</code>](https://github.com/netdata/netdata.git/commit/963fd853cf3b2b06919756d0839ee4e65cd76402)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-617-nightly.</code>](https://github.com/netdata/netdata.git/commit/ec839fbcdd772f4f305d957d28afbe142ca81660)
+- [ ] [<code>Netdata fixes part 22 (#22940)</code>](https://github.com/netdata/netdata.git/commit/58e08109a9e5205081fac378733730cedf0029fa)
+- [ ] [<code>docs: Add cache memory monitoring to database configuration docs (#22845)</code>](https://github.com/netdata/netdata.git/commit/2418d387fa8aa1f9822aecd46a2e740ac00f8a2d)
+- [ ] [<code>docs: Add admin role assignment steps to team invite doc (#22847)</code>](https://github.com/netdata/netdata.git/commit/ce3306cee00dee44f996c9d9ae70e92bed8515ca)
+- [ ] [<code>refactor(go.d): run blocking jobmgr collector work as supervised effects (#22952)</code>](https://github.com/netdata/netdata.git/commit/593d81e680cca8fc729fd8c790d74c2de77d865f)
+- [ ] [<code>docs: Add multi-database export example to enabling connector guide (#22836)</code>](https://github.com/netdata/netdata.git/commit/0c02cee3de92ba8a9ef3e18fd6ac1e0a69eb6619)
+- [ ] [<code>docs: Correct database config key from mode to db in docs (#22864)</code>](https://github.com/netdata/netdata.git/commit/efc9df744365fafcba4b0edd8899b3fbed191a62)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4853,6 +4864,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs(dx): add same NPU troubleshooting to Chinese docs</code>](https://github.com/NexaAI/nexa-sdk/commit/39e7b90b9b7e84876eda9260fec74bda6e313156)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(ci): unify source license headers to BSD-3-Clause</code>](https://github.com/NexaAI/nexa-sdk/commit/be8a94cdbd261fc796018a03585bccb13093fcfb)
+- [ ] [<code>docs: drop HOME export step from Linux ARM64 install</code>](https://github.com/NexaAI/nexa-sdk/commit/571e3cb4b449d143ed716ca17d66064c52b5e324)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -11974,6 +11987,203 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(shared): consolidate remaining channel lazy loaders (#99302)</code>](https://github.com/openclaw/openclaw/commit/59b08b46930b5ef70dc704f20bc2a9fbe5d9fd59)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>test(qa): cover Crabline Zalo transport (#99303)</code>](https://github.com/openclaw/openclaw/commit/8d535fb039c5cd9e97e2cd7f6baef99f4d1d6c9d)
+- [ ] [<code>android: add licenses settings screen</code>](https://github.com/openclaw/openclaw/commit/166938b7df825e2e0bb73a609c3e0ae9c7de1096)
+- [ ] [<code>docs: document android license maintenance</code>](https://github.com/openclaw/openclaw/commit/6aabf07dd7ec791dabfb44c11f49281f1846df2d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: sync native i18n inventory</code>](https://github.com/openclaw/openclaw/commit/8b9cc3afc4e59c2891fa3db1091ae28259b1299c)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/4b8b60f8abc1ae99228fe31bedd31977064062d1)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/3b16c41daa8237f481c2b8061b0f6e00817ffbca)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/c4966e86cbc9403177ccb725d5d1cb87c519b853)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/116e9db2a18d5341b5e44844dfefa938fa467e6a)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/1617233ff141c913def1675aaee33bac3590b1f6)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/a598c976d01db50adc35de495a981635c6a38cd4)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/3b9e0c86828e0d8f45acafd2908b82191ecfd13f)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/eebbf6cba5fef565044e556b862f3ce09db2fd86)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/4c08ea403ad9436d9a8cf0dd02799a441a1bc4db)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/21be45c17e845e4027f7a044d2c009423bcd07b7)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/b415072a2e6a900f382d7e68594b4511bd1a0c5b)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/9eec24df6710308e7a66a7a80bc232f7ee024900)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/de23987f13b95d71a145218b11f36857a8eefc2c)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/898564e71aef7abe66112d757eee8db83eaf04d2)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/7af800b5be960b595829642b412fce2842017cfc)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/a47ec8d303e46642d81c8c231786fb0b2fd51045)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/fac9e586685666a9f8159f5132fb18ad2bc37210)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/61e4ef08f483e9e32eaa6edf6fb391185e462394)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/399f9d696171ec14eafa1d5de64533d2b9670819)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/9069f696986ed970565989efacb27024160dbad2)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/2e049f509fad1ba2889186e457e630bad50d7a16)
+- [ ] [<code>fix(ios): onboarding Retry Connection does nothing after editing gateway details (#99220)</code>](https://github.com/openclaw/openclaw/commit/c37961fdab6e8672b5e21ac2fdf8be86e50216b5)
+- [ ] [<code>refactor(shared): consolidate provider and utility lazy loaders (#98749)</code>](https://github.com/openclaw/openclaw/commit/8c5f45fc36f1c151ab7578367577f20e5304b48a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): restore Telegram and SDK guard checks (#99355)</code>](https://github.com/openclaw/openclaw/commit/e7384d5f02059e0b3f269de11c18fdda5e0be7d1)
+- [ ] [<code>fix(android): render chat content through Markdown (#88899)</code>](https://github.com/openclaw/openclaw/commit/df350e672009acc88a0770847eed8a8fe0a52888)
+- [ ] [<code>test(qa): migrate channel streaming evidence to transport flow (#99310)</code>](https://github.com/openclaw/openclaw/commit/8604dbdc93fb8eea3db3891944e60ede6b0625f2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ios): add Photos permission controls (#99350)</code>](https://github.com/openclaw/openclaw/commit/0e68c5013974a84583bab7b3a962f793403dbab2)
+- [ ] [<code>refactor(plugins): consolidate record guards (#99361)</code>](https://github.com/openclaw/openclaw/commit/de34dfdbe8c4e7ec52553887654ce550ca1faad7)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/c360f92563fb2221452ae599412ea61f9eee188b)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/4dd027eaa1f14356f4f7740d4258d72adb59d2f2)
+- [ ] [<code>refactor(shared): consolidate core record guards (#99359)</code>](https://github.com/openclaw/openclaw/commit/4f4e9a4c781c80283828c9a3d5e8ff2b947bc303)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/9cde1ca97141784f89816afd9283b2d7416b9a8c)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/328fb70ba730bc7bb4cd3a0eaa5e6d1d089c734c)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/71e5fccb644b51e50f61e8e3bd6715a0fd717a58)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/b11d710e524f7d6d664ea5857f358f4ebbaff6e4)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/55a2a9b0f0c4c56d03292b930ed116a146322e6c)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/c4b40d0b2a008c1ba1bae82a180e455bc8656e00)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/3a1b983bc227f67ac0862f1761d53f6a3fee083d)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/32a986d21c170741b5505870dd0a2e98ec410b1d)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/dea40a5f96307e9da0862bbc774100f799110d6c)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/4b1fab8047319bc07e47ef8136a9c83594729ed8)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/44ca739f77ab7dfaa1f096627e84bc79e859b849)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/d36452cc0bd66722f426c7c686859cbfcb1e9f24)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/a50a59e64802a1263bd8befe6c4bea57e055499e)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/49b68e1039347867c227e992fa7fcfac3e58f932)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/122e4ba3a30f32b8d563d7afa2f60cc4cd6c431b)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/4086d35caf54c3a9759b21ad5f83536cdf08c2bc)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/547a563e4ca3cf6d573cf6210db3ffbedb592175)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/538f28abce55949ee0a412da07664092427413d1)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/c5afa92c1f8ac63a9c01b7971acabcfb1d6f948f)
+- [ ] [<code>fix: avoid DeepSeek-native thinking on OpenRouter V4</code>](https://github.com/openclaw/openclaw/commit/4d5d9dda92638c818ff40119b656092045272342)
+- [ ] [<code>docs: align OpenRouter DeepSeek V4 thinking guide</code>](https://github.com/openclaw/openclaw/commit/08079ecb44dfb7b20121c9cc8be521a27ba06c14)
+- [ ] [<code>fix(sessions): scope ambient transcript watermark to session id</code>](https://github.com/openclaw/openclaw/commit/0bf66ab7bdbf0a2a35268feee7b20036c688f3eb)
+- [ ] [<code>fix(auto-reply): restore per-turn message-tool delivery contract</code>](https://github.com/openclaw/openclaw/commit/4e6933c84f186235f467d73c8d73e0bb6f1968a2)
+- [ ] [<code>fix(android): derive Voice readiness from Gateway catalog (#98269)</code>](https://github.com/openclaw/openclaw/commit/7cfc66ad0746e6a09b1d612652540c86fe74d552)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/c785196287d0e929396def1fc0929af672bdc7cf)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/662d127f60b91aaaec4b5363c73bd00855d9e3f0)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/9edb9065a8596f8473bea1ae4a626da8f0508724)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/5002a0e9ea9970e4e270ec029c994dc217549687)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/fe57718b419a08a5306e3d195519d3527a07f936)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/ebcf8dcaf7120bfdc01d0b83c595895355944b5b)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/4e7ca8e6c6afe672da1a40922e67f94e005f9e8b)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/da67520b8d5fc49775005638425ca2d9317d6ee7)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/9863cebef12bf2e7b1414ac5f64bc3277a7ca28b)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/768da09ceb157a1bfd4dd309b8566a2b9ce7668d)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/ff5d98681f7e38043bbc33a87fade6069da9795c)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/005ebd108f4d6ebd663c8cf996634aeaf3e82287)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/28247960130f88b6ac01d8a392d54d0996212c1a)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/4eaec934e83d0bc4f0d595c37e06356c5b54dc2a)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/f99fdc9403b49b59a42c8d3522368d64b9168498)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/88f13cab62999abe7c2650ccd32d55e72ee80046)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/555f601230c075185f362c71db518096c3818998)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/d2af68965a0cdb3a1ed91c2d1ba8aedd76dcb3ac)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/81e92deb089b54ccedbe0c9593b492f6f09b989d)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/8ed6c78b7891b12fee2b378d79e6888764455486)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/e878efe9508edd88166a09eb5a1e503ab405aad9)
+- [ ] [<code>fix(qqbot): allow scoped sandbox media sends (#92872)</code>](https://github.com/openclaw/openclaw/commit/cd6b67533d6dd51545a29ba0ccc9c6c6d5822695)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(android): expose exact gateway recovery actions (#99414)</code>](https://github.com/openclaw/openclaw/commit/1c7229deadbf7dfbc47b7818de5857d687cdb6c6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/48eae1b8c96d9e8873ba59ccc6e2493fa847c27e)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/f095eb9fd989020ad1bdd57a57702ce899f98607)
+- [ ] [<code>feat: session-first sidebar, compact context ring, and warm light theme for the Control UI (#99289)</code>](https://github.com/openclaw/openclaw/commit/bb724436150eac5fe07ed5b50f114746197f9587)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/714c2b07bdf715055205b550018d289e4fb06948)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/18360ac668f82631f61cf48d0816800385f4cf05)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/d2b5bb72e8e3b61dac5ddc7085fb0b5dfe53a18c)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/d2551bdd3cf53973d679a47f3e753fc0d75f3edb)
+- [ ] [<code>chore(ui): refresh de control ui locale</code>](https://github.com/openclaw/openclaw/commit/b2c3dc2d55f8bef05f2c8107b9c9b867653aec20)
+- [ ] [<code>chore(ui): refresh zh-TW control ui locale</code>](https://github.com/openclaw/openclaw/commit/61347a5054e6c4fce8dee39509c104521b087c7e)
+- [ ] [<code>chore(ui): refresh pt-BR control ui locale</code>](https://github.com/openclaw/openclaw/commit/a2674b6aa4333a6c37ddb3cf7a4c7f52924c37c6)
+- [ ] [<code>chore(ui): refresh zh-CN control ui locale</code>](https://github.com/openclaw/openclaw/commit/bbabad4031c3cab4f0e685fb0fcab183520291ab)
+- [ ] [<code>chore(ui): refresh ko control ui locale</code>](https://github.com/openclaw/openclaw/commit/c336256309956b18ff4c211ab62481c6dcd59d8b)
+- [ ] [<code>chore(ui): refresh ja-JP control ui locale</code>](https://github.com/openclaw/openclaw/commit/89092893fea34eefecca09076d643a5b08f62498)
+- [ ] [<code>chore(ui): refresh es control ui locale</code>](https://github.com/openclaw/openclaw/commit/22552d6e667fa8c35ff236f85d3d3e1aa66872fb)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/6b915072208b121055000ef1d3a36578eac4da2e)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/17a1e3bbb2b8de1da6569fe4f46a4ea4138c56e6)
+- [ ] [<code>chore(ui): refresh fr control ui locale</code>](https://github.com/openclaw/openclaw/commit/96e361558e7367f452a2b400fc8120c3a4f6fc72)
+- [ ] [<code>chore(ui): refresh ar control ui locale</code>](https://github.com/openclaw/openclaw/commit/452351cc7152abdd765445a2109726e5278b153f)
+- [ ] [<code>chore(ui): refresh tr control ui locale</code>](https://github.com/openclaw/openclaw/commit/5e9a62cc1945850b72d7944e937fef969c9f8ed1)
+- [ ] [<code>chore(ui): refresh uk control ui locale</code>](https://github.com/openclaw/openclaw/commit/0a9648ba4766e0c5da87866d6c7299bb07ede4fa)
+- [ ] [<code>chore(ui): refresh it control ui locale</code>](https://github.com/openclaw/openclaw/commit/a8035892b1f04b20f1b8e687094e6e7a18dee45c)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/f1c44762771edb9fe2124a15c871dc466b215c43)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/5ef6fb4d7cd053e1caa0d1caf27ff93f7bb3311c)
+- [ ] [<code>chore(ui): refresh id control ui locale</code>](https://github.com/openclaw/openclaw/commit/7c30ff8a60896a290de07af45d0176d2e30069e5)
+- [ ] [<code>chore(ui): refresh pl control ui locale</code>](https://github.com/openclaw/openclaw/commit/e3d2878af44f7095436d6754f73431b9add676b1)
+- [ ] [<code>chore(ui): refresh th control ui locale</code>](https://github.com/openclaw/openclaw/commit/64dd68899e6b9f8b15c9a3c533e470ba6e36d7a5)
+- [ ] [<code>chore(ui): refresh vi control ui locale</code>](https://github.com/openclaw/openclaw/commit/620f2e3112016622c59350e4aaf71a0e448d0c1a)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/e2e03127240c1878b3ea6a336fd91bd995a2be83)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/7fb70b235d1d7d4ece6519b27f2d65d51999272c)
+- [ ] [<code>chore(ui): refresh nl control ui locale</code>](https://github.com/openclaw/openclaw/commit/e2ecbc85b7fe30b3096f86ba9cb189fb43807850)
+- [ ] [<code>chore(ui): refresh fa control ui locale</code>](https://github.com/openclaw/openclaw/commit/aa0f36cb0632ae283493f9d01f3d9819548b5107)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/d702f5c6e6c4f1463c82c4f74d96765b316f76bf)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/adafb56b2eb9207d93896ebf6c5faa9205875833)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/5b5fadbf0d17c1fddb13d891037767beb64aa144)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/24e6b9fbe1b9449b837fecddf1f9b160ed7bb896)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/7cb41ccc63f51208630426e08ceef65e78b02bf9)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/9b30570a935ecdae8ee0e2bc45a42ffdd7223948)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/a6040c3560c18005b58aed73a687b8c0d06b7d6b)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/d331a36250f8ebb29bda2ae8fa480a2aa5e15193)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/5e61da3deb190b16899157ace98aa520b424e085)
+- [ ] [<code>feat(nodes): add auto-discovered Ollama inference (#99234)</code>](https://github.com/openclaw/openclaw/commit/1fef99962edf5388237075135fe45eb439a9ec05)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: memory_search honors generic embedding providers (#97095)</code>](https://github.com/openclaw/openclaw/commit/76cf1b01af1d3bcd5c30e838687d0056fd050293)
+- [ ] [<code>fix(gateway): include session label in deriveSessionTitle fallback chain (#98841)</code>](https://github.com/openclaw/openclaw/commit/68e06b9ea148a746f797dea35060a89c05e0d8be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(feishu): catch unhandled promise rejection in streaming card flush timer (#99301)</code>](https://github.com/openclaw/openclaw/commit/33c1e6224c9a2ca683b72591e649c34e7ac3f5d1)
+- [ ] [<code>fix(compaction): count nested tool result content (#99391)</code>](https://github.com/openclaw/openclaw/commit/413acc2e634dd977383a68597f7fc99f322b206f)
+- [ ] [<code>fix(daemon): avoid loading full gateway logs during diagnostics (#99407)</code>](https://github.com/openclaw/openclaw/commit/a9051b45cf3796cf729babf4e3578aa6602761b2)
+- [ ] [<code>Fix/issue 98958 gateway lock fd leak (#99291)</code>](https://github.com/openclaw/openclaw/commit/36dd9ee3c3c188cc0619f0a3277c64c4b96a9615)
+- [ ] [<code>fix(ios): contacts.add crashes the app via unfetched CNContactFormatter keys (#99475)</code>](https://github.com/openclaw/openclaw/commit/6b869a6188561f8c69465b954fef2ac20d8c8997)
+- [ ] [<code>fix(anthropic): wire buildGuardedModelFetch into the Cloudflare createClient branch (#98003)</code>](https://github.com/openclaw/openclaw/commit/f84bcdb4d79c37f783c224026204f1804f1d3f0c)
+- [ ] [<code>fix: strip conda env marker from host tool runs (#99425)</code>](https://github.com/openclaw/openclaw/commit/05de72c4cd7d0b8bb3e0038a22d992e9b01628d6)
+- [ ] [<code>fix(cli): reject unsafe sessions tail counts (#99398)</code>](https://github.com/openclaw/openclaw/commit/3e2d373d4340c7d05271dabb445cd77aa42ce66f)
+- [ ] [<code>fix: chat.send no reply when thinking metadata is set (#98855)</code>](https://github.com/openclaw/openclaw/commit/776b34a4e642ae6914262af61980927a184cc4b7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Rework Android gateway onboarding setup (#98752)</code>](https://github.com/openclaw/openclaw/commit/64318d7624a80fb05a86bbb5bb5d69fdacb5fa56)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/28062c868c03e1e6876013d450c8f92bf1fc2faf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/3d438588c5eb0497bdb2fbccf9d6f6cd325d0ec5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/ad74b322ba80178c1c0f68348a55d5d3e65e64ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/1b076209c4d2ea37a7178b50f5ba5c54b5753c2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/4fa4c9e06e39e095a7373390240b3a5a5cf1be79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/1dd52307fcd74bc25ea31800a4c551bc415f7645)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/9db7ec5edd62e3f05758a28a6c6acb14f6889ea5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/e6f8788bf5569e87e9df0d3e404eaef5f86184ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/e5cf67ea1d73d9724a227000eadead902fa606a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/b52d98861e8c14f30dc459c395fd60281fa99604)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): preserve fd find failures (#99446)</code>](https://github.com/openclaw/openclaw/commit/749c0bf9581a2b196c972ce8ed263c7e0d855a0a)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/cd3b4eee7d104d266d8514afea2ae53eea435e9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): use Object.hasOwn instead of in operator in restoreOriginalValueOrThrow (#99152)</code>](https://github.com/openclaw/openclaw/commit/459b93e3ddafc4fef8355881bb204cd76903757b)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/c3bcb9fa21ec5f1b98bdb89940e93707b8f9a3e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/8af3aa0b1bfa3f5d2950b053a8d7d2568cbbea31)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/c34e79e7299b19267000a79bb94bcae9608f93a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/c9c8f6c9f6a9ebf337ff486c15b9cc4d43904ffe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/255e2518de492d518cde78617f6c5b220bb1278d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/0e98ba4391dddfa9bcd48a978b5cd1df8ae03411)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: redact dotted API key activity previews (#99460)</code>](https://github.com/openclaw/openclaw/commit/e51b446bae8968b02301fd5d184db392745a9b5c)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/0cc9927577c6663a5839a4d2ad3e5708df04157a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/97955d969d83a158a70c23912703e92b69b0883a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: long mobile media recordings time out (#99455)</code>](https://github.com/openclaw/openclaw/commit/d354e9eb2b4847bb2fbfd7939ac43989941460d6)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/ba449f240d4e437752be44bef76e93c177454ca4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(subagents): match requesterSessionKey when controllerSessionKey differs in list filter (#99410)</code>](https://github.com/openclaw/openclaw/commit/d825a6cc8ef626dabf7b444a278d42ee042a9c32)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/0e22e54431f5740b65ddbfcc307bd6b3c1f43eea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add Signal status reaction lifecycle (#98791)</code>](https://github.com/openclaw/openclaw/commit/8abc633cf8e23531a65fdc9ce73482f84ba1bbdd)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): keep landscape composer compact (#98683)</code>](https://github.com/openclaw/openclaw/commit/f5c700bc4bc91a27c7482a53c0cc31ef5da81e25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(logging): redact Telegram bot tokens from timeout URLs (#99428)</code>](https://github.com/openclaw/openclaw/commit/4abdf0f3b56889a396d8e40373f23847b929f591)
+- [ ] [<code>Preserve Codex output after missing turn completion (#99217)</code>](https://github.com/openclaw/openclaw/commit/414ecd2b96899d955f10e93ca166915bdd9d24ad)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -12006,13 +12216,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-POST git-upload-pack (148 bytes)
-error: RPC failed; HTTP 504 curl 22 The requested URL returned error: 504
-fatal: expected flush after ref listing
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
