@@ -376,7 +376,9 @@
 - [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon/commit/b8a9aace65af6ba658544f50effb7eb76d6d1875)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>st: Respect clutter_actor_get_resource_scale()'s return code.</code>](https://github.com/linuxmint/cinnamon/commit/295a3c774dbf3e2384fb13708a491e349fef0874)
+- [ ] [<code>sound applet: Initialize this._playerIcon and simplify some code.</code>](https://github.com/linuxmint/cinnamon/commit/6c1e1330d08b6129f334951ec78922dc573d0a46)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -673,7 +675,10 @@
 - [ ] [<code>wayland: Allow activation tokens without surfaces</code>](https://github.com/linuxmint/muffin/commit/f4294790087d36c51a0f7cb9adb1c59439bc88c0)
 - [ ] [<code>wayland: Make focus stealing prevention optional</code>](https://github.com/linuxmint/muffin/commit/3405478766110857c9fea0c265ec39d8b3169a83)
 - [ ] [<code>debian: update symbols</code>](https://github.com/linuxmint/muffin/commit/a27605dd9f18ab9672e034669b2011b630f00dd2)
+- [ ] [<code>debug: Add /usr/bin/cinnamon-list-windows CLI</code>](https://github.com/linuxmint/muffin/commit/6b9a697ce965c0e465b36efa2bfa705449a706aa)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
