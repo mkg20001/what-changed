@@ -97,6 +97,17 @@
 - [ ] [<code>device: add broadcast_flood bridge port setting</code>](https://git.openwrt.org/project/netifd.git/commit/b0063715d7ea3b2e77bfbd3036a52e16898d0112)
 - [ ] [<code>interface: add carrier_loss_delay option</code>](https://git.openwrt.org/project/netifd.git/commit/973354a1a6f0f0fa5744866e94f75b674f9a9ff2)
 - [ ] [<code>interface: add restart support</code>](https://git.openwrt.org/project/netifd.git/commit/d155e4cefbd964b7c022618c1d74b549de25e8a8)
+- [ ] [<code>config: fix NULL pointer dereference when typed device creation fails</code>](https://git.openwrt.org/project/netifd.git/commit/c0abf80df1c1ca3b30060c98023befecaed7983e)
+- [ ] [<code>device: migrate alias users when replacing a device</code>](https://git.openwrt.org/project/netifd.git/commit/4a19d2568c0be6754cb5d5a9563c0ff0ece18af7)
+- [ ] [<code>interface: defer interface removal to avoid use-after-free</code>](https://git.openwrt.org/project/netifd.git/commit/e2f28e5ec0a83d00c8586e2fc7fd52740773388b)
+- [ ] [<code>interface: fix alias handling when the parent interface does not exist</code>](https://git.openwrt.org/project/netifd.git/commit/34760f2aec34ba206b5e3048fc6d75617743a577)
+- [ ] [<code>bridge: cancel the member retry timer on teardown and free</code>](https://git.openwrt.org/project/netifd.git/commit/0bab70f052967d597ada57299c13690edf7c681f)
+- [ ] [<code>bridge: fix memory leak of hotplug member vlan ranges</code>](https://git.openwrt.org/project/netifd.git/commit/a562a8eca41d80b52092d6404eb5f3d3f6dca676)
+- [ ] [<code>proto-ext: clear the proto task kill flag when starting a new task</code>](https://git.openwrt.org/project/netifd.git/commit/4c7b3f7caf881bf4fdfeb022c4681b91ffc9d7f6)
+- [ ] [<code>system-linux: include the priority when deleting ip rules</code>](https://git.openwrt.org/project/netifd.git/commit/8a38aecd84de644f8a78705922b2af7c68b36819)
+- [ ] [<code>device: remove unused __devlock counter</code>](https://git.openwrt.org/project/netifd.git/commit/844c0fe78eed5674aad8cde73a9b71e28e43a239)
+- [ ] [<code>system-linux: initialise FMR prefix lengths before parsing</code>](https://git.openwrt.org/project/netifd.git/commit/dbdf0d0e58302f5b16eb5a8fbd32c4c54f1a18f7)
+- [ ] [<code>iprule: keep unchanged rules installed on reload</code>](https://git.openwrt.org/project/netifd.git/commit/fb456b5e65dffb57ef9ef68ec5b56516c2cdec81)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
