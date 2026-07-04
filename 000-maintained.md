@@ -2093,6 +2093,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Add default database storage path to disk requirements doc (#22865)</code>](https://github.com/netdata/netdata.git/commit/0a9c4dbe87078d9d84b85e74672968e4c4b0c341)
 - [ ] [<code>feat(go.d): run collector dyncfg commands concurrently on per-key lanes (#22964)</code>](https://github.com/netdata/netdata.git/commit/da943ee6beb0f77ce66d4ea18b3688312b905c6e)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-626-nightly.</code>](https://github.com/netdata/netdata.git/commit/a408c53f3cb1dacb3d47750b8b3248b6ad858c80)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12269,6 +12270,218 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: avoid cross-os socket close race (#99642)</code>](https://github.com/openclaw/openclaw/commit/010b617463797d1a1987c1795e18c91875bf4857)
 - [ ] [<code>fix(daemon): launch env wrapper through shell (#89967)</code>](https://github.com/openclaw/openclaw/commit/1755a9dc5bceebbe791d1d3dae882f4c6f1891a3)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(media): guard ffprobe JSON parse against malformed output (#98613)</code>](https://github.com/openclaw/openclaw/commit/09dc880f892a3b69d5353e252a633b79bd27ee74)
+- [ ] [<code>fix: log terminal session persistence failures (#97839)</code>](https://github.com/openclaw/openclaw/commit/7d593bb9ae54bea5f95bfd085c62fb1c45a9c4df)
+- [ ] [<code>feat: clarify iOS Location Always permission flow (#99247)</code>](https://github.com/openclaw/openclaw/commit/671c31507242500a5318a752d8497d52270f9fc3)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/261d79a9a42ef45a41c3947caa6e616c92702ad4)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/ef1474dd3d4dfdffd4a47a5f14166dc8e2e97a55)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/cc1d61bd3c04d86b470f94364b1fe7fc6762c456)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/2a1e1184f5139d300567d0c2437669727dddc821)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/748bfee90d16df63b9d89ae7db8c80579c8f7a6f)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/e0b2ddad6cd7a8a562dd39fd99746557923549a1)
+- [ ] [<code>fix(auto-reply): strip stray punctuation before silent-reply token detection (#98224)</code>](https://github.com/openclaw/openclaw/commit/19d621e760be1a62260e36b0b3f18124d797a73b)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/f371a2f2022f9ef6dd9ee781ccf9cb3ee2cf5d88)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/3542585de59987dd0b962df3ddb70bde093fa4dd)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/ee00cc7c949469612e79a55479c363d62a00f7e6)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/27f9ae0c0a41f812c872439efdfb05f1df79c17c)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/51a07aec27eee6ff7c75ddc9d2d1d40ce0d74672)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/ba9d167e1a9596eff784716992a1f9885d60e892)
+- [ ] [<code>fix(google): rotate Gemini API keys for LLM requests (#97328)</code>](https://github.com/openclaw/openclaw/commit/d2594964256232059fdc552e6967abccc228ffae)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/576169e6d247308fd92cb8cdd3ba493797fa2f3f)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/10500a63fa5837a58d3e9b400daa7f52d20d0fbb)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/a34425273c4ed1796845f1706d1c3b3974044434)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/d7d280fc78a0e8c51b3404294a6a1958a023eb03)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/cb2547f329109ee0b81a62b12ebea7743cac5905)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/2191c2eb1f77eb24f5c0dc8499630d52ebb55a68)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/c63e9f9bf8ac0e573cfd32937e11ee0e16248709)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/4b1e0deb3374012338586f39fa8f064515a50cc8)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/525c4c7ce1b821236a07901d80b14a0e7ed81ded)
+- [ ] [<code>fix(macos): remote mode fails with managed SSH aliases (#99661)</code>](https://github.com/openclaw/openclaw/commit/af420dbee5973505326e61e6a4eac0712954d86b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/f0da0002b42f6152c74ac8136fecd563d109afe1)
+- [ ] [<code>fix(qa): defer partial Crabline recorder rows (#99649)</code>](https://github.com/openclaw/openclaw/commit/1cab479f78142475408f2bfd98d28325582b2e4b)
+- [ ] [<code>Expose legacy cron store doctor lint findings (#99211)</code>](https://github.com/openclaw/openclaw/commit/219f27a5ec6b6ed058c95653ac604bc2a25a26d2)
+- [ ] [<code>test(qa): redact script evidence diagnostics (#99629)</code>](https://github.com/openclaw/openclaw/commit/0cd936cc77bfef6d03ed45ed9e782266e36fcae7)
+- [ ] [<code>Fix Slack retry for session init conflicts (#99647)</code>](https://github.com/openclaw/openclaw/commit/fbdfd19622584a3072c492c8dbba70388da70516)
+- [ ] [<code>improve: enforce canonical QA scenario ownership (#99628)</code>](https://github.com/openclaw/openclaw/commit/677c8ff8466de45086d07baf2a57caed56671808)
+- [ ] [<code>refactor(qa): simplify transport adapter contracts (#99632)</code>](https://github.com/openclaw/openclaw/commit/04601ae81a6d395966ea440dafa2b81dd0f9db36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): use full-turn budget for native stop recovery (#99656)</code>](https://github.com/openclaw/openclaw/commit/96b029718b53f9eb00c1b4aafc627b0af6c29c3d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(google): bound OAuth token error response reads (#99605)</code>](https://github.com/openclaw/openclaw/commit/6207a4e75baeb631ddefdcfabd1710781056e7d8)
+- [ ] [<code>fix: estimate known zero transcript costs</code>](https://github.com/openclaw/openclaw/commit/c5260a3c03b0444597f3dc4a80c1f003ca7c4b4a)
+- [ ] [<code>fix(infra): preserve top-level pricing metadata in session logs</code>](https://github.com/openclaw/openclaw/commit/c45124ab8554d70c4564ae1b3a81fc65872ecb9d)
+- [ ] [<code>fix(qa): consume Crabline events without recorder polling (#99679)</code>](https://github.com/openclaw/openclaw/commit/1ab021fba94f4fa1ccb8a120548933d71d4adafc)
+- [ ] [<code>refactor(infra): consolidate SHA-256 digest helpers (#99687)</code>](https://github.com/openclaw/openclaw/commit/9c75a14d5c5636ad9f7e9f02c865257541bbc350)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(android): add chat command controls (#98796)</code>](https://github.com/openclaw/openclaw/commit/c680312ef6f3e572169e6713ba55473e97de99d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: consolidate number coercion callers (#99671)</code>](https://github.com/openclaw/openclaw/commit/00b7eac5c354cd22aacc259eb8d68c7f84d8d428)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/b81c58bdf6a07894231bc3afcab9a6b12b175bf8)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/c312f9f0e059b838f4afdbf20f2f1bd8b938ba13)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/8929118353fce0b8ac8189a95fd4534b39e85903)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/f4275fa00b8f89055a8b3a8b23740153750e97af)
+- [ ] [<code>fix(agents): make cli binding tool-scope hash session-stable</code>](https://github.com/openclaw/openclaw/commit/fe513ffe5e76c698d72d153db618fbcc91bf910d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/1eee853c71e1ddd5c632e49f1e75b18c0837add7)
+- [ ] [<code>refactor(models): consolidate catalog ref parsing (#99682)</code>](https://github.com/openclaw/openclaw/commit/a633887c34200736587ae2c88f894442752039e9)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/69d4657bdb2da553641e34f1b7f85223cfb8c660)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/3e66eb9de863d333d9f7b7951d2b63eac857df07)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/a5c9662cd17746a35adf350f55b3f6b7c6cae78c)
+- [ ] [<code>fix(exec): avoid splitting surrogate pairs in approval display (#99566)</code>](https://github.com/openclaw/openclaw/commit/7430168c106c3f0ebf3bb82802bfa445e8822bbc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/9035729528a9ae0ed4922728c94fd025cfdd8ea6)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/2e359d49951bf8c786e4c018ef59858743e80386)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/91f4d0ae25ae86f76cccaac709b84d87990c7ca1)
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/e785c4a8f7025ee7a529816a50207c0f925e3a93)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/2c5a07661c153bced0feb10f34e74811f2920831)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/02250d957fed2a1e05baac4b33b7315603002732)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/bf23194888b626ec4318955d4305197c1c9c4a88)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/603502f60f54bf9c0e0b7bd8b200ac0a4cc0d5e5)
+- [ ] [<code>refactor: remove redundant unique-list aliases (#99702)</code>](https://github.com/openclaw/openclaw/commit/75fab4fbc6cdaf9cf7bf0e95f1131ecb431f6400)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/a837a1ac6c00c3e71471bcf4ff451b9cecf02f69)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/26df1fa7bca40fbb24f199593ae4bd4de74b2302)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/c9266107d6c65489b75ae412fe9484d2eca347c6)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/db5057edf935d85b6324bd725506424f2554fc89)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/1fee4a5daf57a864cd730b9dc2f0bcb19d90c5d8)
+- [ ] [<code>feat(ios): implement branded typography design system</code>](https://github.com/openclaw/openclaw/commit/39b703dfcf0feab333b03f37ef9cf31b6e88c7ac)
+- [ ] [<code>fix(ios): remove leaked location capability and restore chat hooks</code>](https://github.com/openclaw/openclaw/commit/9f73c9acdc43b95144cb2a94621bc7c875b1408f)
+- [ ] [<code>fix(ios): address ClawSweeper review findings</code>](https://github.com/openclaw/openclaw/commit/97e582ec7400b2ab4bcc5c8ca3b8433bc6881ff7)
+- [ ] [<code>fix(ios): list bundled font licenses</code>](https://github.com/openclaw/openclaw/commit/9184a68ab848edb7e4aec489eec925133e42f62b)
+- [ ] [<code>fix(ios): align branded typography licenses</code>](https://github.com/openclaw/openclaw/commit/ea3c6dc5f7330a8b72eeb932bfd259687da9e4c7)
+- [ ] [<code>fix(ios): apply typography to native chrome</code>](https://github.com/openclaw/openclaw/commit/b4c5cd511a564879f7d449160dbe2aa8489d2ec4)
+- [ ] [<code>fix(ios): cover remaining branded typography surfaces</code>](https://github.com/openclaw/openclaw/commit/d483cc1f726324aaeb6ffcef0570c0a9a8e1b10c)
+- [ ] [<code>fix(ios): brand remaining SwiftUI controls</code>](https://github.com/openclaw/openclaw/commit/17f152ddd0e1542ce46ded069dd99bf1e2fc77ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Apply branded fonts across iOS sibling controls</code>](https://github.com/openclaw/openclaw/commit/788472ed4a6c337d806b07966e1fa9480ed42253)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix Gateway branded typography coverage</code>](https://github.com/openclaw/openclaw/commit/700403e840e7f51be59169bd8a937ab0c137b397)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Audit iOS branded typography coverage</code>](https://github.com/openclaw/openclaw/commit/37a9b9a91c91965d936161e027b66dc2ba3d7ae7)
+- [ ] [<code>Document iOS typography guidance</code>](https://github.com/openclaw/openclaw/commit/b2ee01744e41c1a57ca20e6d0dacfd11c415339f)
+- [ ] [<code>Apply branded font to chat jump control</code>](https://github.com/openclaw/openclaw/commit/3885ee19a0c972cf433df4ec59a690ac9f0b599e)
+- [ ] [<code>Fix iOS typography CI checks</code>](https://github.com/openclaw/openclaw/commit/7a1f3d7183d4c322f83f8a84c258cbcfb1d84283)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Restore gateway secure field accessibility</code>](https://github.com/openclaw/openclaw/commit/b5f754b63d1e17d55f8cffcfe67e71b2dbdbf2ca)
+- [ ] [<code>Document iOS font provenance</code>](https://github.com/openclaw/openclaw/commit/304b25911f05c7cc8ccaac245eff79149739a85b)
+- [ ] [<code>Fix iOS typography rebase audit</code>](https://github.com/openclaw/openclaw/commit/25c8fbb5e7fc6941f357093a914a5c3114bc119a)
+- [ ] [<code>Remove out-of-scope location guidance</code>](https://github.com/openclaw/openclaw/commit/d3848d39f28ec574420a92325602811162fc7356)
+- [ ] [<code>Restore location permission copy scope</code>](https://github.com/openclaw/openclaw/commit/426672ccb19b4f4163c374ed9af8d1a33c05154d)
+- [ ] [<code>Refresh native i18n inventory after rebase</code>](https://github.com/openclaw/openclaw/commit/b82b18a4a2bbe081d3b023b460febdb88ea54bdf)
+- [ ] [<code>Fix iOS branded typography dynamic type refresh</code>](https://github.com/openclaw/openclaw/commit/52ed5eca49946c76497aca23fff12bc177cfc1a9)
+- [ ] [<code>Cap iOS chrome typography scaling</code>](https://github.com/openclaw/openclaw/commit/b525191150a83f46dc6d672425f738a29cf1b9ff)
+- [ ] [<code>Preserve macOS chat typography scaling</code>](https://github.com/openclaw/openclaw/commit/ce4abc9b910b60acdcee7025329ee5adfdce2439)
+- [ ] [<code>Restore branded button disabled states</code>](https://github.com/openclaw/openclaw/commit/37474b2e06eda77cb46309795ada1a01951ed185)
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/fdcd5c0eb0c2493f5d3845fcf76a02f4e1a6d6ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/26f673526e7a6680df175570da67baf6fe5abeed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/5220effc10c92cec20abb6df0c5acdaa40e56ad6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/bb7dbda027b9451281f2d81d2f4cbad9a003599c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/952245b49c4b6743afc9ad97f6f3e48af407e5ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/edb1e74645ebba0b8992863a9d395d80fd10498f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/f7bad5749b9a441a6b55d1dc34cf9ef037270960)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/060293056b33ff1a44dd5ab6f44ff8783d612f31)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/e779b8f1bde92173dcaeadd87853a458656dd7b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/0400be7118c03b6e3c2330fc31d9451e5a2c0151)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/851d0ad7354321ccad43ecf5f7c04abd168da0dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/1e0dd95e5d9a0bb4d62dd72ce451a9902b4eb6d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): restore package docker gates</code>](https://github.com/openclaw/openclaw/commit/f53fdb688df82aec840d154a0a62231e342b9345)
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/703e1adadefe213c4fcc312ccb4aead7b120a3a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/1c93e509a36673ee8a58b0c1aa6c4b9a9a00a5e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(build): generate plugin sdk declarations for docker package (#99710)</code>](https://github.com/openclaw/openclaw/commit/7a92eb7a3733efbd667cb763c60196cd46889ea4)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/37c45f28fbbdbd768bd7fefa8d8a94274d075aa9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/8fe917b4f7784e44dabcb6cf7b673da74bf3753e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/da21e4b8dd47fc174cef6e3373471aba37f851e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/f4f63b187041cd20fe4016ad62d85ad59b94fa66)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/3e4febbe68f82d8ee06977486a0f50ecba933452)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/a82cd35ed5405a5cca392a5272fe898264eaf107)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/52323b67c5872f5c396ad2eb5e5749bfa1a63f6e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: consolidate image data URL formatting (#99715)</code>](https://github.com/openclaw/openclaw/commit/e6dec69403f0e8419a045aced8bc154df76f02d6)
+- [ ] [<code>fix(ui): copy workspace file paths over plain HTTP (#98764)</code>](https://github.com/openclaw/openclaw/commit/61564f2d2e83345c3c7422cdda8ac06c6a449629)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(build): forward default exports through stable runtime aliases (#99678)</code>](https://github.com/openclaw/openclaw/commit/24dba4b44a5bf810203c1333764ad3581bf84f58)
+- [ ] [<code>fix(file-transfer): don't inline zero-byte files as image content blocks (#99370)</code>](https://github.com/openclaw/openclaw/commit/8d3b45979278ea8238bb8c6e8d147b92a12f4f5f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(doctor): keep completion repair best-effort (#99540)</code>](https://github.com/openclaw/openclaw/commit/f59310a555d784ccf0724a09e1871260304aa738)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(text): consolidate cleanup owners (#99718)</code>](https://github.com/openclaw/openclaw/commit/50479c2a661dce4733b33192a7bd489d6a4fa982)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugins): resolve public artifacts from installed plugin roots (#98819)</code>](https://github.com/openclaw/openclaw/commit/342d13a914bbcbe0d206e85b2f0cc49dab48814f)
+- [ ] [<code>refactor: consolidate async timing helpers (#99721)</code>](https://github.com/openclaw/openclaw/commit/c7aca4f02938a5f7130eebc4cb71976f03f1282a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): keep mention state and group intro out of session-stable prompt hash</code>](https://github.com/openclaw/openclaw/commit/3706ebed331fc647a5b5f5d800cd5ccd0800e4a6)
+- [ ] [<code>refactor: consolidate string reader mechanics (#99676)</code>](https://github.com/openclaw/openclaw/commit/1a04c9c2ada225ea706e99fba9844cb1cf5a9bc0)
+- [ ] [<code>chore(ui): refresh pt-BR control ui locale</code>](https://github.com/openclaw/openclaw/commit/d1406e835c079640f6a0f710938a5141990d91f4)
+- [ ] [<code>chore(ui): refresh zh-TW control ui locale</code>](https://github.com/openclaw/openclaw/commit/c9b2d8d05f98fa9bffb369c213a6623fa27351c6)
+- [ ] [<code>chore(ui): refresh de control ui locale</code>](https://github.com/openclaw/openclaw/commit/d044595776b6267da4c2d162fe3754fef90047f6)
+- [ ] [<code>chore(ui): refresh zh-CN control ui locale</code>](https://github.com/openclaw/openclaw/commit/261f97c9bf0a147cbbe94d9d0a3a0bef90658135)
+- [ ] [<code>chore(ui): refresh ja-JP control ui locale</code>](https://github.com/openclaw/openclaw/commit/0ec62b07625d69868330049e7287ec532da4c22b)
+- [ ] [<code>chore(ui): refresh ko control ui locale</code>](https://github.com/openclaw/openclaw/commit/1600621116fa596c87a3fe2826bbb60e713f391a)
+- [ ] [<code>chore(ui): refresh es control ui locale</code>](https://github.com/openclaw/openclaw/commit/257c50646e6ff9f3f4038a00a7b780c4ffea83d1)
+- [ ] [<code>chore(ui): refresh fr control ui locale</code>](https://github.com/openclaw/openclaw/commit/336b14978b7c5b218a3416685578b77764e9194e)
+- [ ] [<code>chore(ui): refresh ar control ui locale</code>](https://github.com/openclaw/openclaw/commit/44a8ea4f67475cccc31e00cad0a2487ce0c267dc)
+- [ ] [<code>chore(ui): refresh it control ui locale</code>](https://github.com/openclaw/openclaw/commit/7e11650d487d0bc1099171b8f82cb9028668261e)
+- [ ] [<code>chore(ui): refresh tr control ui locale</code>](https://github.com/openclaw/openclaw/commit/a1aaa32e147bd52d9237c70183b8e62c0aa2f86e)
+- [ ] [<code>chore(ui): refresh uk control ui locale</code>](https://github.com/openclaw/openclaw/commit/1f499b01c4259cf97cca5004c1d0ed8f95c1ff35)
+- [ ] [<code>chore(ui): refresh id control ui locale</code>](https://github.com/openclaw/openclaw/commit/ccd960ac4a96eef685522f65e189efbd33888215)
+- [ ] [<code>chore(ui): refresh pl control ui locale</code>](https://github.com/openclaw/openclaw/commit/1622799eb451e2f1cf2116bca641880cb98ca9ae)
+- [ ] [<code>chore(ui): refresh th control ui locale</code>](https://github.com/openclaw/openclaw/commit/77b61d55901e28c9eac3b57c85b6afaed50502cc)
+- [ ] [<code>chore(ui): refresh nl control ui locale</code>](https://github.com/openclaw/openclaw/commit/54bd83d25443fb4a32fff77bade3e29b43f22be7)
+- [ ] [<code>chore(ui): refresh vi control ui locale</code>](https://github.com/openclaw/openclaw/commit/484d2e459996c2129bdd955d14e6e663241b01cb)
+- [ ] [<code>chore(ui): refresh fa control ui locale</code>](https://github.com/openclaw/openclaw/commit/87d88878787b88e91e99a2746bb44d2605cb8b7d)
+- [ ] [<code>test(qa): loosen mac script timeout harness</code>](https://github.com/openclaw/openclaw/commit/bc802ceee189376df32049056553ff422a678293)
+- [ ] [<code>improve(qa): execute runtime scenarios through Docker (#99705)</code>](https://github.com/openclaw/openclaw/commit/ab9e233d02a81ac4df1179b40acb63d332eb4dc9)
+- [ ] [<code>improve: native iOS look with stock SwiftUI navigation, forms, chat, and talk visualizer (#99231)</code>](https://github.com/openclaw/openclaw/commit/5370f64cf09c2a5ff2ef4ed677788032600eab00)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native zh-CN locale</code>](https://github.com/openclaw/openclaw/commit/3b27bb4536a3bdc4b6bdf82fc59f878e478121d0)
+- [ ] [<code>chore(i18n): refresh native zh-TW locale</code>](https://github.com/openclaw/openclaw/commit/e296d1447eb7b7666100e34169b0cd27b07e759c)
+- [ ] [<code>fix(auto-reply): don't block reply completion on transcript mirror (#99549)</code>](https://github.com/openclaw/openclaw/commit/b38155918447a83ee42f62eda2ac2729efbe9fbf)
+- [ ] [<code>chore(i18n): refresh native pt-BR locale</code>](https://github.com/openclaw/openclaw/commit/5516775933a84f3bc88f9a485d7f53ad2d9e5928)
+- [ ] [<code>chore(i18n): refresh native de locale</code>](https://github.com/openclaw/openclaw/commit/6ec49620baf962ecbd2c69f0299fd98410f18a8f)
+- [ ] [<code>chore(i18n): refresh native es locale</code>](https://github.com/openclaw/openclaw/commit/291f2a477373c01cde9aac0f36438b9073b7677e)
+- [ ] [<code>chore(i18n): refresh native ja-JP locale</code>](https://github.com/openclaw/openclaw/commit/7e2d41b94c7a11ba96abe1839819e7c63c3e6c87)
+- [ ] [<code>chore(i18n): refresh native ko locale</code>](https://github.com/openclaw/openclaw/commit/81bc96f70f9e50fcf7cbbe014d0e6f9b10ff35d0)
+- [ ] [<code>chore(i18n): refresh native fr locale</code>](https://github.com/openclaw/openclaw/commit/574556cd32d816436209d006d6744273b82a0276)
+- [ ] [<code>fix(qa): isolate script scenarios from flow gateways (#99736)</code>](https://github.com/openclaw/openclaw/commit/24f654e06557366ec83df6bf8df0db19064f3636)
+- [ ] [<code>chore(i18n): refresh native hi locale</code>](https://github.com/openclaw/openclaw/commit/8bb44e60d0cf740d13663d40a780fa28705eeeed)
+- [ ] [<code>chore(i18n): refresh native ar locale</code>](https://github.com/openclaw/openclaw/commit/ae09908259e163598eea8170640255aa6d8c04ce)
+- [ ] [<code>chore(i18n): refresh native it locale</code>](https://github.com/openclaw/openclaw/commit/42fc19d77e93e7a41ce634c43f3317d3e123fd6a)
+- [ ] [<code>fix(install): pin git wrapper node runtime</code>](https://github.com/openclaw/openclaw/commit/be7198f6a2225dd988e707c4ef11c3cf002c14c3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>chore(i18n): refresh native tr locale</code>](https://github.com/openclaw/openclaw/commit/28bbb439f6398a3e48fa8a88e67879290bb70ea0)
+- [ ] [<code>feat(providers): add ClawRouter routing and quotas (#99658)</code>](https://github.com/openclaw/openclaw/commit/4a354f76c1bfb6b4aa28b83765878bf5a1596bd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(i18n): refresh native uk locale</code>](https://github.com/openclaw/openclaw/commit/6ff9185637fc3ab0fd1f966355fc7cfe505863e8)
+- [ ] [<code>chore(i18n): refresh native id locale</code>](https://github.com/openclaw/openclaw/commit/4be0be697fb95444596f9d604cf54ea4ecd12943)
+- [ ] [<code>chore(i18n): refresh native pl locale</code>](https://github.com/openclaw/openclaw/commit/0f1fbbe8779dfbe317bf99de0a45aebcdadec1ea)
+- [ ] [<code>chore(i18n): refresh native th locale</code>](https://github.com/openclaw/openclaw/commit/d893a724f6f0e91161a93a223d01057c04cd8db4)
+- [ ] [<code>chore(i18n): refresh native vi locale</code>](https://github.com/openclaw/openclaw/commit/f5cb29b2881edf85de14569adbfaea44b7b02056)
+- [ ] [<code>chore(i18n): refresh native nl locale</code>](https://github.com/openclaw/openclaw/commit/fd0355d5b1a12c263bbd87e01ee88f451d11514b)
+- [ ] [<code>chore(i18n): refresh native fa locale</code>](https://github.com/openclaw/openclaw/commit/beca2b1749733f4afccf47a780187859e7afce22)
+- [ ] [<code>chore(i18n): refresh native ru locale</code>](https://github.com/openclaw/openclaw/commit/49726a5f5cbc013d42d7bf64c3033bbce4af319c)
+- [ ] [<code>chore(i18n): refresh native sv locale</code>](https://github.com/openclaw/openclaw/commit/2ffeedf406e741e9f58858c83af06aa763ba1ab6)
+- [ ] [<code>Expose channel preview warning doctor findings (#99238)</code>](https://github.com/openclaw/openclaw/commit/a1063aa4c83fc5469a677f992a4335604c3727bc)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
