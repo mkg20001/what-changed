@@ -868,8 +868,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>3.3.3-unstable</code>](https://github.com/linuxmint/xapp/commit/7d6e697d83fc6cf96b7cc59ff7a8848df82aded3)
-  - <sub>Tags: <code>3.3.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-sn-watcher: Fix capitalize() mangling non-ASCII titles.</code>](https://github.com/linuxmint/xapp/commit/94a348f16ec3a483fdb6c8a807a6de5f7f613c10)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
