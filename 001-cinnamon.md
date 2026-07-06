@@ -377,6 +377,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>st: Respect clutter_actor_get_resource_scale()'s return code.</code>](https://github.com/linuxmint/cinnamon/commit/295a3c774dbf3e2384fb13708a491e349fef0874)
 - [ ] [<code>sound applet: Initialize this._playerIcon and simplify some code.</code>](https://github.com/linuxmint/cinnamon/commit/6c1e1330d08b6129f334951ec78922dc573d0a46)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>polkitAuthenticationDialog.js: Clear _sessionRequestTimeoutId in its</code>](https://github.com/linuxmint/cinnamon/commit/f279eac89d166b96306f0edbeec43140f4d51a4c)
+- [ ] [<code>power applet: Introduce a short delay before initializing the backlight</code>](https://github.com/linuxmint/cinnamon/commit/872e68bb6a7d5751178ba57e40234270840a24a6)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
