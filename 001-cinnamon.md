@@ -380,6 +380,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>polkitAuthenticationDialog.js: Clear _sessionRequestTimeoutId in its</code>](https://github.com/linuxmint/cinnamon/commit/f279eac89d166b96306f0edbeec43140f4d51a4c)
 - [ ] [<code>power applet: Introduce a short delay before initializing the backlight</code>](https://github.com/linuxmint/cinnamon/commit/872e68bb6a7d5751178ba57e40234270840a24a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network: Remove stale wireguard connections (#13847)</code>](https://github.com/linuxmint/cinnamon/commit/f9b7d189f56c4ef1ed223cdd32cb51b16f7ecdac)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -488,8 +490,10 @@
 - [ ] [<code>csm-manager.c: Clean up some end-session warnings.</code>](https://github.com/linuxmint/cinnamon-session/commit/cbcc3641af44d50df5fe0eef0af60cc990dc3049)
 - [ ] [<code>csm-manager.c: Emit the SessionOver signal.</code>](https://github.com/linuxmint/cinnamon-session/commit/8dd86cf9c8611de794d96939508899074f930a09)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/a307edd496b08ebef83490ef5eb9c26c46e3a705)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csm-manager.c: Block mate's polkit helper autostarting except in</code>](https://github.com/linuxmint/cinnamon-session/commit/b3930ba17dfa5e9f2933b17fe44a425982b21b9f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -685,6 +689,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>wayland: Use event time (not "now") when self-activating via gtk-shell.</code>](https://github.com/linuxmint/muffin/commit/786394f5520945811c4cfc59f798fe94810b28f2)
 - [ ] [<code>stack: Don't raise windows that aren't in the stack.</code>](https://github.com/linuxmint/muffin/commit/a13c740625b4fee11a96e6cdbbe82dc5cfa0c0d8)
+- [ ] [<code>cursor/native: Round HW cursor buffers up to a driver-legal size.</code>](https://github.com/linuxmint/muffin/commit/87a0011471a3a6548b6054fea89a054800f8566a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
