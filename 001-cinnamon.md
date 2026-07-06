@@ -537,6 +537,8 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.0...HEAD)
 
+- [ ] [<code>object: Only use property accessor fast path for real getters/setters.</code>](https://github.com/linuxmint/cjs/commit/991f7b261d0e7e7d15cf975858b2a0f1eec940b4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -679,9 +681,11 @@
 - [ ] [<code>wayland: Make focus stealing prevention optional</code>](https://github.com/linuxmint/muffin/commit/3405478766110857c9fea0c265ec39d8b3169a83)
 - [ ] [<code>debian: update symbols</code>](https://github.com/linuxmint/muffin/commit/a27605dd9f18ab9672e034669b2011b630f00dd2)
 - [ ] [<code>debug: Add /usr/bin/cinnamon-list-windows CLI</code>](https://github.com/linuxmint/muffin/commit/6b9a697ce965c0e465b36efa2bfa705449a706aa)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>wayland: Use event time (not "now") when self-activating via gtk-shell.</code>](https://github.com/linuxmint/muffin/commit/786394f5520945811c4cfc59f798fe94810b28f2)
+- [ ] [<code>stack: Don't raise windows that aren't in the stack.</code>](https://github.com/linuxmint/muffin/commit/a13c740625b4fee11a96e6cdbbe82dc5cfa0c0d8)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
