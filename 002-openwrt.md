@@ -108,6 +108,12 @@
 - [ ] [<code>device: remove unused __devlock counter</code>](https://git.openwrt.org/project/netifd.git/commit/844c0fe78eed5674aad8cde73a9b71e28e43a239)
 - [ ] [<code>system-linux: initialise FMR prefix lengths before parsing</code>](https://git.openwrt.org/project/netifd.git/commit/dbdf0d0e58302f5b16eb5a8fbd32c4c54f1a18f7)
 - [ ] [<code>iprule: keep unchanged rules installed on reload</code>](https://git.openwrt.org/project/netifd.git/commit/fb456b5e65dffb57ef9ef68ec5b56516c2cdec81)
+- [ ] [<code>vrf: sync changes with bonding.c/bridge.c</code>](https://git.openwrt.org/project/netifd.git/commit/7d8f9900c273c57cace8fbfc501faa71a78c92f2)
+- [ ] [<code>vrf: remove incorrect IPv6 disable on VRF ports</code>](https://git.openwrt.org/project/netifd.git/commit/f0db4101c1eac8588b704ae9648c6cdf9b69ce62)
+- [ ] [<code>vrf: remove unused vrf_empty field</code>](https://git.openwrt.org/project/netifd.git/commit/9dfea5b242b20e02ebe6bb4be752bbfea20a7bce)
+- [ ] [<code>vrf: rename vrf_state_type to vrf_device_type</code>](https://git.openwrt.org/project/netifd.git/commit/6f6bf8bec23bd56c31d296025ac8f3302dd876cb)
+- [ ] [<code>vrf: add license header</code>](https://git.openwrt.org/project/netifd.git/commit/37c770a6b86d6840b50694f294f9dba9fbd8b58f)
+- [ ] [<code>system-linux: fix system_vrf_addif retry loop</code>](https://git.openwrt.org/project/netifd.git/commit/35171a157516cbbff962c6f46fbd8f9af3ab3d06)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
