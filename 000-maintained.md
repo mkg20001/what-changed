@@ -689,6 +689,7 @@
 - [ ] [<code>chore: use overlay instead of materialapp in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/5d47b6344395d1ba49abd10864e6895a2a779e89)
 - [ ] [<code>chore: display last active and status message together</code>](https://github.com/krille-chan/fluffychat/commit/8e41293ef906f5a656866c459227e41daa57097f)
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.2 to 2.2.0</code>](https://github.com/krille-chan/fluffychat/commit/14b7105a23e6e4c778cab36fada82fadf7da7891)
+- [ ] [<code>chore: follow up maxlines in chatbar</code>](https://github.com/krille-chan/fluffychat/commit/f3c4e232681d78219dc0805c483b7f8352926494)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1155,6 +1156,7 @@
 - [ ] [<code>chore: use overlay instead of materialapp in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/5d47b6344395d1ba49abd10864e6895a2a779e89)
 - [ ] [<code>chore: display last active and status message together</code>](https://github.com/krille-chan/fluffychat/commit/8e41293ef906f5a656866c459227e41daa57097f)
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.2 to 2.2.0</code>](https://github.com/krille-chan/fluffychat/commit/14b7105a23e6e4c778cab36fada82fadf7da7891)
+- [ ] [<code>chore: follow up maxlines in chatbar</code>](https://github.com/krille-chan/fluffychat/commit/f3c4e232681d78219dc0805c483b7f8352926494)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1319,6 +1321,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Don't delete gain map metadata if ignore_gain_map</code>](https://github.com/AOMediaCodec/libavif/commit/0c8ee66c7fa84156b3357ff7d33cf15e00e9b84f)
 - [ ] [<code>Remove ignoreGainMap param of avifImageCreateView</code>](https://github.com/AOMediaCodec/libavif/commit/5a7fef632e8db2ad98a45cb4457f0ed87967fc17)
 - [ ] [<code>Add the ignoreICC option to avifDecoder</code>](https://github.com/AOMediaCodec/libavif/commit/5d9407c5f65507a7eb6ffbecfecf53c55de1e95e)
+- [ ] [<code>Bump libyuv to 5d03bf9ba (1949)</code>](https://github.com/AOMediaCodec/libavif/commit/d0605c98085e2fe4830ed248c8b00df7e6f80643)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2181,6 +2184,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/cloudwatch): add stock health alerts (#23024)</code>](https://github.com/netdata/netdata.git/commit/181d565d407df8ab995912b17875c23d176e056f)
 - [ ] [<code>docs: Fix Functions tab reference to Live tab in NPM quick-start (#22981)</code>](https://github.com/netdata/netdata.git/commit/6236ca76bdeab26c58bd9d7ea4abad17a39be729)
 - [ ] [<code>feat(go.d/cloudwatch): add MSK stock health alerts (#23028)</code>](https://github.com/netdata/netdata.git/commit/e65a76c2bb3b9f3674fa769df3f9faeac0cc3baa)
+- [ ] [<code>docs: Add minimum system requirements to resource utilization page (#22963)</code>](https://github.com/netdata/netdata.git/commit/cf8f569a5451eae6042b5fabbb1168ae30f0aeb9)
+- [ ] [<code>feat(go.d/cloudwatch): add target health and MSK alarms (#23031)</code>](https://github.com/netdata/netdata.git/commit/816eecf160d38a32f8e8ce64f92b1d1e97186c15)
+- [ ] [<code>Netdata fixes part 38 (#22999)</code>](https://github.com/netdata/netdata.git/commit/c9030f7fb01a34949cbadd10b8ef428bf47c58d1)
+- [ ] [<code>Netdata fixes part 39 (#23000)</code>](https://github.com/netdata/netdata.git/commit/151de68343909d7b0db2d578bcd7be8a99d42a59)
+- [ ] [<code>Update systemd journal SDK to 0.7.8 (#23033)</code>](https://github.com/netdata/netdata.git/commit/959b68bab03d94d99b9dc5f257290aea03fc0848)
+- [ ] [<code>fix view.dimensions.sts.avg for group-by aggregation percentage (#23035)</code>](https://github.com/netdata/netdata.git/commit/2d1fa8106a080f8dab5f04ca652e298f65177b33)
+- [ ] [<code>percentage group-by: per-row anomaly rate and zero-denominator guard (#23037)</code>](https://github.com/netdata/netdata.git/commit/2754a8cfa4bb780849daeffcc5f34188b386f4b1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4964,9 +4974,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sdk): report qairt prefill rate over padded prompt length</code>](https://github.com/qualcomm/GenieX/commit/7ad20636a32e6a81b476324427f40047f5691383)
 - [ ] [<code>fix(python): fix VLM multi-turn image guard and test message order</code>](https://github.com/qualcomm/GenieX/commit/13d040ec11cdd9e2977decf584d9768188542d66)
 - [ ] [<code>test(python): add regression tests for multi-turn VLM modality check</code>](https://github.com/qualcomm/GenieX/commit/39b6c6141403af3327be8527455c2f7560a98951)
+- [ ] [<code>docs(python): update install instructions to use production PyPI</code>](https://github.com/qualcomm/GenieX/commit/0bee969cada2bd82576d69166649585fc4a1635c)
 - [ ] [<code>fix(sdk): load non-ASCII image paths in qairt VLM on Windows</code>](https://github.com/qualcomm/GenieX/commit/1f7c3c01287c5ad92efc086faf2d6d42a3d71e43)
 - [ ] [<code>docs: add Simplified Chinese README and sync cn docs (#1146)</code>](https://github.com/qualcomm/GenieX/commit/d15336262bfd0f46a88d051375065584219ac872)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>feat(sdk): support input_ids and get_model_info in qairt plugin</code>](https://github.com/qualcomm/GenieX/commit/0251b4820f3c258ea2df3ba8218bf1776e79b745)
+- [ ] [<code>chore: update subproject commit for geniex-qairt</code>](https://github.com/qualcomm/GenieX/commit/082d71064853b776d08a9bd8de099c5884b3a216)
+- [ ] [<code>chore(ci): drop dead .apk content-type branch in release.js</code>](https://github.com/qualcomm/GenieX/commit/5e4ad8798003869cb86ef7392c066001d7ac9f9b)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -9179,6 +9193,81 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(tasks): keep emoji / surrogate pairs intact during terminal output truncation (#101600)</code>](https://github.com/openclaw/openclaw/commit/4d5cd05a64bf596b750d0486107d9d2aef96d1ad)
 - [ ] [<code>refactor(ui): trim unused control UI helpers (#101632)</code>](https://github.com/openclaw/openclaw/commit/2ba622ca3019a932bb2a7347f2f141ed7ea8baa2)
 - [ ] [<code>refactor(ui): remove duplicate helper paths (#101647)</code>](https://github.com/openclaw/openclaw/commit/60f0749b7fb3e06f1b1426d37931e4b4a4e7e9f6)
+- [ ] [<code>fix: keep bounded text truncation UTF-16 safe (#101654)</code>](https://github.com/openclaw/openclaw/commit/a9582a1bb62aa70bb0b0ceb72536d0d76f08eab8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: localize internal reply and plugin types (#101666)</code>](https://github.com/openclaw/openclaw/commit/407443264c11c0ba9b8ea5ba3d2e096314cc2d79)
+- [ ] [<code>fix(slack): bound conversation info cache (#101562)</code>](https://github.com/openclaw/openclaw/commit/4e29b2f5ab4bd917382de069a148d103c35413f0)
+- [ ] [<code>refactor(android): remove superseded app surfaces (#101680)</code>](https://github.com/openclaw/openclaw/commit/cd86107a10f66aa14825ba1f1d6dede1690bab70)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: remove obsolete chat display mocks (#101682)</code>](https://github.com/openclaw/openclaw/commit/e94fde29199f401fd75ca72a8e312c49179c0070)
+- [ ] [<code>fix(voice-call): persist complete realtime transcripts (#84161)</code>](https://github.com/openclaw/openclaw/commit/e591dcfa82135aec5a025d39a615a5fb1804a298)
+- [ ] [<code>test: remove stale native i18n sentinel (#101689)</code>](https://github.com/openclaw/openclaw/commit/b95b9e4487940332807683020161d9419b331ec1)
+- [ ] [<code>fix(channels): prevent metadata caches from growing without bound (#101650)</code>](https://github.com/openclaw/openclaw/commit/936136a707ade820799f8949de2304cabccebfb5)
+- [ ] [<code>fix: prevent garbled emoji at remaining text limits (#101685)</code>](https://github.com/openclaw/openclaw/commit/176fee5d071dd03f6cbbc54b029f23380b04e911)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): support native Windows exec approvals (#101669)</code>](https://github.com/openclaw/openclaw/commit/a7faec8ca1d0ce5d20ab7475b5cc7b42e8c23764)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: localize file-private exports (#101701)</code>](https://github.com/openclaw/openclaw/commit/c8d95da14c5b3732abe5520aa04b8d9cfbbcec64)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: localize internal implementation types (#101731)</code>](https://github.com/openclaw/openclaw/commit/fdc7892a6e5a47ba2d1844d5080bec30745aa190)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): allow SHA-only extended-stable preflight (#101466)</code>](https://github.com/openclaw/openclaw/commit/72ca911e3c33512934d4242fa573816fb6fa5209)
+- [ ] [<code>fix(codex): validate maintained app-server types (#101726)</code>](https://github.com/openclaw/openclaw/commit/ed28c57e20bc43cec96e17d0851913022f26b349)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: preserve emoji at remaining bounded-text edges (#101711)</code>](https://github.com/openclaw/openclaw/commit/87fe266c5e4d790e8f15278ecc417d3a4d418b91)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(http-error-body): keep emoji / surrogate pairs intact during error body truncation (#101728)</code>](https://github.com/openclaw/openclaw/commit/d633a2df422971154f5f819072fed8ba6142cf75)
+- [ ] [<code>refactor: localize internal implementation constants (#101758)</code>](https://github.com/openclaw/openclaw/commit/3d206140f3f0ab639cebb67fa20c93c15296c61f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>improve(ui): propose settings route cleanup</code>](https://github.com/openclaw/openclaw/commit/2508fb483263dd0543f03a5a2cc6ee3832262896)
+- [ ] [<code>fix: use configured Control UI base path at startup</code>](https://github.com/openclaw/openclaw/commit/9d1554403856c645c3b8c81f5f2e7c5797c14b1e)
+- [ ] [<code>test: cover settings routes through compiled router</code>](https://github.com/openclaw/openclaw/commit/c3f6d8a46366702a42d3f9784897e1ae06d54313)
+- [ ] [<code>docs: update Control UI MCP settings route</code>](https://github.com/openclaw/openclaw/commit/a3477eafb95de0da350a90fa6343fdd532d714ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: update settings sidebar route expectation</code>](https://github.com/openclaw/openclaw/commit/598a6ff22cbaed5918e4ef6651cf6a51c86c77cd)
+- [ ] [<code>fix: keep debug and logs on top-level routes (#100928)</code>](https://github.com/openclaw/openclaw/commit/70de9ff20b3ccdb5f5e0e9f72a5e0430b9a8fe71)
+- [ ] [<code>refactor(gateway): route chat transcript injection through the session accessor (#101688)</code>](https://github.com/openclaw/openclaw/commit/453f5968bbca4454aa1fa6e9b5c437d323329ef6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(sessions): bound trajectory snapshot and pointer reads (#101450)</code>](https://github.com/openclaw/openclaw/commit/f92ed16e605ed8984ee2e07cb2ff557398b6f5cd)
+- [ ] [<code>fix(claude-cli): surface re-auth hint when subprocess OAuth token expires (#97669)</code>](https://github.com/openclaw/openclaw/commit/fa84741f93b9610c1dbb3e187955cace28a02e44)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor: localize internal implementation symbols (#101831)</code>](https://github.com/openclaw/openclaw/commit/b88f80940add4eb3bc5088c41bae5b12f830f176)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(ui): add virtual scrolling to file preview modal code viewer</code>](https://github.com/openclaw/openclaw/commit/c20abcbf01b7c2a38b97a217d4bd6d970bbd357d)
+- [ ] [<code>fix: stabilize virtual file preview scrolling</code>](https://github.com/openclaw/openclaw/commit/476017d775ba94bf5286099e79270bdadba2b07c)
+- [ ] [<code>test: cover virtual file preview behavior</code>](https://github.com/openclaw/openclaw/commit/f8ebaf52255062e2cd25474b9a718da5eee23b61)
+- [ ] [<code>docs: note virtual file preview improvements</code>](https://github.com/openclaw/openclaw/commit/b64b09a32bfb872bd0e88384619668e3e53411e8)
+- [ ] [<code>fix: avoid duplicate file preview autofocus</code>](https://github.com/openclaw/openclaw/commit/f7e0ebbf348405c0da0b12c36091c965c173f26c)
+- [ ] [<code>refactor: preserve wrapped file preview performance</code>](https://github.com/openclaw/openclaw/commit/4db63820eee4e464d6d9bfd74d5487712a6e61bc)
+- [ ] [<code>docs: update file preview changelog (#101319)</code>](https://github.com/openclaw/openclaw/commit/53d0c4ca50500766b0c216acaf5355b2e9d5bd9a)
+- [ ] [<code>refactor(sessions): move parent-session forking behind the accessor boundary (#101699)</code>](https://github.com/openclaw/openclaw/commit/a68caa185bf15877a581a75d4bbb074b1fbd97c9)
+- [ ] [<code>fix(gateway): bound all-agent usage cache concurrency (#101589)</code>](https://github.com/openclaw/openclaw/commit/e5c224754c18837852995e8aba3d2e463927bf77)
+- [ ] [<code>fix(shared): skip app-group identity migration when OPENCLAW_STATE_DIR is overridden (#101779)</code>](https://github.com/openclaw/openclaw/commit/b5f67ac4c7c5980b642f26e6544b3dc76626ea32)
+- [ ] [<code>fix(android): keep cold-start gateway auto-connect from overriding explicit intents (#101799)</code>](https://github.com/openclaw/openclaw/commit/3d53ed7ed88a68d62554662d186b51e67e6b0c20)
+- [ ] [<code>feat(ui): redesign gateway connection-lost banner as floating pill (#101812)</code>](https://github.com/openclaw/openclaw/commit/21f251220fc0886c38026b9f4e6af43debeeea14)
+- [ ] [<code>test(ui): run responsive browser cases concurrently</code>](https://github.com/openclaw/openclaw/commit/525f58e9c38644f804aa67de57e957fc0ab55f5d)
+- [ ] [<code>feat(cron): event triggers — polled condition-watcher scripts via code mode (#101195)</code>](https://github.com/openclaw/openclaw/commit/a6768d9de567d56b0b8466f2eb73ffd8e79c9d8b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>improve(ui): soften idle voice button ring in the chat composer (#101843)</code>](https://github.com/openclaw/openclaw/commit/6683a8635e574c33bbbea58938f79200ea5c9295)
+- [ ] [<code>fix(ui): refresh raw-copy baseline</code>](https://github.com/openclaw/openclaw/commit/41cae5c8cff38f3c721cfb4a9fa6504b3e020a65)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>improve(ui): restyle connection-lost pill as neutral status surface (#101844)</code>](https://github.com/openclaw/openclaw/commit/dd228d5f3cee17465fc4d7590112a884533da77c)
+- [ ] [<code>policy: repair denied gateway http endpoints (#99731)</code>](https://github.com/openclaw/openclaw/commit/41425bf094ec7f65f673a0d99f8a185354a3b8bf)
+- [ ] [<code>fix(ui): stop flashing the login gate on dashboard load when credentials are stored (#101849)</code>](https://github.com/openclaw/openclaw/commit/623534400684eca7c451cf587189fae714f2abe2)
+- [ ] [<code>fix: require full frontmatter delimiter lines (#101795)</code>](https://github.com/openclaw/openclaw/commit/dbbab1044e5c587c81deb5a59bd5d84f9adefc2a)
+- [ ] [<code>refactor(deadcode): localize UI and script symbols (#101858)</code>](https://github.com/openclaw/openclaw/commit/7ff3f2dbf922d233bd8c86c6609f53185cf9f496)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(deadcode): localize extension helpers (#101860)</code>](https://github.com/openclaw/openclaw/commit/e242c614001455b645a7772a7d6eea5a060d7e09)
+- [ ] [<code>fix(mobile): clarify gateway connection security setup (#101325)</code>](https://github.com/openclaw/openclaw/commit/6438c89f052cdc8a32ac5c7679c87973dcafa55f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(qa): update Convex to 1.36.0</code>](https://github.com/openclaw/openclaw/commit/39a5bb89eb3f21e53fae424776478424147da320)
+- [ ] [<code>fix(qa): use valid Convex module filename</code>](https://github.com/openclaw/openclaw/commit/75e3aa293adcda8e8e1fffd59a248073e95c0eb1)
+- [ ] [<code>refactor(deadcode): localize core helpers (#101869)</code>](https://github.com/openclaw/openclaw/commit/f565138ddc916cfa0c3d73064e0b0394f20593db)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(deadcode): localize test and tooling helpers (#101875)</code>](https://github.com/openclaw/openclaw/commit/d563101a82fd75f00f2b83c3110e69913c46cb7a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Improve iMessage imsg setup and skill ownership (#101407)</code>](https://github.com/openclaw/openclaw/commit/91a0ebbce63fed86df3a41910628fb4d8b281251)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -9623,6 +9712,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Removed libsodium from builds (#9022)</code>](https://github.com/tribler/Tribler/commit/50469d212cc9603b04ca5a6b4e69154dc365d4c0)
   - <sub>Tags: <code>v8.4.3</code></sub>
+- [ ] [<code>Added augmented search</code>](https://github.com/tribler/Tribler/commit/9811d707cdaf32c898c8df44b46fab950713f8e0)
+- [ ] [<code>Added augmented search (#9036)</code>](https://github.com/tribler/Tribler/commit/feac9023a7ea978032995f52ad48b2e304d680e1)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
