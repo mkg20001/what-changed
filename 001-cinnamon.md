@@ -766,10 +766,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>nemo-places.sidebar.c: Restrict eject button clicks to primary</code>](https://github.com/linuxmint/nemo/commit/852b546539217fcd4d196d702a6af72de2653780)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/nemo/commit/2e72e878324c4fcd2e38e1806907b4ef7cd874ba)
   - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-window-list.c: Clear interactive no-search-results label</code>](https://github.com/linuxmint/nemo/commit/d43c6de8dcc59704b40e7173c7a867f50762e2ea)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
