@@ -1196,98 +1196,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.4.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.4.1...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.4.2 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.4.2...HEAD)
 
-- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/3ae5cce5d3c84c06cc515c6b75583e821ef59520)
-- [ ] [<code>Remove unused libaom and AVM image formats</code>](https://github.com/AOMediaCodec/libavif/commit/c46189cdc3b29335292ef747215e35f52be6ea2b)
-- [ ] [<code>Revert "Skip ImageMagick test in MinGW"</code>](https://github.com/AOMediaCodec/libavif/commit/0b82b480e41349883dfe050250a27cd61c6ea52d)
-- [ ] [<code>Stop testing the mingw64 system in ci-mingw.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3b1384c88528434c9451d1f76003f37ed1785e24)
-- [ ] [<code>Remove an obsolete check for CMAKE_VERSION < 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/3b3aa36eaadb66e139b8d62832ea518301cbe169)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Improve are_images_equal for gain maps. (#3126)</code>](https://github.com/AOMediaCodec/libavif/commit/8f2a140ef1fa3ede3d60c6fc2692455a4de056cb)
-- [ ] [<code>Change CMAKE_C_STANDARD from 99 to 11</code>](https://github.com/AOMediaCodec/libavif/commit/86777019460ea10f4fb8eb5301f978c1f8730b48)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add avif_off_t and avif_fseeko() and avif_ftello()</code>](https://github.com/AOMediaCodec/libavif/commit/a6e895f3e82318d63b9205486f3852101412ad86)
-- [ ] [<code>Fix memory leak of altICC if avifDecoderFindGainMapItem returns early. (#3127)</code>](https://github.com/AOMediaCodec/libavif/commit/534c5254f7ddccb3e3956b40925848eb9909f589)
-- [ ] [<code>Remove avm_codec_control(AV2D_SET_OPERATING_POINT)</code>](https://github.com/AOMediaCodec/libavif/commit/f962648242c69bf10e9a0525ea378ba0d03823f4)
-- [ ] [<code>Get fseeko to compile with Android < 24 (#3132)</code>](https://github.com/AOMediaCodec/libavif/commit/78044bd4f216b54fa5d766796ce09341c8589112)
-- [ ] [<code>src/io.c: Some cleanup related to fseeko/ftello</code>](https://github.com/AOMediaCodec/libavif/commit/1b9e9f678c75bb34272ff00706b22c0ece9f5281)
-- [ ] [<code>Add a --jobs flag to avifgainmaputil for multithreading support. (#3115)</code>](https://github.com/AOMediaCodec/libavif/commit/24eff5475e6275b7655c4bbc68386b5fb89dba02)
-- [ ] [<code>Set offsetBytesA for AVIF_RGB_FORMAT_GRAY (#3139)</code>](https://github.com/AOMediaCodec/libavif/commit/61ec51697141ece353c955ce2a8e91983129f9fe)
-- [ ] [<code>Remove avifCheckCodecVersionAVM()</code>](https://github.com/AOMediaCodec/libavif/commit/f856137610a36be1d632b3f9382bb171e67f9873)
-- [ ] [<code>Split parseSequenceHeaderProfile() into AV1 & AV2</code>](https://github.com/AOMediaCodec/libavif/commit/1814ba2a6236c28ea4d26a6aee21c739a98a88ee)
-- [ ] [<code>Initialize all offsets in avifGetRGBColorSpaceInfo</code>](https://github.com/AOMediaCodec/libavif/commit/8b318b63e20a1cc695aea3d8485ac3160023aac2)
-- [ ] [<code>Fix two bugs in parseAV2SequenceHeader()</code>](https://github.com/AOMediaCodec/libavif/commit/bd4e9485ab33a4e960d1a927fd51a86d8cd33231)
-- [ ] [<code>Free grid cell images if avifImageSplitGrid fails</code>](https://github.com/AOMediaCodec/libavif/commit/35f24cefc11c028687bc22aad103a00ea0d02089)
-- [ ] [<code>Update avifImageSplitGrid() comment after PR #3092</code>](https://github.com/AOMediaCodec/libavif/commit/83373d5636322d9da0a5131529beb4d88d688155)
-- [ ] [<code>Pass AVIF_ENABLE_WERROR to libavif in the Android CI (#3133)</code>](https://github.com/AOMediaCodec/libavif/commit/7342fbb815e1493ed5329f380b1dbe015d102de3)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Explain _POSIX_VERSION >= 200112L test for fseeko</code>](https://github.com/AOMediaCodec/libavif/commit/f04579f4556d6120566e25dc3b0fc13feeab5471)
-- [ ] [<code>Use Tune IQ for layered image inter-frame encoding</code>](https://github.com/AOMediaCodec/libavif/commit/a33b3ad4f635a4a3cfbbf5b9131e9f656585f49a)
-- [ ] [<code>Make libaom encoder diagnostics null-safe (#3125)</code>](https://github.com/AOMediaCodec/libavif/commit/2b277007e8f2900527715926c57ba501d1f4f963)
-- [ ] [<code>Fix minor coverity finding (#3150)</code>](https://github.com/AOMediaCodec/libavif/commit/f0eb53ea00f34e3ca7d72273f61b005a2da41166)
-- [ ] [<code>codec_aom: improve decoder diagnostics consistency (#3151)</code>](https://github.com/AOMediaCodec/libavif/commit/ffc142f3a63a65637982fdd6d33839a7ed109835)
-- [ ] [<code>Minor PrintEncodingSettings() refactor (#3152)</code>](https://github.com/AOMediaCodec/libavif/commit/7d634088b0de78b8a6c5b0c76f62faf88142801b)
-- [ ] [<code>Add a changelog entry for PR #3068</code>](https://github.com/AOMediaCodec/libavif/commit/d8f90157e1884e79ff60be163474d87efc25a4fe)
-- [ ] [<code>Simplify casts for gridCells</code>](https://github.com/AOMediaCodec/libavif/commit/ee55a76fce172a0a8e5afe3eab3e74538c45a0d6)
-- [ ] [<code>Document the invariant on avifROStream</code>](https://github.com/AOMediaCodec/libavif/commit/02988cd354c0186050f387bb5a73c1e78b2d5674)
-- [ ] [<code>Check width * 4 in avifReorderARGBThenConvertToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/78888a44f6b52332e7b509a709b952a60f9e04d4)
-- [ ] [<code>Statically assert a strcpy is safe</code>](https://github.com/AOMediaCodec/libavif/commit/58c93df409d994bd815f6744772cc260c900bcf0)
-- [ ] [<code>Follow up on aomDiagPrintf()</code>](https://github.com/AOMediaCodec/libavif/commit/58b3459130636b0bf282d43ea27ecf6bacc82c0c)
-- [ ] [<code>Replace strcpy with memcpy for alpha auxiliary URN</code>](https://github.com/AOMediaCodec/libavif/commit/bc4259e8fb59ab71795186745dcf41307a11085c)
-- [ ] [<code>Bump the github-actions group across 3 directories with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/70eb3fcb49d4e9ee6dde26553cfc3bc673b081e7)
-- [ ] [<code>Access stream->offset through avifROStreamOffset()</code>](https://github.com/AOMediaCodec/libavif/commit/a781d77721253239591f77093929844e2b63b040)
-- [ ] [<code>Fixed minor typo (#3165)</code>](https://github.com/AOMediaCodec/libavif/commit/d7ee2e3e4f71d5191a91dc75aa087f171d46ac09)
-- [ ] [<code>Fixed minor typo (#3166)</code>](https://github.com/AOMediaCodec/libavif/commit/5097f8c543ce6af543c942a6455c1c0592a508e4)
-- [ ] [<code>Update to AVM research-v14.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/a351a0063f2ff4fc378f026470c94804874f3248)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update to libaom v3.13.3</code>](https://github.com/AOMediaCodec/libavif/commit/5e4c5ae89997b9d7f0efce4f5f821c443a00ec18)
-- [ ] [<code>Explicitly forbid reusing encoder instance (#3163)</code>](https://github.com/AOMediaCodec/libavif/commit/226e112a833bbb3e98632492e4d766e37d661774)
-- [ ] [<code>Avoid MT loop restoration crash in libaom < 3.13.3</code>](https://github.com/AOMediaCodec/libavif/commit/b8d6c1a8d154ac4d0e5c63354e8aa9f2cafb2995)
-- [ ] [<code>setup-macos: Disable installation of imagemagick</code>](https://github.com/AOMediaCodec/libavif/commit/7ac6d8c645f598eddf5642147631151d9dcfbe75)
-- [ ] [<code>Fix layered image decoding with alpha</code>](https://github.com/AOMediaCodec/libavif/commit/d87d7a33d9c6d2e5c1ea18dd540a20d32ebfe48a)
-- [ ] [<code>Bump SVT-AV1 dependency to v4.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/d64d496ec22e97b76fee2078bfd857f58e00f012)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update to AVM research-v14.1.0 minor release</code>](https://github.com/AOMediaCodec/libavif/commit/b357f083ea5ae0ee7b09a65a48621f345e710588)
-- [ ] [<code>Android JNI: reject invalid length at direct buffer entry points</code>](https://github.com/AOMediaCodec/libavif/commit/b54eac58daf563e9150cc6abce7631ac71b999aa)
-- [ ] [<code>setup-macos: Re-enable installation of imagemagick</code>](https://github.com/AOMediaCodec/libavif/commit/c56e49ef79021c179be6c15cfc7013f11888d790)
-- [ ] [<code>Port the PoC for b/506387278 to libavif</code>](https://github.com/AOMediaCodec/libavif/commit/f416fdc0e813d40b7336556847bdd6d3b3b4732d)
-- [ ] [<code>Update to AVM research-v15.0.0 anchor RC1</code>](https://github.com/AOMediaCodec/libavif/commit/d9fe950c041734e6d8c034f20a7c5ae40ace7637)
-- [ ] [<code>Update comment for avifDecoderItem::mergedExtents</code>](https://github.com/AOMediaCodec/libavif/commit/b9d9bc17abbaaab89fd91b6912ef01f243ab03fe)
-- [ ] [<code>Replace memcpy call with struct member assignment</code>](https://github.com/AOMediaCodec/libavif/commit/9e918bbc82c0d72e1c56296287ac42b0c8f54a70)
-- [ ] [<code>Bump the github-actions group across 2 directories with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/a1fa5df53a1e9f0a13de04260d3379cb6988e617)
-- [ ] [<code>Delete the unused variable i_cell</code>](https://github.com/AOMediaCodec/libavif/commit/ee88f984f540e7fb67ae6dc2212565b6a3d82b84)
-- [ ] [<code>Use size_t arithmetic in pixel offset calculations</code>](https://github.com/AOMediaCodec/libavif/commit/f17110dac426a7dd046a34b99276e64d9fb73c28)
-- [ ] [<code>avifenc: reject mismatched --depth for Y4M input</code>](https://github.com/AOMediaCodec/libavif/commit/9bd9e4dacd933f1e30d4cefe1ff88262338367ea)
-- [ ] [<code>Add pull request #3179 to CHANGELOG.md</code>](https://github.com/AOMediaCodec/libavif/commit/ee0ce4ea86b4240c35d96d05a685ed00146dba56)
-- [ ] [<code>Update to AVM research-v15.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/257b1e45f979491d905786d80691ba33a7597290)
-- [ ] [<code>Fix NaN bypass of AVIF_CLAMP in gain map pixel clamping (#3189)</code>](https://github.com/AOMediaCodec/libavif/commit/3e9371f563a6bd96440b0e3d425afdc1f91c7f45)
-- [ ] [<code>Use libaom AOMD_SET_FRAME_SIZE_LIMIT if available</code>](https://github.com/AOMediaCodec/libavif/commit/41ee8abe2613de364559f73011683b4d97227a85)
-- [ ] [<code>Set aomVersion_3_14_0 to the correct value</code>](https://github.com/AOMediaCodec/libavif/commit/4b817bb98ec9e4be299aa28e0d7c29456a0f6b93)
-- [ ] [<code>Update to libaom v3.14.0</code>](https://github.com/AOMediaCodec/libavif/commit/74bd32ef873024213b37f19a94f30d7b155f2514)
-- [ ] [<code>Print diag msg if AOMD_SET_FRAME_SIZE_LIMIT fails</code>](https://github.com/AOMediaCodec/libavif/commit/3c66271c78f5bbf8228a62a344a33eace1b9f764)
-- [ ] [<code>Change "y4m or stdin" to "y4m" in avifenc help msg (#3197)</code>](https://github.com/AOMediaCodec/libavif/commit/4368f146309dd6a5b05657df646a97d2f7032903)
-- [ ] [<code>avifImageCopy: check avifImageCreateEmpty() result</code>](https://github.com/AOMediaCodec/libavif/commit/96e91c48e26b1dc232abb47cc46073cae2606ea1)
-- [ ] [<code>gainmap: check avifImageCreateEmpty() result</code>](https://github.com/AOMediaCodec/libavif/commit/15c8b002222ea82466eb42a12b809e930704efa4)
-- [ ] [<code>avifenc: Follow up on PR #3179</code>](https://github.com/AOMediaCodec/libavif/commit/786926e4b151886c3a4ef3f897e4d143f1bd7c6f)
-- [ ] [<code>Document the marker parameter of box writing funcs</code>](https://github.com/AOMediaCodec/libavif/commit/4e3fed82b35a4711bedaf8b58485fc07714ee746)
-- [ ] [<code>Detect invalid box size in avifRWStreamFinishBox()</code>](https://github.com/AOMediaCodec/libavif/commit/ed4f11dcf6e684025f0a2225a48099ef213fe7c2)
-- [ ] [<code>Check null return value from avifImageCreateEmpty</code>](https://github.com/AOMediaCodec/libavif/commit/a854856d05ccd05db91ee49e3c54b4e5a6d70582)
-- [ ] [<code>Make avifAlloc(0) deterministic and fix RWData shrink-to-zero handling (#3212)</code>](https://github.com/AOMediaCodec/libavif/commit/80f489a010fe84f6e3f825105e232e07346bb426)
-- [ ] [<code>Change avifRWStreamFinishBox to return avifResult</code>](https://github.com/AOMediaCodec/libavif/commit/b76fe84462a20023c6c9990f592e364bbd37f83a)
-- [ ] [<code>avifenc: refer to standard input in error message</code>](https://github.com/AOMediaCodec/libavif/commit/1eb52718e253cf542452b47bf3042ab79594736e)
-- [ ] [<code>Switch to AVM's new repository on GitHub</code>](https://github.com/AOMediaCodec/libavif/commit/729927c8d6c27159f5a97c41cf218d8244dc8897)
-- [ ] [<code>Replace strcpy/strcat with memcpy in aviftest.c</code>](https://github.com/AOMediaCodec/libavif/commit/3a63fd99d00109a5e0732b9cdee92277dcf09953)
-- [ ] [<code>Fix bug in avifToLinearIEC61966 (#3218)</code>](https://github.com/AOMediaCodec/libavif/commit/eb6e0e6c9017935bd8ac54b01b55a4c330f5e976)
-- [ ] [<code>Update to libaom v3.14.1</code>](https://github.com/AOMediaCodec/libavif/commit/9bf3dd48dcd947c9946aa68d30c1c4b9c642f3dc)
-- [ ] [<code>Bump libpng to 1.6.58</code>](https://github.com/AOMediaCodec/libavif/commit/b28a5b1d871e7dcc75d2f5da9bcc4090bf4c2457)
-- [ ] [<code>Use std::array for pixel buffers in avifrgbtest</code>](https://github.com/AOMediaCodec/libavif/commit/6a3615c508fcfd69772c4ce4775d01ddfe9b5e6d)
-- [ ] [<code>Bump libjpeg-turbo to 3.1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/7d67150badf57c2389877af71461bf889041090c)
-- [ ] [<code>Bump libxml2 to v2.15.3</code>](https://github.com/AOMediaCodec/libavif/commit/196cf824aa891b83abe7fc8772c0dd6711d9a0c2)
-- [ ] [<code>Bump libyuv to 644251f25</code>](https://github.com/AOMediaCodec/libavif/commit/267f924c90938f81b97458754c9c8e36d9c224ee)
-- [ ] [<code>v1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/c5240fc79fe5c2407e10afd35f5505ef6333ea49)
-  - <sub>Tags: <code>v1.4.2</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/50c9345a4c0c1ea6682fd705f8f59bce25301336)
 - [ ] [<code>avifenc: add --ignore-alpha flag to discard alpha</code>](https://github.com/AOMediaCodec/libavif/commit/693855b664244c0dfd1992ab301fad7b5aa1e085)
 - [ ] [<code>Update to AVM v1.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/d8b4e042cde136995909a7c5753d5f2910772248)
@@ -2218,6 +2128,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>docs: Surface existing-agent claiming in getting-started guide (#22989)</code>](https://github.com/netdata/netdata.git/commit/c581be809a93c2f6565ff7bc901e275ee628492e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(mcp): document MCP Connections (Netdata Cloud as MCP client) (#23049)</code>](https://github.com/netdata/netdata.git/commit/0238c02e100ed41df01b38164473096619d2df72)
+- [ ] [<code>feat(go.d/metrix): transactional, bounded descriptor lifecycle (#23053)</code>](https://github.com/netdata/netdata.git/commit/107c9abc19cd90829ceb4c86fe058aec1fcebcad)
+- [ ] [<code>Netdata fixes part 46 (#23018)</code>](https://github.com/netdata/netdata.git/commit/05fbcbd6a0b24de814b699666df694de133d4f0e)
+- [ ] [<code>Netdata fixes part 47 (#23019)</code>](https://github.com/netdata/netdata.git/commit/4de83c95464590c14275d3c8a707dd32ee6d0d84)
+- [ ] [<code>Netdata fixes part 48 (#23020)</code>](https://github.com/netdata/netdata.git/commit/22519a18c4eb77c9efda3332e623b6593480f588)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(agents): workflow lessons + SOW friction-tracking (#23054)</code>](https://github.com/netdata/netdata.git/commit/242642a56926ac34dfd3ef5ee12816149bf8653f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Netdata fixes part 49 (#23023)</code>](https://github.com/netdata/netdata.git/commit/424fbaab5cc6b315a85da368378fcbeaffb196a4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5005,6 +4924,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sdk): load non-ASCII image paths in qairt VLM on Windows</code>](https://github.com/qualcomm/GenieX/commit/1f7c3c01287c5ad92efc086faf2d6d42a3d71e43)
 - [ ] [<code>docs: add Simplified Chinese README and sync cn docs (#1146)</code>](https://github.com/qualcomm/GenieX/commit/d15336262bfd0f46a88d051375065584219ac872)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>ci(release): use Trusted Publishing for production PyPI</code>](https://github.com/qualcomm/GenieX/commit/c929233ae0c5d089c861af547f4845be2c958ef7)
 - [ ] [<code>feat(sdk): support input_ids and get_model_info in qairt plugin</code>](https://github.com/qualcomm/GenieX/commit/0251b4820f3c258ea2df3ba8218bf1776e79b745)
 - [ ] [<code>chore: update subproject commit for geniex-qairt</code>](https://github.com/qualcomm/GenieX/commit/082d71064853b776d08a9bd8de099c5884b3a216)
 - [ ] [<code>chore(ci): drop dead .apk content-type branch in release.js</code>](https://github.com/qualcomm/GenieX/commit/5e4ad8798003869cb86ef7392c066001d7ac9f9b)
@@ -9380,6 +9300,37 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: detect joined inline eval flags [AI] (#101353)</code>](https://github.com/openclaw/openclaw/commit/58891c85b68b2ef93cbfec5b105dd05bd80a5061)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(state): close agent-db and proxy-capture SQLite handles on exit; rebind stale proxy stores after shared-state close (#100827)</code>](https://github.com/openclaw/openclaw/commit/bd4d4c0d3170dd85f58593518af26240dc8c0571)
+- [ ] [<code>fix(crabbox): retry cold metadata probes so a slow run --help does not block validation (#102159)</code>](https://github.com/openclaw/openclaw/commit/83ebbcb3acf712f6a8186c288212c3e0fbbe59e9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(secrets): egress-time credential injection with process-local sentinels (#102009)</code>](https://github.com/openclaw/openclaw/commit/4bf70be01a21bbec9dc4dbf60ebaeffb48ef74dd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: restrict non-owner gateway tool inventory [AI] (#102030)</code>](https://github.com/openclaw/openclaw/commit/3101aa31cafbe6dd2466dd0568082ff589e4e588)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: gate Gateway message action requester provenance [AI] (#102031)</code>](https://github.com/openclaw/openclaw/commit/e25fa79c5d1975dacb261ae7819e416702fea446)
+- [ ] [<code>fix: harden web fetch HTML conversion [AI] (#102033)</code>](https://github.com/openclaw/openclaw/commit/64015e71dd5ab8d7148e1585c24d6a4c4f33e252)
+- [ ] [<code>improve(ui): move shell controls into side rails</code>](https://github.com/openclaw/openclaw/commit/8295a12a837de1dfbafe4075878e393937eb35e2)
+- [ ] [<code>fix: restore Control UI topbar and breadcrumbs</code>](https://github.com/openclaw/openclaw/commit/dc6550d6e5ef4f4bf1557b80313f696af243369c)
+- [ ] [<code>fix: align sidebar branding controls</code>](https://github.com/openclaw/openclaw/commit/8190b3bd16487dea54b250990c1c89ed78021476)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: normalize terminal availability</code>](https://github.com/openclaw/openclaw/commit/43bcd9ab3eee57be5637e8abacb904181a644f4f)
+- [ ] [<code>fix: preserve theme mode cycling</code>](https://github.com/openclaw/openclaw/commit/d9e44714e6e2fdebf1e790844612c4b4f7ca05aa)
+- [ ] [<code>fix: restore translated docs tooltip (#101017)</code>](https://github.com/openclaw/openclaw/commit/fc05a8103b721334070e2ba791e5c8b43b406107)
+- [ ] [<code>fix: focus composer when typing (#102210)</code>](https://github.com/openclaw/openclaw/commit/9d7a6b5da61bee35bd6ab0ec141439cd4d810a12)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(release): preflight all extended-stable npm packages (#101757)</code>](https://github.com/openclaw/openclaw/commit/9eeebf7cb13ada247ae94d8e3ab6810dc1b3070a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(skills): correct invalid install kinds in xurl and github [AI] (#102158)</code>](https://github.com/openclaw/openclaw/commit/c69724ef3b508eb42189d1731c1bcd85027ddb22)
+- [ ] [<code>fix: bind package-manager exec approvals to inner commands [AI] (#102035)</code>](https://github.com/openclaw/openclaw/commit/534ace4d8a4988c8fbcd54ada1209a86eb12dcc4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(gateway): consolidate client contracts (#101012)</code>](https://github.com/openclaw/openclaw/commit/8fa83d27420b4b2320e8a29c7691f1abefca4b92)
+- [ ] [<code>ci: temporarily disable QA smoke again (#102256)</code>](https://github.com/openclaw/openclaw/commit/f093c0f2e3c62d9cda68d26b600e9033e2dd8a4c)
+- [ ] [<code>fix(ci): stabilize Go and TUI PTY shards</code>](https://github.com/openclaw/openclaw/commit/0d86f64e602e8c29b87787d823ce498e283ea225)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>policy: preview review-required gateway repairs (#99776)</code>](https://github.com/openclaw/openclaw/commit/aa27ae9d9f37ee1127f89952e1dfeb9fb8577b99)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix container image upgrade migrations before gateway readiness (#101881)</code>](https://github.com/openclaw/openclaw/commit/b81666ca6af25c86cc099983a4358cdc5ea9ced8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): refresh model availability from persisted auth (#102289)</code>](https://github.com/openclaw/openclaw/commit/5b52e2490a9bd0de7d8956036508fc3ee903537a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -9830,6 +9781,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed Dockerfile for Ubuntu latest/26</code>](https://github.com/tribler/Tribler/commit/2a8f39a79fe213821961ff01dbc681a1be9260fe)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fixed Dockerfile for Ubuntu latest/26 (#9041)</code>](https://github.com/tribler/Tribler/commit/18379ea97c3ebb6e8777c3b880e6bca8b7a1bc42)
+- [ ] [<code>Allow Docker build manual override</code>](https://github.com/tribler/Tribler/commit/0a9293b3e050a7011717fdf31ade4d361a31a7ac)
+- [ ] [<code>Updated IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/bf0da3d33facbdcc90fde18f92f4125a88e046d9)
+- [ ] [<code>Don't report most recent scrape for not working tracker</code>](https://github.com/tribler/Tribler/commit/e7ed580606db8ef4a5c5ad120c3b37bddb21dc12)
+- [ ] [<code>Move 'Enable auto-management' down two spots</code>](https://github.com/tribler/Tribler/commit/96f1c681a65f705eae0fa151b742c5e0f0151c61)
+- [ ] [<code>Various fixes (#9042)</code>](https://github.com/tribler/Tribler/commit/c70a25ebae727af300809663527f8b58c8b6ad4e)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -10001,6 +9957,25 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>compiler: scope named function expression names to their own body</code>](https://github.com/jow-/ucode/commit/e2493b577250596be8ba6d7eb017ccd75cf1b876)
 - [ ] [<code>tests: add regression test for named function expression scoping</code>](https://github.com/jow-/ucode/commit/c3f0d27d812ed2be707f4eef384e2c03afe16acf)
+- [ ] [<code>vm: release owned value when property assignment fails</code>](https://github.com/jow-/ucode/commit/738b552999663a01be70835b3b46228b5b9d039a)
+- [ ] [<code>vm: fix out-of-bounds read in single-name module import</code>](https://github.com/jow-/ucode/commit/1ffd7c5a1011759b6002a429f320fbed20ab2b04)
+- [ ] [<code>vm: fix SIGFPE on INT64_MIN division and modulo by -1</code>](https://github.com/jow-/ucode/commit/a255256db1066b20d7c5da6f8bd4a24900d4b563)
+- [ ] [<code>vm: do not assign to undeclared variables in strict mode</code>](https://github.com/jow-/ucode/commit/3f4b313d7d785fcc544b1b5f5482b9c9f2dbad60)
+- [ ] [<code>vm: release upvalue reference when resolving it on stack push</code>](https://github.com/jow-/ucode/commit/e523682670a240dd76b5abe05f59c770098fa1dd)
+- [ ] [<code>vm: release module scope reference in dynamic import</code>](https://github.com/jow-/ucode/commit/6a837090bea398b2d187571e566c08c15187e0a3)
+- [ ] [<code>vm: guard error context capture against empty callframe stack</code>](https://github.com/jow-/ucode/commit/395a0a16b4f9b00443cda1241a2eeff9513fb3e7)
+- [ ] [<code>vm: respect exponent parity in integer exponentiation</code>](https://github.com/jow-/ucode/commit/04f103bb227088504bb33d61d8cdac6f471712fe)
+- [ ] [<code>vm: use UC_ARRAY instead of json_type_array in object spread</code>](https://github.com/jow-/ucode/commit/bd814a4b2ae3d32e29681012791486487ed9a6ea)
+- [ ] [<code>vm: release resource type prototypes after the final GC</code>](https://github.com/jow-/ucode/commit/5a79aa56c15ec45dbd3eaff73d7a500ff3873936)
+- [ ] [<code>lexer: do not treat /*/ as a complete block comment</code>](https://github.com/jow-/ucode/commit/9c5f16c8e33ace7f187b3712e0ef5487aade1ed9)
+- [ ] [<code>lexer: preserve NUL bytes in regular expression literals</code>](https://github.com/jow-/ucode/commit/a018067fd12e355c0115fc3f54a05613a64aa06a)
+- [ ] [<code>lexer: do not consume a sign into hexadecimal number literals</code>](https://github.com/jow-/ucode/commit/65d41a1929debe6cd6ee11372159ada4e0878de2)
+- [ ] [<code>lexer: fix source position of ternary question mark token</code>](https://github.com/jow-/ucode/commit/05f9bf9e5d5377eb05c6236e0bc2a5860924b5fe)
+- [ ] [<code>lib: preserve embedded NUL bytes in reverse()</code>](https://github.com/jow-/ucode/commit/7bca646e5f88fd104cb3ca57c860ef8fc54b8456)
+- [ ] [<code>lib: preserve embedded NUL bytes in lc() and uc()</code>](https://github.com/jow-/ucode/commit/6fc93bf5bd95a4110754ec2bd3a3795528075c8d)
+- [ ] [<code>lib: avoid passing a signed char to isxdigit() in hex()</code>](https://github.com/jow-/ucode/commit/a51f4843bce5c07db1f48a16a95a1e5a25ed8b8d)
+- [ ] [<code>compiler: fix use-after-free of shorthand method name</code>](https://github.com/jow-/ucode/commit/e8af70e4375cd057bc183a5d2711f4491c704c06)
+- [ ] [<code>compiler: declare leading variable in counting for loop initializer</code>](https://github.com/jow-/ucode/commit/467fb4406a472e3561e4ad50b31f1e23309aabd1)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
