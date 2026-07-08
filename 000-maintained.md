@@ -62,6 +62,8 @@
 - [ ] [<code>Update Rust to 1.96.1 (#380)</code>](https://github.com/stepchowfun/docuum/commit/f7b4c06a6d3463fa85da150fcf1a916868e0fb6e)
 - [ ] [<code>Make the integration test deterministic (#381)</code>](https://github.com/stepchowfun/docuum/commit/989214c5b8ccb0fd1210b9f55c1d5e4039f74657)
 - [ ] [<code>Update dependencies (#382)</code>](https://github.com/stepchowfun/docuum/commit/de4caf35bd6f13ab4fdf8b127151b75f7ac36656)
+- [ ] [<code>Format issue templates (#383)</code>](https://github.com/stepchowfun/docuum/commit/a5514550ca91643552eb4569fcd4789e08b20bad)
+- [ ] [<code>Update dependencies and GitHub Actions (#384)</code>](https://github.com/stepchowfun/docuum/commit/bea9a8edd39b5e49f9195328d9c9d0a4c7c05cf7)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -690,6 +692,10 @@
 - [ ] [<code>chore: display last active and status message together</code>](https://github.com/krille-chan/fluffychat/commit/8e41293ef906f5a656866c459227e41daa57097f)
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.2 to 2.2.0</code>](https://github.com/krille-chan/fluffychat/commit/14b7105a23e6e4c778cab36fada82fadf7da7891)
 - [ ] [<code>chore: follow up maxlines in chatbar</code>](https://github.com/krille-chan/fluffychat/commit/f3c4e232681d78219dc0805c483b7f8352926494)
+- [ ] [<code>chore: switch to sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/f111fd5fc55150c1f9d462dc7a6cd9dd263e5e43)
+- [ ] [<code>chore: clear more unused translations</code>](https://github.com/krille-chan/fluffychat/commit/2c0ea4da5eca5a10c93f56f2aec01d8808a7fcde)
+- [ ] [<code>build: update matrix sdk ref</code>](https://github.com/krille-chan/fluffychat/commit/3d0840766812ea1a013d96eff484fd96185c16d1)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -1157,6 +1163,10 @@
 - [ ] [<code>chore: display last active and status message together</code>](https://github.com/krille-chan/fluffychat/commit/8e41293ef906f5a656866c459227e41daa57097f)
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.1.2 to 2.2.0</code>](https://github.com/krille-chan/fluffychat/commit/14b7105a23e6e4c778cab36fada82fadf7da7891)
 - [ ] [<code>chore: follow up maxlines in chatbar</code>](https://github.com/krille-chan/fluffychat/commit/f3c4e232681d78219dc0805c483b7f8352926494)
+- [ ] [<code>chore: switch to sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/f111fd5fc55150c1f9d462dc7a6cd9dd263e5e43)
+- [ ] [<code>chore: clear more unused translations</code>](https://github.com/krille-chan/fluffychat/commit/2c0ea4da5eca5a10c93f56f2aec01d8808a7fcde)
+- [ ] [<code>build: update matrix sdk ref</code>](https://github.com/krille-chan/fluffychat/commit/3d0840766812ea1a013d96eff484fd96185c16d1)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2192,6 +2202,22 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix view.dimensions.sts.avg for group-by aggregation percentage (#23035)</code>](https://github.com/netdata/netdata.git/commit/2d1fa8106a080f8dab5f04ca652e298f65177b33)
 - [ ] [<code>percentage group-by: per-row anomaly rate and zero-denominator guard (#23037)</code>](https://github.com/netdata/netdata.git/commit/2754a8cfa4bb780849daeffcc5f34188b386f4b1)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-686-nightly.</code>](https://github.com/netdata/netdata.git/commit/731dfdcd9c575af8d1d68bb57a15eb4de93260a9)
+- [ ] [<code>Netdata fixes part 40 (#23002)</code>](https://github.com/netdata/netdata.git/commit/22479e1123b7509f1827a63695586b65ac26ba27)
+- [ ] [<code>Netdata fixes part 41 (#23007)</code>](https://github.com/netdata/netdata.git/commit/c894a9cd7cd5e5931f55ad56073db22e9a107674)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Netdata fixes part 42 (#23009)</code>](https://github.com/netdata/netdata.git/commit/ca10d863f6e9d22b98fb9addd0489c9ad48e9476)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Netdata fixes part 43 (#23010)</code>](https://github.com/netdata/netdata.git/commit/12a505201d604026eb0f15c6d29203731942c14b)
+- [ ] [<code>Netdata fixes part 44 (#23015)</code>](https://github.com/netdata/netdata.git/commit/68b861be93755828f2d1b7df2d91c070537244f0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Netdata fixes part 45 (#23017)</code>](https://github.com/netdata/netdata.git/commit/649bffe4000609c18b5617cd33a063744f85ce23)
+- [ ] [<code>docs: Add post-install dashboard verification to installer README (#22980)</code>](https://github.com/netdata/netdata.git/commit/918ff34697ef510696f37c0f476b2f0f1773cbff)
+- [ ] [<code>docs: Link node removal guide to Service Control and Uninstall docs (#22987)</code>](https://github.com/netdata/netdata.git/commit/c55cbc566ecf26554d434ae76e3da4ee6e1918f7)
+- [ ] [<code>docs: Document brace syntax for dimension names with spaces in alert (#22984)</code>](https://github.com/netdata/netdata.git/commit/ba3b3051d84ece05be2ef5153cdbea0c5ef32a48)
+- [ ] [<code>docs: Add netflow plugin package-not-found troubleshooting (#22982)</code>](https://github.com/netdata/netdata.git/commit/bc26b18fa6f6707d21cdd165a1fabd0ae60cac80)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs: Surface existing-agent claiming in getting-started guide (#22989)</code>](https://github.com/netdata/netdata.git/commit/c581be809a93c2f6565ff7bc901e275ee628492e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5413,6 +5439,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): move wind noise to common</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58e5c6a7f841f9622ca651e6074e9bbd7354aeb7)
 - [ ] [<code>refactor(lib): use sound_mode_enum! in common::structures</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2576f89e5b5121f385928d34ae243498cc6bf8a7)
 - [ ] [<code>refactor(lib): merge common sound modes into one file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ec4993192089fa38011c5e6bb5217315d20015b)
+- [ ] [<code>feat(lib): add d1202c model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9cf8b91f48b45ed14f10f8ebc4c97a3af2aed84f)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.11 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.11...HEAD)
 
@@ -9312,6 +9339,47 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(channels): keep native think menus responsive (#101926)</code>](https://github.com/openclaw/openclaw/commit/22ae651e9ab5dbb36900b332f576352bb25935a7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(whatsapp): localize internal types (#101959)</code>](https://github.com/openclaw/openclaw/commit/94da0a981391e28a1a64461f4b314e29b8865a18)
+- [ ] [<code>improve(diagnostics-otel): make agent-duration histograms usable beyond 10s (#96592)</code>](https://github.com/openclaw/openclaw/commit/11a0e54ddd369006804c1f9c23ad35fb29f6122e)
+- [ ] [<code>refactor(policy): localize internal declarations (#101963)</code>](https://github.com/openclaw/openclaw/commit/d5e4ed93faa7d29d12400fd8f2b548d428e1a7aa)
+- [ ] [<code>fix(ui): keep Workboard detail drawer actions in parity (#101658)</code>](https://github.com/openclaw/openclaw/commit/fdc98242a1e5d08ee491abc0bfdf3b7dce91d9a5)
+- [ ] [<code>refactor(memory-core): localize internal declarations (#101969)</code>](https://github.com/openclaw/openclaw/commit/6765eb0166fc2607203caf8ca3b96824b1352e10)
+- [ ] [<code>refactor(qa-matrix): localize internal declarations (#101974)</code>](https://github.com/openclaw/openclaw/commit/4bdf224442033eceab7380a1e3a78e1acf166c21)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(qa-lab): localize confidence report types (#101980)</code>](https://github.com/openclaw/openclaw/commit/7498c4dd6c890760016b13bceaecfd9da0faa0c7)
+- [ ] [<code>fix(browser): keep Playwright truncation UTF-16 safe (#101761)</code>](https://github.com/openclaw/openclaw/commit/5bdea31c945505b0b8f0af35f938097d0ca918c8)
+- [ ] [<code>refactor(qa-lab): localize evidence summary schemas (#101987)</code>](https://github.com/openclaw/openclaw/commit/a24f15dc4d9ec7b1415993d7fd51ab0098f89a5c)
+- [ ] [<code>refactor(qa-lab): localize utility types (#101990)</code>](https://github.com/openclaw/openclaw/commit/082bd4513088216f0544e83ad55614b0370dd025)
+- [ ] [<code>fix(gateway): log websocket handshake phase (#93402)</code>](https://github.com/openclaw/openclaw/commit/bf310355387dc77e82f547d0e9557f1cd3532035)
+- [ ] [<code>refactor(qa-lab): localize orchestration declarations (#102005)</code>](https://github.com/openclaw/openclaw/commit/757d7a0de32114dc9c4083ad02986e6225dc5e2f)
+- [ ] [<code>refactor(google-meet): localize internal declarations (#102010)</code>](https://github.com/openclaw/openclaw/commit/827f2c44225ecb84f881ca47014d5a846b0183fc)
+- [ ] [<code>fix(doctor): honor per-agent bootstrap profile in size check (#84424)</code>](https://github.com/openclaw/openclaw/commit/22376d80e1639148d1e0e5ddcadd2c91ba1e5b9e)
+- [ ] [<code>refactor(plugins): localize internal declarations (#102021)</code>](https://github.com/openclaw/openclaw/commit/bdc1ce8dede018e809e1d145e308848c49107feb)
+- [ ] [<code>refactor(googlechat): localize internal declarations (#102029)</code>](https://github.com/openclaw/openclaw/commit/039f8fb16d22b89b88816426722f3faab438a3bb)
+- [ ] [<code>fix(matrix): handle stdout/stderr stream errors in dependency commands (#101597)</code>](https://github.com/openclaw/openclaw/commit/35d5ea069ae90d9377df69dbdb5c636c05f58ecd)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(line): localize internal declarations (#102037)</code>](https://github.com/openclaw/openclaw/commit/63192752325b0496ccd201c2fbd6e3061ba790c1)
+- [ ] [<code>refactor(mattermost): localize internal declarations (#102040)</code>](https://github.com/openclaw/openclaw/commit/eb5d8f85c4587cb29ba48c72679e66ee0b22bc7c)
+- [ ] [<code>refactor(signal): localize internal declarations (#102042)</code>](https://github.com/openclaw/openclaw/commit/ee6c576e8fd573980ab19be5761521073e0f664d)
+- [ ] [<code>refactor(slack): localize internal declarations (#102044)</code>](https://github.com/openclaw/openclaw/commit/5a5b4c5b105fb8f91bff4788a6d43e551a92b33c)
+- [ ] [<code>fix(ui): sync native approvals i18n baseline (#101771)</code>](https://github.com/openclaw/openclaw/commit/8cbcc41ccbb93f9143f58c86b39b0c35c20fa504)
+- [ ] [<code>refactor(qqbot): localize internal declarations (#102048)</code>](https://github.com/openclaw/openclaw/commit/6f6c3e260222c7da144aabc246d16dbdbff1d1a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lobster): keep ordinary run/resume on default flow fields (#102036)</code>](https://github.com/openclaw/openclaw/commit/8cb92636920b02306f9b50fa82fb4b1313a0237f)
+- [ ] [<code>fix(voice-call): preserve per-call agent routing (#77763)</code>](https://github.com/openclaw/openclaw/commit/19f7b72a74731438f15aafbfc7c84593f6151dfc)
+- [ ] [<code>refactor(voice-call): localize internal declarations (#102059)</code>](https://github.com/openclaw/openclaw/commit/c46e76cff7247e36ea3e70b909439505e6e0eaf3)
+- [ ] [<code>refactor(zalo): localize internal declarations (#102065)</code>](https://github.com/openclaw/openclaw/commit/fc4626c1221d5b49af2d3d374109a7cf4bbd2deb)
+- [ ] [<code>fix(text): keep reachable truncation boundaries UTF-16 safe</code>](https://github.com/openclaw/openclaw/commit/7e0324263b867d3d47138d1d2b1e9afd1dd2016f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore(android): prepare 2026.7.1 Play release</code>](https://github.com/openclaw/openclaw/commit/17fafcc9012c9e8c24c2484582a6d3a609adfc9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ios): satisfy SwiftFormat in session filter</code>](https://github.com/openclaw/openclaw/commit/89c42e58fb9d6cc4a2c5a3c88e5be1e40b6449a0)
+- [ ] [<code>chore(ios): prepare 2026.7.1 release notes</code>](https://github.com/openclaw/openclaw/commit/4ae8d735bf541c59d2db7cfb5edce8ea2b777d77)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Harden jq safe-bin semantics (#102032)</code>](https://github.com/openclaw/openclaw/commit/5f04dc97e637d115dfaf69b1e7b86f189e6854b5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix: detect joined inline eval flags [AI] (#101353)</code>](https://github.com/openclaw/openclaw/commit/58891c85b68b2ef93cbfec5b105dd05bd80a5061)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(state): close agent-db and proxy-capture SQLite handles on exit; rebind stale proxy stores after shared-state close (#100827)</code>](https://github.com/openclaw/openclaw/commit/bd4d4c0d3170dd85f58593518af26240dc8c0571)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -9331,6 +9399,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Merge pull request #1365 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/c9d2b1ceef8268c958865e785d407c9231a85022)
   - <sub>Tags: <code>3.2.1</code></sub>
 - [ ] [<code>Fix aiohttp compatibility</code>](https://github.com/tribler/py-ipv8/commit/2f00aaf2ed8d7a9a62d1873dbbf9b0ba5cb227a9)
+- [ ] [<code>Updated TunnelExitSocket.resolve() to deal with new getaddrinfo() return value</code>](https://github.com/tribler/py-ipv8/commit/2835202d32fc180cd805bb381136d0370f3decf3)
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -9758,6 +9827,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v8.4.3</code></sub>
 - [ ] [<code>Added augmented search</code>](https://github.com/tribler/Tribler/commit/9811d707cdaf32c898c8df44b46fab950713f8e0)
 - [ ] [<code>Added augmented search (#9036)</code>](https://github.com/tribler/Tribler/commit/feac9023a7ea978032995f52ad48b2e304d680e1)
+- [ ] [<code>Fixed Dockerfile for Ubuntu latest/26</code>](https://github.com/tribler/Tribler/commit/2a8f39a79fe213821961ff01dbc681a1be9260fe)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fixed Dockerfile for Ubuntu latest/26 (#9041)</code>](https://github.com/tribler/Tribler/commit/18379ea97c3ebb6e8777c3b880e6bca8b7a1bc42)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -9924,6 +9996,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fs: implement ioctl for macOS</code>](https://github.com/jow-/ucode/commit/16929698e2d32684616206581f71cad332d2675f)
 - [ ] [<code>io: implement ioctl for macOS</code>](https://github.com/jow-/ucode/commit/395bb888bd69ff88aaf9ae2061f2a462e6c73e2f)
 - [ ] [<code>compiler: add support for shorthand method declarations</code>](https://github.com/jow-/ucode/commit/8d7d15ee1a08c461f036c193dacf817bd6be83ef)
+- [ ] [<code>lib: avoid allocating print buffer before NULL check in uc_error_message_indent</code>](https://github.com/jow-/ucode/commit/e851bb64df919395538aaa38e62fa1fc943eac60)
+- [ ] [<code>compiler: prevent unbounded recompilation on failed module imports</code>](https://github.com/jow-/ucode/commit/5f3a7b87d962e2b758f42a2b9018da324a2d3bf7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>compiler: scope named function expression names to their own body</code>](https://github.com/jow-/ucode/commit/e2493b577250596be8ba6d7eb017ccd75cf1b876)
+- [ ] [<code>tests: add regression test for named function expression scoping</code>](https://github.com/jow-/ucode/commit/c3f0d27d812ed2be707f4eef384e2c03afe16acf)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
