@@ -2191,6 +2191,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update systemd journal SDK to 0.7.8 (#23033)</code>](https://github.com/netdata/netdata.git/commit/959b68bab03d94d99b9dc5f257290aea03fc0848)
 - [ ] [<code>fix view.dimensions.sts.avg for group-by aggregation percentage (#23035)</code>](https://github.com/netdata/netdata.git/commit/2d1fa8106a080f8dab5f04ca652e298f65177b33)
 - [ ] [<code>percentage group-by: per-row anomaly rate and zero-denominator guard (#23037)</code>](https://github.com/netdata/netdata.git/commit/2754a8cfa4bb780849daeffcc5f34188b386f4b1)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-686-nightly.</code>](https://github.com/netdata/netdata.git/commit/731dfdcd9c575af8d1d68bb57a15eb4de93260a9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -9268,6 +9269,49 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Improve iMessage imsg setup and skill ownership (#101407)</code>](https://github.com/openclaw/openclaw/commit/91a0ebbce63fed86df3a41910628fb4d8b281251)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(deadcode): trim private helper exports (#101886)</code>](https://github.com/openclaw/openclaw/commit/1b6f3e43d1e55641f4f016dc8aec7a5f036ed3a8)
+- [ ] [<code>fix(agents): avoid false unscheduled note after shell cron add (#101807)</code>](https://github.com/openclaw/openclaw/commit/3d442153f6f25c866409a135bd88a57538a42061)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(deadcode): localize Parallels helpers (#101889)</code>](https://github.com/openclaw/openclaw/commit/e7365d41d3565a593dc84768845ed6a9e7e8e1bb)
+- [ ] [<code>improve(google): identify OpenClaw Gemini API traffic (#101834)</code>](https://github.com/openclaw/openclaw/commit/d708df47a3194b622e28eafb90b8f66207fdf36d)
+- [ ] [<code>perf(slack): parallelize independent inbound prepare lookups</code>](https://github.com/openclaw/openclaw/commit/04b55c35d2f662736fc8e00b66bfa48317334c54)
+- [ ] [<code>perf(slack): drop process-wide write client concurrency cap</code>](https://github.com/openclaw/openclaw/commit/1993ead6f57ecf3e50f396375059c46ff1ccd8cc)
+- [ ] [<code>perf(slack): bound thread history pagination</code>](https://github.com/openclaw/openclaw/commit/e3b43a0001fbf184144232685adee52080e258ee)
+- [ ] [<code>refactor(deadcode): localize script constants (#101892)</code>](https://github.com/openclaw/openclaw/commit/ba7af36306733978104e28b780b08305b8452fbf)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(deadcode): localize control ui declarations (#101894)</code>](https://github.com/openclaw/openclaw/commit/9dbb1ed3d24655a144be1fe58a652f13ebe9f311)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(deadcode): localize browser plugin declarations (#101898)</code>](https://github.com/openclaw/openclaw/commit/4969c44226944cc86a54a7f044489d4a21a631d7)
+- [ ] [<code>fix(tests): align plugin temp-dir and registry tests with current contracts (#101896)</code>](https://github.com/openclaw/openclaw/commit/f2c6a0eda6f1e626f6b7fc7a6beb1be6ff02b22c)
+- [ ] [<code>refactor(deadcode): localize msteams declarations (#101903)</code>](https://github.com/openclaw/openclaw/commit/b7b1dda88a23fecf338c67e96c1fb6c789ddfe9a)
+- [ ] [<code>refactor(deadcode): localize release tooling declarations (#101904)</code>](https://github.com/openclaw/openclaw/commit/3dbe98a1f73763a13c2dc6ab118db0a79bc93592)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(deadcode): localize AI provider declarations (#101907)</code>](https://github.com/openclaw/openclaw/commit/380bc24d25cac9027179df3a523a5a35c3a6dadc)
+- [ ] [<code>fix: lower successful agent stop completion logs (#101703)</code>](https://github.com/openclaw/openclaw/commit/6db0506474ceb10c64ea3b5f64e29772fb04280e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(deadcode): localize canvas declarations (#101915)</code>](https://github.com/openclaw/openclaw/commit/0c6bb026b2be184150627b1567cab5833430e67b)
+- [ ] [<code>refactor(deadcode): localize script helper types (#101917)</code>](https://github.com/openclaw/openclaw/commit/3bbc2732c0f7c26fbfc13193db45d6aed22861eb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(plugins): localize internal helper types (#101922)</code>](https://github.com/openclaw/openclaw/commit/cc083e5f4fe0b1b984e8762131f569fc5e5a156f)
+- [ ] [<code>refactor(oc-path): localize internal result types (#101925)</code>](https://github.com/openclaw/openclaw/commit/23cf16a7d551f9937d3f4b9ff61e97b9d639be84)
+- [ ] [<code>fix(installer): complete first-run onboarding (#101901)</code>](https://github.com/openclaw/openclaw/commit/2fbd4cdcbaec07e542f4d8310319c609b9123570)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(plugin-sdk): refresh API baseline hash</code>](https://github.com/openclaw/openclaw/commit/c96c60d22d0197c0afd4469d99e727fedde0b111)
+- [ ] [<code>fix(memory-core): guard supplement lookup in resolveMemoryReadFailureResult with try-catch (fixes #101809) (#101902)</code>](https://github.com/openclaw/openclaw/commit/1aee742d230e5e50f6f580e19655fa22b21eefee)
+- [ ] [<code>refactor(memory-wiki): localize internal helper types (#101931)</code>](https://github.com/openclaw/openclaw/commit/81d0f3f37291b199005ace7c55db1d9c6d060c70)
+- [ ] [<code>refactor(imessage): localize internal helper symbols (#101936)</code>](https://github.com/openclaw/openclaw/commit/ef91bb370beee4f5bc91a1ce580a405f7021b392)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(gateway): localize terminal helper types (#101941)</code>](https://github.com/openclaw/openclaw/commit/180ddf1ec58cb7e8c1513faca1ded19585db8b21)
+- [ ] [<code>feat(crestodian): guide providerless model setup (#101887)</code>](https://github.com/openclaw/openclaw/commit/4e84981402361b746b82b09f9e7370aa51cacfb2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(discord): localize internal declarations (#101945)</code>](https://github.com/openclaw/openclaw/commit/99b24e741609fb5df0590ef53c6cc3e2dc66e552)
+- [ ] [<code>fix(google-meet): handle stdout/stderr stream errors in local audio bridge (#101596)</code>](https://github.com/openclaw/openclaw/commit/5fd5bf2aee1b803e95a8c985b90f117ced7a21e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(feishu): localize internal declarations (#101949)</code>](https://github.com/openclaw/openclaw/commit/eb721b0b306f371c223882fdd5aa1dfc6654cf1d)
+- [ ] [<code>refactor(matrix): localize internal types (#101954)</code>](https://github.com/openclaw/openclaw/commit/4115e832d8332a0db1eafc03ba25b51208f2abc5)
+- [ ] [<code>fix(channels): keep native think menus responsive (#101926)</code>](https://github.com/openclaw/openclaw/commit/22ae651e9ab5dbb36900b332f576352bb25935a7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(whatsapp): localize internal types (#101959)</code>](https://github.com/openclaw/openclaw/commit/94da0a981391e28a1a64461f4b314e29b8865a18)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
