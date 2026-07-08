@@ -91,6 +91,7 @@
 - [ ] [<code>uloop: fix use-after-free in signal_consume when a callback deletes a watcher</code>](https://git.openwrt.org/project/libubox.git/commit/a9ab90bd1d5d6cf96051700bce395579264d6c5f)
 - [ ] [<code>uloop: fix use-after-free in uloop_handle_processes when a callback deletes a process</code>](https://git.openwrt.org/project/libubox.git/commit/c08a4ab5312917e21104fd225136b2ae35e79427)
 - [ ] [<code>vlist: pass the tree as comparator context in VLIST_TREE_INIT</code>](https://git.openwrt.org/project/libubox.git/commit/7677b7a4f3a46f68e6f5ba6818f7b72fdd7dbaa0)
+- [ ] [<code>ustream: allow freeing the stream from within notify callbacks</code>](https://git.openwrt.org/project/libubox.git/commit/17f527fb6c30bf9073104f03337c2b7c03158bdb)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
@@ -309,6 +310,12 @@
 - [ ] [<code>udebug-cli: fix reference to invalid variable in error message</code>](https://git.openwrt.org/project/udebug.git/commit/c5c493ed5787ca067ab1a713061ae02f0bb17046)
 - [ ] [<code>udebug-cli: add logdump command</code>](https://git.openwrt.org/project/udebug.git/commit/875e1a7af6ca9d86524d18169c3a79f4a1920053)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib-ucode: fix heap buffer overflow in trace ring allocation</code>](https://git.openwrt.org/project/udebug.git/commit/91591e698dac1df67c2f97d119b27927a8e42f36)
+- [ ] [<code>lib-ucode: open kernel trace_pipe non-blocking</code>](https://git.openwrt.org/project/udebug.git/commit/7530cc1d2bb2cbf362dad4ecb10e8b6aaa6b5ba4)
+- [ ] [<code>lib-ucode: grow trace fetch buffer to fit oversized lines</code>](https://git.openwrt.org/project/udebug.git/commit/2fcb035141dafa996d28f54f9d10c52919ceafb3)
+- [ ] [<code>lib-ucode: close trace_pipe fd on trace ring error path</code>](https://git.openwrt.org/project/udebug.git/commit/c670cc4f9acc432eda033dd59d78c50d0c39a694)
+- [ ] [<code>udebug-cli: handle kernel trace buffer open failure</code>](https://git.openwrt.org/project/udebug.git/commit/7690e66e6e08f3bb6d4583aae09bdaa1641dae3f)
+- [ ] [<code>lib-ucode: avoid infinite loop on oversized trace lines</code>](https://git.openwrt.org/project/udebug.git/commit/75843a1bfcc99019fdb9bda8cafd28dc821c2be0)
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
@@ -316,3 +323,5 @@
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [5a81c108d20e24724ed847cc4be033f2a74e6635 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/5a81c108d20e24724ed847cc4be033f2a74e6635...HEAD)
 
 - [ ] [<code>ustream-openssl: Fix use-after-free crash under high load and optimize BIO_METHOD lifecycle</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99f1c0db5a729f615bc5114b3b52fd8ac8083f34)
+- [ ] [<code>ustream-ssl: allow freeing the stream from within notify callbacks</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/33fcc09c4b4cfea8226541dab758f57373b19ae7)
+- [ ] [<code>ustream-ssl: allow setting the peer CN before initializing the stream</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/caa25014a43c8dce92db080d8d5b76f85a1dcb3b)
