@@ -770,6 +770,8 @@
   - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-window-list.c: Clear interactive no-search-results label</code>](https://github.com/linuxmint/nemo/commit/d43c6de8dcc59704b40e7173c7a867f50762e2ea)
+- [ ] [<code>dnd: Don't allow drops into a search result view.</code>](https://github.com/linuxmint/nemo/commit/eeb2b64c563d2df964223e23fcbb346723420a5b)
+- [ ] [<code>nemo-desktop: Don't crash/quit in Wayland when the monitor is removed (#3785)</code>](https://github.com/linuxmint/nemo/commit/932438fc4767c1d95fe6677edcd3d13d7b2ffa24)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
