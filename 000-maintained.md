@@ -2137,6 +2137,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(agents): workflow lessons + SOW friction-tracking (#23054)</code>](https://github.com/netdata/netdata.git/commit/242642a56926ac34dfd3ef5ee12816149bf8653f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Netdata fixes part 49 (#23023)</code>](https://github.com/netdata/netdata.git/commit/424fbaab5cc6b315a85da368378fcbeaffb196a4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-705-nightly.</code>](https://github.com/netdata/netdata.git/commit/7aefb1fb036a00e51dac4e6320676c8b3877dd2c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -9331,6 +9332,25 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix container image upgrade migrations before gateway readiness (#101881)</code>](https://github.com/openclaw/openclaw/commit/b81666ca6af25c86cc099983a4358cdc5ea9ced8)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(gateway): refresh model availability from persisted auth (#102289)</code>](https://github.com/openclaw/openclaw/commit/5b52e2490a9bd0de7d8956036508fc3ee903537a)
+- [ ] [<code>fix(browser): preserve strict CDP discovery policy</code>](https://github.com/openclaw/openclaw/commit/7d0f9de907c7d9c79df2a3699675b705a79fbf81)
+- [ ] [<code>test(release): refresh beta plugin expectations</code>](https://github.com/openclaw/openclaw/commit/686b6b51daa05eabf66c526812429b4a232a916f)
+- [ ] [<code>fix(ci): install workspace packages for Kova</code>](https://github.com/openclaw/openclaw/commit/b63317d07e8dc9f77580605c212699993d585361)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ci): rewrite workspace deps for OCM installs</code>](https://github.com/openclaw/openclaw/commit/e8c1780999a35dbb221ab974c3b4f0fa527f9da4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Doctor: audit lint default selection (#100361)</code>](https://github.com/openclaw/openclaw/commit/7d82e5b658950a76973ebee2d8e379a3e54fbbf0)
+- [ ] [<code>test(anthropic): cover Sonnet 5 CLI allowlist</code>](https://github.com/openclaw/openclaw/commit/45d0970a7de3aa114dbc185253383a901e9911c4)
+- [ ] [<code>test(release): refresh beta3 gate expectations</code>](https://github.com/openclaw/openclaw/commit/238be4b849a1a814a3bc61285787b323b88728d2)
+- [ ] [<code>fix(ci): stabilize npm shrinkwrap metadata</code>](https://github.com/openclaw/openclaw/commit/eac4214ff88beb30273d142c2f52e7a8af820f34)
+- [ ] [<code>fix(browser): preserve request lifetime on Node 24</code>](https://github.com/openclaw/openclaw/commit/c0d99ed26ea234ab48fcccedfc9418e84dba3586)
+- [ ] [<code>test(nvidia): align guided secret metadata</code>](https://github.com/openclaw/openclaw/commit/d3ff48c51f4ff4cf3594c04e127c8e3ae83ba021)
+- [ ] [<code>fix(onboard): omit empty provider request settings</code>](https://github.com/openclaw/openclaw/commit/aad99747cd45b3845e027c2297b85835b0bef75f)
+- [ ] [<code>feat(xai): add Grok 4.5 support (#102316)</code>](https://github.com/openclaw/openclaw/commit/eae3fc1a79dde87ab57b4c7f64591f8b9ab5da50)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline</code>](https://github.com/openclaw/openclaw/commit/6630138598b3e16b0f7f29a96dfd717643079771)
+- [ ] [<code>fix(google-meet): keep Meet sessions on the agent that joined them (#102331)</code>](https://github.com/openclaw/openclaw/commit/f85d438164eb954aecdf05b9e1c0102cf05346bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(github-copilot): support GitHub Enterprise data-residency Copilot auth (#99221)</code>](https://github.com/openclaw/openclaw/commit/0307deacfac7e42a5ea448d17eee244192bfc599)
+- [ ] [<code>fix(comfy): allow private service hostnames (#99065)</code>](https://github.com/openclaw/openclaw/commit/9c86529e446197a0fee1850963135aa508bd2891)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
