@@ -382,8 +382,14 @@
 - [ ] [<code>power applet: Introduce a short delay before initializing the backlight</code>](https://github.com/linuxmint/cinnamon/commit/872e68bb6a7d5751178ba57e40234270840a24a6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>network: Remove stale wireguard connections (#13847)</code>](https://github.com/linuxmint/cinnamon/commit/f9b7d189f56c4ef1ed223cdd32cb51b16f7ecdac)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>layout.js: Use the current focus-window's monitor when possible to</code>](https://github.com/linuxmint/cinnamon/commit/036247d0f5dca444566e91ad4670b02f9daeb3cc)
+- [ ] [<code>input-method: Move InputSourceManager outside of individual IM</code>](https://github.com/linuxmint/cinnamon/commit/edaeb45aaa5c565473e53ecf836c1f0dcc45367d)
+- [ ] [<code>main.js: Support fcitx5 in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/7274117c2349b4b033df5f049e2f56460c6b3184)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>main.js: Move the overlay group above the ui group.</code>](https://github.com/linuxmint/cinnamon/commit/95e7434ee2b0e20f7b645cd468b5456d553cd3be)
+- [ ] [<code>virtualKeyboard.js: Support fcitx5, use im.get_focus() instead of</code>](https://github.com/linuxmint/cinnamon/commit/116845422cd9b2a59b308024fff7383692991f15)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -493,7 +499,9 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csm-manager.c: Block mate's polkit helper autostarting except in</code>](https://github.com/linuxmint/cinnamon-session/commit/b3930ba17dfa5e9f2933b17fe44a425982b21b9f)
+- [ ] [<code>main.c: Clear IM-related environment values between sessions,</code>](https://github.com/linuxmint/cinnamon-session/commit/071312e13711ce4a57ad3341082143a17a29b4fe)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -531,8 +539,10 @@
 - [ ] [<code>csd-keyboard-manager.c: Remove some dead keyboard layout code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5428974bc2cf1f6a5b36351eef13805575ce6b5)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/42e5c8d0a3baba074942848e6905f6e649452533)
-  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-xsettings-manager.c: Fix fcitx support for xwayland clients.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/18bb726dc21ac7127f50e7b2c9c3885d66dd34b6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -690,7 +700,16 @@
 - [ ] [<code>wayland: Use event time (not "now") when self-activating via gtk-shell.</code>](https://github.com/linuxmint/muffin/commit/786394f5520945811c4cfc59f798fe94810b28f2)
 - [ ] [<code>stack: Don't raise windows that aren't in the stack.</code>](https://github.com/linuxmint/muffin/commit/a13c740625b4fee11a96e6cdbbe82dc5cfa0c0d8)
 - [ ] [<code>cursor/native: Round HW cursor buffers up to a driver-legal size.</code>](https://github.com/linuxmint/muffin/commit/87a0011471a3a6548b6054fea89a054800f8566a)
+- [ ] [<code>meta-feedback-actor.c: Read anchor position as float, not int.</code>](https://github.com/linuxmint/muffin/commit/6accc8e9b8fbc4a56cfdaacb099aa2a1739ee260)
+- [ ] [<code>clutter/clutter-text.c: Fix surrounding-text offsets and pre-edit</code>](https://github.com/linuxmint/muffin/commit/2fdb656dfdb4c980fedd106d2c943154529127e9)
+- [ ] [<code>meta-wayland-text-input: Backport text-input-v3 fixes, reset the IM on</code>](https://github.com/linuxmint/muffin/commit/e5e8193231157a03ea9eceda39ab25293a959f8d)
+- [ ] [<code>meta-wayland-keyboard.c: Free the previous keymap read-only</code>](https://github.com/linuxmint/muffin/commit/9df5daf52b2511ce9fa2dbd7589a11b51a13dd03)
+- [ ] [<code>meta-wayland-keyboard: Add off-layout keysym typing and reusable</code>](https://github.com/linuxmint/muffin/commit/7a7747360bc5dd93c3cd9d452762e6bea807d8f3)
+- [ ] [<code>clutter-input-method: Make clutter_input_method_get_focus public.</code>](https://github.com/linuxmint/muffin/commit/b10c329a93638240c3c996d1711c8b206e8d1c34)
+- [ ] [<code>wayland: Add input-method-v2 and virtual-keyboard-v1 support for fcitx.</code>](https://github.com/linuxmint/muffin/commit/b332877ebd9e19f43f1e7d550b4e5b4885373df5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
