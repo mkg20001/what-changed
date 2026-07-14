@@ -389,6 +389,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>main.js: Move the overlay group above the ui group.</code>](https://github.com/linuxmint/cinnamon/commit/95e7434ee2b0e20f7b645cd468b5456d553cd3be)
 - [ ] [<code>virtualKeyboard.js: Support fcitx5, use im.get_focus() instead of</code>](https://github.com/linuxmint/cinnamon/commit/116845422cd9b2a59b308024fff7383692991f15)
+- [ ] [<code>magnifier.js: Fix pointer events while magnified in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/6cefab7a411eb67e65828c9b8b442935d28106c4)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
