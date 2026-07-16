@@ -2309,6 +2309,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Netdata fixes part 62 (#23083)</code>](https://github.com/netdata/netdata.git/commit/c59833067543814139cb9e07341586fc72625ddb)
 - [ ] [<code>Netdata fixes part 63 (#23102)</code>](https://github.com/netdata/netdata.git/commit/128ae8b2a2e91084e97d7fafdf366335b90ca652)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-787-nightly.</code>](https://github.com/netdata/netdata.git/commit/65ed28093c9f640c407eb01a1a6d2e8f505faf60)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14435,6 +14436,81 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>refactor(node-host): move configuration to shared SQLite (#108457)</code>](https://github.com/openclaw/openclaw/commit/766742c67463648f58c3494d72037c55294264b7)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(qa-channel): bind message actions to authorized targets (#108433)</code>](https://github.com/openclaw/openclaw/commit/2cc04c205f3dd80d2a2a0cb53f126e23109b6669)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): install Crabline for package Telegram harness (#108468)</code>](https://github.com/openclaw/openclaw/commit/f2fa99a41444eb53610235aa241e2b5a4f7b2ca5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: align QA transport and release workflow contracts (#108463)</code>](https://github.com/openclaw/openclaw/commit/ca45a784f3f3a0d3ef4661a5632c2348352ce579)
+- [ ] [<code>fix(release): use trusted frozen installer harness (#108467)</code>](https://github.com/openclaw/openclaw/commit/379aca9f35e9a7bf176a228f37c67cc0efd205ff)
+- [ ] [<code>fix(qa): isolate Crabline from package live lanes (#108472)</code>](https://github.com/openclaw/openclaw/commit/3ee408b7b55a6a12fc0ff9069fe8e91071e66b13)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(qa): keep package harness off private runtime (#108476)</code>](https://github.com/openclaw/openclaw/commit/484ad52f376e5725356d8ed08ff7198dbad3b398)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(zalo): reject unsupported message actions early (#108434)</code>](https://github.com/openclaw/openclaw/commit/3b47d18cc7b470d698f45d3f47ce4299926d02c9)
+- [ ] [<code>test(qa): align live selector coverage tests (#108481)</code>](https://github.com/openclaw/openclaw/commit/555c38f483689cc6c73df709d3a73e28eccb6f1d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(ci): speed warm Node shards with sticky bind mount (#108386)</code>](https://github.com/openclaw/openclaw/commit/6252f9b1f77c4191a0881b8c7bb5937f3a335efa)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>improve(ui): speed up browser E2E tests (#108478)</code>](https://github.com/openclaw/openclaw/commit/4ae2bcafc389ac6ad2dd24c912be99a8ad51e787)
+- [ ] [<code>fix(release): support frozen pre-AI package targets (#108479)</code>](https://github.com/openclaw/openclaw/commit/401e7b003c3b1402d59f87d4c7fca932fc9c8ce0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(deadcode): harden unused export coverage (#108484)</code>](https://github.com/openclaw/openclaw/commit/8aa2392003402f739e6e0a4fe160c07e13e34645)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): keep continuation bootstrap marker across short reads (#108253)</code>](https://github.com/openclaw/openclaw/commit/8cc8feee4d35e8df338ed73b11202b8422cdb06a)
+- [ ] [<code>refactor(ui): split app sidebar responsibilities (#108422)</code>](https://github.com/openclaw/openclaw/commit/dc7f167227ffd50053c73ade63859ab686e43c69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): repair validation correlations (#108480)</code>](https://github.com/openclaw/openclaw/commit/4b286de84599c01ddb1c598c3b9189cf15ba6895)
+- [ ] [<code>test(agents): stabilize stale lock retry timing (#108483)</code>](https://github.com/openclaw/openclaw/commit/94b27740985a4b6a270c95207501afe13ba20cf0)
+- [ ] [<code>fix(extensions): prevent corrupted UTF-8 in api.exec output (#108365)</code>](https://github.com/openclaw/openclaw/commit/3b51889c3bbf6801e0d523e73f2437186831ff7c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(sessions): keep tail follow cursor aligned with bytes actually read (#108127)</code>](https://github.com/openclaw/openclaw/commit/55a822dc6877afd588dda6e8d17e64ba360041b5)
+- [ ] [<code>style: format file-read</code>](https://github.com/openclaw/openclaw/commit/ff8d4a3f9cbc472837a4ccba1523381a391b6865)
+- [ ] [<code>refactor(ui): isolate sidebar session presentation (#108492)</code>](https://github.com/openclaw/openclaw/commit/1643f1fd9f4cca782c98b1ebc7a3dd1308ea307b)
+- [ ] [<code>style(infra): format file read helper (#108493)</code>](https://github.com/openclaw/openclaw/commit/9e64fbb257c5d3838eb08d2db5c31e818820cad9)
+- [ ] [<code>refactor(deadcode): tighten provider extension roots (#108497)</code>](https://github.com/openclaw/openclaw/commit/370b80b74d483ad5933b75e9b06b2e8ff171d367)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docs-i18n): stabilize split validation</code>](https://github.com/openclaw/openclaw/commit/4d4b1762fce40b5b14a9e63c8726b123d05ab419)
+- [ ] [<code>fix(codex): continue turns after progress replies (#108487)</code>](https://github.com/openclaw/openclaw/commit/8e6f966482b0fb2253498fb468cae840382f337b)
+- [ ] [<code>fix(tlon): clear SSE connect timeout after failed openStream (#104585)</code>](https://github.com/openclaw/openclaw/commit/b18f1a8ecda188f9440b8b2f1791a84179dd3560)
+- [ ] [<code>refactor(vllm): remove unused registration shim (#108500)</code>](https://github.com/openclaw/openclaw/commit/0763a40beabac323f9181c44798c12bb9dcb127f)
+- [ ] [<code>refactor(vllm): remove unused runtime bridge (#108503)</code>](https://github.com/openclaw/openclaw/commit/18cff45db9e9c4016ca2eb60204902276897d1f7)
+- [ ] [<code>refactor(qa): canonicalize live scenario coverage (#108464)</code>](https://github.com/openclaw/openclaw/commit/2d9b78fff73afa4ff6449be49487545c2fe789ac)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(cli): split capability commands by domain (#108419)</code>](https://github.com/openclaw/openclaw/commit/9c065c895e788bac73300252c1b0f87debd8bb08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(usage): count instant sessions in hourly metrics (#108160)</code>](https://github.com/openclaw/openclaw/commit/4a1eedba54a61ddc62bca34ad5aa363d9f1239ac)
+- [ ] [<code>fix(agents): prevent subagent registry resurrection (#105793)</code>](https://github.com/openclaw/openclaw/commit/16801bf4f0138c5423489ce133038040801dc7e7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(deadcode): tighten more provider extension roots (#108515)</code>](https://github.com/openclaw/openclaw/commit/9bee0d4cb830dca180291d75c7ad4119d4de15f2)
+- [ ] [<code>fix(line): use precise control-command check for group mention bypass (#107230)</code>](https://github.com/openclaw/openclaw/commit/75234c68b3baf416043adabeadacc6fdf18622bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(feishu): pass timeoutMs through app-registration guarded fetch (#105549)</code>](https://github.com/openclaw/openclaw/commit/ed16970fc617d917fb4233586b3a166426e24273)
+- [ ] [<code>improve(qa): consolidate live transport selector contracts (#108465)</code>](https://github.com/openclaw/openclaw/commit/87079d025e8305936f86bf37a01db663c4e6c86e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: fix realtime transcription lint (#108516)</code>](https://github.com/openclaw/openclaw/commit/b6077738b33b24574066d36a7351f819fe7bd984)
+- [ ] [<code>fix(control-ui): keep Workspace UI on the newest version after overlapping reloads (#108204)</code>](https://github.com/openclaw/openclaw/commit/3b1f26bb0e60701c5b2b060c21e853319d168df3)
+- [ ] [<code>test(providers): satisfy promise executor lint (#108521)</code>](https://github.com/openclaw/openclaw/commit/990fe2f3a8fdbf5adb6d93d5d0a56e66500ac8e9)
+- [ ] [<code>refactor(deadcode): tighten Google and xAI extension roots (#108523)</code>](https://github.com/openclaw/openclaw/commit/d3dcb368950577a126d32113ee1b52e70f10f41a)
+- [ ] [<code>feat(slack): add opt-in scoped presence events (#108510)</code>](https://github.com/openclaw/openclaw/commit/9317aadaa2f3825aa90dc4c49b63aba2d6d5d9b5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>improve: speed up Control UI browser tests (#108504)</code>](https://github.com/openclaw/openclaw/commit/3768ad4d08a4f32ef54f30d3897abade84214908)
+- [ ] [<code>refactor: split plugin loader by responsibility (#108513)</code>](https://github.com/openclaw/openclaw/commit/ab3f057cfd57709c80281a98c32b1b2be6caa701)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(mattermost): bound websocket handshake waits at 30s (#105553)</code>](https://github.com/openclaw/openclaw/commit/f66786f0cb21235421dbe4e1dae0f3404d7d3254)
+- [ ] [<code>fix(line): honor channelData.line.mediaKind on the reply-token path (#106515)</code>](https://github.com/openclaw/openclaw/commit/bc93fe9f25ef35cc7e4ca59a6ab3e956ec88ddd2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): credit Tlon SSE timeout fix</code>](https://github.com/openclaw/openclaw/commit/17831685f86f04761d1a08da7232d489c5c0d67a)
+- [ ] [<code>fix(zalo): harden hosted media token checks (#108512)</code>](https://github.com/openclaw/openclaw/commit/9c6c8446a7dbe8240492ebf9c253d87d048a1997)
+- [ ] [<code>refactor(deadcode): tighten extension root modeling (#108538)</code>](https://github.com/openclaw/openclaw/commit/d4183facf1c05a7cfb29967bac7e3d7999ec48c2)
+- [ ] [<code>fix(xai): apply request policy to video generation requests (#104836)</code>](https://github.com/openclaw/openclaw/commit/dcf110756fbcdc7950347013d961938184779ed1)
+- [ ] [<code>fix(providers): preserve UTF-8 in local service diagnostics (#108518)</code>](https://github.com/openclaw/openclaw/commit/cde78074b2ea8e943c471840379587d3b9067955)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(deadcode): tighten Anthropic extension roots (#108547)</code>](https://github.com/openclaw/openclaw/commit/169ed48866e82d31d8495a8795b86c779ccf0373)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(tui): preserve emoji in split local shell output (#108268)</code>](https://github.com/openclaw/openclaw/commit/6f22ef08a37d211064bfd3bde1f46dfc7d5c550c)
+- [ ] [<code>fix(docs-i18n): preserve list marker structure</code>](https://github.com/openclaw/openclaw/commit/a14fad5ff8091435a19c9fa2392ecd921f1bd19e)
+- [ ] [<code>fix(ui): bound mount recovery probes (#108163)</code>](https://github.com/openclaw/openclaw/commit/5c97107c7ace6d39efb1d1ac1ca27030e2af3da3)
+- [ ] [<code>fix(state): gateway starts when WSL chmod returns EROFS (#108258)</code>](https://github.com/openclaw/openclaw/commit/154d53c4f6fc6fe6deece346f134627ff31761de)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
