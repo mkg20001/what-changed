@@ -2388,6 +2388,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Netdata fixes part 67 (#23138)</code>](https://github.com/netdata/netdata.git/commit/2dc95182e16a14b3bee9b81db19fbd59118bb2e1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Netdata fixes part 73 (#23144)</code>](https://github.com/netdata/netdata.git/commit/49f6bff2b071b97848845a4f452bcf178289d09b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-816-nightly.</code>](https://github.com/netdata/netdata.git/commit/c640429e604d73bf5271c0194af956ea637e26b2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5232,6 +5234,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sdk): enable clip GPU backend when n_gpu_layers is -1</code>](https://github.com/qualcomm/GenieX/commit/f54afca47ad96e0cd71eb7ca211613d57369f128)
 - [ ] [<code>Merge pull request #1198 from qualcomm/fix/vlm-clip-cpu-fallback</code>](https://github.com/qualcomm/GenieX/commit/4c65ec37fa240c87f06ca7543d169b3416ae982a)
   - <sub>Tags: <code>v0.3.16-alpha.6</code></sub>
+- [ ] [<code>chore(deps): bump pypa/gh-action-pypi-publish from 1.14.0 to 1.14.1</code>](https://github.com/qualcomm/GenieX/commit/e70a82fead42ec97a7c397e29afc5dc4a9dd53a4)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5716,6 +5719,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: fix typo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/61773c0a8978e075eef9d29c48c105d196d74db1)
 - [ ] [<code>fix(lib): fix a3955 equalizer inaccuracies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98a27ddcb7467c9d3479189c807ed6ff97bf3e63)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(tools): add script for generating EqualizerPresets from packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/526ac8c9ffa85b48f9a094bd39c04fa5c90cbbf2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(tools/soundcore-device-faker): incorrect a3004 rfcomm service uuid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9739fab97a1a6a9754d460539f5ea46cd86f552)
+- [ ] [<code>fix(lib): incorrect eq presets for many devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/79ec8a335f66a50869a8836778773000a4362042)
+- [ ] [<code>style(lib): fix clippy warning</code>](https://github.com/Oppzippy/OpenSCQ30/commit/835e45a38d0a7cc11d1ad0c652853df20adc09b4)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.11 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.11...HEAD)
 
@@ -16991,6 +16999,43 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: update debugging skill file references (#111474)</code>](https://github.com/openclaw/openclaw/commit/cb0bbcb1772c15f2812d636977439f264a19528f)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix(onboard): honor remote flags in interactive setup (#111517)</code>](https://github.com/openclaw/openclaw/commit/1a574923cb1032e8355f8fc6af820e6f2649066c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(channels): consolidate message action read gate (#111529)</code>](https://github.com/openclaw/openclaw/commit/f6a3f22629e268bdfa3445080000baf4f0549b00)
+- [ ] [<code>perf(state): cap the per-agent SQLite handle cache with LRU eviction (#111411)</code>](https://github.com/openclaw/openclaw/commit/13ed8b5aa18cdff8996faf49901864c2aced0111)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: install exact app recommendations and retry failures (#111518)</code>](https://github.com/openclaw/openclaw/commit/171a3852ba561f5b88eb6d8836299f9a4edef20a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): keep stray file drops from leaving Control UI (#111531)</code>](https://github.com/openclaw/openclaw/commit/77378cb0f3e46464170ca6bffa4d9fea5db4f13a)
+- [ ] [<code>fix(onboard): make first-run hatch reliable (#111465)</code>](https://github.com/openclaw/openclaw/commit/6a408983d07fad091b8bf841b2991b65fda03caa)
+- [ ] [<code>fix(gateway): avoid macOS startup freeze during worker reconciliation (#111533)</code>](https://github.com/openclaw/openclaw/commit/c45e3dd3157bccd93b09a24c8b595dd5ab83b987)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(clickclack): session discussions — bound channels, side agent, lifecycle sync (#111503)</code>](https://github.com/openclaw/openclaw/commit/5420c5c409cdd493607fc4d4f897aa206aa44022)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(ios): replace the tab bar with a black overlay sidebar (web parity + dashboard) (#111339)</code>](https://github.com/openclaw/openclaw/commit/0fff74c800edd71970b0b72f229d34887ee21734)
+- [ ] [<code>fix(whatsapp): use canonical media primitives (#107017)</code>](https://github.com/openclaw/openclaw/commit/b887cd01d81990f4ce6e16ef578db248e3af91bd)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): show attributed sender identity properly in chat (#111537)</code>](https://github.com/openclaw/openclaw/commit/c6f7ddff1a55113b81d9a1e4fafa354f2c405561)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(plugin-sdk): migrate retained SDK contracts (#111535)</code>](https://github.com/openclaw/openclaw/commit/bcbbf28093b4777e1079a6c9503e9db42f8b6507)
+- [ ] [<code>fix(ui): keep steered composer messages visible until the transcript owns them (#111540)</code>](https://github.com/openclaw/openclaw/commit/6c25f5ae3354784ce4db703854c484a4feefc878)
+- [ ] [<code>fix(doctor): honor active migration targets (#111555)</code>](https://github.com/openclaw/openclaw/commit/a1e5b6ef0ed207ac5530e44efeee0e17ff44d577)
+- [ ] [<code>test: clear plugin runtimes between shared files (#111556)</code>](https://github.com/openclaw/openclaw/commit/5fcf7e75de3b6b95f8afb56a309b0294bf21feb2)
+- [ ] [<code>fix(onboarding): scope recommendations by workspace (#111560)</code>](https://github.com/openclaw/openclaw/commit/473962b7def150c593f13ad04c02cf9e9b3998fc)
+- [ ] [<code>fix(agents): preserve fresh workspace hatch (#111553)</code>](https://github.com/openclaw/openclaw/commit/7116ad6e28e59d0312d1f2b28c5f97e0759fb154)
+- [ ] [<code>fix(ui): prevent cross-file mock leakage in Control UI tests (#111554)</code>](https://github.com/openclaw/openclaw/commit/3247a56d153e0a74c76bf5a0ddace7c7ba340da8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(i18n): generate native locales after merge (#111557)</code>](https://github.com/openclaw/openclaw/commit/e0b1a39d2ac0efa0df6cea8b445bb9491abab226)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-lab): bound evidence checkout ref git probe with timeout (#111448)</code>](https://github.com/openclaw/openclaw/commit/a0c3067b545b345be03e2ce37594bf6b9c573aab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): keep custodian transcript aligned after inference errors (#111562)</code>](https://github.com/openclaw/openclaw/commit/c5f9addb527fb36a6b644291ea22db43daa3db44)
+- [ ] [<code>fix(gateway): prevent cross-client system-agent session takeover (#111565)</code>](https://github.com/openclaw/openclaw/commit/3c0f55b58f3ce789295e42259f071e96a21f33b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): reject malformed Codex image base64 (#111235)</code>](https://github.com/openclaw/openclaw/commit/8a858c9c651fb5cbf9b9257e6e3ceede0da16d7d)
+- [ ] [<code>fix(xai): reject malformed streamed TTS base64 (#111201)</code>](https://github.com/openclaw/openclaw/commit/0074270056832d8196a2f86dde59cfe48aebc850)
+- [ ] [<code>fix(inworld): reject malformed base64 TTS audio (#111197)</code>](https://github.com/openclaw/openclaw/commit/27f05c8993fb18ad6d65a5912d50966594d9662c)
+- [ ] [<code>fix(duckduckgo): preserve words around highlighted matches (#111460)</code>](https://github.com/openclaw/openclaw/commit/c5bc6c3d2dd22acb3f982c7849207bb5851d9226)
+- [ ] [<code>fix(skills): keep ClawHub search results on one line (#111441)</code>](https://github.com/openclaw/openclaw/commit/a20e08a56e69a8b3e4702da9984c8bf5255e5927)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
