@@ -2404,6 +2404,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Netdata fixes part 75 (#23150)</code>](https://github.com/netdata/netdata.git/commit/fff8552500e00d16efd3b839558428ed85a244a5)
 - [ ] [<code>docs: Add HA parent local collector guidance to FAQ (#23050)</code>](https://github.com/netdata/netdata.git/commit/687058a754c88ff6d6ce1f21a24f25e71cd071d5)
 - [ ] [<code>Regenerate integrations docs (#23166)</code>](https://github.com/netdata/netdata.git/commit/bce868397f297b2c623bdfe783ba22c7687accca)
+- [ ] [<code>Netdata fixes part 77 (#23152)</code>](https://github.com/netdata/netdata.git/commit/86d53def0f134b5daadc018c36b2d1b065d11443)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Perflib Rework (#23189)</code>](https://github.com/netdata/netdata.git/commit/1addb4ce9f53823160e1ff7d7b2fff8fa2f8c8ca)
+- [ ] [<code>Add missing information for #23151 (#23186)</code>](https://github.com/netdata/netdata.git/commit/d9958d2d12a7876e0e4a848bdba37a984fc21d52)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -17169,6 +17174,44 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(channels): batch 3 producers drop media placeholder bodies (#111800)</code>](https://github.com/openclaw/openclaw/commit/0ac7b24d56ca739ce3c2291523206ba04c2fbefe)
 - [ ] [<code>test(ios): refresh chat voice and sidebar UI coverage (#111655)</code>](https://github.com/openclaw/openclaw/commit/2f967bc8f34685c73f532c4b6921b83a9ef09457)
 - [ ] [<code>fix(signal): report malformed release metadata cleanly (#110824)</code>](https://github.com/openclaw/openclaw/commit/756de70e84d151ee5bd004e0f89087afd9453fb7)
+- [ ] [<code>fix(tts): contract speech requests hang on stalled endpoints (#110725)</code>](https://github.com/openclaw/openclaw/commit/851860339207ce8436b33b8f5a8375bfd73345bf)
+- [ ] [<code>fix(usage): guard malformed Z.AI usage payloads (#110741)</code>](https://github.com/openclaw/openclaw/commit/8d4d02a3cfa4e56928f048eaab15e498933ba4f9)
+- [ ] [<code>test(ci): provide rg in PR wrapper fixture (#111824)</code>](https://github.com/openclaw/openclaw/commit/444fd4bbea1088def8b47458a6c2ae567dffa459)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat(dashboard): widget capabilities — net CSP, host tools, hardened shared sandbox (#111687)</code>](https://github.com/openclaw/openclaw/commit/154a49a78b050820408fb93d2070acc422944e81)
+- [ ] [<code>fix(errors): recover from Z.AI token-limit errors (#111744)</code>](https://github.com/openclaw/openclaw/commit/570f8b4d9e0dfdc775840d81cdaa604f1625da10)
+- [ ] [<code>feat(channels): batch 4 Telegram drops media placeholder bodies (#111855)</code>](https://github.com/openclaw/openclaw/commit/5197428add4787e8773bb26fe695c2e2d19d7b2a)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(ui): auto-show the discussion sidebar when a session has an open discussion (#111871)</code>](https://github.com/openclaw/openclaw/commit/f6f484fb1c28bb425c5b64b2ea199fa98ff9367b)
+- [ ] [<code>docs(web): user guide for session dashboards (#111834)</code>](https://github.com/openclaw/openclaw/commit/96ffdf15c761b63468780dbf547e4858d2ea1b86)
+- [ ] [<code>fix(dashboard): inset board widgets from pane edges (#111876)</code>](https://github.com/openclaw/openclaw/commit/336b01a2e32d6817d27292663365ebb254f4bda9)
+- [ ] [<code>fix(teams-meetings): expose listening probe timeout (#111486)</code>](https://github.com/openclaw/openclaw/commit/ee74d7b8dc410d97683cacd355df2d904b4571e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): render sidebar view-archived icon as outline (#111867)</code>](https://github.com/openclaw/openclaw/commit/5ca5c5c1e0d6d57923c04d1fbb12c5010637dd97)
+- [ ] [<code>refactor(channels): delete all media-placeholder consumer awareness (#111891)</code>](https://github.com/openclaw/openclaw/commit/324fd4fe6ec2b23b0cc2ba909d979251280b58ae)
+- [ ] [<code>fix(session): clear orphaned recovery fences (#111869)</code>](https://github.com/openclaw/openclaw/commit/f0b18c1d744e3518affc941da69119e28c70651d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Wear: animate Talk avatar from playback audio (#111516)</code>](https://github.com/openclaw/openclaw/commit/ec9bc46e80ceb77b24bcc4105ce1786e364cd8d3)
+- [ ] [<code>fix(macos): show local ClickClack session discussions (#111883)</code>](https://github.com/openclaw/openclaw/commit/38df399ed8196d42f5574deb2e0dc31055204548)
+- [ ] [<code>fix(dashboard): make the board face scrollable (#111911)</code>](https://github.com/openclaw/openclaw/commit/e0206b4967a64682422f9886ea63bbf64678bb4f)
+- [ ] [<code>fix(ui): show newly created PRs in session sidebar (#111783)</code>](https://github.com/openclaw/openclaw/commit/c715d89de81efefa92f9220a64f19fc2412ddf7f)
+- [ ] [<code>fix(gateway): auto-approve trusted-proxy same-key device scope upgrades (#111916)</code>](https://github.com/openclaw/openclaw/commit/59bc78a5b27111b06df3e55f26715eb045120c1f)
+- [ ] [<code>fix(dashboard): review follow-ups — provider lifecycle, scope-gated controls, pin robustness (#111907)</code>](https://github.com/openclaw/openclaw/commit/febeb6ac1267065bc9ffd9e3e9c5f1e8acbf9af6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): tolerate absent chat-event messages in text extractors (#111918)</code>](https://github.com/openclaw/openclaw/commit/271e6b73918ca4a19672a78a7c1a83a9460fef3a)
+- [ ] [<code>fix(ui): actionable diagnostics for missing widget sandbox origin behind proxies (#111909)</code>](https://github.com/openclaw/openclaw/commit/bf6961d33efc1bc0883fd4fce898bb680ed7ba87)
+- [ ] [<code>fix: consume ClickClack v1 setup claim contract (#111927)</code>](https://github.com/openclaw/openclaw/commit/49aa383dd7bdebf3c190eacb1015073428fe9694)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): restore startup JS budget headroom for sandbox diagnostics (#111928)</code>](https://github.com/openclaw/openclaw/commit/ea148e728db30b6303145695e44038afe74d4b43)
+- [ ] [<code>feat(dashboard): reveal widget card chrome on hover for fine-pointer devices (#111914)</code>](https://github.com/openclaw/openclaw/commit/8195cf8707a196a7c685e5b498ed92847edff3a8)
+- [ ] [<code>fix(ui): persist synchronized sidebar preferences (#111929)</code>](https://github.com/openclaw/openclaw/commit/4aaea7b072915b63404665a9be8f39168ac52813)
+- [ ] [<code>feat(linux): render widgets in Quick Chat (#111933)</code>](https://github.com/openclaw/openclaw/commit/ba3711bb825d6150470e0f08fa45a841750e386d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(acpx): verify native platform packages (#111682)</code>](https://github.com/openclaw/openclaw/commit/cadad3b7bd12f8caee09924b1c7bb35fc27d19b8)
+- [ ] [<code>fix(release): accept large tarball entry lists (#111672)</code>](https://github.com/openclaw/openclaw/commit/e2bb04328f5c4f45c63202a5ad2bc77dced28551)
+- [ ] [<code>feat(apps): connect multiple gateways simultaneously (#111932)</code>](https://github.com/openclaw/openclaw/commit/a52eb2134b25935955aca086e334573807c5129d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): show new task prompts immediately without duplicates (#111953)</code>](https://github.com/openclaw/openclaw/commit/21bfc75648d18f6f6da826d331b40cbdf80ce5f6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
