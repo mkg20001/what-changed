@@ -390,7 +390,9 @@
 - [ ] [<code>main.js: Move the overlay group above the ui group.</code>](https://github.com/linuxmint/cinnamon/commit/95e7434ee2b0e20f7b645cd468b5456d553cd3be)
 - [ ] [<code>virtualKeyboard.js: Support fcitx5, use im.get_focus() instead of</code>](https://github.com/linuxmint/cinnamon/commit/116845422cd9b2a59b308024fff7383692991f15)
 - [ ] [<code>magnifier.js: Fix pointer events while magnified in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/6cefab7a411eb67e65828c9b8b442935d28106c4)
+- [ ] [<code>XkbSettings.py: Remove x11-only restriction on the 'grp' option</code>](https://github.com/linuxmint/cinnamon/commit/96cf2909241b1ce8a92577afcb66618e91b25d03)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -708,9 +710,10 @@
 - [ ] [<code>meta-wayland-keyboard: Add off-layout keysym typing and reusable</code>](https://github.com/linuxmint/muffin/commit/7a7747360bc5dd93c3cd9d452762e6bea807d8f3)
 - [ ] [<code>clutter-input-method: Make clutter_input_method_get_focus public.</code>](https://github.com/linuxmint/muffin/commit/b10c329a93638240c3c996d1711c8b206e8d1c34)
 - [ ] [<code>wayland: Add input-method-v2 and virtual-keyboard-v1 support for fcitx.</code>](https://github.com/linuxmint/muffin/commit/b332877ebd9e19f43f1e7d550b4e5b4885373df5)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>keybindings: Match the iso_next_group accelerator on keysym, not</code>](https://github.com/linuxmint/muffin/commit/afda8adbfe053400576d5e24d1bf09a312edeb18)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
