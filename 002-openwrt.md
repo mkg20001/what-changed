@@ -92,6 +92,7 @@
 - [ ] [<code>uloop: fix use-after-free in uloop_handle_processes when a callback deletes a process</code>](https://git.openwrt.org/project/libubox.git/commit/c08a4ab5312917e21104fd225136b2ae35e79427)
 - [ ] [<code>vlist: pass the tree as comparator context in VLIST_TREE_INIT</code>](https://git.openwrt.org/project/libubox.git/commit/7677b7a4f3a46f68e6f5ba6818f7b72fdd7dbaa0)
 - [ ] [<code>ustream: allow freeing the stream from within notify callbacks</code>](https://git.openwrt.org/project/libubox.git/commit/17f527fb6c30bf9073104f03337c2b7c03158bdb)
+- [ ] [<code>blobmsg: use flexible-array member in blobmsg_name()</code>](https://git.openwrt.org/project/libubox.git/commit/e7608b69283d919d031d13cc8e21692503f5dbea)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
