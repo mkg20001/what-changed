@@ -1261,18 +1261,11 @@
   - <sub>Tags: <code>rc2.8.0-4</code> <code>v2.8.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
-
-- [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
-- [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
-- [ ] [<code>build: raise minimum cmake version</code>](https://gitlab.howett.net/DHowett/ectool/commit/b600f3175b02f474d0d315dc1ad5fcde91a821ff)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>fwpdversion: add sakura, tulip, marigold and sunflower</code>](https://gitlab.howett.net/DHowett/ectool/commit/09bcb1e0e53ea70b6c1ca8ca8ac33ca0ecc1fbc9)
-- [ ] [<code>win32: add a resource file with version info</code>](https://gitlab.howett.net/DHowett/ectool/commit/bc9f9c9ba293025510b9184f5e72710b02934cc5)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>ver: update to 0.0.2, fix win32 res to use CROS macro</code>](https://gitlab.howett.net/DHowett/ectool/commit/38f92b1f2773c30c0d911453051619c0a07773d3)
-  - <sub>Tags: <code>v0.0.2</code></sub>
+> Failed to clone https://gitlab.howett.net/DHowett/ectool Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://gitlab.howett.net/DHowett/ectool /home/runner/work/what-changed/what-changed/src/../work/ectool
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ectool'...
+fatal: unable to access 'https://gitlab.howett.net/DHowett/ectool/': The requested URL returned error: 502
+'
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
@@ -1364,6 +1357,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(oauth): preserve primary cache fallback (#228)</code>](https://github.com/openclaw/mcporter/commit/c6940ef8e5e74ce9b97dd1e39d78aa15c95a4f24)
 - [ ] [<code>docs: update moved repository links (#225)</code>](https://github.com/openclaw/mcporter/commit/710840fb7dd0d1f7400d543409b660acd77b149e)
 - [ ] [<code>docs: correct call timeout guidance (#232)</code>](https://github.com/openclaw/mcporter/commit/21f76ad447a79789cf41e9ed84fb645fc2006aa4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(transport): isolate idle SSE streams (#234)</code>](https://github.com/openclaw/mcporter/commit/57cf3b19aba60dca5cb2ed003f58d259e93dcd86)
   - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -2409,6 +2404,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Perflib Rework (#23189)</code>](https://github.com/netdata/netdata.git/commit/1addb4ce9f53823160e1ff7d7b2fff8fa2f8c8ca)
 - [ ] [<code>Add missing information for #23151 (#23186)</code>](https://github.com/netdata/netdata.git/commit/d9958d2d12a7876e0e4a848bdba37a984fc21d52)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-832-nightly.</code>](https://github.com/netdata/netdata.git/commit/cde7887c2a9bfce107c9087c8478c010faf7626e)
+- [ ] [<code>bump go.d min go version go 1.26.2 (#23204)</code>](https://github.com/netdata/netdata.git/commit/00d2aea77f6cd300acacd2b6b94563474ab42214)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -17212,6 +17209,47 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(apps): connect multiple gateways simultaneously (#111932)</code>](https://github.com/openclaw/openclaw/commit/a52eb2134b25935955aca086e334573807c5129d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(ui): show new task prompts immediately without duplicates (#111953)</code>](https://github.com/openclaw/openclaw/commit/21bfc75648d18f6f6da826d331b40cbdf80ce5f6)
+- [ ] [<code>fix(ios): sidebar drags jitter and toolbar control flickers (#111831)</code>](https://github.com/openclaw/openclaw/commit/0d3cbae6a16aac33ea53a18cb204111d5397e853)
+- [ ] [<code>fix(ui): keep agent files readable when unfocused (#111963)</code>](https://github.com/openclaw/openclaw/commit/3a9f89e42e949561062c7fae50776ba991803d60)
+- [ ] [<code>fix: preserve transcript cursors across embedded turns (#111949)</code>](https://github.com/openclaw/openclaw/commit/a2a0e932c871a02f1c72fcd8236e2f5c4b3fb358)
+- [ ] [<code>fix(docs): search live docs with unrelated invalid config (#111803)</code>](https://github.com/openclaw/openclaw/commit/0e6561bc2c9178f80526a45fcee5375a44308298)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): avoid synthetic overflow in tool-heavy sessions (#110297)</code>](https://github.com/openclaw/openclaw/commit/e07de4c56159fb90e811482b34ff466438c3cf54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): select AGENTS.md when files open (#111967)</code>](https://github.com/openclaw/openclaw/commit/b628882d0b0932b9cf132e51d38f7b2ef847c85a)
+- [ ] [<code>fix(onboard): never silently remap an existing fleet's workspaces (#111787)</code>](https://github.com/openclaw/openclaw/commit/7cafe35bd5852ebe432871f621a2dd54d12c6f5d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(gateway,ui): agent-scoped model provider credentials (#111796)</code>](https://github.com/openclaw/openclaw/commit/d5a8233e76ff7aeeafbff493db1dda5ba7e77dcc)
+- [ ] [<code>fix(ui): use layout-dashboard glyph for session dashboard indicator (#111975)</code>](https://github.com/openclaw/openclaw/commit/b41263339b746e61a397279a43db695f652b853a)
+- [ ] [<code>fix(ui): give settings sidebar rows unique icons (#111974)</code>](https://github.com/openclaw/openclaw/commit/2220e9f841846fab99fef12cd635ee2a32a59705)
+- [ ] [<code>fix(protocol): classify system agents in rosters (#111920)</code>](https://github.com/openclaw/openclaw/commit/49ff6a449705de0fe5fb1c6c969a6429b0d6dc90)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(mxc): document sandbox config options and flag network access as dangerous (#110256)</code>](https://github.com/openclaw/openclaw/commit/9f8d81bd1a954dbb49b153c6ba88ac0986e6880f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: scan pull requests with TruffleHog (#111935)</code>](https://github.com/openclaw/openclaw/commit/ff98dd93f589392cc983ffd7fbf4b73a7035a01f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(deps): update axios past proxy advisory (#111984)</code>](https://github.com/openclaw/openclaw/commit/cde2e71d43c1e6ce8bdf16a107188b48a9830263)
+- [ ] [<code>feat(policy): check authored message routing (#111087)</code>](https://github.com/openclaw/openclaw/commit/e27e2d08fd94a1b3f1eecf86c46c2e26a6f334c5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): keep sender-scoped tools in delegated runs (#110345)</code>](https://github.com/openclaw/openclaw/commit/33720886c8a8aa948c03803f463266a68ba956e0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(macos): manage Gateway profiles and multiple windows (#111986)</code>](https://github.com/openclaw/openclaw/commit/f06b6be182a983528c34c948c12fa3caafe7c9f1)
+- [ ] [<code>fix(cli): align configure and channel wizard behavior (#111720)</code>](https://github.com/openclaw/openclaw/commit/3d841472bd0efebabfd0247a1509df396c1fa314)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): serialize full-app responsive browser cases (#111997)</code>](https://github.com/openclaw/openclaw/commit/7c896d78592e33f2f5fa1bb36ca588dcc3f96143)
+- [ ] [<code>fix(discord): release PluralKit 404 bodies (#109960)</code>](https://github.com/openclaw/openclaw/commit/97130060dfdd3f4bbf568d74bbea50e9d1809cd6)
+- [ ] [<code>fix(ui): dismiss new-session model picker on outside click (#111988)</code>](https://github.com/openclaw/openclaw/commit/926c60300675c4c934b7b5113a3831c21d2c48b1)
+- [ ] [<code>feat(ui): preview lobster sound when enabled (#111996)</code>](https://github.com/openclaw/openclaw/commit/d4766068b85c15b4750fed6e8392ba4f535e4718)
+- [ ] [<code>fix(scripts): preserve UTF-16 surrogate pairs in firecrawl truncation (#109561)</code>](https://github.com/openclaw/openclaw/commit/f267a4f99b09cfb1d40aa1c63d5b815e488a6c6f)
+- [ ] [<code>fix(microsoft-foundry): keep spawn pipe streams UTF-8 safe across chunk splits (#109499)</code>](https://github.com/openclaw/openclaw/commit/a510a8e3a52f94fba39a30de039a13aab5830e86)
+- [ ] [<code>fix(qqbot): cancel non-OK direct-upload response body before throwing (#110008)</code>](https://github.com/openclaw/openclaw/commit/17643f385085d68d104d216eae1a08785da4b3ec)
+- [ ] [<code>fix(ci): budget maturity evidence runs (#111980)</code>](https://github.com/openclaw/openclaw/commit/d4deddb6edaf9c1e44d749490f9393886207ccea)
+- [ ] [<code>fix(microsoft): keep valid voices from malformed catalogs (#110784)</code>](https://github.com/openclaw/openclaw/commit/1e3b76f26b079f076f996dac6d196ef7dc2f9479)
+- [ ] [<code>fix(qqbot): avoid memory spikes from oversized client secret files (#110002)</code>](https://github.com/openclaw/openclaw/commit/e1ca392dfb2be4f4816273082f5988d340780272)
+- [ ] [<code>fix(ui): show profile display name in chat (#111987)</code>](https://github.com/openclaw/openclaw/commit/7ad20c6ba17f84aea2b6f8ae0a104ed041314456)
+- [ ] [<code>fix(scripts): preserve UTF-16 surrogate pairs at truncation boundaries in label-open-issues (#109498)</code>](https://github.com/openclaw/openclaw/commit/9db4b991b0018f94dbc6ec1427b6af600e643e9c)
+- [ ] [<code>fix(tui): prevent memory growth during repeated selector searches (#109451)</code>](https://github.com/openclaw/openclaw/commit/80c16ecc8097793166e4c8418b6090fc09e3a90a)
+- [ ] [<code>fix(kilocode): cancel failed model discovery bodies (#109950)</code>](https://github.com/openclaw/openclaw/commit/a31f6aa10ceafd91892e341029062663a8e58264)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
