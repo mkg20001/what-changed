@@ -713,6 +713,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>keybindings: Match the iso_next_group accelerator on keysym, not</code>](https://github.com/linuxmint/muffin/commit/afda8adbfe053400576d5e24d1bf09a312edeb18)
+- [ ] [<code>wayland: Fix HW cursor never hiding on wl_pointer.set_cursor(nil)</code>](https://github.com/linuxmint/muffin/commit/81306a461f0b091f747d7335ef02c0380dc62e98)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
