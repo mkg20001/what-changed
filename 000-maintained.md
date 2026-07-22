@@ -2463,6 +2463,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update go version (#23210)</code>](https://github.com/netdata/netdata.git/commit/a24ece7f4e4bc6843402b1d1f7cf263fbaeb2ebe)
 - [ ] [<code>weights: method=anomaly-rate implies the anomaly-bit option on every path (#23212)</code>](https://github.com/netdata/netdata.git/commit/f7252711dc5921ab44ecb00a2c074e964f4aba72)
 - [ ] [<code>Update minimum Go patch version to 2 (#23215)</code>](https://github.com/netdata/netdata.git/commit/8005e84c0c14cbee336d5e50ad731067ce326990)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-847-nightly.</code>](https://github.com/netdata/netdata.git/commit/a868e4ab412c25bf1f9f4762b2dcf91ac523eb7e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -17622,6 +17623,53 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(deps): update fast-uri past advisory</code>](https://github.com/openclaw/openclaw/commit/1be9db038f264f1d80e9eee0c88de124b04328b4)
 - [ ] [<code>fix(deps): refresh fast-uri plugin shrinkwraps</code>](https://github.com/openclaw/openclaw/commit/6c9446c5c13b1c1694e27ff0ce0b959eb9111243)
 - [ ] [<code>fix(i18n): refresh iOS location menu inventory</code>](https://github.com/openclaw/openclaw/commit/5b2a08404883bbbed59f3496858aaafc4ccb826d)
+- [ ] [<code>fix(i18n): regenerate native locale artifacts after Android inventory drift</code>](https://github.com/openclaw/openclaw/commit/bd03b4d6587ff91cbdd100810c1d7287614745e3)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(macos): reuse gateway with path advisory (#112381)</code>](https://github.com/openclaw/openclaw/commit/35e058711dc42d13da6fae5f0f0ec1f4704c9546)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>refactor(agents): split transcript image redaction helpers (#112337)</code>](https://github.com/openclaw/openclaw/commit/d04519e1582efa0866bed6a70a2bb88d1d724eee)
+- [ ] [<code>Allow Codex plugin discovery enough startup time (#112418)</code>](https://github.com/openclaw/openclaw/commit/b0341b869326a94c083574cf654af83865ce3370)
+- [ ] [<code>improve(ui): simplify coding agent session headers (#112354)</code>](https://github.com/openclaw/openclaw/commit/c4911a2c776e3c6ca7fee0a651f26d4a497fbb66)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(browser): regenerate stale copilot runtime bundle (#112379)</code>](https://github.com/openclaw/openclaw/commit/4541c27f30fea941b1f371161db8eccb16fff799)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(android): chat rewind/fork actions and branch switcher with branch-safe outbox (#112284)</code>](https://github.com/openclaw/openclaw/commit/b36342ee6fae06bd43197ced62231e74e3fd2048)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add grouped Claw schema and read-only add plan (#101328)</code>](https://github.com/openclaw/openclaw/commit/138d2a56274c198176104f36165a34a48fbcea66)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: prevent empty Telegram sends for cron summaries (#104111)</code>](https://github.com/openclaw/openclaw/commit/2cd4e5a8be75310041b488689ce0b67abb55cc3c)
+- [ ] [<code>feat(cron): stream schedule sources with durable source identity (#112387)</code>](https://github.com/openclaw/openclaw/commit/98742bc2c7f222a05d9c3a7d1622c49e21dec56f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(workboard): routable boards, sidebar pinning, icon and color (#112302)</code>](https://github.com/openclaw/openclaw/commit/440539b53800116484e4b6141dcf3856a3e72eec)
+- [ ] [<code>fix(config): allow provider overlay revalidation (#112334)</code>](https://github.com/openclaw/openclaw/commit/7fa9dcf355e185cd03b1ecf5d6eb554a7ff808ce)
+- [ ] [<code>fix(macos): require explicit consent for privacy-sensitive access (#112321)</code>](https://github.com/openclaw/openclaw/commit/c84921634d21cfebdd3a0c033983ad0c7941083d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(agents): scope subagent registry reads (#107935)</code>](https://github.com/openclaw/openclaw/commit/9f40e8f4f0c75405b8618b44f759064d98059704)
+- [ ] [<code>fix(android): make branch counts locale-neutral</code>](https://github.com/openclaw/openclaw/commit/b622fc74c8eedbf1391aada0c129e0a2745b50fb)
+- [ ] [<code>test(android): cover locale-neutral branch counts</code>](https://github.com/openclaw/openclaw/commit/116a38c167ad23e3db4e662fc837c397804cbbcb)
+- [ ] [<code>chore(i18n): refresh Android branch count inventory</code>](https://github.com/openclaw/openclaw/commit/461583b5e393dbaf322e0c94260c0bb7b4e8c520)
+- [ ] [<code>fix: onboarding app-scan spinner floods the terminal when its label wraps (#112413)</code>](https://github.com/openclaw/openclaw/commit/b8359a78e75ae3c08eeb35dfe62da215886c532d)
+- [ ] [<code>fix(deps): patch fast-uri host confusion</code>](https://github.com/openclaw/openclaw/commit/2396bd189b1dc85db4325f264482fb51fdcc6ddb)
+- [ ] [<code>fix(deps): refresh fast-uri plugin shrinkwraps</code>](https://github.com/openclaw/openclaw/commit/851fc0a5ecafb235282cbcc7627bdff4c5e0b8e9)
+- [ ] [<code>fix(deps): bump fast-uri override to 3.1.4 (#112443)</code>](https://github.com/openclaw/openclaw/commit/73d2b27a11c7bf5e00e0ea07f283b3a096513e2e)
+- [ ] [<code>feat(ui): session observer HUD, sidebar subtitles, and settings (#112260)</code>](https://github.com/openclaw/openclaw/commit/1f0a3ecc68a0c3556e9ae097a73a46ec3df32df8)
+- [ ] [<code>feat(ui): format international phone numbers for display (#112400)</code>](https://github.com/openclaw/openclaw/commit/f0c43dcf7224352f8f139256d7097e2ba0d3a56d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): tag completions pre-tool narration as commentary (#109057)</code>](https://github.com/openclaw/openclaw/commit/5451f48b824216f92a13400080aa6b63b61753b9)
+- [ ] [<code>Create Claw agent and root install record (#101755)</code>](https://github.com/openclaw/openclaw/commit/88a7306308f7893395fb72ab89c0928e4c32885b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Create Claw-managed workspace files (#101973)</code>](https://github.com/openclaw/openclaw/commit/ebe2420482a8958840ae941c63ece019dc3b3d7f)
+- [ ] [<code>fix(cron): honor script limits and permanent failures (#112415)</code>](https://github.com/openclaw/openclaw/commit/0baf0495ab1eef9fa720506dbac147b7994e62b0)
+- [ ] [<code>feat(dashboard): plugin widget kinds — native WorkBoard card and mini-board widgets (#112434)</code>](https://github.com/openclaw/openclaw/commit/0f066eec811bea02df97925675eb4a0dab7172d0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat: discover models from live provider catalogs (#112412)</code>](https://github.com/openclaw/openclaw/commit/55cf9523e015b91dda3770dd2070acc4faae5563)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): refresh reply config after runtime reload (#112467)</code>](https://github.com/openclaw/openclaw/commit/1790d92f7c62dfe47b8bafd5b910342fd6de7882)
+- [ ] [<code>fix(agents): enforce Claude CLI cron tool policies (#112457)</code>](https://github.com/openclaw/openclaw/commit/24c20eec767c94c3cc3f54ceff52b74a17b4eead)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): read control-UI descriptors from the pinned session-extension registry (#112471)</code>](https://github.com/openclaw/openclaw/commit/bc43b3eda52d6b795802393fb5ab5be7f5951fca)
+- [ ] [<code>Install ClawHub packages for new Claw agents (#102228)</code>](https://github.com/openclaw/openclaw/commit/ba467fbd3efa9ab109e620c4e42cfe92388171c5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
