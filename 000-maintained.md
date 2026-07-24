@@ -2530,6 +2530,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(jobmgr): harden stopping rejection classification (#23238)</code>](https://github.com/netdata/netdata.git/commit/5e21fad41dedbd2082430228d10186954a32a142)
 - [ ] [<code>perf(go.d/metrix): eliminate repeated multiscope flattening (#23242)</code>](https://github.com/netdata/netdata.git/commit/8ef706c3f96c01f699668a8c287e4add76f2d819)
 - [ ] [<code>docs: fix broken links (#23243)</code>](https://github.com/netdata/netdata.git/commit/33a88c8d58e485254b07aa1b21fa12a2024009d7)
+- [ ] [<code>Add regression tests for function access verification in MCP (#23225)</code>](https://github.com/netdata/netdata.git/commit/ad3b3174ad5419aa63803515db1b56d3086c5a62)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Netdata fixes part 87 (#23226)</code>](https://github.com/netdata/netdata.git/commit/c9d2ba9bbf5c18ff731e7de626583cad18360588)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Improve Network Flow collector accounting charts (#23241)</code>](https://github.com/netdata/netdata.git/commit/373988221b3550f28b7c2bc730ec3b8cdb48c2f2)
+- [ ] [<code>skill how-tos: add 5 new how-tos, fix query-nodes.md response shape (#23245)</code>](https://github.com/netdata/netdata.git/commit/d19caa966b130bb42c8129efce644dee8bef50f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-882-nightly.</code>](https://github.com/netdata/netdata.git/commit/43fa76c11af66add412dddae394b82c0944975bf)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -18297,6 +18306,63 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(feeds): accept standard DSSE envelopes</code>](https://github.com/openclaw/openclaw/commit/03c9b2276214affc4e74e28fc4ba7f7a99043d10)
 - [ ] [<code>fix(ci): rebuild stale sticky dependency snapshots (#113142)</code>](https://github.com/openclaw/openclaw/commit/8a2b2b35f50b8d411b22bfa4117c396516fd06fc)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(cron): split timer lifecycle (#113141)</code>](https://github.com/openclaw/openclaw/commit/06776e707b44a33e0581c6e56d4d24f2b0281fca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(ios): support App Store release revisions</code>](https://github.com/openclaw/openclaw/commit/30395ba31bb93b9da47d736709c1b3e9eafc2b3d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(memory): drop media-marker text from LanceDB memory ingestion (#113145)</code>](https://github.com/openclaw/openclaw/commit/5efd616413172bffbc0565e4abe68aec732e8be8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): preserve Control UI question access after upgrades (#113153)</code>](https://github.com/openclaw/openclaw/commit/bec7d8a1449546df475d12ed9e32d03608813913)
+- [ ] [<code>fix(agents): resolve trusted shell snapshot home (#113103)</code>](https://github.com/openclaw/openclaw/commit/796edc3b8430c6fe740518a2cf146e5d1c56b893)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(marketplaces): allow trusted feed key rotation</code>](https://github.com/openclaw/openclaw/commit/bd48b7b26bb4e568506f3d757acce28016fc9122)
+- [ ] [<code>feat(ui): merge creator avatar into sidebar leading slot, move creator filter into Threads menu (#113150)</code>](https://github.com/openclaw/openclaw/commit/fc92b9fd91d8ef21bfe4bdd5654f6ca4eb50ec20)
+- [ ] [<code>fix(state): support SQLite 3.51 migration (oc-224.1) (#113151)</code>](https://github.com/openclaw/openclaw/commit/081b3ebc67bcfab5c24627469f95449339cd941a)
+- [ ] [<code>refactor(auto-reply): split config dispatch pipeline (#113154)</code>](https://github.com/openclaw/openclaw/commit/127b78142b6ea11ac658a821191618598b806e14)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): claim benign same-generation session updates (#113088)</code>](https://github.com/openclaw/openclaw/commit/d2b4ec18c1d4a725042d6c8107a2953c66325bbf)
+- [ ] [<code>feat(telegram): render rich markdown lists natively (#113158)</code>](https://github.com/openclaw/openclaw/commit/5fb3136be0d2856f9928d85b3a0410714f28bae6)
+- [ ] [<code>fix(docs-i18n): mask composite numeric literals</code>](https://github.com/openclaw/openclaw/commit/083276eadab3e89447e124258a73bd41d00c12bd)
+- [ ] [<code>refactor(gateway): unify chat run state (#113157)</code>](https://github.com/openclaw/openclaw/commit/7cbd24771fc99962cbbeda1dc42aa7ad7712803b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): render managed chat media under base paths (#113163)</code>](https://github.com/openclaw/openclaw/commit/09c6d66d19b91e1ce6eb4058e387a8c5fae03a6c)
+- [ ] [<code>fix(ci): rebuild sticky modules before snapshot refresh (#113155)</code>](https://github.com/openclaw/openclaw/commit/b3b9e691bd599e34e0ebd93c924b5de45629380b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(cron): convert heartbeat tasks: entries into independent cron jobs (#113165)</code>](https://github.com/openclaw/openclaw/commit/b23c7bd0f841ed4b45a0d8ea327daf1cf653aecd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(agents): prepare hot-path runtime facts (#113167)</code>](https://github.com/openclaw/openclaw/commit/af443b438406ea14d66fdbf67a415ed7080edf99)
+- [ ] [<code>feat(ios): deterministically plan App Store releases</code>](https://github.com/openclaw/openclaw/commit/b7d77b0f215ee115e62a86d8c382cd3168d6f718)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ios): normalize App Store build upload state</code>](https://github.com/openclaw/openclaw/commit/0558831b92df53de16747aa9d33bcecb4e47942a)
+- [ ] [<code>refactor(ios): append unpadded App Store revisions</code>](https://github.com/openclaw/openclaw/commit/ba09e05e97ba9032be0a620f0e0db0787376475b)
+- [ ] [<code>fix(ci): register iOS release script entries</code>](https://github.com/openclaw/openclaw/commit/090bdab5b8636c5f1399b7f4a7de28abc2c3acd2)
+- [ ] [<code>fix(docs-i18n): accept hyphenated numeric compounds</code>](https://github.com/openclaw/openclaw/commit/0d406a84dba2b41dfcabe873622076efb9667ff0)
+- [ ] [<code>fix(ci): allow sticky writer rebuild to finish (#113175)</code>](https://github.com/openclaw/openclaw/commit/7915c44773f3f6ed6b1cf00312da35ef8a2b9830)
+- [ ] [<code>refactor(auto-reply): normalize inbound text once (#113179)</code>](https://github.com/openclaw/openclaw/commit/0dd9dcda2ff4cf8c86aecbf64358ead9fd023136)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(ui): unify sidebar footer into a full-width identity card (#113156)</code>](https://github.com/openclaw/openclaw/commit/1603781bb0d4032fa906caaa0f8104fa2dcd7ed9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(config): retire redundant settings (#113174)</code>](https://github.com/openclaw/openclaw/commit/bb657eec9359b8a782cd2a17f4abc7ed413ca979)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(feishu): settle outbound lifecycle after delivery</code>](https://github.com/openclaw/openclaw/commit/d8ea72394734718b15911256601d5588d7cbfb0c)
+- [ ] [<code>fix(channels): keep partial delivery code internal</code>](https://github.com/openclaw/openclaw/commit/8ceb0a486072b64802fc61f6fff971398b81641c)
+- [ ] [<code>fix(feishu): keep partial delivery error type internal</code>](https://github.com/openclaw/openclaw/commit/2165b5826eafc0f8905bd86852c7fba8301dadda)
+- [ ] [<code>fix: keep outbound result types internal</code>](https://github.com/openclaw/openclaw/commit/0dbb1db43dd360b0c431120e3402bc6b6ab52567)
+- [ ] [<code>docs(plugins): define inbound delivery settlement</code>](https://github.com/openclaw/openclaw/commit/6ec2a70ae1e431f33c7a6f43dd65db2e63c56087)
+- [ ] [<code>docs: refresh documentation map</code>](https://github.com/openclaw/openclaw/commit/21e703057bd40120f8081c3c3d3c0cad790226c1)
+- [ ] [<code>fix(channels): observe deferred delivery rejection</code>](https://github.com/openclaw/openclaw/commit/0a8831720ddab84542e762544311a6a5e11f8ab7)
+- [ ] [<code>test(channels): satisfy promise executor lint</code>](https://github.com/openclaw/openclaw/commit/2de4d45bf369a4a783f4ae939a43641c9846fb96)
+- [ ] [<code>fix(channels): preserve visible partial delivery</code>](https://github.com/openclaw/openclaw/commit/17eea1c0ab6e1683f5b195f80cdc5b111a7e4c98)
+- [ ] [<code>docs(plugins): refresh SDK API baseline</code>](https://github.com/openclaw/openclaw/commit/6885d5b943e2e30f4a73d064bb900483f2427b1c)
+- [ ] [<code>fix(ios): isolate release screenshot captures</code>](https://github.com/openclaw/openclaw/commit/ee317497d95770559cafbd95a1abaecaed8fd976)
+- [ ] [<code>fix(ios): cache location authorization state</code>](https://github.com/openclaw/openclaw/commit/0030a8c8087fcd107c4241dd5da8ad57e60c4a03)
+- [ ] [<code>chore(ios): refresh native i18n source inventory</code>](https://github.com/openclaw/openclaw/commit/d87707d806487be54e181e964c0b606c2fee688a)
+- [ ] [<code>test(ios): require strict Settings navigation</code>](https://github.com/openclaw/openclaw/commit/be29b907f4a30303fac9416b7cb42b04331f2ae3)
+- [ ] [<code>fix(whatsapp): bind reactions to resolved chat target</code>](https://github.com/openclaw/openclaw/commit/60090fc2a6f7de09110d75fa1737bbf9f2e81cbf)
+- [ ] [<code>feat(sessions): suggestion queue + typing indicator (#113173)</code>](https://github.com/openclaw/openclaw/commit/90aee82793596f3dbe5308a339a1a834ab5dadf6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(matrix): render spoilers, underline, and native tables (#113199)</code>](https://github.com/openclaw/openclaw/commit/21103ff8e91c4d8335a4369a0fb0a2b351ee62ac)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
