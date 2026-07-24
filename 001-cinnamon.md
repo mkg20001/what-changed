@@ -4,7 +4,7 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.8...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
 - [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
