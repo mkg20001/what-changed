@@ -2571,6 +2571,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/prometheus): add profile autogen selector (#23255)</code>](https://github.com/netdata/netdata.git/commit/bc621f89ea4701f04c1f3528417504967be5f341)
 - [ ] [<code>Correctly handle EPEL on RHEL 7. (#23235)</code>](https://github.com/netdata/netdata.git/commit/1fea99ef2299c634be0918292f436e5f38370ebb)
 - [ ] [<code>Fix two memory leaks on chart/dimension churn (ram + all engines) (#23254)</code>](https://github.com/netdata/netdata.git/commit/a31406941659d74b9c6ca146ff9c779fd97d0dc6)
+- [ ] [<code>fix(go.d/functions): clamp over-limit function timeouts instead of 400 (#23258)</code>](https://github.com/netdata/netdata.git/commit/b6d4009b56b861ceec85091c792eba68cfd3b7f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#23244)</code>](https://github.com/netdata/netdata.git/commit/efc94c8a3dd1a7970127bd68d8321189be249b52)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix metadata cleanup when agent is in RAM mode (#23256)</code>](https://github.com/netdata/netdata.git/commit/419506f5716fb32df0eef2eb965934f0f72abc22)
+- [ ] [<code>api: new time-grouping 'latest' with a collector-cache fast path (#23257)</code>](https://github.com/netdata/netdata.git/commit/043f50ec075441010c1495250871d37a8ac69f8d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix(daemon): propagate ephemeral node marking to Netdata Cloud (#23259)</code>](https://github.com/netdata/netdata.git/commit/beede2920e18ec0e0efa3c522367ce26deec1281)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-904-nightly.</code>](https://github.com/netdata/netdata.git/commit/f57a1d9467974a31078721a9ecb688c849ddd7a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -18601,6 +18610,36 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(anthropic): add Claude Opus 5 model support (#113391)</code>](https://github.com/openclaw/openclaw/commit/2ee8730450dc5e8d0f75976262014a363c7d71be)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(qa): separate provider plans from runtime calls (#113399)</code>](https://github.com/openclaw/openclaw/commit/c0c12da9f25bd91fe91d54cf5d1ec999b6eebcdf)
+- [ ] [<code>docs(security): clarify requester-scoped controls (#113400)</code>](https://github.com/openclaw/openclaw/commit/59fc573fb9e938a93b93522be6bf4d7bec0dbc6f)
+- [ ] [<code>refactor(ui): split chat pane (#113406)</code>](https://github.com/openclaw/openclaw/commit/3e44b5f5ddedfd4916b4b3669eb7c7b6bca0d287)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: improve cron model preflight errors (#113409)</code>](https://github.com/openclaw/openclaw/commit/02423d33fca0bd2bf1c6f96b2e917618a99da3fc)
+- [ ] [<code>fix(discord): filter pending history by sender (#113407)</code>](https://github.com/openclaw/openclaw/commit/b42ec8bfaee16beb8ad75abd5bb7d6a15022c6f6)
+- [ ] [<code>test(codex): read canonical steering terminal outcome (#113416)</code>](https://github.com/openclaw/openclaw/commit/d734df9d0fcc5fd1bce2c86b962bf911d8828fdb)
+- [ ] [<code>fix(discord): warn on broad group member access (#113414)</code>](https://github.com/openclaw/openclaw/commit/ca8610151af280492c23af992956968bc9427d03)
+- [ ] [<code>feat(anthropic): complete Claude Opus 5 rollout (#113392)</code>](https://github.com/openclaw/openclaw/commit/5bea268128633fbbe8b0522c90d22e72ed9e6643)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(qa): track sessions_spawn parity coverage gap</code>](https://github.com/openclaw/openclaw/commit/4e83914748da7b8c35b38fc0766274fe2f90ba95)
+- [ ] [<code>refactor(sqlite): enforce one database connection boundary (#113418)</code>](https://github.com/openclaw/openclaw/commit/1e93465a2a929fefb2b646ba3a1b0c613f75c6ee)
+- [ ] [<code>fix(install): validate downloaded scripts before execution</code>](https://github.com/openclaw/openclaw/commit/99f78133b3e0430cded2381ecd889dae3a454887)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(test): mock validate_downloaded_script in NodeSource failure tests</code>](https://github.com/openclaw/openclaw/commit/20c9c6b1f969c7a26f5f5a87fd688047609a3918)
+- [ ] [<code>fix(test): mock download/validate for Debian NodeSource install path</code>](https://github.com/openclaw/openclaw/commit/34cc32fa41f50b90566d97157482e23ad1745509)
+- [ ] [<code>fix(installer): harden managed script downloads</code>](https://github.com/openclaw/openclaw/commit/09c26e24ebf6400cc6794df7e940e12071bd2df3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>style: format installer validation tests</code>](https://github.com/openclaw/openclaw/commit/592be7b407f6b0b261422e8a7ba8c96b42b9e92d)
+- [ ] [<code>fix(deps): pin brace-expansion 5.0.8 (#113428)</code>](https://github.com/openclaw/openclaw/commit/78d8c1f934df33ec7654814a91bdce60fc547488)
+- [ ] [<code>fix(anthropic): detect Claude CLI routes pinned to non-default models (#113424)</code>](https://github.com/openclaw/openclaw/commit/866012f5be1921fe0b725f8d84944b09196aef12)
+- [ ] [<code>docs(anthropic): document the rolling opus alias and pin alias-split coverage (#113413)</code>](https://github.com/openclaw/openclaw/commit/872ba27ff3633f9b8458c50920ed6c1ac7e3f15d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): allow gateway graceful shutdown</code>](https://github.com/openclaw/openclaw/commit/877ae06c1032bb8c3dc03aff4125eadde58d9b68)
+- [ ] [<code>fix(sqlite): keep read-only state journal-aware (#113404)</code>](https://github.com/openclaw/openclaw/commit/ec7f8e9dd1c34b1cff244eac4dbce469a9d1cd3a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(qa): capture trajectory-only runtime tools (#113452)</code>](https://github.com/openclaw/openclaw/commit/4e51e7addaf2d876d63dce486cbc3c6602be04c1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(channels): unify routed outbound hook ownership</code>](https://github.com/openclaw/openclaw/commit/66a75bb9e5243b9a1e54187252472c5403075e7e)
+- [ ] [<code>test(workboard): mock sqlite runtime opener (#113457)</code>](https://github.com/openclaw/openclaw/commit/ab04b2103e850f94fbb92c8d634b83474389363b)
+- [ ] [<code>feat(ui): render chat notice rows as markdown (#113450)</code>](https://github.com/openclaw/openclaw/commit/cd76809d9ae010e1ff0c1f3ee70e0c1d95feb467)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
