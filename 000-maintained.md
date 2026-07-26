@@ -2590,6 +2590,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.29 to 1.19.30 in /src/go (#23265)</code>](https://github.com/netdata/netdata.git/commit/dd6f78020107d6ef274961246e0b5f79ea473f29)
 - [ ] [<code>build(deps): bump github.com/golangsnmp/gomib from 0.11.0 to 0.12.0 in /src/go (#23266)</code>](https://github.com/netdata/netdata.git/commit/485735779d400fc497e6bfd05e7998b5c70930b4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-908-nightly.</code>](https://github.com/netdata/netdata.git/commit/7e489f709c4fd6a96adac44668db965e1c30c600)
+- [ ] [<code>Update packaging.yml to exclude go.mod and go.sum (#23272)</code>](https://github.com/netdata/netdata.git/commit/5b27665c26eb517bf14bc7f6588ca6a10d3448d2)
+- [ ] [<code>build(deps): bump github.com/mattn/go-isatty from 0.0.23 to 0.0.24 in /src/go (#23269)</code>](https://github.com/netdata/netdata.git/commit/05e1f9d4ccddb30e5cb8139f06f3548c4e93fb7a)
+- [ ] [<code>build(deps): bump go.opentelemetry.io/proto/otlp from 1.9.0 to 1.11.0 in /src/go (#23270)</code>](https://github.com/netdata/netdata.git/commit/5b5ce5feb8b6e1dc362b628f90ef39c36c491e4b)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/cloudwatch from 1.63.1 to 1.65.0 in /src/go (#23268)</code>](https://github.com/netdata/netdata.git/commit/d3d2d8bbcc9222c5fe0c242b9751b3147e87b825)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31 in /src/go (#23275)</code>](https://github.com/netdata/netdata.git/commit/ac64a9f009617a71f929688b4487285f7375f0fd)
+- [ ] [<code>build(deps): bump github.com/klauspost/compress from 1.19.0 to 1.19.1 in /src/go (#23274)</code>](https://github.com/netdata/netdata.git/commit/eb3dfb7d7e963ddc98293e05f9b3d9a33c93c27d)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.70.0 to 0.70.1 in /src/go (#23276)</code>](https://github.com/netdata/netdata.git/commit/2acad69de95d4020482a91e72f302e03140b0730)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi from 1.34.1 to 1.35.0 in /src/go (#23267)</code>](https://github.com/netdata/netdata.git/commit/347c638a0e095cb290eeee60e343530c4dc8254a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -19129,6 +19137,99 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ui): keep sidebar selection on archived sessions and replace the composer with an archived notice (#113882)</code>](https://github.com/openclaw/openclaw/commit/a328e900fd65f9dae4c6bb61240c24a2ed41c384)
 - [ ] [<code>refactor(ui): inline stroke attributes via shared strokeIcon shell (#113952)</code>](https://github.com/openclaw/openclaw/commit/98542bc55b189486ff29cd0bd1a38ce3055f5c8a)
 - [ ] [<code>fix(subagents): steer spawn labels toward task titles and persist them at run start (#113950)</code>](https://github.com/openclaw/openclaw/commit/e12ab00265aff0a274785ab77aceb1be3f3de5a4)
+- [ ] [<code>feat(providers): refresh onboarding defaults to current models (#113973)</code>](https://github.com/openclaw/openclaw/commit/52a92a1b0ad18d715921c19e70257097b6d6aa9b)
+- [ ] [<code>feat(ui): drag custom sidebar groups between built-in session zones (#113948)</code>](https://github.com/openclaw/openclaw/commit/f90cef67c8103436b3a928fc5c83a924a41d7008)
+- [ ] [<code>refactor(gateway): share conversation registry scope (#113977)</code>](https://github.com/openclaw/openclaw/commit/aee5c0ae088ab4daced65e66e2c72dbfa05fc6c4)
+- [ ] [<code>fix(qwen): preserve direct Token Plan constraints (#113976)</code>](https://github.com/openclaw/openclaw/commit/c53ce6a76db13f3c3ed8904fc6b92e62ea60e455)
+- [ ] [<code>build(lint): adopt stylelint for Control UI css templates and stylesheets (#113971)</code>](https://github.com/openclaw/openclaw/commit/3807591ff4a345f32fb2a0dfb714888a19a81c72)
+- [ ] [<code>feat(browser): scoped and structured page extraction (#113938)</code>](https://github.com/openclaw/openclaw/commit/a2c64743775b88ea3ffdf0928786cba369f10209)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): match plugins by package name (#113933)</code>](https://github.com/openclaw/openclaw/commit/77b44473c71c3d3f1eae14e5372ab87f7e2d4132)
+- [ ] [<code>fix(ui): keep Coding sessions visible after reconnect (#113981)</code>](https://github.com/openclaw/openclaw/commit/71cb266c1f987e59e7d5f6bc194375aaeed03fad)
+- [ ] [<code>refactor(policy): drop unreachable sensitive-logging redaction check (#113993)</code>](https://github.com/openclaw/openclaw/commit/08138cabe0b39e4223a11e509a6012e45806fe28)
+- [ ] [<code>build: pin stylelint toolchain dev-dependencies exactly</code>](https://github.com/openclaw/openclaw/commit/511a76b23bceda1577be3430b4dc9e68f97e450a)
+- [ ] [<code>test(ui): stabilize drag-managed group e2e (#113989)</code>](https://github.com/openclaw/openclaw/commit/8f3f746b2f804622facf0111cc47e3d444f42fb4)
+- [ ] [<code>refactor(agents): split acp-spawn helpers and drop max-lines suppression (#113979)</code>](https://github.com/openclaw/openclaw/commit/8d75a6ded6e3580e847a4254512d5d0b522f1851)
+- [ ] [<code>feat(chat): restore prompt image attachments on rewind/fork (#113945)</code>](https://github.com/openclaw/openclaw/commit/852a686a1bde1acf826ab54b738a6b1677aebf64)
+- [ ] [<code>fix(providers): openai live-test config isolation and qianfan default refresh (#113999)</code>](https://github.com/openclaw/openclaw/commit/8eb841da7975d1ebc1ff1dc6aaa68b6a698dedfa)
+- [ ] [<code>fix(clickclack): resolve global discussion owner (#113997)</code>](https://github.com/openclaw/openclaw/commit/f3ba035f16440d56c76625cc6a44a09f0623dd96)
+- [ ] [<code>fix(agents): let harness-owned compaction proceed without ambient auth (#114001)</code>](https://github.com/openclaw/openclaw/commit/b68006dd16c7d12f23011382daaeaef1b8d916d6)
+- [ ] [<code>refactor(gateway): extract session-PR landing resolution and batch ancestry checks (#114000)</code>](https://github.com/openclaw/openclaw/commit/5d3405915dc008011e3fa70bef501b16428e7b65)
+- [ ] [<code>refactor(qa-lab): split suite execution (#113974)</code>](https://github.com/openclaw/openclaw/commit/c66f0d340be6065067e8a1312fc9cd528b415fc2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(plugins): share provider alias matching (#113982)</code>](https://github.com/openclaw/openclaw/commit/bb12c4b78cd0dac4759b2af0e054bbefac75a0fa)
+- [ ] [<code>fix(kimi): refresh K3 catalog and add 256K variant (#113918)</code>](https://github.com/openclaw/openclaw/commit/48addb3d570c60a7309030cbb6e49ec7f74a986f)
+- [ ] [<code>feat(mac): dashboard gateway picker with in-place switching (#113965)</code>](https://github.com/openclaw/openclaw/commit/adfb59c19b3f932721480fedcab1661e2d46424f)
+- [ ] [<code>feat(cli): add openclaw agent exec headless one-shot runner (#113988)</code>](https://github.com/openclaw/openclaw/commit/69399b1cc3eee7ed92a5261e8b428130579edb87)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(compat): date the annotated deprecation families and expose removal-pending debt (#114002)</code>](https://github.com/openclaw/openclaw/commit/b2f6ecc2a9771df31e0c2ff4bd7d812b53448cf1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): add empty sidebar drop targets (#114005)</code>](https://github.com/openclaw/openclaw/commit/5aef17205aa9e7a093cda4bff1b07af06d915204)
+- [ ] [<code>refactor(agents): remove test-only scope exports (#113985)</code>](https://github.com/openclaw/openclaw/commit/e866148c73e62a8f025508f3ea6ed69c685750c3)
+- [ ] [<code>fix(release): support npm 12 in ClawHub materializer (#114008)</code>](https://github.com/openclaw/openclaw/commit/7b6a29ca114f92333ebac01a16c7ef198b9d90bb)
+- [ ] [<code>refactor(ui): extract wizard step controls into a shared component (#113733)</code>](https://github.com/openclaw/openclaw/commit/c0d4cafbcc3a6c75949848990cd82c9e5c7f8c71)
+- [ ] [<code>fix(slack): resolve thread freshness owner (#114009)</code>](https://github.com/openclaw/openclaw/commit/3f27d76ea7dc31d75b818fb63691e594f054e76b)
+- [ ] [<code>fix(ci): retain frozen-candidate QA runtime scratch (#114018)</code>](https://github.com/openclaw/openclaw/commit/af4acfee63f9e6803de9a47be09c0f8adcd77f62)
+- [ ] [<code>fix(policy): drop retired config coverage entry (#114014)</code>](https://github.com/openclaw/openclaw/commit/fc3476b116b982d96e94cc86e3daf0f080c84ada)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(gateway): stop sessions.list materializing the store per row (#114003)</code>](https://github.com/openclaw/openclaw/commit/0f94ca2a68b555ac954bb9f54ee51013268f8e3f)
+- [ ] [<code>refactor(memory-core): split CLI runtime (#114013)</code>](https://github.com/openclaw/openclaw/commit/99d8d90572a369f9f2eadb712a61b13279492276)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cerebras): prefer current Gemma 4 onboarding default (#114015)</code>](https://github.com/openclaw/openclaw/commit/5c7f7d198e7da419c392e079caedbcc10bdfe86b)
+- [ ] [<code>fix(gateway): unblock first successful approval delivery (#114022)</code>](https://github.com/openclaw/openclaw/commit/08493c51d8f78c872d3247dfe8804443585ee111)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: isolate live test config reads (#114024)</code>](https://github.com/openclaw/openclaw/commit/dfcd3b9e0b038c07e08d64d698c168269e9bc5c6)
+- [ ] [<code>fix(ci): keep Telegram release scratch in isolated runtime (#114026)</code>](https://github.com/openclaw/openclaw/commit/29ca63221f81a8449020a11051e73b2977301356)
+- [ ] [<code>refactor(agents): split subagent-spawn and drop its max-lines baseline entry (#114030)</code>](https://github.com/openclaw/openclaw/commit/5284408470843543fe06760228361cb6061891b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): dashboard widgets leave a gap below content and hover chrome blocks widget buttons (#114012)</code>](https://github.com/openclaw/openclaw/commit/36404eaa3b489ed822bb6afbddeb9e207261f206)
+- [ ] [<code>Control UI: gateway-owned sidebar section order (#113930)</code>](https://github.com/openclaw/openclaw/commit/2de58d408a690f78e74101ec5452124d18ceaac8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(cli): cross-link agent exec from automation and policy pages (#114034)</code>](https://github.com/openclaw/openclaw/commit/e935a008f82f029b717c201e2f3f37e21e84b1af)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>build(deps): remove npm shrinkwrap; mirror pnpm lock into transient package locks (#114006)</code>](https://github.com/openclaw/openclaw/commit/f6131a4fbfa5a7779ae3f2663ba927935d944ce3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ui): keep first prompt across gateway reconnects (#114042)</code>](https://github.com/openclaw/openclaw/commit/1677058cf5362de2cea89e26c9f3c772c8b72a66)
+- [ ] [<code>fix(cli): write agent exec plain output to stdout (#114043)</code>](https://github.com/openclaw/openclaw/commit/2bf57bb2fb5faf3366b7ea098dfdd9c01c7caf0b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(tui): show terminal output when a PTY fixture RPC wait times out (#114045)</code>](https://github.com/openclaw/openclaw/commit/c31d15bd0f79e7338221479ae7fa319a1f9b04b7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(copilot): split attempt runtime (#114035)</code>](https://github.com/openclaw/openclaw/commit/299f5a4941d2616598996d23056b07f8de284b90)
+- [ ] [<code>fix(auto-reply): match throttling transient errors in fallback-state regex (#112702)</code>](https://github.com/openclaw/openclaw/commit/89cc2ccdb3a00c186c7a40cae74dec506deecb46)
+- [ ] [<code>fix(qa): bound Slack observer teardown (#113605)</code>](https://github.com/openclaw/openclaw/commit/59cb9233f8438d20786c6eb1abfb79e791c10fd5)
+- [ ] [<code>fix: show native history in adopted Pi and OpenCode sessions (#114040)</code>](https://github.com/openclaw/openclaw/commit/9dfb2a131818aa308def4fff7e10e5ecb9c48d5f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(mac): gateway menu-bar surfaces and Gateways main menu (#114038)</code>](https://github.com/openclaw/openclaw/commit/f0b7542a2209b77d31cc4361d30443c5291c4d57)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): retire completed session work lanes (#114051)</code>](https://github.com/openclaw/openclaw/commit/c4f148368aee115620c972b5f8c0c6b397e64966)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): recover from unknown selected agents and surface session-catalog failures (#114048)</code>](https://github.com/openclaw/openclaw/commit/8eafae4af749fe275f14ecf6d393975369ae6f4d)
+- [ ] [<code>fix(gateway): bound session observer digest attempts and stop unpersistable loops (#114052)</code>](https://github.com/openclaw/openclaw/commit/042d344c5700f353732152843766508df760eb8e)
+- [ ] [<code>fix(memory): close previous embedding provider before replacement (#113471)</code>](https://github.com/openclaw/openclaw/commit/6bd8e0387c17855921d842e1f6ccf94b49bc89fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): refuse roster writes that silently drop agent entries (#114054)</code>](https://github.com/openclaw/openclaw/commit/8b5fa2baef59885c030a78398d9f534b7b77ac46)
+- [ ] [<code>feat(agents): derive default run concurrency from CPU count (#114047)</code>](https://github.com/openclaw/openclaw/commit/417bd3c88a33e1fb823c279ac8017be4effdd384)
+- [ ] [<code>fix(agents): keep queued replies alive across lane waits and make stuck recovery truthful (#114058)</code>](https://github.com/openclaw/openclaw/commit/0951d0dd307d5008276714679c62459293d3b619)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(models): source pricing from hosted catalog (#114060)</code>](https://github.com/openclaw/openclaw/commit/5347285d6bc4785bf411760fd9e6cc9fc3cf6c97)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: restore beta runtime release gates (#114064)</code>](https://github.com/openclaw/openclaw/commit/8684e7ce03e39f346b3a4d23cb83736fef115892)
+- [ ] [<code>fix(gateway): anchor Control UI assets on deep routes (#114061)</code>](https://github.com/openclaw/openclaw/commit/0c8f070c92a8bbc3a9d967415a9d031ee1212e69)
+- [ ] [<code>fix(ui): keep chat run status in one assistant turn (#114039)</code>](https://github.com/openclaw/openclaw/commit/af26c7ed72e7318a477a26eb35e16886affc61d1)
+- [ ] [<code>ci: guard historical npm lock checks (#114073)</code>](https://github.com/openclaw/openclaw/commit/e66809fa35c8a3af45dfbcfce51948608a37e5a9)
+- [ ] [<code>fix(agents): clear orphaned restart-recovery residue on terminal sessions (#114071)</code>](https://github.com/openclaw/openclaw/commit/27ede408df78ff03bb0e1309a720f2904255641d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): center running-task preview over link (#114069)</code>](https://github.com/openclaw/openclaw/commit/203ef71ca3678c5b2fbcac0d586f68d6aae503b8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat: make working claw tricks rare surprises (#114025)</code>](https://github.com/openclaw/openclaw/commit/bfd6f2efdc54b98373afae542f55c47b4e9a7d3b)
+- [ ] [<code>fix(agents): clear recovery residue on sessions without a recorded status (#114078)</code>](https://github.com/openclaw/openclaw/commit/afb347c7f94fc8d7f40f1f3a54b192bb8d027408)
+- [ ] [<code>feat(ui): gateway subtitle in the sidebar footer identity card (#114059)</code>](https://github.com/openclaw/openclaw/commit/27293aa2736823a6d7620a93d85a5916b192d2f8)
+- [ ] [<code>test(qa): wait for durable fanout completion (#114080)</code>](https://github.com/openclaw/openclaw/commit/fe847911c09f2fa456ab2b44b10340b925e07601)
+- [ ] [<code>fix(ui,gateway): make catalog sidebar sections drag-reorderable (#114074)</code>](https://github.com/openclaw/openclaw/commit/cd5a5ecb4cfab4d293e030b79bf53c41a99dff7b)
+- [ ] [<code>refactor(infra): move exec approvals into the shared SQLite state DB (#114063)</code>](https://github.com/openclaw/openclaw/commit/9eae43bd37cdfbed42b57895e8491f93e47a03a6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: release ClawHub lifecycle state on CLI exit (#114090)</code>](https://github.com/openclaw/openclaw/commit/53e3f296b1cc1ef2e772ec79c1a9acb693fa02e1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -19154,9 +19255,53 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>internals: Root conversation and closure data</code>](https://github.com/FirefighterBlu3/python-pam/commit/bd1c6cd22397963688ace8624fb803f528b7e87c)
 - [ ] [<code>{src/pam,pyproject.toml}: Stop using six module. Deprecated.</code>](https://github.com/FirefighterBlu3/python-pam/commit/8d6f8eefcb0b0edafa585d23d6b3f2169d8e1c6f)
+- [ ] [<code>Allow passing mode for CDLL</code>](https://github.com/FirefighterBlu3/python-pam/commit/c0e064cdbddcdf6edc6ac1770228041982aea637)
 - [ ] [<code>Don't ship pam.py in the module</code>](https://github.com/FirefighterBlu3/python-pam/commit/3800b4bde388821c2237206e6af14c84fc294752)
+- [ ] [<code>switch to poetry and modernize, touch up tests</code>](https://github.com/FirefighterBlu3/python-pam/commit/39bded0ca5797e0aa4e1ca892894c6a425c5be29)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>remove package:six</code>](https://github.com/FirefighterBlu3/python-pam/commit/3c4f6b5e8ce0c7f5f54212a578b03064a2be634d)
+- [ ] [<code>merge master to feat</code>](https://github.com/FirefighterBlu3/python-pam/commit/700c5e4b5ac138d630eae888d45915f372daf6f8)
+- [ ] [<code>update type hinting</code>](https://github.com/FirefighterBlu3/python-pam/commit/793c75958118e3152544d739225abb84c2f11fad)
+- [ ] [<code>update bad README example, ty to @ElpyDE</code>](https://github.com/FirefighterBlu3/python-pam/commit/e14dcc58a742583b171980a289f4723a101a6b6a)
+- [ ] [<code>remove mention of py2 support</code>](https://github.com/FirefighterBlu3/python-pam/commit/4686659f8b92d0065c7b0bea3c8bf67db785cc6b)
 - [ ] [<code>Delete python-pam.sublime-project</code>](https://github.com/FirefighterBlu3/python-pam/commit/b8323e2b7c775ada2ef2b55cbdc977d571455df1)
+- [ ] [<code>**feat** change unit tests</code>](https://github.com/FirefighterBlu3/python-pam/commit/705f520b2fe797b4b1112a61b696e5211fa44383)
+- [ ] [<code>**doc** Update Changelog</code>](https://github.com/FirefighterBlu3/python-pam/commit/8ec28342b0aab836f0abc220adfcffef27c2a79f)
+- [ ] [<code>**feat** do up a pinch of threaded testing</code>](https://github.com/FirefighterBlu3/python-pam/commit/eb6f3bee25e8037cb6ddd236388d1041c5b021ed)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update main.yml</code>](https://github.com/FirefighterBlu3/python-pam/commit/1e9be6b61ba2a72ff2074f5c0bbabd96c875dbda)
+- [ ] [<code>**fix** fix mypy exec and type hints</code>](https://github.com/FirefighterBlu3/python-pam/commit/af82c457fe517f5c57eb28703e3c99b8537f1eb0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>**feat** add TestPyPI trusted publishing and fix tox/pytest for 3.12–3.14</code>](https://github.com/FirefighterBlu3/python-pam/commit/7f81e67f4d0c62a50d3bfe33b7632d6af90c10f9)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>**feat** add manual TestPyPI trusted publishing workflow</code>](https://github.com/FirefighterBlu3/python-pam/commit/030b57c4cb46a6363733b255b8d6d10afca50e6c)
+- [ ] [<code>Merge master into feature/prepare-for-2.1.0</code>](https://github.com/FirefighterBlu3/python-pam/commit/024f0926352a520151b35acbeff05754744ec8ca)
+- [ ] [<code>Bump pytest from 8.4.2 to 9.0.3</code>](https://github.com/FirefighterBlu3/python-pam/commit/c9250b39d903c499036ae6db1f7fc2338b4e86ee)
+- [ ] [<code>**chore** bump GitHub Actions to Node 24–compatible majors</code>](https://github.com/FirefighterBlu3/python-pam/commit/7689a355a0e05e2d1eccb51a97e0111193bd0efd)
+- [ ] [<code>**chore** bump artifact actions off Node 20</code>](https://github.com/FirefighterBlu3/python-pam/commit/17ad4ac6f1f784573446bae3497100ebb0901a83)
+- [ ] [<code>**chore** harden CI for OpenSSF Scorecard quick wins</code>](https://github.com/FirefighterBlu3/python-pam/commit/2aa7edfa370404518feeae6293be032e9d35230b)
+- [ ] [<code>**fix** restore CI tox install and drop Poetry from tox runs</code>](https://github.com/FirefighterBlu3/python-pam/commit/600513040aa4c750a82db5abfaaf435189c26fc1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge CI tox fix into pytest 9 bump for green checks</code>](https://github.com/FirefighterBlu3/python-pam/commit/5b4e942aeb15741a8d060a9a75da5a1d175e4677)
+- [ ] [<code>**chore** add Dependabot and hash-pin update-CI bootstrap</code>](https://github.com/FirefighterBlu3/python-pam/commit/f5fdabc087ee852f0d11f1d63c4996fa4e0c0a22)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>**docs** add OpenSSF Best Practices badge for project 13794</code>](https://github.com/FirefighterBlu3/python-pam/commit/bcda4f2ab37dacf2633c97e5fdfc8dec8f4bba04)
+- [ ] [<code>Bump actions/checkout from 5.1.0 to 7.0.1</code>](https://github.com/FirefighterBlu3/python-pam/commit/24b369c9349f218693f86fd54966664f30b4cfbd)
+- [ ] [<code>Bump github/codeql-action/analyze from 3.37.3 to 4.37.3</code>](https://github.com/FirefighterBlu3/python-pam/commit/0463add356d853bdc1b6a7389af0efb41687925c)
+- [ ] [<code>Bump actions/setup-python from 6.3.0 to 7.0.0</code>](https://github.com/FirefighterBlu3/python-pam/commit/fd36375d9aa2c7abd92dbc395e21e0bc96b20b88)
+- [ ] [<code>Bump github/codeql-action/upload-sarif from 3.37.3 to 4.37.3</code>](https://github.com/FirefighterBlu3/python-pam/commit/100dacb4cc78d700dd191e9a7ead6b0158b55b69)
+- [ ] [<code>Bump pytest-env from 1.2.0 to 1.7.0</code>](https://github.com/FirefighterBlu3/python-pam/commit/0eb741b57b7456200028ace472e69773d66fa9cf)
+- [ ] [<code>Bump github/codeql-action/init from 3.37.3 to 4.37.3</code>](https://github.com/FirefighterBlu3/python-pam/commit/0864525156560a18c0e1e6a643876465ae01d078)
+- [ ] [<code>Bump pylint from 3.3.9 to 4.0.6</code>](https://github.com/FirefighterBlu3/python-pam/commit/742870faef0cbc5087ce0a359b1c2f396d48f823)
+- [ ] [<code>Bump pytest from 9.0.3 to 9.1.1</code>](https://github.com/FirefighterBlu3/python-pam/commit/6bb38df3d31ef8216063e81fbaf19be71cdab983)
+- [ ] [<code>Bump pytest-cov from 5.0.0 to 7.1.0</code>](https://github.com/FirefighterBlu3/python-pam/commit/18a2eb236088746923db02868115449abf6a080c)
+- [ ] [<code>Bump pip from 25.0.1 to 26.1.2 in /.github</code>](https://github.com/FirefighterBlu3/python-pam/commit/c51f9e501e70ee12408b65a86da7ee05c7acc9fc)
+- [ ] [<code>fix: make pam.authenticate() safe under concurrent threads</code>](https://github.com/FirefighterBlu3/python-pam/commit/f09faf15ee4fface7191c890ddaf3107b5c47dc8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>fix: restore pylint score for runtime ctypes bindings</code>](https://github.com/FirefighterBlu3/python-pam/commit/bc05e9dd3dcac33417aa6ce2bf01271e3c9756d7)
+- [ ] [<code>docs: explain resetcreds default vs password-check-only use</code>](https://github.com/FirefighterBlu3/python-pam/commit/20c61d3cef60ba542823b2bd8282fb67310f2912)
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
