@@ -395,7 +395,9 @@
 - [ ] [<code>panels: Add ChromeRaiseManager to improve panel interaction when working</code>](https://github.com/linuxmint/cinnamon/commit/145269d46c5159f93b2b89f90e6f73bb521521c1)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>popupMenu.js, close menus immediately on panel-click events, to allow</code>](https://github.com/linuxmint/cinnamon/commit/c709a6c1384d42ceacf2e0ff68e0e5ed1f704280)
+- [ ] [<code>Improve debian packaging (#13811)</code>](https://github.com/linuxmint/cinnamon/commit/22e0e5c5bcc8f61bdc0cf3a6fe34a1bbdeee2996)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -414,7 +416,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5fb7b030f904f37d13a1f0fe1e1de2fbeea43987)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>display module: Remove desktop file from build.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8acb4246ab55db983545429bd9b212596c619223)
   - <sub>Files: <code>meson.build</code></sub>
@@ -422,6 +424,10 @@
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/fe9b8002bc23e25f8748cef16a13f44d26ce89d5)
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Remove desktop-file-links.py, bump meson requirement.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/acbe1b999a54d5d483f3b851d4f6be40e754d4e7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
