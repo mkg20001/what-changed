@@ -431,6 +431,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(release): v0.12.4</code>](https://github.com/openclaw/mcporter/commit/9f5c0ab588c7e0724079f1a2a6d3892024ef6a12)
   - <sub>Tags: <code>v0.12.4</code></sub>
+- [ ] [<code>ci: add ClawSweeper dispatch workflow</code>](https://github.com/openclaw/mcporter/commit/0522c0724bc76eadaf3fcef93de9c9576cf58e61)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1590,6 +1592,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi from 1.34.1 to 1.35.0 in /src/go (#23267)</code>](https://github.com/netdata/netdata.git/commit/347c638a0e095cb290eeee60e343530c4dc8254a)
 - [ ] [<code>fix(go.d/jobmgr): harden lifecycle and configuration reconciliation (#23279)</code>](https://github.com/netdata/netdata.git/commit/0496808029bce0976195d21291c3c06ac4d53460)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>perf(go.d/metrix): reduce structured flatten allocations (#23278)</code>](https://github.com/netdata/netdata.git/commit/37fa50f38c0c0a698ce79634386535e0270a2cb3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-919-nightly.</code>](https://github.com/netdata/netdata.git/commit/bd8118b09e99d2c7ec2d2f0084547744b8eb4c6f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -18272,6 +18276,41 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(e2e): use the newest Windows smoke snapshot (#114157)</code>](https://github.com/openclaw/openclaw/commit/f9721b98097aac6e3f02b02117db2e61b82c03bf)
 - [ ] [<code>feat: show ClawHub skill icons in Control UI (#114152)</code>](https://github.com/openclaw/openclaw/commit/c66ca2fbb2b038f4796abfa76bd52dcc3b675b02)
+- [ ] [<code>fix(codex): recover in-place session resets (#114056)</code>](https://github.com/openclaw/openclaw/commit/46f4018ff9143639f8aedcb660e5d6477ad2142a)
+- [ ] [<code>fix(worktrees): reclaim git worktree locks left by dead processes (#114130)</code>](https://github.com/openclaw/openclaw/commit/a53795ec35b42af18d733a94e695ac52d8845534)
+- [ ] [<code>fix(models): shape unreleased Claude ids with the newest known contract (#114205)</code>](https://github.com/openclaw/openclaw/commit/0f6a693acd10b5750a6fb8b032880de6958b12f8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(state): preserve live SQLite WAL files during verification (#114016)</code>](https://github.com/openclaw/openclaw/commit/c15ab158b06b9012a643bc1ed2cb304a316ae8e0)
+- [ ] [<code>test(ui): assert the Home run ring in chat run lifecycle e2e (#114212)</code>](https://github.com/openclaw/openclaw/commit/abd9eededf703d14252e076b0909410d52812726)
+- [ ] [<code>feat(ui): add a Memory settings page (#114037)</code>](https://github.com/openclaw/openclaw/commit/c91a37aeed6528d62060e5dcc51d480c25866e3e)
+- [ ] [<code>fix(ui): keep the live token counter current in memoized chat rows (#114213)</code>](https://github.com/openclaw/openclaw/commit/472f8e7c7281f27987ad73f085edc43abc2338d9)
+- [ ] [<code>test(auth): avoid broad profile discovery in migration isolation (#114217)</code>](https://github.com/openclaw/openclaw/commit/b6dcb8c323d67697dabf62035ff551526f03d325)
+- [ ] [<code>fix(agents): preserve native runtime controls on Codex routes (#107588)</code>](https://github.com/openclaw/openclaw/commit/5e841bc2e10d2fd765cb5d86e95f409bfe663454)
+- [ ] [<code>refactor(prompt): use plain inbound context labels and drop system-tag sanitizer (#112000)</code>](https://github.com/openclaw/openclaw/commit/d7627d6f4cc46f0befe9a48615baa8da02a6b4e6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(providers): share admin usage aggregation (#114221)</code>](https://github.com/openclaw/openclaw/commit/f88d618589bf1f6a3fc5fd9b4dd01fe5932f0a2d)
+- [ ] [<code>refactor(state): isolate verifier test cleanup (#114216)</code>](https://github.com/openclaw/openclaw/commit/3ba0d95e73354785e87fc181b0f2e5eed06a5f89)
+- [ ] [<code>build(deps): drop dead glob/markdown-it ownership-manifest entries (#114218)</code>](https://github.com/openclaw/openclaw/commit/4f34c60d45968e44fc0b9485bd1c282c4afc566a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): scope dispatch dedupe by bot identity (#113667)</code>](https://github.com/openclaw/openclaw/commit/0ac926b8fb2a42fc5d1340b96d3b4dfae12af47b)
+- [ ] [<code>fix: reduce reply delay when model policy is configured (#114117)</code>](https://github.com/openclaw/openclaw/commit/47d37ddd544784937f9463e78aea7bd7f55ec8c5)
+- [ ] [<code>fix(ui): show real cron failure detail in the sidebar attention tooltip (#114224)</code>](https://github.com/openclaw/openclaw/commit/32719ea59ac80b3b6c06fd66a4feb578e9da5ba1)
+- [ ] [<code>refactor(qqbot): inject live config accessor (#114227)</code>](https://github.com/openclaw/openclaw/commit/5804d023eccdac4d6fc0a107114c7949944db523)
+- [ ] [<code>fix(auth): complete profile migration when main already owns an OAuth credential (#114226)</code>](https://github.com/openclaw/openclaw/commit/f42cb6539364272034affc51ed24464f69f7fd69)
+- [ ] [<code>fix(linux): draw the macOS tray icon from a template silhouette (#114223)</code>](https://github.com/openclaw/openclaw/commit/e6a6d478f2325835c165fee61a2f957ce5b403ce)
+- [ ] [<code>refactor(ai): preserve abort reasons so restart recovery reads a code (#114219)</code>](https://github.com/openclaw/openclaw/commit/a348a63cdadc4345979024f0504624c420c43bd2)
+- [ ] [<code>refactor(reply): share turn accounting and recovery (#114220)</code>](https://github.com/openclaw/openclaw/commit/0776872712decfe4c10c98a7da529196d41acd74)
+- [ ] [<code>refactor(volcengine): reuse model compat patcher (#114232)</code>](https://github.com/openclaw/openclaw/commit/5d74ba56f876ac29751a9c0664b146efcaca3c44)
+- [ ] [<code>refactor(agents): clarify provider request param classifier (#114231)</code>](https://github.com/openclaw/openclaw/commit/8e78ee45ce0b7952f7ba5a9d7c5e7e4f965b0933)
+- [ ] [<code>refactor(config): split write preparation primitives (#114228)</code>](https://github.com/openclaw/openclaw/commit/e9ef30e739e38a912ea90d69b9d8ebcc95ba0e9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): run changed checks locally when Blacksmith never ran them (#114225)</code>](https://github.com/openclaw/openclaw/commit/c5d6dcfc84e8ee731832f6661244ea717ebb0df2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(meetings): centralize talk-back readiness (#114229)</code>](https://github.com/openclaw/openclaw/commit/7594e091008280293b66a7d064dc07d6e930c20b)
+- [ ] [<code>refactor(irc): delegate outbound sends to message adapter (#114235)</code>](https://github.com/openclaw/openclaw/commit/83307f6bc7ec7caca9fc45bb9f0add16c182eeea)
+- [ ] [<code>feat(ui): complete the Labs roster with the remaining experimental gates (#114233)</code>](https://github.com/openclaw/openclaw/commit/a3283af7c7086ac3dcdbb00a7f297a040b9a4a1e)
+- [ ] [<code>test(ai): freeze Responses stream processor parity (#114230)</code>](https://github.com/openclaw/openclaw/commit/7846a327576d2ca79964497694152318b45ff7ab)
+- [ ] [<code>fix(ui): new worktree sessions stay in Coding during creation (#113834)</code>](https://github.com/openclaw/openclaw/commit/ca11ee6db150f62f603eb05ad38a1cab1c5f927a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
