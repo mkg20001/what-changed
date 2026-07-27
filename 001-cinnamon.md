@@ -391,8 +391,11 @@
 - [ ] [<code>virtualKeyboard.js: Support fcitx5, use im.get_focus() instead of</code>](https://github.com/linuxmint/cinnamon/commit/116845422cd9b2a59b308024fff7383692991f15)
 - [ ] [<code>magnifier.js: Fix pointer events while magnified in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/6cefab7a411eb67e65828c9b8b442935d28106c4)
 - [ ] [<code>XkbSettings.py: Remove x11-only restriction on the 'grp' option</code>](https://github.com/linuxmint/cinnamon/commit/96cf2909241b1ce8a92577afcb66618e91b25d03)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>panels: Add ChromeRaiseManager to improve panel interaction when working</code>](https://github.com/linuxmint/cinnamon/commit/145269d46c5159f93b2b89f90e6f73bb521521c1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>popupMenu.js, close menus immediately on panel-click events, to allow</code>](https://github.com/linuxmint/cinnamon/commit/c709a6c1384d42ceacf2e0ff68e0e5ed1f704280)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -450,6 +453,7 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8336b75f23cc230718106a21e597a299efb2f921)
+- [ ] [<code>org.cinnamon.desktop.keybindings.gschema: Add 'show-panels'</code>](https://github.com/linuxmint/cinnamon-desktop/commit/934d693ca8336271fc321f30f0b93f7029255129)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -503,8 +507,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csm-manager.c: Block mate's polkit helper autostarting except in</code>](https://github.com/linuxmint/cinnamon-session/commit/b3930ba17dfa5e9f2933b17fe44a425982b21b9f)
 - [ ] [<code>main.c: Clear IM-related environment values between sessions,</code>](https://github.com/linuxmint/cinnamon-session/commit/071312e13711ce4a57ad3341082143a17a29b4fe)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Debian packaging improvements (#205)</code>](https://github.com/linuxmint/cinnamon-session/commit/824fdcd1e4f9e8e30a89b2f06c55fff18d4962e7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
