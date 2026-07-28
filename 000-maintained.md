@@ -81,6 +81,7 @@
 - [ ] [<code>Extract daemon service files (#398)</code>](https://github.com/stepchowfun/docuum/commit/1d9029c8b1be9ea642ac91dd2806c212de3d3f5f)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Organize service configurations (#399)</code>](https://github.com/stepchowfun/docuum/commit/c2dd833ba5c7197bc1a85c79e6d29e9463a8ca6e)
+- [ ] [<code>Install the latest release by default (#400)</code>](https://github.com/stepchowfun/docuum/commit/05cb574d7624f273d964d03b54bc246dfd917c39)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://static.crates.io/crates/duckscript_cli/0.11.1/download', 'urls': ['https://static.crates.io/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -283,6 +284,10 @@
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/16ed644b77452d24ee49a8a479939b0a8c636c3f)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/c7f24538e8ec8ae3daa6efc8e7296ab135338c73)
 - [ ] [<code>chore: make spaces view more minimalistic</code>](https://github.com/krille-chan/fluffychat/commit/f329e3e03468029d2050252a697ca472fc8cce04)
+- [ ] [<code>chore: follow up space children redesign</code>](https://github.com/krille-chan/fluffychat/commit/4512a1a4d23240fd8a40700c1a885786460afa04)
+- [ ] [<code>chore: typing animation for chat list</code>](https://github.com/krille-chan/fluffychat/commit/7f3af8bbdb80d7b74ea0a038a9383951d4e155da)
+- [ ] [<code>chore: adjust reply design</code>](https://github.com/krille-chan/fluffychat/commit/853bbd7e1acf30f5c223364738219bc598331446)
+- [ ] [<code>build: update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/6b184720d55d54e9f89498bb10b98a4becd30315)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -322,6 +327,10 @@
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/16ed644b77452d24ee49a8a479939b0a8c636c3f)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/c7f24538e8ec8ae3daa6efc8e7296ab135338c73)
 - [ ] [<code>chore: make spaces view more minimalistic</code>](https://github.com/krille-chan/fluffychat/commit/f329e3e03468029d2050252a697ca472fc8cce04)
+- [ ] [<code>chore: follow up space children redesign</code>](https://github.com/krille-chan/fluffychat/commit/4512a1a4d23240fd8a40700c1a885786460afa04)
+- [ ] [<code>chore: typing animation for chat list</code>](https://github.com/krille-chan/fluffychat/commit/7f3af8bbdb80d7b74ea0a038a9383951d4e155da)
+- [ ] [<code>chore: adjust reply design</code>](https://github.com/krille-chan/fluffychat/commit/853bbd7e1acf30f5c223364738219bc598331446)
+- [ ] [<code>build: update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/6b184720d55d54e9f89498bb10b98a4becd30315)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -441,6 +450,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(oauth): invalidate cache on server URL changes (#243)</code>](https://github.com/openclaw/mcporter/commit/f935f8ec0f169b3304c6d8c7225e0d14ea57a015)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(deps): update MCP SDK for patched Hono (#245)</code>](https://github.com/openclaw/mcporter/commit/7259c8c2c9b091b4ff6c5ec88b8420c2bd4534cf)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1618,848 +1628,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix pythond DEB depends typo and duplicate ndsudo entry (#23289)</code>](https://github.com/netdata/netdata.git/commit/6a894c7edb6afbca8f70369ef8c703ac0282d4d5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-933-nightly.</code>](https://github.com/netdata/netdata.git/commit/a466ac7eb6bf380e23835a32b563965da2b56f03)
-
-#### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
-
-- [ ] [<code>Makefile: drop legacy build, add meson wrapper</code>](https://github.com/canonical/netplan/commit/5065ff5588906f901cd4e8a8e7deb27947f237cf)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>CI: CodeQL: add pytest build-deps</code>](https://github.com/canonical/netplan/commit/71f9de0ee4af65cbf9eb0b6806cc9a81407a6294)
-- [ ] [<code>CI: CodeQL: add cmocka build-deps</code>](https://github.com/canonical/netplan/commit/82072bfcb035a222d466a660da3e961f99c39139)
-- [ ] [<code>docs: Add a short netplan-everywhere howto (#325)</code>](https://github.com/canonical/netplan/commit/4c98fb213bcf1679b1aa37b8662d1642209d908d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>meson: Enable finding pycoverage on RPM based distributions</code>](https://github.com/canonical/netplan/commit/bbbba80c7d114490dd0c99acc962b81ed2d12fe0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Account for UsrMerged systemd paths</code>](https://github.com/canonical/netplan/commit/c16d90b5e10ce6776c4e1e1c75b44b4fb8c6cad1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>rpm: Refresh packaging for 0.106 and sync from Fedora</code>](https://github.com/canonical/netplan/commit/8f9c91444bc3058025cc5612a063b80178b3e0b2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Revert "meson: Account for UsrMerged systemd paths"</code>](https://github.com/canonical/netplan/commit/9c4c955c656f5f9cae736554d975b7d4e42030bd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: use absolute link target for generator symlink</code>](https://github.com/canonical/netplan/commit/2ecbc0576590d0cafdf4ba013ff2272873aa07c5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ATTN: parser: validate lacp-rate properly (LP: #1745648) (#324)</code>](https://github.com/canonical/netplan/commit/748d8777eb2b369e0e686f957d07d0542dc1e901)
-- [ ] [<code>Revert "meson: use absolute link target for generator symlink"</code>](https://github.com/canonical/netplan/commit/ea5530c9664c69f7c25d09cc10c63f5ed7a89990)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add all the commands to the bash completion file (LP: #1749869) (#326)</code>](https://github.com/canonical/netplan/commit/1d86585589429de784082c623c864d3f18369739)
-- [ ] [<code>meson: use meson_make_symlink.sh helper script instead of install_symlink()</code>](https://github.com/canonical/netplan/commit/2cded2f2673ce90f1585c9f6f9bb16ca7d81e7a6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>meson: cli:utils: drop legacy generator path, use libexec instead</code>](https://github.com/canonical/netplan/commit/0e2a8ffc787e4649f21618939607b1649a1279de)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>netplan: cli: fix typo from 'unkown' to 'unknown'</code>](https://github.com/canonical/netplan/commit/6f02aea43e0a57676b0509dd6e2449ce401dad62)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>parser: handle duplicated routing rules</code>](https://github.com/canonical/netplan/commit/8f4236743dc5b59de94ef0a44cd72619c2c43993)
-- [ ] [<code>parser: Don't add DNS entries duplicates</code>](https://github.com/canonical/netplan/commit/e2bbf113f602c838a2aa3d65b8344db9e452e83f)
-- [ ] [<code>tests: Don't use duplicated DNS entries</code>](https://github.com/canonical/netplan/commit/67ba6353dcbcbfe8bff825bb63d3496916474b4a)
-- [ ] [<code>tests: Add tests for the new C functions</code>](https://github.com/canonical/netplan/commit/8abf732993b93f72364fe95e9b188b0a40ea770b)
-- [ ] [<code>parser: Don't duplicate OVS configuration</code>](https://github.com/canonical/netplan/commit/ef296047d3f7b14337b372b8b3af8db801587d0c)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>parse:ovs: Ignore deprecated OpenFlow1.6 protocol (LP: #1963735)</code>](https://github.com/canonical/netplan/commit/41eac17c6a8ab63b97472f74389ffd39937f465a)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>dbus: Build the copy path correctly</code>](https://github.com/canonical/netplan/commit/2ff1daa9fcdb5779bfb88631a0af1104a0722f1e)
-- [ ] [<code>dbus: Use the error set by _copy_yaml_state()</code>](https://github.com/canonical/netplan/commit/a76739110da77920f73d467e4102df2eb0d1af2c)
-- [ ] [<code>tests: Add some integration tests for DBus</code>](https://github.com/canonical/netplan/commit/4e89bbf0240d37e662666bec83019cbe3d18edf6)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>Netplan docs rework (#333)</code>](https://github.com/canonical/netplan/commit/51fee38a3e83eabd0c9701921983b3ce8031f488)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>tests: add new spread based snapd integration test</code>](https://github.com/canonical/netplan/commit/173fd9a32390d1b55b9eb18f96a24acc2acdd40c)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>spread.yaml: restore /etc/netplan for each test</code>](https://github.com/canonical/netplan/commit/e18009c32f040479aaee9f4ee45b396eabea7aa7)
-- [ ] [<code>meson: fix installation of legacy /lib/netplan/generate symlink</code>](https://github.com/canonical/netplan/commit/678de93a50b59364c70e0628051c6f7190eca0aa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Netplan docs rework (Part 2) (#337)</code>](https://github.com/canonical/netplan/commit/6231cf3a5c2ee9027944afc648ba7a6cc50bfa89)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Use controlled execution environment, to avoid failure if PATH is unset (LP: #1959570) (#336)</code>](https://github.com/canonical/netplan/commit/fc128721a91a8966f199f0d3e19871f95378fdc0)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>cli:apply: use shutil.rmtree instead of 'rm -rf'</code>](https://github.com/canonical/netplan/commit/c3ee56cc2ef6d40c0acd597b0e845b817a0a0406)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Makefile: fully cleanup coverage data</code>](https://github.com/canonical/netplan/commit/2f0afa5f626fba6d6e792a2af5653af9ecded6c9)
-- [ ] [<code>cli:test: use 'text' alias instead of 'universal_newlines'</code>](https://github.com/canonical/netplan/commit/3567670394a87480eb0b8946ebb27e9b3391cf16)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli:status: improve networkctl parameter passing</code>](https://github.com/canonical/netplan/commit/87aea1d4bfb70d8afa34bbbb7ffaace7876c27e3)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>netplan: adjust the maximum buffer size to 1MB</code>](https://github.com/canonical/netplan/commit/fe18135199033c10a5fb44f15ebdf235ce3d7661)
-- [ ] [<code>parse: use "--" with systemd-escape</code>](https://github.com/canonical/netplan/commit/e2dcc6ec7cf28908e21816dd18d91cc09b06b173)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>docs: fix bridge parameters types and add examples (#346)</code>](https://github.com/canonical/netplan/commit/744e39c7da2d93bcbc6d16bb9f10df39627f7bb0)
-- [ ] [<code>vrfs: skip policies parsing if list is NULL (LP: #2016427) (#341)</code>](https://github.com/canonical/netplan/commit/b062ead88a063024ffc260b44aacea87aedccda9)
-- [ ] [<code>networkd: plug a memory leak</code>](https://github.com/canonical/netplan/commit/14de061f5bb7829e50d7c7378b31cb223a90037e)
-- [ ] [<code>libnetplan: don't try to read from a NULL file</code>](https://github.com/canonical/netplan/commit/a1a0bd6c4523d84a36e08fbd4bfb147e241a9bac)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>nm: return if write_routes() fails</code>](https://github.com/canonical/netplan/commit/810a0efae371530017c7c96bbbbaa39e13b5af87)
-- [ ] [<code>parse: plug a memory leak (#348)</code>](https://github.com/canonical/netplan/commit/479c0396e3c5c8f9b3707535e612bf7f6b3011f0)
-- [ ] [<code>parse: set the backend on nm-devices to NM by default (#349)</code>](https://github.com/canonical/netplan/commit/550c7e5c6d306c73e3caaa8013abaaf90f331eb2)
-- [ ] [<code>parse: don't point to the wrong node on validation</code>](https://github.com/canonical/netplan/commit/b310ef727216e40be719ddd0905f3cbbb90c618c)
-- [ ] [<code>validate: drop the YAML node parameter</code>](https://github.com/canonical/netplan/commit/c2bb6ca086e3e4efbb0376f7e4a3dcc483d4a3a0)
-- [ ] [<code>API: add a binding for netplan_parser_load_keyfile</code>](https://github.com/canonical/netplan/commit/db8ddbc4063623bb134a331d4b20ce582c196a0f)
-- [ ] [<code>API: make dump_yaml() accept a StringIO</code>](https://github.com/canonical/netplan/commit/0a8a4eb71fa1a0aacca4e7f2d874f63f8f7c5479)
-- [ ] [<code>tests: add a test for the new load_keyfile method</code>](https://github.com/canonical/netplan/commit/5ce456c3613b9ccd26e2a550f35260aefcb2ec1e)
-- [ ] [<code>wireguard: plug a memory leak</code>](https://github.com/canonical/netplan/commit/0f558567478fc4e323c132d240210faabfbf7408)
-- [ ] [<code>wireguard: improve an error message</code>](https://github.com/canonical/netplan/commit/19f4adc172bac30b032d29320afeb0e36c337c31)
-- [ ] [<code>nm: check the passthrough config format</code>](https://github.com/canonical/netplan/commit/8d275d11232bc567058c4da1a70d29461aa3c241)
-- [ ] [<code>parse: validate NM backend settings usage</code>](https://github.com/canonical/netplan/commit/47dc59ece5cc24121a22be81a11e5d16da1548db)
-- [ ] [<code>ABI: convert NetplanBackendSettings to struct</code>](https://github.com/canonical/netplan/commit/1f84665253dc334e2ed4c3a6bc501a1811e683dc)
-- [ ] [<code>ovs: don't allow peers with the same name</code>](https://github.com/canonical/netplan/commit/4f1a2936664e851b612b88d6e2d44eaa09c3be8d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>ovs: replace openvswitch instances by Open vSwitch</code>](https://github.com/canonical/netplan/commit/bb2d08831d0428fd620d4b9110d2a4b30cf72188)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>doc: make us of sphinx copybutton plugin</code>](https://github.com/canonical/netplan/commit/8a01c57a34e316083439902e2da7dfcfb9b5267e)
-- [ ] [<code>doc: Add Ubuntu Code of Conduct 2.0</code>](https://github.com/canonical/netplan/commit/e0b31435a6d6a96fe4808bec8143349098b564d1)
-- [ ] [<code>CI: make use of the canonical/setup-lxd action</code>](https://github.com/canonical/netplan/commit/fac678f0844ba2a91c03980b6c332ca9d538e66f)
-- [ ] [<code>rtd: set the OS and Python versions explicitly</code>](https://github.com/canonical/netplan/commit/29b7a2463c733eb1ab37add8cce0f8721efe8679)
-- [ ] [<code>tools: add a tool to convert keyfiles to YAML</code>](https://github.com/canonical/netplan/commit/59aabf9077057f89d40737c5c06e09cdd5badfd1)
-- [ ] [<code>parse-nm: fix eap_method handling</code>](https://github.com/canonical/netplan/commit/d1fdebf63fed22f34046f5b0dad9e1e19ae36f44)
-- [ ] [<code>CI: update canonical/setup-lxd to v0.1.1 (#359)</code>](https://github.com/canonical/netplan/commit/f630bacb839ef0f18af2da6bb220094b6945df73)
-- [ ] [<code>meson: Increase test timeout for slow architectures</code>](https://github.com/canonical/netplan/commit/3279c57e8b1745be0d19119b4ad1a061c327593e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>parse_nm: add support for Wireguard</code>](https://github.com/canonical/netplan/commit/db9466bc390fe1152f5eff35d137a486431f020b)
-- [ ] [<code>parse-nm: relax validation for wireguard</code>](https://github.com/canonical/netplan/commit/ec6189d00cc73dab4b4a874979a6338e188446b2)
-- [ ] [<code>nm-parse: add support for all tunnel modes</code>](https://github.com/canonical/netplan/commit/46723c8b69f67d53a3bcae4ffbb1df5b8ca36b82)
-- [ ] [<code>tests: adjust tests after last changes</code>](https://github.com/canonical/netplan/commit/0efbc3086a7903366972182be375c5565b6a5276)
-- [ ] [<code>parse-nm: rename some helper functions</code>](https://github.com/canonical/netplan/commit/107af5bb6c345aac3eecae1fd1bfc8719da8900c)
-- [ ] [<code>tests: add some ctests for the keyfiles parser</code>](https://github.com/canonical/netplan/commit/5773a1ed1f813e592878d9e11e175b2a15042d0d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>nm-parse: fix an invalid memory access</code>](https://github.com/canonical/netplan/commit/4439768c811ac536ce9fa96166667407df566e75)
-- [ ] [<code>parse-nm: plug a memory leak</code>](https://github.com/canonical/netplan/commit/8c6f8773fc5f7e89619e009a8fd8e8873ebaa14a)
-- [ ] [<code>docs: gretap and ip6gretap also works for NM now</code>](https://github.com/canonical/netplan/commit/e5713dbf9911b8f2490e0d4d7ad3f419d5e04e88)
-- [ ] [<code>CI: fix dch after adding the new 0.106.1 tag (#364)</code>](https://github.com/canonical/netplan/commit/24ab13cc0b54bb39d1a1d3427db7f5348611ae31)
-- [ ] [<code>netplan: introduce some classes of errors</code>](https://github.com/canonical/netplan/commit/8a6ebbbfb44faedde976519f42bb2cf90c3ce2a9)
-- [ ] [<code>netplan: replace glib errors with the new ones</code>](https://github.com/canonical/netplan/commit/d06c73d09f6081419bd423526b3d4516f14f523a)
-- [ ] [<code>netplan: create exceptions for each error code</code>](https://github.com/canonical/netplan/commit/5ce67e63c65b29923bef8bcbdaaf68d8f64ddcad)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>tests: adjust the tests for the new error handling</code>](https://github.com/canonical/netplan/commit/bf013fd44ddb0b227e33382e403c69fa4d179e17)
-- [ ] [<code>errors: adopt NetplanError in favor of GError</code>](https://github.com/canonical/netplan/commit/1e5c69921d980e85e5dfa945fa080299852970e5)
-- [ ] [<code>provide frequency to wpa_supplicant when in adhoc mode.</code>](https://github.com/canonical/netplan/commit/428a96b200006fdbf40a058a20fe75ae97f11cc7)
-- [ ] [<code>added unit test checking generated wpa_supplicant.conf in adhoc mode.</code>](https://github.com/canonical/netplan/commit/6997bcd73064e5bf92261753bfab3ec5603eeb29)
-- [ ] [<code>added examples for wireless adhoc mode.</code>](https://github.com/canonical/netplan/commit/3d15c59dfbdd51dea68fa2d747f19950887f952d)
-- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/e8346fb4bf799391d64e75b21f8f2ddfd52337a4)
-- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/68d4c43657ac7ba76e6373625c95bb04b3dac1ce)
-- [ ] [<code>tools: add a C keyfile loader tool</code>](https://github.com/canonical/netplan/commit/c8d46f5ab901d7eb9a3660d709131b683bafb24b)
-- [ ] [<code>tools/run_asan.sh: call the keyfile loader on NM files</code>](https://github.com/canonical/netplan/commit/f25df3f7377bc62cc8428cc209573fe4dccf8981)
-- [ ] [<code>tests: add a new parameter to generate_from_keyfile</code>](https://github.com/canonical/netplan/commit/6619656c03491120ddcfcf710ab6cc60b21d0ab7)
-- [ ] [<code>parse-nm:wg: auto append the prefix to allowed IPs</code>](https://github.com/canonical/netplan/commit/b75c6faeadd5d2b0f4873a233c4857dbd66e28ca)
-- [ ] [<code>parser: add support for WPA3-Personal</code>](https://github.com/canonical/netplan/commit/8e6918149fe15dd95be3b3bf1fdb0009e86e6f55)
-- [ ] [<code>examples: add an example for WPA3</code>](https://github.com/canonical/netplan/commit/bba31ef1d7cff75eb90636d82e029fd728e777b8)
-- [ ] [<code>docs: add SAE (WPA3) to the key-management list</code>](https://github.com/canonical/netplan/commit/3f46acb9dffcf71f1b7f9a222392ba92ded20031)
-- [ ] [<code>tests: fix run_asan.sh for new types of interfaces</code>](https://github.com/canonical/netplan/commit/012ce6a9fda89d7f4cded8d8195bab9b3fcca6e2)
-- [ ] [<code>routes: fix metric rendering</code>](https://github.com/canonical/netplan/commit/8f733b2b15edf3ead5de12489f23538382b9f07b)
-- [ ] [<code>tests: add metric rendering tests for lp2023681</code>](https://github.com/canonical/netplan/commit/bd00d3731a472551142941c43a54d6ca454a2351)
-- [ ] [<code>parser: add support for Dummy interfaces</code>](https://github.com/canonical/netplan/commit/aad0e451283a156778123e5a22a079235d8812b5)
-- [ ] [<code>docs: add documentation for dummy interfaces</code>](https://github.com/canonical/netplan/commit/7680c5d61bdf2a9fac9a155db8f4f93b406e4e7f)
-- [ ] [<code>tests: add unit and integration tests for dummies</code>](https://github.com/canonical/netplan/commit/783b5c48928ca8d29e9ac7577d632d0afde698c9)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>abi: suppress error due to new NetplanDefType type</code>](https://github.com/canonical/netplan/commit/1125fa3359b6ca8db79258a616e1457cc9b230a0)
-- [ ] [<code>docs: improve wording in netplan-yaml.md</code>](https://github.com/canonical/netplan/commit/7cfcccec2ff108fcbd60cc618b88fc2a75d679e9)
-- [ ] [<code>examples: add an example file for dummy interfaces</code>](https://github.com/canonical/netplan/commit/75acd64fc48dda0ca8da8482f8f1600f51434752)
-- [ ] [<code>CI: add DebCI integrationt test</code>](https://github.com/canonical/netplan/commit/e19b38539a22c06d8348468c16074746dd64dd26)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>CI: autopkgtest: build proper package version for dch</code>](https://github.com/canonical/netplan/commit/ebe0db2c01691d6c11f938e09407052efcd146e3)
-- [ ] [<code>CI: new RPM build tests</code>](https://github.com/canonical/netplan/commit/ec27ce966b54006e559411f7fdb86b3d01f6ea96)
-- [ ] [<code>meson: Increase test timeouts further avoiding mips64el/riscv64 buildd FTBFS</code>](https://github.com/canonical/netplan/commit/ee165d8a497ee9c74963040fe73e35b65b680b3e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>parse-nm:wg: add support for reading the listen-port property</code>](https://github.com/canonical/netplan/commit/0ee1fa2b1bfcc2a9978b780d481b2e7d7792eeb0)
-- [ ] [<code>parser: introduce the "placeholder" interface type</code>](https://github.com/canonical/netplan/commit/d5dc8746f022bb3f6ad82670b0214e537888037d)
-- [ ] [<code>parse-nm: add support for VLANs</code>](https://github.com/canonical/netplan/commit/8cc39d7f9dd6a979611f53f8c803a54de1dac987)
-- [ ] [<code>tests: fix keyfile parser existing tests</code>](https://github.com/canonical/netplan/commit/fd1fd44168c8f1add62c5192415af12efd493e8b)
-- [ ] [<code>parse: handle redefinition of a place holder netdef</code>](https://github.com/canonical/netplan/commit/b4d5627ee06c395f8a02ab51e294d37b6fbb464b)
-- [ ] [<code>CI: initial NetworkManager autopkgtests</code>](https://github.com/canonical/netplan/commit/6dedb274885458c4a0d3722aead8553a9ed9ba7f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>parse-nm: handle cloned-mac-address special cases</code>](https://github.com/canonical/netplan/commit/0c7a0ea622e0a5a88668ee043d981a2ac39cab4e)
-- [ ] [<code>CI: RPMbuild: disable fedora:rawhide, due to package conflicts</code>](https://github.com/canonical/netplan/commit/3bc43d963dab0bdf838c36fd2dd53fbb6c228bf8)
-- [ ] [<code>doc: Explanation about 00-network-manager-all.yaml</code>](https://github.com/canonical/netplan/commit/74d292e2e9993da0762ac70a921918d454f9d388)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>tests:base: Fix NetworkManager interaction with systemd v253</code>](https://github.com/canonical/netplan/commit/3d04202a3a1a39888cc97e2d9a3fd01625aa910c)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:base: introduce iface_json() helper</code>](https://github.com/canonical/netplan/commit/34f9720ee6bd315c2a7c06d72b526d6a90c4e06b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:tunnels: make use of iface_json()</code>](https://github.com/canonical/netplan/commit/10051e72e0f67bb4202f55a70f169466b83a3b18)
-- [ ] [<code>tests:regressions: simplify assertions to avoid buffering races</code>](https://github.com/canonical/netplan/commit/38bf4598d3762220bafa2a266b11e99509a725d1)
-- [ ] [<code>Readme: Drop (internal) documentation-objectives link</code>](https://github.com/canonical/netplan/commit/2a02fd0436ce42e5c2e72a5ed49982bd3839880c)
-- [ ] [<code> netplan: prevent some signed vs unsigned comparisons</code>](https://github.com/canonical/netplan/commit/aceb5942a8e2a8631a903dce2f209f758608bd57)
-- [ ] [<code>abi: convert the protocol family from uint to int</code>](https://github.com/canonical/netplan/commit/4b7517bc222412003e7e57390f3dd5055fb9dc89)
-- [ ] [<code>names.c: don't return -1 on netplan_*_from_name()</code>](https://github.com/canonical/netplan/commit/eed1e2e850f87fd2d9dff7698ed02b97f9190c6d)
-- [ ] [<code>abi: convert wowlan to int</code>](https://github.com/canonical/netplan/commit/75ea0358fefb68c3f2c3dfa55f297c0cd9b30d40)
-- [ ] [<code>types: remove duplicated code</code>](https://github.com/canonical/netplan/commit/29419d34b28d34adcd0e1919bb0cfe81b7affd39)
-- [ ] [<code>validation: convert members of _defroute_entry to guint</code>](https://github.com/canonical/netplan/commit/e310dfc97b411a23337f2c3d920ab7965fb54ad2)
-- [ ] [<code>names: convert index i to size_t</code>](https://github.com/canonical/netplan/commit/1e3503e2fdd824e05dfc9e2be2a8089c30a34f1d)
-- [ ] [<code>util: store the pointer arithmetic result in a size_t variable</code>](https://github.com/canonical/netplan/commit/392782ea2a03e6d17acab8854d35fb88f1e5c810)
-- [ ] [<code>nm/parse-nm: drop 'const' from the return type of some functions</code>](https://github.com/canonical/netplan/commit/44ac213b4e9abec7b1a7f3848afbf37de9d3cd77)
-- [ ] [<code>generate/parse: fix missing member initializer</code>](https://github.com/canonical/netplan/commit/3b4047af77f43d9b0c3d66f88b89e6732366f911)
-- [ ] [<code>netplan: annotate all the unused parameters with __unused</code>](https://github.com/canonical/netplan/commit/a5eef68110e39307bb9470da80e1204dd80f4f2b)
-- [ ] [<code>meson: increase warning_level to 2</code>](https://github.com/canonical/netplan/commit/806e7642767137efc5d103a37a315c88f3dd98a8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>tests:integration: Adopt for systemd v254</code>](https://github.com/canonical/netplan/commit/5851195ad2e2fbe670cd98cb3b3f22fce02f1d83)
-- [ ] [<code>parse: Downgrade NM passthrough warning to debug</code>](https://github.com/canonical/netplan/commit/22b8bfb90804d600cfbdd24b0bf6fe2489fa392e)
-- [ ] [<code>netplan.c: Don't drop files with just global values on 'set' (LP: #2027584)</code>](https://github.com/canonical/netplan/commit/16bad068915dd894099fa70c1d87dfc61c5d00cf)
-- [ ] [<code>abi: add the new netdef field "tunnel_private_key_flags"</code>](https://github.com/canonical/netplan/commit/32fdb755369426d81fc5f14e96fd1d54b547a3d5)
-- [ ] [<code>parsers: add support for the key "private-key-flags"</code>](https://github.com/canonical/netplan/commit/6741e26d05591d4f8054806f0234e2e896122668)
-- [ ] [<code>validation: use the new field to validate WG connections</code>](https://github.com/canonical/netplan/commit/ca25819abf8931fb50d973cd6082297ddc3b8827)
-- [ ] [<code>tests: add tests for the new wireguard property</code>](https://github.com/canonical/netplan/commit/df9da3d82e867c8261256a5e5edde001d1d4b61e)
-- [ ] [<code>docs: add the new private-key-flags key to the documentation</code>](https://github.com/canonical/netplan/commit/6ade72aac513ef710c534c0f4f43e6395c63e8ec)
-- [ ] [<code>libnetplan: enable dump_yaml_subtree to use StringIO as input/output</code>](https://github.com/canonical/netplan/commit/24d1d9761d3e810eda9bfdf9d6dca0ed8a1c4943)
-- [ ] [<code>netplan:cli:state: new module to collect network configuration</code>](https://github.com/canonical/netplan/commit/a3746080bd04efea7bf55315cfe4d02412c4e854)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>commands:get/status: remove the code moved to state.py</code>](https://github.com/canonical/netplan/commit/9328d0084db324101bcb36c1853add3bbc81a839)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests: refactor some tests after the inclusion of state.py</code>](https://github.com/canonical/netplan/commit/497f541db01954973bb992f7ea52f04c38a8e154)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>status: add vlan to list of interface types</code>](https://github.com/canonical/netplan/commit/2c21826a4771ebf7f5f9d6c02458b5e941ac69d1)
-- [ ] [<code>netplan: export an IP addresses iterator API</code>](https://github.com/canonical/netplan/commit/a0b0fc3840efac4b557ca74d21c6cfe08cdf4ad2)
-- [ ] [<code>parse: don't check if a guint variable is > G_MAXUINT</code>](https://github.com/canonical/netplan/commit/6ca651af21fae7847d797310506eb1a6f5543a86)
-- [ ] [<code>parse: reset wireguard_peer to NULL after error</code>](https://github.com/canonical/netplan/commit/5f57179db84d0827ab1ffb2b8475bab7f175ecbb)
-- [ ] [<code>abi_compat: check if open() succeeded</code>](https://github.com/canonical/netplan/commit/fd67738e0938774172ba9df941bac1918aaf04f8)
-- [ ] [<code>parse: cast void* to char* when passing it to yaml_error()</code>](https://github.com/canonical/netplan/commit/1ce1acfd6a9398e0e70ba26d4f3da49cc0baf896)
-- [ ] [<code>util: make sure parser is initialized when we get to err_path</code>](https://github.com/canonical/netplan/commit/8c2b48adcf65fa51979286430a3cc9b72d133e72)
-- [ ] [<code>nm: drop const qualifier from function return type</code>](https://github.com/canonical/netplan/commit/997a7455d440e363d8ed67a2999429854823b641)
-- [ ] [<code>nm: plug memory leak</code>](https://github.com/canonical/netplan/commit/e389ae7f66f31a8527c57270423814c048eb93e6)
-- [ ] [<code>ctests: add a new cmocka test file for the NM backend</code>](https://github.com/canonical/netplan/commit/ea7dbeadcaebfab8648c10dade9fbe62adec8881)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>openvswitch: plug a memory leak</code>](https://github.com/canonical/netplan/commit/cfb7e55c2eb83ba4e3085b0504f0b724c41906aa)
-- [ ] [<code>ctests: add a new cmocka openvswitch test file</code>](https://github.com/canonical/netplan/commit/4724a05176f69d20333634ea6beb057b55ac2110)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>abi_compat: plug a memory leak</code>](https://github.com/canonical/netplan/commit/084a522ff65d4bb14dc425af54e4b8a81ab29031)
-- [ ] [<code>validation: plug a memory leak</code>](https://github.com/canonical/netplan/commit/c4e82fc7c4e5826adc50528f5f695e2648b94c85)
-- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/6e7cecc2d48b762a290f1d48684f19fc48fd1c2b)
-- [ ] [<code>util: plug a file descriptor leak</code>](https://github.com/canonical/netplan/commit/26d8e54494ad1ddc1a241b86406692a819682e2c)
-- [ ] [<code>networkd: plug a memory leak</code>](https://github.com/canonical/netplan/commit/4588db0928a24094ee3d0f151b14c77b6f1731ce)
-- [ ] [<code>parse-nm: plug a memory leak</code>](https://github.com/canonical/netplan/commit/88dae6bc9e264ba816fa4a86c5ca0a2295c8669f)
-- [ ] [<code>netplan: set umask before calling mkstemp</code>](https://github.com/canonical/netplan/commit/23d2fe9e736ceb732eaa13e6f1368e3bc64540a6)
-- [ ] [<code>netplan: prevent calling close() twice against the same fd</code>](https://github.com/canonical/netplan/commit/c188d56f01aae6e34533518ef302b1cd9fbdb773)
-- [ ] [<code>CLI: Refactoring to avoid namespace clash with public bindings</code>](https://github.com/canonical/netplan/commit/a51b55bd9c950520cf63b9b15d500bb2e967ad32)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests: adopt to refactored netplan_cli module</code>](https://github.com/canonical/netplan/commit/2d237072fcc9966625447a18ae1fe3114d5442c9)
-- [ ] [<code>tests: fix test coverage report with newer python-coverage</code>](https://github.com/canonical/netplan/commit/a6e6c94e60fcec09044c499621dff4c0d5fc2b86)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>types: avoid exporting private symbol: free_address_options</code>](https://github.com/canonical/netplan/commit/abc923086236753d8f2fab485a53ce6679ed757d)
-- [ ] [<code>state: refactor the routes parsing in the Interface class</code>](https://github.com/canonical/netplan/commit/08fa21f93aeb31c8d8c4c54d9930cac7f54ac246)
-- [ ] [<code>commands/status: query routes from all the tables</code>](https://github.com/canonical/netplan/commit/e94486acf34d488d1f392cf212fefdb98443128b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>meson: Don't fail codestyle, due to meson scripts</code>](https://github.com/canonical/netplan/commit/3e168ab2ff4c5f71ab3e798454a9978a08934ff5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>github: add a scheduled action to run Coverity</code>](https://github.com/canonical/netplan/commit/9a32d177bacbdbb0f0f409f9b02f4d3dfb7c64d6)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>parser: add support for virtual-ethernet interfaces</code>](https://github.com/canonical/netplan/commit/c91466034d1085bc3e477c0d3c56feb33f5e51eb)
-- [ ] [<code>virtual-ethernet: add validation rules for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/2469aefd36735728d243c0591c34c823465f4979)
-- [ ] [<code>networkd: generate configuration for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/97139ca5f951959a27122d9dbd7efde341dd2c12)
-- [ ] [<code>virtual-ethernet: add support for virtual-ethernets to the YAML emitter</code>](https://github.com/canonical/netplan/commit/52ff6db9f49e7ee6926972fbc644a02105178c81)
-- [ ] [<code>examples: add a virtual-ethernets example file</code>](https://github.com/canonical/netplan/commit/726320d918fc3f7c7da762a178243f14ef914184)
-- [ ] [<code>nm: add support for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/f30abdbfadd6500ae26ebd79c6d2556d04190657)
-- [ ] [<code>parse-nm: add support for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/2bea2b4a651405f9cd03cb5e8b56a9e835c9ea3e)
-- [ ] [<code>tests: new generator tests for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/fad89a870d18bcdbe5d60d0d0e039364ed9175fa)
-- [ ] [<code>docs: update the documentation with the new virtual-ethernets devices</code>](https://github.com/canonical/netplan/commit/963c0a99f4557efe942212fdfead3d5ec3ffe0bb)
-- [ ] [<code>tests: add integration tests for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/78ab30f035f8ca55b712309d65e67e35c67fa925)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>github: only run the coverity workflow on our repository</code>](https://github.com/canonical/netplan/commit/397288fc3c8be6d5dc6b31f7270d0754ce028100)
-- [ ] [<code>util: prevent calling close() on negative descriptor</code>](https://github.com/canonical/netplan/commit/244504b80b0214a30dce458a5d91e6768acc9ab6)
-- [ ] [<code>parse: restore npp->current.route to NULL</code>](https://github.com/canonical/netplan/commit/715fefb3e3e389282c238d2c8bb1d4be64cf32ab)
-- [ ] [<code>cli:status: Make rich pretty printing optional (#388)</code>](https://github.com/canonical/netplan/commit/2a3f12a47a690b34630f6f0c50b491a3040cce3f)
-- [ ] [<code>parse-nm: improve some error passing</code>](https://github.com/canonical/netplan/commit/4d21d42894d90cf55b9af243c3ca7d09c35c476a)
-- [ ] [<code>CI: Add python3-cffi build-dependency</code>](https://github.com/canonical/netplan/commit/93115baeb12a52fc06b62218c4f4938a3a03c782)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>include: Extend public API functions</code>](https://github.com/canonical/netplan/commit/aca03a1af9c907daea6acf78eae56fafc438e830)
-- [ ] [<code>src: make internal API functions/structures available</code>](https://github.com/canonical/netplan/commit/50ca06784f0188848d7d7cf7135259dfde3ac707)
-- [ ] [<code>bindings: python-cffi build skeleton</code>](https://github.com/canonical/netplan/commit/a2afa0d42f6e9e421b5b6cd2bb95c9580461b3f3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>bindings: Initial implementation of CFFI Python bindings</code>](https://github.com/canonical/netplan/commit/be4047cdb99dace3d8c93912dd5709722e8f5e3b)
-- [ ] [<code>cli:tools:test: Make use of new cffi python bindings</code>](https://github.com/canonical/netplan/commit/cb6061d2109bedfa4394525f63b33f5c53ca29ec)
-- [ ] [<code>cli: drop legacy/internal ctypes bindings, now unused</code>](https://github.com/canonical/netplan/commit/3c32da1fe73551b761aa280ef3bb77a6feeed184)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>examples: Add an example of how to use Netplan's CFFI bindings</code>](https://github.com/canonical/netplan/commit/7c5f2dc344b75d8aa7ea4f344a2d9c5f4f68351d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>libnetplan: expose dhcp4 and dhcp6 properties</code>](https://github.com/canonical/netplan/commit/329f63de0892ef7036855ea9ec3cec5f29a76153)
-- [ ] [<code>libnetplan: expose the macaddress property in the netdef</code>](https://github.com/canonical/netplan/commit/3ba3275bd690e7b53fa943ed450be711b96506b8)
-- [ ] [<code>libnetplan: refactor address_iter according to our naming standard</code>](https://github.com/canonical/netplan/commit/b0f60d365479f03a42c7941de16747255b2dddbf)
-- [ ] [<code>libnetplan: expose DNS configuration from netdefs</code>](https://github.com/canonical/netplan/commit/70bff518ab3740d9ec7c209c10b67f487219fdf4)
-- [ ] [<code>libnetplan: expose the routes list in the netdef</code>](https://github.com/canonical/netplan/commit/f96a184ad006391c9d8aeda29936b2f77a4fb4a9)
-- [ ] [<code>parse-nm: add support for VRF devices</code>](https://github.com/canonical/netplan/commit/7e90ce51f60788805ed2a34233ea444afb86d132)
-- [ ] [<code>libnetplan: refactor NetplanRoute</code>](https://github.com/canonical/netplan/commit/37433e4acc5f0ad4ef21e7098996f5d35e1110fa)
-- [ ] [<code>state: refactor the device types translation table</code>](https://github.com/canonical/netplan/commit/682a69c24c83646eac5ebf06d3f2543777ce12bf)
-- [ ] [<code>state: include the family in the route entries</code>](https://github.com/canonical/netplan/commit/b2148033a6faba984c5bf747e4836de91cade4db)
-- [ ] [<code>tests: add the IP family to the route data</code>](https://github.com/canonical/netplan/commit/31c0c0d38b875a992b933e0be23ca05b0a2ebe1e)
-- [ ] [<code>abi-compat: bump for 0.107</code>](https://github.com/canonical/netplan/commit/a1003c76cfe8b4ec3c74da57898a0145c782557f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>doc: Mark dummy and veth devices, available as of 0.107</code>](https://github.com/canonical/netplan/commit/d86173a931ce86c9deb452c47c73652b0880853c)
-- [ ] [<code>Bump version to 0.107</code>](https://github.com/canonical/netplan/commit/faa3770de9fedc46c0c4cbcfff74d20f04f12ad2)
-  - <sub>Tags: <code>0.107</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>test:ovs: Avoid NetworkManager taking contol, breaking a test</code>](https://github.com/canonical/netplan/commit/c33175cbb16dd154f87b51f5ea1cb2c936564a19)
-- [ ] [<code>parse: allow COMMON_LINK_HANDLERS for VRFs (LP: #2031421, Closes: #1049432)</code>](https://github.com/canonical/netplan/commit/3e6783f225fb59492334193e2a448749b18e181d)
-- [ ] [<code>netplan: add support for WPA3-Enterprise</code>](https://github.com/canonical/netplan/commit/ca230fcc4ef753dd8e864bae47f3dae318f94010)
-- [ ] [<code>CI/Coverity: fetch tags before trying to use them</code>](https://github.com/canonical/netplan/commit/21d7e4868b4dbb10b326b0160819f236fc4de8be)
-- [ ] [<code>CI/Autopkgtests: temporally use a patched version of network-manager</code>](https://github.com/canonical/netplan/commit/a4f9754e46bebef99a091f403e71cd5771d606b8)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>wifi: support WPA2 and WPA3 Personal simultaneously</code>](https://github.com/canonical/netplan/commit/5f1192c07542c156b3d8f66f6e6d335308fb8b63)
-- [ ] [<code>util: don't return a placeholder netdef in the iterator</code>](https://github.com/canonical/netplan/commit/e60822b3572d900b9fbf19c970b2c0035039ecd5)
-- [ ] [<code>tunnels/validation: do not error out if "local" is not defined</code>](https://github.com/canonical/netplan/commit/ed3aed35bb72107a78388eccfbb32f83e4295a6a)
-- [ ] [<code>tests: add some integration tests without the local address</code>](https://github.com/canonical/netplan/commit/a7e4be03918c986020650743cb6cf0934696ef0c)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>added mii-monitor-interval (#411)</code>](https://github.com/canonical/netplan/commit/398a948c2fed28f7fd4642f3fc76864f32fb0b70)
-- [ ] [<code>wireguard: ignore empty endpoints</code>](https://github.com/canonical/netplan/commit/1758948e6cb064b9b00ba3b42ce36ea9546d4773)
-- [ ] [<code>docs: Add "Contribute Documentation" how-to</code>](https://github.com/canonical/netplan/commit/a87736eab3c30c49c275cf7102784a40fff5f61c)
-- [ ] [<code>auth: add support for LEAP and EAP-PWD</code>](https://github.com/canonical/netplan/commit/4a5a9ed735688c3c19cd86d6638ec4ff5bdf17e4)
-- [ ] [<code>parse: improve the parsing of access-points (LP: #1809994)</code>](https://github.com/canonical/netplan/commit/cb6893c5c8d73e8ae190e54e9c434cab3a98e511)
-- [ ] [<code>wifi: replace the previously defined AP with the new one</code>](https://github.com/canonical/netplan/commit/b6020cb212664e40099f9030d3a536108796b0bd)
-- [ ] [<code>doc: spelling check improvements</code>](https://github.com/canonical/netplan/commit/102fa672f90692bc20cf29c8732fae0dacfa6c18)
-- [ ] [<code>CI: add spelling checker step</code>](https://github.com/canonical/netplan/commit/1aa0974814373b044c631bb26d72d11cd3859379)
-- [ ] [<code>tests: Add autopkgtest for LP#1959570</code>](https://github.com/canonical/netplan/commit/3fa7e4d76182a38a54af4237eafce7c2677f4b8f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Fix permissions on folder '/run/NetworkManager/'</code>](https://github.com/canonical/netplan/commit/e2783542686529625de45f57f3bb189900a9bd29)
-- [ ] [<code>cli:try: avoid linting error for type hints</code>](https://github.com/canonical/netplan/commit/2ae3b9eeb6d787bfc83fcacd1c2f73fac4b456a7)
-- [ ] [<code>wifi: make it possible to have a psk and an eap password simultaneously</code>](https://github.com/canonical/netplan/commit/bfb611921d4f58488d7fa5799c20057eecb09148)
-- [ ] [<code>nm-parse: always read the PSK into the new psk variable</code>](https://github.com/canonical/netplan/commit/76dec54a77bad308229c09d022755002c124a4e5)
-- [ ] [<code>doc: Set-up some basic Doxygen project</code>](https://github.com/canonical/netplan/commit/c24e4473f22c15c53ee3c3c581c9b1adeade8846)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>doc: Make Sphinx to handle autodoxygen project, using breathe</code>](https://github.com/canonical/netplan/commit/68f5d5917e8e6ecaa65839fce68cc2a4f349f8c3)
-- [ ] [<code>doc: create libnetplan apidoc structure</code>](https://github.com/canonical/netplan/commit/54ddf36d3e554387ef9e689fd77fd780f2c0c58e)
-- [ ] [<code>inc: Start documenting public API</code>](https://github.com/canonical/netplan/commit/62b693e26dd936baaba2ef1f9d169d3bcd3a7778)
-- [ ] [<code>doc: Update 'Netplan everywhere' for 23.10</code>](https://github.com/canonical/netplan/commit/ca0328582e2d2e1bafb3f0abf9e5a51cdbafc4c9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>netdef: simplify NetplanRoute __eq__ and __hash__</code>](https://github.com/canonical/netplan/commit/d7178adf675bf02ecb7f7d03494a07f5849630f2)
-- [ ] [<code>state_diff: add the new state_diff submodule</code>](https://github.com/canonical/netplan/commit/d6bcf79d8713d11855d96a868c9452b1e32fb952)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>state_diff: add the get_diff() method</code>](https://github.com/canonical/netplan/commit/9eb4388b8717b7a9eae0cda77410bf9bb0cce531)
-- [ ] [<code>state_diff: add support for IP addresses analysis</code>](https://github.com/canonical/netplan/commit/404f50d59b8cb0e72ccd0c709217ad1be6a6bf3d)
-- [ ] [<code>state_diff: add support for nameservers analysis</code>](https://github.com/canonical/netplan/commit/c236850c45ed6174bb165a31ab82c224428a6b62)
-- [ ] [<code>state_diff: add support for search domains analysis</code>](https://github.com/canonical/netplan/commit/09e769e84b3f792ac9db85ac09d48ed50a096ca1)
-- [ ] [<code>state_diff: add support for MAC addresses analysis</code>](https://github.com/canonical/netplan/commit/5c7b2577d6e21ae795902ee55cb82883ecdde287)
-- [ ] [<code>state_diff: add support for routes analysis</code>](https://github.com/canonical/netplan/commit/9d69eebb7ad7c9e12565067b76ebf563044c066a)
-- [ ] [<code>state_diff: add a JSON encoder for NetplanRoutes</code>](https://github.com/canonical/netplan/commit/2531d16cc94055b7465725a47e66a0a69cd6ffb0)
-- [ ] [<code>state_diff: add more information to the missing_interfaces result</code>](https://github.com/canonical/netplan/commit/5f74208b6bed6d9cb7deac798fd72e7f1775d817)
-- [ ] [<code>state_diff/get_diff(): return the interfaces sorted by their indices</code>](https://github.com/canonical/netplan/commit/2e82f34231121e195814a09219531936e1ace797)
-- [ ] [<code>tools/diff.py: add a temporary tool to test netplan diff</code>](https://github.com/canonical/netplan/commit/a3b9cffeebfa274a6d8f1df59d0e46f09fbd9b42)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>networkd: fix formatting</code>](https://github.com/canonical/netplan/commit/ba06ef54c859426186c49b9c38424ce8e9f6fa51)
-- [ ] [<code>networkd: replace deprecated CriticalConnection= by KeepConfiguration=</code>](https://github.com/canonical/netplan/commit/c97c4765d3c411c436bd0f8aea1dfefedf33194c)
-- [ ] [<code>networkd: move KeepConfiguration= into [Network] section</code>](https://github.com/canonical/netplan/commit/76e896aa2dabc6ff934afe33691cbc69807c8e2e)
-- [ ] [<code>apply: bring "lo" back up if it's managed by NM</code>](https://github.com/canonical/netplan/commit/f9272ad737bbf251dcfb76eaa1c5fb6e889f8d42)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>apply: don't assume the NM loopback connection is called "lo"</code>](https://github.com/canonical/netplan/commit/8c7103ad497161af420122ccf994caade0d0eeac)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>parse-nm/wg: append the correct prefix to IPv6 addresses (#428), LP: #2046158</code>](https://github.com/canonical/netplan/commit/1d6171021bcd07a5c50de91b919b6f127be35a33)
-- [ ] [<code>cli:try: use state of the art type hint</code>](https://github.com/canonical/netplan/commit/6f4fbc06b586359f1861907d6bfcf81a40d1b7b4)
-- [ ] [<code>ovs: disable StartLimitBurst in the ovs-cleanup service</code>](https://github.com/canonical/netplan/commit/068b2960b1323a584c54f94a0cdf7d49c271748d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Exclude changes in 'doc/' dir from code CI checks.</code>](https://github.com/canonical/netplan/commit/ddc2e9900ad23e8b923a77aee3b6b9fa511e5465)
-- [ ] [<code>Adopt Docs Starter Pack:</code>](https://github.com/canonical/netplan/commit/eb5d9c2e70626a238566189148bf32007738ae87)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix Doxygen config. & remove Doxyfile.</code>](https://github.com/canonical/netplan/commit/d3a408c0e72c275cb52d6aec14ca41ebaa774d16)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Improve how-to docs:</code>](https://github.com/canonical/netplan/commit/b44de5204b5d40df0cfa033a29b91747e807356b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>tests: skip some cases if OVS is not installed</code>](https://github.com/canonical/netplan/commit/89ba9f21c1e49b97deb9c46122e4c76f4e82faac)
-- [ ] [<code>meson: Drop legacy generator symlink</code>](https://github.com/canonical/netplan/commit/32f5e7064ee095c5da44fb6494d72fffa40782c1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: cleanup</code>](https://github.com/canonical/netplan/commit/a87f784c89f564774a64059cd230d2375dd578f1)
-- [ ] [<code>CI: fix DebCI, with multiple versions in 'unstable'</code>](https://github.com/canonical/netplan/commit/dfd3c9623bd63338d4077a58c09c2808ab0f6a42)
-- [ ] [<code>CI: adopt for usrmerge paths</code>](https://github.com/canonical/netplan/commit/9a7b07e4917a84570a66ccd7b2af71d8c7e6d96a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>tools:run_asan.sh use local Netplan python code</code>](https://github.com/canonical/netplan/commit/97fc705fdc14a0ba1cb7bf7bb743a81305cda87d)
-- [ ] [<code>Makefile: update for tools/run_asan.sh artifacts</code>](https://github.com/canonical/netplan/commit/30ff233f6102b07dc2fb29939dcff9cb432a77cb)
-- [ ] [<code>tests:regressions: Drop dbus tests, which got integrated in tests/integration/dbus.py</code>](https://github.com/canonical/netplan/commit/1f9ff2d13e81b739864032159f29666acd0d9b5c)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:generator:base: Refactor to use new API</code>](https://github.com/canonical/netplan/commit/4678462a433b96397f58df7e8eb95e72e1bd0a28)
-- [ ] [<code>test:libnetplan: Refactor to avoid deprecated API, add new ctests</code>](https://github.com/canonical/netplan/commit/a9d81c012bdc18659dff540edcaa3e12093bb886)
-- [ ] [<code>tests:parser:keyfile: Port to new API/bindings</code>](https://github.com/canonical/netplan/commit/568a78f6b8bae5264e5447fa976eb7c9e59a4d91)
-- [ ] [<code>inc: Drop deprecated legacy API</code>](https://github.com/canonical/netplan/commit/7d25098154c90b0a3505b17247ca5d5831801d78)
-- [ ] [<code>Drop legacy ABI compat functions</code>](https://github.com/canonical/netplan/commit/eb0e13eba1e1841802559d5a370b2c19bcd62c23)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>src: Drop ABI compat exports</code>](https://github.com/canonical/netplan/commit/44ce96df7480072769912faca613d88bfbb84914)
-- [ ] [<code>abi: drop global state & parser</code>](https://github.com/canonical/netplan/commit/a77acf514431e0936d68aac819be2e8e50729344)
-- [ ] [<code>Clean up 'TODO' file</code>](https://github.com/canonical/netplan/commit/2e91206f8b3f4ccbbc78a4190cb4069b12f57f28)
-- [ ] [<code>ABI: regenerate compat check for dropped symbols</code>](https://github.com/canonical/netplan/commit/780e8c73df8e3bd373aeaa7a91a21b5caa93ea09)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>ctests: stop including C files in the test files</code>](https://github.com/canonical/netplan/commit/517d0f86de2793316716f4f3d4a399a82bf0de07)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>docs: add a topic about security</code>](https://github.com/canonical/netplan/commit/aa9c4277ce3e8f2f55ff5ee4bc46e4fe13360a9c)
-- [ ] [<code>CI: adopt for 0.107.1-2 on Jammy runners</code>](https://github.com/canonical/netplan/commit/c5d7dbfa0cbeffcc910a3fcefeb1394d3cfeb39f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>meson: bump version and SOVER to 1.0</code>](https://github.com/canonical/netplan/commit/b5c6e850e0b36d97a00d9b09ce51ade8150be667)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: upgrade network-manager test to Ubuntu Noble</code>](https://github.com/canonical/netplan/commit/e5619615176b0c7e140a169774904d47ef2cc57f)
-- [ ] [<code>src: drop legacy 'global_' data structures</code>](https://github.com/canonical/netplan/commit/eb7bfb56c8e1d9dd886ec523bbfc320ff75e25c4)
-- [ ] [<code>util-internal: Do not export private symbols</code>](https://github.com/canonical/netplan/commit/31af70b7f56c34ed426d9b2f5ca062cb62048295)
-- [ ] [<code>src: Clearly mark internal API, using a '_netplan' prefix</code>](https://github.com/canonical/netplan/commit/0187f10969be7c350992fe7eedfad8c4c01ccfb7)
-- [ ] [<code>abi-compat: move to 1.0</code>](https://github.com/canonical/netplan/commit/60721426fbf39757c5edfb68dfc773e3e25d54fa)
-- [ ] [<code>workflow/coverity: install missing dependencies</code>](https://github.com/canonical/netplan/commit/aac0b1f8a2c74061412f2b7e9c7283c95185ad32)
-- [ ] [<code>CI: introduce a Netplan-CI PPA, to ship NetworkManager and systemd quirks</code>](https://github.com/canonical/netplan/commit/d2aa0129b552cd850226043a5718004e94c78bcb)
-- [ ] [<code>state_diff: fix filtering of host scoped routes</code>](https://github.com/canonical/netplan/commit/ebb7480ac11790a0b73b77a20e1c34388fdc43e9)
-- [ ] [<code>cli/sriov: remove unused code</code>](https://github.com/canonical/netplan/commit/f26865f855da18b208695a27cb99be754777aa4e)
-- [ ] [<code>tests: assert generated .service files in assert_sriov</code>](https://github.com/canonical/netplan/commit/ba31e6f66d7fab919650178ce7393872ecd4112b)
-- [ ] [<code>tests/sriov: test if the generated netplan-rebind service is correct</code>](https://github.com/canonical/netplan/commit/093796fa7c54a3bd9baf91eaed0d5f08654f59d2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>sriov: don't generate duplicate entries in the rebind.service file</code>](https://github.com/canonical/netplan/commit/d55ae65657d7d0a9611c1be0f6417bff19290fe4)
-- [ ] [<code>state/status: add support for identifying bridge/bond members</code>](https://github.com/canonical/netplan/commit/3d691a9359fa57dc804511b2e321f032c78864ed)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>state/status: add support for VRF members and interface kind</code>](https://github.com/canonical/netplan/commit/5399f4f1ded6f5a8cb7b4ac457b112ac8992a211)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>state/status: Rename Members to Interfaces</code>](https://github.com/canonical/netplan/commit/9e50b9f5516e07c8c241c46cdfd60aa89a26d05e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>doc: Document public API symbols</code>](https://github.com/canonical/netplan/commit/f3c062a503cb7b4dd3b0677fd1960c6f289d211b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>API: drop netplan_generate</code>](https://github.com/canonical/netplan/commit/8a05bd56098c651460e722e04f8e398eac689613)
-- [ ] [<code>API: restructure headers, sorting symbols by object they relate to</code>](https://github.com/canonical/netplan/commit/a5644337813b08fa321ee872f88f0610570dbf95)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>abi-compat: Update for dropped 'netplan_generate' symbol</code>](https://github.com/canonical/netplan/commit/24deed524a94c9684902fdfa53be30ea0d7a9084)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cli:utils: introduce systemctl_is_installed helper</code>](https://github.com/canonical/netplan/commit/c37a223b6ad95fd3ef80e67691c91e9e552a8dba)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Update ovs.py to check if ovsdb-server.service is installed before throwing an error</code>](https://github.com/canonical/netplan/commit/05937c4adb0161b8302a0a2479aba05265098fbf)
-- [ ] [<code>Lang. & formatting fixes in API docs.</code>](https://github.com/canonical/netplan/commit/c2b5ec03cb4348aa5c9c1cf94e8d7fb15b3e724d)
-- [ ] [<code>examples: update libvirt path (#442)</code>](https://github.com/canonical/netplan/commit/11175561b5ba476543dd9bea868301cf103ba69a)
-- [ ] [<code>cli:ovs: Improve OvsDbServerNotInstalled debug message</code>](https://github.com/canonical/netplan/commit/95e4d51435c2e9c9a6b7382e39c0306200ee1b9b)
-- [ ] [<code>libnetplan: add a get_vrf_link() function</code>](https://github.com/canonical/netplan/commit/84853f99573df363836bd78db6ef5575928e7ccb)
-- [ ] [<code>state_diff: add support for bond/bridge/vrf</code>](https://github.com/canonical/netplan/commit/74e6e5add328b220d7584cd01ed6f15907cf3977)
-- [ ] [<code>state_diff: sort the list of IPs in the diff</code>](https://github.com/canonical/netplan/commit/21e4becf90eac68cc3f6f56788d79df2d61b0405)
-- [ ] [<code>state_diff: sort routes by destination address</code>](https://github.com/canonical/netplan/commit/fcbd0b7e1b5bed165201bbd35dab32925d612852)
-- [ ] [<code>state_diff: do not process interfaces removed from netplan</code>](https://github.com/canonical/netplan/commit/2018665fb44acd4ddfeeff985892dc52796bc03b)
-- [ ] [<code>state_diff: filter out loopback host scoped route</code>](https://github.com/canonical/netplan/commit/c98226df954fa06cd5c9ed20369df04affdb015e)
-- [ ] [<code>cli/utils: add a function to create a lookup table from iproute2/rt_tables</code>](https://github.com/canonical/netplan/commit/633b1deb740d0aeca7c4c75f8dd3241e1cae234f)
-- [ ] [<code>cli:state: Recognize additional tunnel types</code>](https://github.com/canonical/netplan/commit/6c4fa902d78da6d7a553d5d2c46c9c7c693e3e28)
-- [ ] [<code>cli:state_diff: Display unknown interface type as 'other'</code>](https://github.com/canonical/netplan/commit/e6a7677918432593af3d5bb59fcb2a2b1c1e8d83)
-- [ ] [<code>cli/status: add netplan status --diff</code>](https://github.com/canonical/netplan/commit/19917d7fcdd30a090f7d63a863b207e125ba694a)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>parser: accept special options for MAC address</code>](https://github.com/canonical/netplan/commit/f675f76fb380464ed2922588dffeb04d2f0cf2be)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: fix NetworkManager autopkgtest not using deb822</code>](https://github.com/canonical/netplan/commit/22741764e88171a8e0d9f3729fce2d7a0cbb4f41)
-- [ ] [<code>Add additional bridge port settings (#410)</code>](https://github.com/canonical/netplan/commit/c44f6e7304cc7b9f2861d33ff2d168678a2e69ca)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:cli:units: skip _permission_denied test if run as root</code>](https://github.com/canonical/netplan/commit/9bff87d1ef37894d3140ec38d424ff89565b06ef)
-- [ ] [<code>libnetplan: add a getter for bond mode</code>](https://github.com/canonical/netplan/commit/9c2f861acad6491f30a600b5410671955b32c602)
-- [ ] [<code>sriov: move the udev logic to a service unit</code>](https://github.com/canonical/netplan/commit/69fe6a3c805842ccbd23aa384a90cc339f0efa8b)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>sriov: check the eswitch mode before trying to change it</code>](https://github.com/canonical/netplan/commit/7d51ce450c04ab4c938c5213de69c59425feab84)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>sriov_rebind: cooperate with VF LAG activation</code>](https://github.com/canonical/netplan/commit/739ce1d6c9dff0d2750bb893b33ac4af748f84f3)
-- [ ] [<code>sriov_rebind: netplan rebind --debug setup</code>](https://github.com/canonical/netplan/commit/c80efe4bef31d28b6c9df6b0aa34c0c0caf98b7f)
-- [ ] [<code>tests/sriov: adapt tests to the last sr-iov related changes</code>](https://github.com/canonical/netplan/commit/348be2e1e81b4c0362de6dc2d1b573b8f94cb3ef)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>sriov_apply: execute apply --sriov-only before network-pre.target</code>](https://github.com/canonical/netplan/commit/32b19b8fc7af0ef206d43db7a25e17762cd003c8)
-- [ ] [<code>tests:integration: Be less strict about systemctl daemon-reload (LP: #2048388)</code>](https://github.com/canonical/netplan/commit/f187f66f63210c9249d6f8e014d1bcac429d2167)
-- [ ] [<code>utils/state_diff: refactor route table lookup methods</code>](https://github.com/canonical/netplan/commit/b6a577e04f7d9beff6e9772af31695734fc49e01)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>state_diff: adopt MAC address options</code>](https://github.com/canonical/netplan/commit/cf0cc62b275fe46be141a52af73eb115bf474522)
-- [ ] [<code>libnetplan: expose the link-local setting</code>](https://github.com/canonical/netplan/commit/a7f75a027d92cc1ab766815006b11493fcc06425)
-- [ ] [<code>state_diff: handle link local IPs and routes</code>](https://github.com/canonical/netplan/commit/6fce292efc8a0d48809e003708ddf4c15eb5d27e)
-- [ ] [<code>tools/diff.py: drop old diff script</code>](https://github.com/canonical/netplan/commit/6d3f0e9c6fe4ddafe4c490f122d0fa8f857a3415)
-- [ ] [<code>tests: fix the status --diff integration tests</code>](https://github.com/canonical/netplan/commit/0787625c5e8c139c292c5e6be468f9adfe52b3a1)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>docs: add status --diff to the docs</code>](https://github.com/canonical/netplan/commit/5fb1a81a4312b7e9692452f28bccea052493f5da)
-- [ ] [<code>abi-compat: 1.0 ABI</code>](https://github.com/canonical/netplan/commit/45f7cd1569896d9e316c130bf5c60b7ccfc8211d)
-  - <sub>Tags: <code>1.0</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix logging setup when python-rich is not present</code>](https://github.com/canonical/netplan/commit/368eff35e1374156906a1a3b904f9306551e661e)
-- [ ] [<code>CI: fix DebCI case for no-change rebuilds</code>](https://github.com/canonical/netplan/commit/6680f0fd6619a28bfbef82ed035851f5afad7017)
-- [ ] [<code>CI: adopt autopkgtest for 1.0-1 on 22.04</code>](https://github.com/canonical/netplan/commit/c7399879bbb84dba82d6800c48f86ab0247febdb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update README, move CODE_OF_CONDUCT</code>](https://github.com/canonical/netplan/commit/0f79931ebe1c8d54e4d97e107bb9d713112cde7d)
-- [ ] [<code>doc: fix en_GB spelling</code>](https://github.com/canonical/netplan/commit/2d3f9044ac63223e7b485b5d0a426c0602b335ce)
-- [ ] [<code>CI: adopt snapd.patch for autopkgtest SRU (LP: #2051939)</code>](https://github.com/canonical/netplan/commit/957f4e832f5a2dc36c9ee94defb2a55ab8d85ea7)
+- [ ] [<code>docs: Explain verification-key rejection when connecting existing agent (#23217)</code>](https://github.com/netdata/netdata.git/commit/1249b3a415aeeab0433070964ed208a12a126b00)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>parse-nm: add a workaround for the DoT DNS option</code>](https://github.com/canonical/netplan/commit/2c9f3da63e042d24b8bcc070666eac6eaeea9f84)
-- [ ] [<code>CI: Install netplan-ci PPA</code>](https://github.com/canonical/netplan/commit/2e4e42e7f2d667f83efc746babf01e87a3fb69c2)
-- [ ] [<code>parse: don't remove datalist items during iteration</code>](https://github.com/canonical/netplan/commit/7afe56f30e29befbc387305397a8cc2f6745fd07)
-- [ ] [<code>tools/keyfile_to_yaml: display the generated YAML</code>](https://github.com/canonical/netplan/commit/d77302eda5392770af1d96984db963dc0cd0d771)
-- [ ] [<code>tests: import the config fuzzing tests</code>](https://github.com/canonical/netplan/commit/dca72275e0241897732858119b2b5dc3c5ef77a5)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>ATTN: parse/bonds: handle same primary in multiple bonds (#451)</code>](https://github.com/canonical/netplan/commit/7e22e6f9cf909720b7e065ff521ff13d5f32be73)
-- [ ] [<code>sriov: accept setting the eswitch mode without VFs</code>](https://github.com/canonical/netplan/commit/b8246b950ccd3edfc9739f9cf19cda2db8ac4f6b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cli/sriov: refactoring</code>](https://github.com/canonical/netplan/commit/12a7182029a0303103d1fd9391616a6b13031368)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli/sriov: set eswitch regardless of pcidev.vfs</code>](https://github.com/canonical/netplan/commit/07be7752149217be815c47a83a455f648f9c9e28)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Fix wrong bonds.parameters.mode syntax in example (#459)</code>](https://github.com/canonical/netplan/commit/cf65bcd26c87777d74c5277e9254df6f76fe4cf8)
-- [ ] [<code>tests: use proper 0o600 file permissions in more places</code>](https://github.com/canonical/netplan/commit/3ab206a4a9b890034e809464eac49f6458507b3f)
-- [ ] [<code>parse: fix redefinition of gateway(4|6)</code>](https://github.com/canonical/netplan/commit/a670781c0f00171d2fb7dd83dbd2de723432a11d)
-- [ ] [<code>Adding missing 'watchfiles' dependency for Sphinx.</code>](https://github.com/canonical/netplan/commit/8ba2071a2cc11352a549f4dfffc18ebef9c14310)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Minor fixes in lang. and mark-up in YAML reference.</code>](https://github.com/canonical/netplan/commit/cc0b494128cb55fead68aeb4a9063cc2eab27776)
-- [ ] [<code>Tutorial reorg & lang. + formatting improvements.</code>](https://github.com/canonical/netplan/commit/841f38b807880df4aa98f666d0b1ad5f625392d0)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>doc:tutorial: fix whitespace formatting</code>](https://github.com/canonical/netplan/commit/ab2e2f9941ba5f25986223cbf985faae5eae158b)
-- [ ] [<code>util: fix potential NULL pointer assert</code>](https://github.com/canonical/netplan/commit/487653d36d089395c03dc6efbdee76f590720be9)
-- [ ] [<code>networkd: add wait-online enumeration utils</code>](https://github.com/canonical/netplan/commit/c69812f771caa63cb148bb61627eceea0c1f967d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>generate: enable systemd-networkd-wait-online for non-optional interfaces only</code>](https://github.com/canonical/netplan/commit/7a6bc460f97f2c775434df8e4a263c361cede299)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CLI:utils: Do not ask for daemon-reload password interactively</code>](https://github.com/canonical/netplan/commit/223e3d3dd10c44149e2c9b9741900d11ebec6f97)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CLI:generate: call daemon-reload after (re-)generating services</code>](https://github.com/canonical/netplan/commit/1892487a44f06d3af9620a0ca54ed6e32d1ae963)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>wait-online: Do not block on loopback interface</code>](https://github.com/canonical/netplan/commit/af3aef437af67962834edf4142878373ec81f8fd)
-- [ ] [<code>generate: Do not touch wait-online, if we don't have any networkd NetDefs</code>](https://github.com/canonical/netplan/commit/ccb049572740a49ea3a06103dda45437f9b06412)
-- [ ] [<code>wait-online: wait for existing interfaces only and downgrade operational state for interfaces without IP configuration</code>](https://github.com/canonical/netplan/commit/3f8af461a0720186c45521a1e65fb9cde4bc7460)
-- [ ] [<code>wait-online: account for DHCPv4/v6 addresses</code>](https://github.com/canonical/netplan/commit/cf53e8c756b5e710f4788939c72ce1d49a5b876a)
-- [ ] [<code>wait-online: do not require virtual devices to be created already</code>](https://github.com/canonical/netplan/commit/ec99b8ca35f755f4f0345e7b0f5441ec5446f63e)
-- [ ] [<code>wait-online: recognize that bridge/bond members will never gain link-local addresses</code>](https://github.com/canonical/netplan/commit/eff665f76fe78ef3da5f24c801e763c27a32579c)
-- [ ] [<code>python: elements of __all__ must be strings</code>](https://github.com/canonical/netplan/commit/39c8c264a8caadaf7cf7855451752807f3fb1032)
-- [ ] [<code>parse: introduce parser flags</code>](https://github.com/canonical/netplan/commit/baace0f898133c488a08c619667284e20418621e)
-- [ ] [<code>parse: implement the IGNORE_ERRORS flag</code>](https://github.com/canonical/netplan/commit/34a295747a25f40fbda92a8926fd6973c904aa0a)
-- [ ] [<code>generate: add support for ignoring errors</code>](https://github.com/canonical/netplan/commit/355c57af90a14bf35f12930f45c8d5216012d791)
-- [ ] [<code>python/api: add flags getter/setter to Parser</code>](https://github.com/canonical/netplan/commit/261a50547c7c07b195d103197ad918fe605f44f8)
-- [ ] [<code>tests: improve coverage with ignore_errors</code>](https://github.com/canonical/netplan/commit/2f848acbe6453f42c85f29668fc3b32068030d8b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>docs: add a new section about the generator</code>](https://github.com/canonical/netplan/commit/11fe6f2747f8dd275f7d6dc5eb37af32bcd9edce)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>CI: Fix DebCI check, using newer 'meson' from unstable</code>](https://github.com/canonical/netplan/commit/62b527be03a555b33805abd84277e6214ac2863c)
-- [ ] [<code>Revert "CI: Fix DebCI check, using newer 'meson' from unstable"</code>](https://github.com/canonical/netplan/commit/5902d009f287b313046a2436ab932c012e35ee5b)
-- [ ] [<code>tests: fix diff test with iproute2 6.8</code>](https://github.com/canonical/netplan/commit/a22b35066e2576ec53643bc63c04494b29fadb25)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli/generate: skip daemon_reload with --mapping</code>](https://github.com/canonical/netplan/commit/ea60510cf741afe73b59470af9f812a36140dae0)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test: cleanup after wait_online test to fix DebCI</code>](https://github.com/canonical/netplan/commit/4ecc7a13002b5e67b1e1c2bff8c85f624d44e303)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: fork spread to get #179 fixes</code>](https://github.com/canonical/netplan/commit/41d2319a570c7ddf157031cb5197556a8eb3b55d)
-- [ ] [<code>networkd:apply: Drop handling of legacy wpa@ instance units</code>](https://github.com/canonical/netplan/commit/26d2591d771cb4343c06dbb1e0eb1f3587ec910d)
-- [ ] [<code>ctests: fix a memory leak in a unit test</code>](https://github.com/canonical/netplan/commit/9576774c1964bf66f09e1166909e3d5d1d3a1304)
-- [ ] [<code>nm/nd: fix a couple of crashes</code>](https://github.com/canonical/netplan/commit/49d1ad709ebce514a134dc12274e7dd1bde2c578)
-- [ ] [<code>migrate: support aliases</code>](https://github.com/canonical/netplan/commit/ebf38ec0571ac3fe128ff1cbc5c65133435d6aa1)
-- [ ] [<code>added guide for contributing to the netplan documentation (#457)</code>](https://github.com/canonical/netplan/commit/1e1d80c6873f39e10bd647fc3b87a71d39fa1ddc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(networkd): add ipv6 ra overrides (LP: #1973222) (#461)</code>](https://github.com/canonical/netplan/commit/44b2a5c21da49d89abb42c25c275ba255b5f36df)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add initial SECURITY.md policy</code>](https://github.com/canonical/netplan/commit/56bcb5db583e788265966977cafba3958dd65052)
-- [ ] [<code>doc: Create single-nic-vm-host.md (#475)</code>](https://github.com/canonical/netplan/commit/e5f4edd329e8a4837f1a201001f4f5fc0adebe93)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>doc: Create single-nic-vm-host-with-vlans.md (#476)</code>](https://github.com/canonical/netplan/commit/330e5a80325034af1ef9c9724a00809f86b61925)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>doc: Create multi-nic-vm-host-with-bonds-and-vlans.md (#477)</code>](https://github.com/canonical/netplan/commit/1749862e4ea81fafa6c61678c414433962e849bc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test:integration: avoid verbose NM warnings</code>](https://github.com/canonical/netplan/commit/b9730281029ce7ebd2415af736bf02e6763725d9)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:integration: Try to improve test flakyness (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/a8705b5471a9062ac50096f433163111750e1ad9)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>autopkgtest: More fixes for flaky 'ethernets' test (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/2d2e3d3986e19f8dccccc736ab253bd03be0f70c)
-- [ ] [<code>netplan: add getters for gateway4 and gateway6</code>](https://github.com/canonical/netplan/commit/563e4686db6da12da473eb2344b2cdf78481e0db)
-- [ ] [<code>state_diff: add gateway(4|6) to the routes list</code>](https://github.com/canonical/netplan/commit/6ae9e5be436433b337ef68fdb5c06a481e80e072)
-- [ ] [<code>state: use the 'dynamic' field from addr_info</code>](https://github.com/canonical/netplan/commit/991aabb21a2da99e2b34e50d7c6401c29abb2db0)
-- [ ] [<code>state: add the 'ra' flag to IPv6 addresses</code>](https://github.com/canonical/netplan/commit/459fd4b378f13113e66af905fcea4aea414c4d52)
-- [ ] [<code>api: add a getter for accept-ra</code>](https://github.com/canonical/netplan/commit/41aa877418c6fc6b9a18034b90b326ef8cee982e)
-- [ ] [<code>state_diff: improve analysis of RA/LL addresses</code>](https://github.com/canonical/netplan/commit/87c1f0922fd07066f501c7f3d40357f7eff20f7a)
-- [ ] [<code>cli/status: fix plain print with --diff</code>](https://github.com/canonical/netplan/commit/9f27f6b0280ac426fb754800449b8768e43d5d41)
-- [ ] [<code>cli: use AF_INET(6) instead of hardcoded values</code>](https://github.com/canonical/netplan/commit/7021c13f42cf3047c3ebd54900480bb658df80f2)
-- [ ] [<code>state: make use of networkd ConfigSource</code>](https://github.com/canonical/netplan/commit/540b6699273ce5bcf7f1e7224acbdf56895429ef)
-- [ ] [<code>include:netdef.h: cleanup whitespace</code>](https://github.com/canonical/netplan/commit/17812f9c456785c10e82ecc846c57d80a93d028b)
-- [ ] [<code>apply: restart networkd instead of reload/reconfigure</code>](https://github.com/canonical/netplan/commit/a530acfd8daf75219577d4426553e02b7a39d5d7)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>apply: compare full configuration to decide to restart networkd</code>](https://github.com/canonical/netplan/commit/a9c1433cbf39c90eccdfb8e355c6bb93f662f135)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Revert "apply: restart networkd instead of reload/reconfigure"</code>](https://github.com/canonical/netplan/commit/9ecdf5354eee110cf2d3310650700ec0e7ac069c)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>cli:apply: improve networkd restart logic for non-existent networkd config</code>](https://github.com/canonical/netplan/commit/a527c51fad3427423c86eaee493e78253e6075b0)
-- [ ] [<code>libnetplan: use more restrictive file permissions</code>](https://github.com/canonical/netplan/commit/4c39b75b5c6ae7d976bda6da68da60d9a7f085ee)
-- [ ] [<code>libnetplan: escape control characters</code>](https://github.com/canonical/netplan/commit/20aace6e4b6bcd6e21f998c8299b3446734301ff)
-- [ ] [<code>backends: escape file paths</code>](https://github.com/canonical/netplan/commit/6fb0f7ff6ab4c25d5c4f9800d0a3486f8621b0f6)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>backends: escape semicolons in service units</code>](https://github.com/canonical/netplan/commit/316b9b72f4c2cc42c557c26c8df6c46e517b0bf1)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>doc: Fix netplan-generate.md formatting (#483)</code>](https://github.com/canonical/netplan/commit/1879133b01b8182ce8474eb30bbd26484d294c34)
-- [ ] [<code>emitter: allow unicode characters in the emitter</code>](https://github.com/canonical/netplan/commit/2945ea39053616b394978b532b63ca2000d4c45d)
-- [ ] [<code>parse: do not escape all non-ascii bytes</code>](https://github.com/canonical/netplan/commit/9e76feb9ea32212ddb8bfa2d2d58dcdb68ed73a9)
-- [ ] [<code> Increase some test timeouts to account for slow (riscv64) buildds</code>](https://github.com/canonical/netplan/commit/e057a889136345d484ccf66477bc7c9ff5b787c0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>wait-online: wait for 'routable' state, if corresponding IPs are defined</code>](https://github.com/canonical/netplan/commit/b1f752d01bca8c5eb7bce7d68a65dd98250a8968)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>wait-online: new tests for routable waiting</code>](https://github.com/canonical/netplan/commit/39241c20149b5d17907b57b8983f429da0ee3b12)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>wait-online: don't ignore 'routable' intefaces in 'linklocal' waiting stage</code>](https://github.com/canonical/netplan/commit/b4f54951f2b207567ec2188d09dd3b543f359ded)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>wait-online: issue a log message about optional bond-members</code>](https://github.com/canonical/netplan/commit/1cf0a403d64674b2bf9ac9499ae7bfcd3334b927)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:generator: refactor test_args.py check_output, using text=True</code>](https://github.com/canonical/netplan/commit/d788c97d803a8199dea247de2f7e8ed0bd85bdb4)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>networkd:wait-online: make logging message more informative</code>](https://github.com/canonical/netplan/commit/039ea1f8713ba714e33361558f11fc055c7fd86b)
-- [ ] [<code>Fix FTBFS on Debian unstable (probably /tmp on tmpfs?)</code>](https://github.com/canonical/netplan/commit/090a5b77cab2bef27c9ea5757da72c8ccdf42880)
-- [ ] [<code>CLI:apply: call udevadm trigger, using --action=move (Closes: #1071220) (LP: #2066344, LP: #2071363)</code>](https://github.com/canonical/netplan/commit/8b5a2a872f9d95f33d81969561dd71b606774dca)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>parse: downgrade warning about nm-device renderer to 'debug', as it's just informational</code>](https://github.com/canonical/netplan/commit/cabf3d834bb9d5187102cc315a48facf7b1f4983)
-- [ ] [<code>Fix manpage title.</code>](https://github.com/canonical/netplan/commit/980af5578e760dd27bcc8484ae1f520b5e5547bf)
-- [ ] [<code>doc:examples: Add reference for NM default config</code>](https://github.com/canonical/netplan/commit/309e9058cc1710c6ada73de3fa2119acb2eef2f7)
-- [ ] [<code>networkd: Implement ipv6-address-generation: stable-privacy</code>](https://github.com/canonical/netplan/commit/b8792134924c753209ac4a815e07fe6d8b651102)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>test:routing: skip VRF test if kernel module is not available</code>](https://github.com/canonical/netplan/commit/586694b6beb32e36be868dff0c88cc116bf2ed8b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:tunnels: skip WireGuard test if kernel module is not available</code>](https://github.com/canonical/netplan/commit/0d95dea027c153c9d86e549ad2f42755c109eed5)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Implementation ip route advmss options for Systemd networkd and Network manager.</code>](https://github.com/canonical/netplan/commit/dac8b1a11b8db2921d03adc415014ee51e2e8ecd)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: autopkgtest: add test dependency for python3-packaging</code>](https://github.com/canonical/netplan/commit/438fce369c248a2320aed27991272431a034b6a7)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>test:routing: Skip advmss test on NetworkManager < 1.39.8</code>](https://github.com/canonical/netplan/commit/b13b5182d8592ec21be0bf8895d8a474e71b3dea)
-- [ ] [<code>CI: fix CodeQL permissions</code>](https://github.com/canonical/netplan/commit/b13d36b18555bf5e63a174a7fd51f671b526c615)
-- [ ] [<code>generate: avoid calling 'udevadm control --reload' (LP: #1999178)</code>](https://github.com/canonical/netplan/commit/05fcc806ad2a4ae9af493f863596a606fbf7da25)
-  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
-- [ ] [<code>rpm: require udev for tests</code>](https://github.com/canonical/netplan/commit/666b2da06b2c2156e7f8803898595220021907e5)
-- [ ] [<code>meson: Add 'testing' option</code>](https://github.com/canonical/netplan/commit/108de85e21b5068bc5d9449bfe32e0aa3084f87c)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>docs: Add tc.plugin QoS log message troubleshooting to metadata (#23231)</code>](https://github.com/netdata/netdata.git/commit/6a0b32b995122b369d9b3286b1521a6f140306ad)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>CI: Update DebCI to ubuntu-22.04 runners</code>](https://github.com/canonical/netplan/commit/427a709e0f71b9622e7ad4aa132bbef2a959c7da)
-- [ ] [<code>docs: Add 'netplan try' to tutorial (#494)</code>](https://github.com/canonical/netplan/commit/a955b0d2bc35670eb3f55451928a8d3b5e30a7ed)
-- [ ] [<code>Update the docs checks runner to ubuntu-latest.</code>](https://github.com/canonical/netplan/commit/6bbcc5f53733fad684d4ff593f58b55338226bc8)
-- [ ] [<code>doc: Add spelling exceptions (#499)</code>](https://github.com/canonical/netplan/commit/b4bc0ab2c1bf458924a535512ab55595e0a075e0)
-- [ ] [<code>meson: emit the coverage result to XML</code>](https://github.com/canonical/netplan/commit/ee0ca07ec9665b186b87a2ea5febf19f7b34db51)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>ci: add a workflow for TIOBE</code>](https://github.com/canonical/netplan/commit/7c9d49d515c0990eab2c0d512939cfd9bb554701)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>ci: run meson tests with unbuffer</code>](https://github.com/canonical/netplan/commit/045a3730425c10c6c06e826cb2c2bf2d674d5ee7)
-- [ ] [<code>ci/tics: install "expect" as a dependency</code>](https://github.com/canonical/netplan/commit/900b5a7e8c85e92638fd9b3ec06636ca0048ad3c)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>netplan ignores NetworkManager ipv4.route-metric</code>](https://github.com/canonical/netplan/commit/6b44b4915076280c60da98f2b8a627514d39247d)
-- [ ] [<code>Change default umask when creating dirctories</code>](https://github.com/canonical/netplan/commit/62bb680b3aa21ea927426300b5240680369d7c6c)
-- [ ] [<code>networkd: avoid memory-leak in wait_online</code>](https://github.com/canonical/netplan/commit/aaca1b9e46d486c80b5af33e3c3771cc5d3e2008)
-- [ ] [<code>ci: migrate to Ubuntu 24.04</code>](https://github.com/canonical/netplan/commit/36ba4cc86f2c130b0669e524dd5c12859eef36a6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>CI: use autopkgtest 5.37</code>](https://github.com/canonical/netplan/commit/365b0198e7dc356586a3194e0a9192ac95d16fc6)
-- [ ] [<code>CI: update snapd.patch</code>](https://github.com/canonical/netplan/commit/a27c6184f4e36a5a33c25984e1785c75afd188f3)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>spread: upgrade to 24.04</code>](https://github.com/canonical/netplan/commit/3dbdba358ac588f4471b19575736333a18dd9e04)
-- [ ] [<code>doc: Annotate new 1.1 settings</code>](https://github.com/canonical/netplan/commit/ac8f9931085010367c15ac62c01fe87691f388eb)
-- [ ] [<code>abi-compat: re-generate 1.1 ABI on Noble</code>](https://github.com/canonical/netplan/commit/658ae5d3277188d0b1754f99f8f3f695d3762b22)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>meson: Bump version to v1.1</code>](https://github.com/canonical/netplan/commit/d27f32305f7f06de449b32239a89969e6ff2be31)
-  - <sub>Tags: <code>1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ci: enable the TICS workflow scheduled task</code>](https://github.com/canonical/netplan/commit/e5d82f59e9d9b3db0779f8929f84a52d0477073f)
-- [ ] [<code>ODA #107: Create snippet files for single-sourcing repetitive instructions (#505)</code>](https://github.com/canonical/netplan/commit/58ff195cf17c6b46f1522beefb2e9e73613dcb06)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ci/tics: set the token before trying to download TICS</code>](https://github.com/canonical/netplan/commit/e5d58dd0488872b937b9556a8787b4ad9dd259e9)
-- [ ] [<code>networkd: fix __FUNCTION__ macro and implicit boolean condition</code>](https://github.com/canonical/netplan/commit/366b476351ff24c29ca536e43ffb54b4308c6981)
-- [ ] [<code>tree-wide: refactoring to avoid Conditionals with Omitted Operands and use proper Boolean conditions</code>](https://github.com/canonical/netplan/commit/a21ed4f30ac853846afbb95f60df35c0be077776)
-- [ ] [<code>CI: fix 'lxd-ubuntu-lts' naming (after moving it to 24.04/Noble)</code>](https://github.com/canonical/netplan/commit/d27f8ec08250e192c6fd382ae620de815bbbb43c)
-- [ ] [<code>tests: ethernets: Add ipv6-address-generation integration tests</code>](https://github.com/canonical/netplan/commit/615ff26824c561bf2f1c8aecafc10cf10cd3ae7b)
-- [ ] [<code>tests:integration:base: fix imports, using isort</code>](https://github.com/canonical/netplan/commit/30f05de10df961e89c171053c223498a464213e5)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:ethernets: Add comments about MAC->EUI64 transformation and move method to base.py</code>](https://github.com/canonical/netplan/commit/c5a3e124f1825c6e84c669bfb00dc6b312861c3b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli: drop python-netifaces</code>](https://github.com/canonical/netplan/commit/ed5105034ffb2e018b8515bb60296facc5a425f0)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>apply: don't skip members of bonds on renaming</code>](https://github.com/canonical/netplan/commit/80edb5cd45a74511f33ae7493507fb039b7e9e50)
-- [ ] [<code>ci: add ethtool as a netplan.io dependency</code>](https://github.com/canonical/netplan/commit/150090ad28f1d673a7f07b070777fe56493614b5)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>parse-nm: account for veth and dummy when checking for virtual types</code>](https://github.com/canonical/netplan/commit/c274b3bb598b65d394486aa55274f5dd124da61c)
-- [ ] [<code>cli:state: call busctl in favor of dbus-python</code>](https://github.com/canonical/netplan/commit/5e9a921dbfd9d743a80027a80dc9d8277172c6ca)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:cli:state: adopt for busctl instead of dbus-python</code>](https://github.com/canonical/netplan/commit/c973d9a7f40d7fe4295333f94000791030d97a39)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: cleanup after v1.1 release</code>](https://github.com/canonical/netplan/commit/e87ae1b1a96c570ac105aca07918e751bcf44b16)
-- [ ] [<code>test:routing:tunnels: Improve vrf/wireguard modprobe check inside containers</code>](https://github.com/canonical/netplan/commit/570fecbf4a868e4cc3636cccd6a2c3cd4dba88f5)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:ethernets: avoid flaky test_ip6_eui64 results, when statefull DHCPv6 is quicker than stateless EUI-64 address generation</code>](https://github.com/canonical/netplan/commit/84da4b1f947f4f97510ed960ea99de77ed0d9ad2)
-- [ ] [<code>GH: Update pull-request template</code>](https://github.com/canonical/netplan/commit/3b6fea1fe75669278a219b853b80e7d8e0eb4f90)
-- [ ] [<code>CI:tests: Disable NETPLAN_PARSER_IGNORE_ERRORS by default</code>](https://github.com/canonical/netplan/commit/34a614338e6a1268f9c75bc2cfd091056860f2d5)
-- [ ] [<code>ovs: quote external-ids and other-config values</code>](https://github.com/canonical/netplan/commit/4d565913fdf08395382f6cda1b2f1799bebe4950)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>meson: enable -Wconversion by default</code>](https://github.com/canonical/netplan/commit/d7d7dc3e7f53574521b3a3037994f32d24eb2ee8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>error.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/d48aec9f3f1b9759a3a74da25e86a606ceaf9817)
-- [ ] [<code>netplan.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/a6af41a447372faf5c3977b0734b00334a754382)
-- [ ] [<code>util.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/dc64420c2a7cb3d1922163b8b2af0b4668c4ea2c)
-- [ ] [<code>nm.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/bfd0e54103874ece3b33fb118258c69c6198f9d1)
-- [ ] [<code>openvswitch.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/06ee69578de18d365158f347bb1138c345446fb3)
-- [ ] [<code>parse.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/5c38cc840498a689dadac06c3b6ad4434d32a671)
-- [ ] [<code>parse-nm.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/e00338feab6c80231c60c765dfa5a1051a03eb05)
-- [ ] [<code>sriov.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/e91c96f44246149a290636cc36fa56a99b59648d)
-- [ ] [<code>util.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9e4d7ef0ad7ebf1ad8e4bcb1c563426e1a5ad61e)
-- [ ] [<code>validation.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9fb7dbecbd662301420374fe1de51f068ddd29b0)
-- [ ] [<code>ctests: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/1156dc77acce89edf2d4f3c2ff78fb8386077b8e)
-- [ ] [<code>networkd:openvswitch:sriov: Permissive umask for .service units (LP: #2072487)</code>](https://github.com/canonical/netplan/commit/60dab77ea6ed176db77703e1469f5d7f5b51160b)
-- [ ] [<code>tests: Adopt for more permissive umask of .service units</code>](https://github.com/canonical/netplan/commit/c9d82e9629a859f5b38d721d0204a721d0a1a5b7)
-- [ ] [<code>doc: Update thread model regarding .service unit permissions</code>](https://github.com/canonical/netplan/commit/4a82c3b3fa7bf388e591b2b168f8d15f1801521c)
-- [ ] [<code>validation: fix comment about WireGuard key length</code>](https://github.com/canonical/netplan/commit/b79a0fc3ecaa2b837702c853a341c13d9d4849a1)
-- [ ] [<code>doc: Add initial 'Cryptography' section</code>](https://github.com/canonical/netplan/commit/e0e87118ee954145d783c0341eace613fa6ad37a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Revert "cli:apply: improve networkd restart logic for non-existent networkd config"</code>](https://github.com/canonical/netplan/commit/cac4b125ed00e0b1dbcaaff3dd03366f73337e60)
-- [ ] [<code>Revert "apply: compare full configuration to decide to restart networkd"</code>](https://github.com/canonical/netplan/commit/1ab755c9a148407142faf215a02835d1e9e60c37)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>status: fix SSID parsing</code>](https://github.com/canonical/netplan/commit/9cab923b0df192079ef26043f4289274cd40a1ab)
-- [ ] [<code>cli: set LC_ALL to C.UTF-8</code>](https://github.com/canonical/netplan/commit/7de9410d0a67abd8d5b7761ffe83c0ddb5cf2af5)
-- [ ] [<code>state/Interface: improve netdef ID handling with NetworkManager</code>](https://github.com/canonical/netplan/commit/ded34bad0e8c30159f91f6e8aa940f719a11284f)
-- [ ] [<code>state/SSID: handle non-ascii SSIDs</code>](https://github.com/canonical/netplan/commit/54d59d17c750f6098a29f9e2e54d8615c46f28fc)
-- [ ] [<code>state: get the SSID from NM if it's the backend</code>](https://github.com/canonical/netplan/commit/ff65879a91ca92b094933b4e3d6399b8125b1abd)
-- [ ] [<code>wpa_supplicant: add ExecReload to the service unit</code>](https://github.com/canonical/netplan/commit/88202316a523409ca5f28b41c8c530dd731769b7)
-- [ ] [<code>include: fix apidoc warnings about undocumented parameters</code>](https://github.com/canonical/netplan/commit/cfac5eb95d67b2db0f5cb2cd72adc0de0960f521)
-- [ ] [<code>networkmanager: add support for stable-ssid MAC option</code>](https://github.com/canonical/netplan/commit/83a8d8cc6f27cb001b6f81b5c59a47bf980f1029)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: Fix fedora:latest (F41) failure</code>](https://github.com/canonical/netplan/commit/52b375a029ce44a1eecddab791a910454c3c3aeb)
-- [ ] [<code>parse.c: quiet "may be used uninitialized" warnings/errors</code>](https://github.com/canonical/netplan/commit/57795b47db1fb7fa4e5c2599da5898e3ff716257)
-- [ ] [<code>ATTN: networkmanager: add support for "routing-policy"</code>](https://github.com/canonical/netplan/commit/d375478003008d14a6921b647716be713fb7c081)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>validation: remove superfluous comparison</code>](https://github.com/canonical/netplan/commit/3aba58e7c71adabab98da091a685feb94a422157)
-- [ ] [<code>ATTN: validation: warn if a priority is not set for a routing-policy</code>](https://github.com/canonical/netplan/commit/ae09e2c1dbc30ee096eee2a2aa19f08e6edd129f)
-- [ ] [<code>validation: use curly braces for all branches</code>](https://github.com/canonical/netplan/commit/f0d64c41be096358ed87061d5cdb06751825a2b8)
-- [ ] [<code>doc: Add anchor link for deprecated gateway4/6 keys</code>](https://github.com/canonical/netplan/commit/a28be211a45c36aba6dafb519c213036788f87bd)
-- [ ] [<code>parse: fix renderer validation for nm-devices</code>](https://github.com/canonical/netplan/commit/e76557002968c04231d95f751ab4895c2ee01af8)
-- [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
-- [ ] [<code>CI: cleanup spread.yml workflow now that PR#184 is fixed</code>](https://github.com/canonical/netplan/commit/0965bc92bb099e62073874578460cf722e1181df)
-- [ ] [<code>tests: add integration test for wifi/psk-sha256</code>](https://github.com/canonical/netplan/commit/53636f1daa8d70c00a059a09404eb3e3a54ead8f)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:wifi: use dhcpcd istead of deprecated ISC dhclient</code>](https://github.com/canonical/netplan/commit/0b5783e80bad55f0d9005c5f845e3340fb00df5a)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: downgrade systemd dependency (wait-online DNS)</code>](https://github.com/canonical/netplan/commit/5845bab6f8489971a5a204a69d3d4bd1b4c546a8)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>cli:apply: Ignore udevadm errors triggering devices (LP: #2095203) (#539)</code>](https://github.com/canonical/netplan/commit/03e60e5ca8c4ce22a1c0fe51fa2c843b76cfd0f4)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>tests:wifi: Fail properly, don't indicate 'OK (skipped=all) PASS'</code>](https://github.com/canonical/netplan/commit/04bf213f184acdbe2a616baee056be8964492752)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>CI: allow wifi test to be skipped</code>](https://github.com/canonical/netplan/commit/4184208259347cafd5321a6004caecb0f25f402f)
-- [ ] [<code>tests:integration: Fix warning about 01-main.yaml permissions</code>](https://github.com/canonical/netplan/commit/52ea6f3298a6c9e66f11f37c541de714a01c9391)
-- [ ] [<code>networkd: wait-online wait for DNS servers to be assigned</code>](https://github.com/canonical/netplan/commit/532bd312265f27017493d7e8707292069a4000f9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test:generator: wait-online DNS testing</code>](https://github.com/canonical/netplan/commit/b36a68a2b71fc88194eac14f301a24d4d9e8c459)
-- [ ] [<code>tests:ethernets: wait-online DNS testing</code>](https://github.com/canonical/netplan/commit/773ee700597c020d99c7744772e8337accd27905)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>state.h: add missing void for parameterless function prototype</code>](https://github.com/canonical/netplan/commit/e1276be544c45792307e5444370ec47a5b50d4fb)
-- [ ] [<code>parse.h: fix parameterless function prototype</code>](https://github.com/canonical/netplan/commit/d6e8234a04d42f12790bedb803680fccc2883660)
-- [ ] [<code>Allows non standard OVS setups</code>](https://github.com/canonical/netplan/commit/4abe2e7dcb8da8994796e702eae4d32ad893c844)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>tests:ethernets: Avoid test failure when systemd-resolved is not active</code>](https://github.com/canonical/netplan/commit/44ba6fbb32a79190b2fabeac5599cbce3cfaa2ea)
-- [ ] [<code>tests:regressions: Give more time for slow architectures, like riscv64</code>](https://github.com/canonical/netplan/commit/73516550ffd9e750c9ac606d102bb81c45b37aa1)
-- [ ] [<code>tests:integration: Avoid race condition with veth MAC addresses.</code>](https://github.com/canonical/netplan/commit/a2dfe29938b92a01b43572ba6c152d9c7b2e2f8e)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>generate: Use G_DIR_SEPARATOR_S for paths</code>](https://github.com/canonical/netplan/commit/611766ac6c96396ed5748df6797d0b35ffd5bd9b)
-- [ ] [<code>tests:integration: `netplan try`</code>](https://github.com/canonical/netplan/commit/18b79eeecae908d1813143dc1a4f31d1c99bce69)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli: ConfigManager must copy file ownership</code>](https://github.com/canonical/netplan/commit/a1a169f996a576ff3ca5f2583c529f6cd231e9ab)
-- [ ] [<code>cli: Use ConfigManager._copy_tree for try revert backup</code>](https://github.com/canonical/netplan/commit/a411998dd5982fc34992dec1e68d86fb5b633527)
-- [ ] [<code>generate: Don't run during `netplan try`</code>](https://github.com/canonical/netplan/commit/f9e35f66938695581098e91030be1ec71c36b865)
-- [ ] [<code>cli: Fix logging merged config</code>](https://github.com/canonical/netplan/commit/a3081d506e3c502dd387a61ed059583de9fd9656)
-- [ ] [<code>cli:configmanager: rename _copy_tree() to copy_tree()</code>](https://github.com/canonical/netplan/commit/84302d7606d02812b6f4aae26c93cd23a20fef4b)
-- [ ] [<code>CI: adopt to autopkgtest 5.47~24.04.1</code>](https://github.com/canonical/netplan/commit/0f2e445dec6649c8a4ef7a7a0a86053ce7d01617)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>CI: keep Fedora RPM compatible with /usr/sbin like RHEL and Ubuntu/Debian</code>](https://github.com/canonical/netplan/commit/aa8f4d311662948738cd6c4a86f1fdc0b23fa7cb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>CI: Update rpmbuild to latest Fedora/EPEL spec</code>](https://github.com/canonical/netplan/commit/873e81e4cda0a4c1c8b90752e1b989c6b8390745)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>meson: Build using Python 3.10 limited API (LP: #2050881)</code>](https://github.com/canonical/netplan/commit/9116ab7d50a6cdbc05af34b588a6195c0e1f8a4c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: fix codeql build</code>](https://github.com/canonical/netplan/commit/6131f24ef758ce70213984bc2d3040b8004bdede)
-- [ ] [<code>RPM: avoid meson upgrade for EL9</code>](https://github.com/canonical/netplan/commit/8084860b93363b2f7f3c56197d50b7c841556403)
-- [ ] [<code>cli:utils Fix systemctl_is_installed</code>](https://github.com/canonical/netplan/commit/dee89e8114ed6be4403e9c0bc927a4324adda546)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>cli:status fail cleanly if systemd-networkd is not present</code>](https://github.com/canonical/netplan/commit/baba35fc07539cf3abdbfb987957f5ac3617c9ff)
-- [ ] [<code>doc: Fix How-to guides link (LP: #2126684)</code>](https://github.com/canonical/netplan/commit/b72b2f8ea14fb5739b1d997a4a77abfbcdbd2e9d)
-- [ ] [<code>test:dbus: avoid dependency on dbus-launch (Closes: #1117099)</code>](https://github.com/canonical/netplan/commit/c7a4f346a0cdad67e6721868651ca55081243c03)
-  - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>doc: fix link to 'Set up WSL on Windows' to fix linkcheck CI</code>](https://github.com/canonical/netplan/commit/c1565a03b8cf726f197e7c1754bc63e886ef3e39)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Ensure netplan directory creation is idempotent</code>](https://github.com/canonical/netplan/commit/02191fdbcf9fb23bd1961e271e70f03a7ca8c7be)
-- [ ] [<code>Use OVS from apt before snap when both exist.</code>](https://github.com/canonical/netplan/commit/b35228d57e3866c1b0e7291f701f85c68e369183)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>test_args: fix typo in 'interfaces eth99.46'</code>](https://github.com/canonical/netplan/commit/f543840fda5063993331fdccf6aa90b6f0d2f044)
-- [ ] [<code>test:cli_legacy: Avoid permission warnings</code>](https://github.com/canonical/netplan/commit/2ee37dc94ce66b8bf3617f8fe94e9b9e2227e5b5)
-- [ ] [<code>configure: Add new binary to produce network service configs</code>](https://github.com/canonical/netplan/commit/42db01589cd90753b557b81270fe2e68a28df554)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>generate: Drop non-sd-generator compliant logic</code>](https://github.com/canonical/netplan/commit/6ad42dec51130f28b371ba7bccad60dfa565d1b2)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>test:generator: Test sd-generator sandbox</code>](https://github.com/canonical/netplan/commit/49720422c8be00cbbe6a45ec46a44a8d33aaf3b2)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>openvswitch: Refactoring into systemd-generator</code>](https://github.com/canonical/netplan/commit/e0cfa11e8855748a125f137cb5876fd61520d327)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>networkd: Refactor wait-online/sd-networkd for sd-generator</code>](https://github.com/canonical/netplan/commit/7150b4216f424f2ce4e39b75dc904dbebab0f53e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test:sd-generator: check output dirs for OVS and wait-online files</code>](https://github.com/canonical/netplan/commit/42a272d98440c1a6f0a900bd9bad350d1b1c3d0a)
-- [ ] [<code>test:sd-generator: Check for WiFi regdom & wpa units</code>](https://github.com/canonical/netplan/commit/f80c9c41c95dfedbc6ff9dada177e42b8dc02841)
-- [ ] [<code>generate: Nothing to do for NM in sd-generator</code>](https://github.com/canonical/netplan/commit/b0f10c7d199c95b0e508aa2a0b0f880111ce8542)
-- [ ] [<code>generate: sriov: test: Refactor SR-IOV for sd-generator</code>](https://github.com/canonical/netplan/commit/f7f0ccdf0d57d14b3d1593dd2b34cb3b104494d8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>cli:generate: Execute ./generate & ./configure</code>](https://github.com/canonical/netplan/commit/98ca350f6103784cd47374f664235cbd1dedbb1e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>test:cli_legacy: adopt to new sd-generator</code>](https://github.com/canonical/netplan/commit/04c8194cf3747b02ac4f8a03935670c4809c90cf)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>test:parser:base: Adopt for sd-generator (calling ./configure)</code>](https://github.com/canonical/netplan/commit/7a4c1e84cb7a75744cc3cdc3207049b537708e5c)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>test:generator:base+sd-generator: execute ./generate in sandbox and ./configure</code>](https://github.com/canonical/netplan/commit/338f907c415bbdb6e43a8d5374675c1ef83a4b7b)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>test:args: adopt to sd-generator</code>](https://github.com/canonical/netplan/commit/decfc8fcb9c58ce1d67ea0a51ad605c05102276d)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>test:generator:auth: adopt for sd-generator</code>](https://github.com/canonical/netplan/commit/63d2798ea65dc3097af78344013d15594f7cd261)
-- [ ] [<code>test:generator:wifis: adopt to sd-generator</code>](https://github.com/canonical/netplan/commit/fe76366c6b15ffbbbc21819d5fd3aec67cbcef03)
-- [ ] [<code>configure: Cannot be called as a sd-generator</code>](https://github.com/canonical/netplan/commit/86651192c1cd9ea58fa6b6251c2516b433bce056)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>configure: cli:generate: cleanup legacy --mapping option</code>](https://github.com/canonical/netplan/commit/61442ec50109be3320d48824b243d0bbe2f585de)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>cli:apply: adopt for sd-generator by running the 'configure' stage</code>](https://github.com/canonical/netplan/commit/45d7091ccdd68a5631bfe62e612c29a3cc29a483)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>CI: Install generator-configure stage</code>](https://github.com/canonical/netplan/commit/8c4754fe1ad1031dd308d9a2a6ec43ea23195fb9)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>sd-generate: fail on missing generator_dir</code>](https://github.com/canonical/netplan/commit/bed2923f41b92b14301826c45cd72e8d8ff9dc96)
-- [ ] [<code>CI: workaround NM integration CAP_CHOWN issue (LP: #2090848)</code>](https://github.com/canonical/netplan/commit/e798b6ccea9f016b9351eabc64307ed234a40081)
-- [ ] [<code>doc: Update docs for sd-generator</code>](https://github.com/canonical/netplan/commit/2d435f426f4bb6116bc185a23ebb315195ecdccb)
-- [ ] [<code>tests:integration: adopt for sd-generator</code>](https://github.com/canonical/netplan/commit/4eed224b448dd1f39c3c25ea8a4c58ea40c9c26f)
-- [ ] [<code>Add initial, basic netplan-configure.service</code>](https://github.com/canonical/netplan/commit/8233cf9df3ba52a8ce76e00b5a4f18c33373fb63)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>CI: install netplan-configure.service</code>](https://github.com/canonical/netplan/commit/deabe0c1bac14d9e21548a6e321fe088605350e7)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>CI: adopt RPM spec for netplan-configure</code>](https://github.com/canonical/netplan/commit/22603b84a2d201cc3eb3b78a161a0eecc2a6ff6a)
-- [ ] [<code>generate: allow to force errors in generator</code>](https://github.com/canonical/netplan/commit/674e494b8cea31c933d622191ef9c643309848d2)
-- [ ] [<code>CI:test:fuzzer: adopt for generate & configure stages</code>](https://github.com/canonical/netplan/commit/d21417339cd3f54fcb50ec54bcef2c7039e7a180)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>generate: accept the /run/netplan/netplan-try.ready stamp</code>](https://github.com/canonical/netplan/commit/5fcbe17ec482ede0819715ec5e9d8ee574bb02f2)
-- [ ] [<code>gen-networkd: wait-online in generator.late stage</code>](https://github.com/canonical/netplan/commit/998c046ed9f6a008076dfc8b50b15222a6902497)
-- [ ] [<code>test:generator:args: netplan.stamp is no more</code>](https://github.com/canonical/netplan/commit/4ea03c7b3bb6295f5d65ffe63fe006a9caf3e46a)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>generate:configure: Synchronize late-stage validation between sd-generator and network-configurator</code>](https://github.com/canonical/netplan/commit/8622557d891efa9faf7c3ffcd2ce94b1fb68a757)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>tests: deterministic listdir() using a set()</code>](https://github.com/canonical/netplan/commit/90ac0bc802009e4962bb29f21170638e5865f666)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cli:try:generate: avoid calling 'daemon-reload' through NetworkManager integration during 'netplan try'</code>](https://github.com/canonical/netplan/commit/eb2e4969d781eb031c34ca4ca0bdb614e828c6ff)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>configure: allow to write only NM configs --networkmanager-only (LP: #2090848)</code>](https://github.com/canonical/netplan/commit/184c44f2a283776eff96ce3d6f455897fe172b72)
-- [ ] [<code>configure: Adopt start_unit_jit() logic for sd-genreator</code>](https://github.com/canonical/netplan/commit/8b82dc05501ff9f114a96e52512cfc9104ba153e)
-- [ ] [<code>CI: fix cloud-init tests in Ubuntu autopkgtest by using a newer version of the test</code>](https://github.com/canonical/netplan/commit/f0011143b0ebf6ac386815768da1637d27f2a5d6)
-- [ ] [<code>CI: avoid warning from netplan-generator.postinst</code>](https://github.com/canonical/netplan/commit/75ca2fe5140282e7e545addf8f8b083f333077ac)
-- [ ] [<code>CI: avoid re-building NetworkManager</code>](https://github.com/canonical/netplan/commit/0602ba1787076429a9301b29414e6d724eaec390)
-- [ ] [<code>configure: drop JIT logic, which is not needed anymore with the sd-generator</code>](https://github.com/canonical/netplan/commit/f27685ccf783731a17159ef82beed01d0d558009)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>tests:gen:base: Don't fail inside sbuild/chroot environment</code>](https://github.com/canonical/netplan/commit/a59cc9450df89e6c2ed2d117bb16315b890fc520)
-- [ ] [<code>Only create a tempdir when needed</code>](https://github.com/canonical/netplan/commit/b0fdccf2d80b256da401f665b8c977466eb2a61c)
-  - <sub>Tags: <code>1.2</code></sub>
-- [ ] [<code>cli: Fix generate.py to properly handle --root-dir</code>](https://github.com/canonical/netplan/commit/116e89e526f85a3d195cc8ea29d4e13a7985c049)
-- [ ] [<code>CI: downgrade to systemd 248 (from 258) for tests on Noble</code>](https://github.com/canonical/netplan/commit/365e2344dc170c2c5ef6b68283b93b1fd13505ff)
-- [ ] [<code>Use io.StringIO() instead of tempfile.TemporaryFile()</code>](https://github.com/canonical/netplan/commit/f758e3f6415aa68b7cf28991bc5b3e9631297d6d)
-  - <sub>Tags: <code>1.2.1</code></sub>
-- [ ] [<code>generate: sriov: execute udev rules before starting sriov apply service</code>](https://github.com/canonical/netplan/commit/09402c69d158362745f55545e71836dc10935fdf)
-- [ ] [<code>terminal: handle BlockingIOError in addition to TypeError</code>](https://github.com/canonical/netplan/commit/44f2803ee3be5389f3f86828f83cc2499fb0534e)
-- [ ] [<code>chore: add testing example for local build (#579)</code>](https://github.com/canonical/netplan/commit/f9eed290e8ee35f4b81129421fe1f334363f250b)
+- [ ] [<code>docs: Fix fabricated MSI property names in Windows SCCM fleet docs (#23230)</code>](https://github.com/netdata/netdata.git/commit/99d884d4d968a60d649f7f540a19f22587823b06)
+- [ ] [<code>docs: Fix Events tab role access table for Auditing events (#23229)</code>](https://github.com/netdata/netdata.git/commit/12e8a4a42e40c8f33bc1d626f138c7d00a3e9b71)
+- [ ] [<code>docs: Fix per-core CPU label example in proc.plugin metadata (#23233)</code>](https://github.com/netdata/netdata.git/commit/337113f586a5e46c6197ff6b473f3bdb347741b9)
+- [ ] [<code>docs: Add HA Netdata Parent to metrics centralization diagram (#23236)</code>](https://github.com/netdata/netdata.git/commit/e1cabf1e24addafd4241ad55628a17e5e95c67c3)
+- [ ] [<code>apps.plugin: skip macOS zombies instead of logging an error every cycle (#23297)</code>](https://github.com/netdata/netdata.git/commit/5fc0e23377d592a45f08994f75e7ec2cac803032)
+- [ ] [<code>Regenerate integrations docs (#23287)</code>](https://github.com/netdata/netdata.git/commit/ee3a8d274a3cb10af08c2e9025115992c807fc1b)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>ci: replace freedesktop links with man7 (#584)</code>](https://github.com/canonical/netplan/commit/947d1fac97d15920069616866691a1bf42d3cb95)
-- [ ] [<code>The spread github repository location is moved from from snapcore/netplan to canonical/netplan. This was leading to the failure of spread tests in the automated CI/CD workflows.</code>](https://github.com/canonical/netplan/commit/0e1a4bf812233560853e578e5e7c76e7d6ca0fc1)
-- [ ] [<code>Setup asan run's prefix to ensure openvswitch binaries are in the path</code>](https://github.com/canonical/netplan/commit/e9d13aeac95a8e0756a5f55053befb953b5f6bda)
+- [ ] [<code>docs: Add private IP enrichment guidance to enrichment page (#23239)</code>](https://github.com/netdata/netdata.git/commit/4a9b8f928f7e122e23c81978b4c23a08e02b6163)
+- [ ] [<code>Regenerate integrations docs (#23298)</code>](https://github.com/netdata/netdata.git/commit/ce205d5630d4bab981fa5f976925fc54cc8c84f1)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Return with exit-code 1 when having an error</code>](https://github.com/canonical/netplan/commit/1f9e69ba919c38d52df718fe31a80e8e1b58b109)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix: remove exclusion for OpenStack files as the tests should pass</code>](https://github.com/canonical/netplan/commit/901eeca87af88dcbb91c4f3375dcd18d0eea787f)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(ci): fix autopkgtest CI failures (#591)</code>](https://github.com/canonical/netplan/commit/a03d06e0af2bbbd42bb5be9a9d62070274a08d21)
-- [ ] [<code>docs: remove pull request description heading (#593)</code>](https://github.com/canonical/netplan/commit/4c68ed83aadd6517f63244461c83842afc201f33)
-- [ ] [<code>generate: order service After=systemd-sysusers.service (#573)</code>](https://github.com/canonical/netplan/commit/427e003ca98da27a35797a8fdb113a627d44040f)
-- [ ] [<code>fix(ci): fix debian autopkgtest CI failure (#595)</code>](https://github.com/canonical/netplan/commit/12ff34c2d068bd443724946b94206b16a15d75cc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>gen-networkd: wpa supplicant unit requires netplan-configure.service</code>](https://github.com/canonical/netplan/commit/bd1c1e0e1b226ddcb4efdd7eaa9c19ca93c51d94)
-- [ ] [<code>tests: only consider netplan-generated files in integration tests (#576)</code>](https://github.com/canonical/netplan/commit/396c1ada3448b485b685d8b096c71af35a8f2ad3)
-- [ ] [<code>fix: added fix to handle exception on file permission issue</code>](https://github.com/canonical/netplan/commit/586c9ced3dce2f5550e686b5f7eb646a3e4d2d73)
-- [ ] [<code>fix(ci): Added setuptool package to the rpm build file (#598)</code>](https://github.com/canonical/netplan/commit/ffce703c0f695abc0cdb0c6a4a7c3b5a723b7936)
-- [ ] [<code>ci: migrate workflows to Ubuntu Resolute 26.04 and fix test regressions (#601)</code>](https://github.com/canonical/netplan/commit/a5942cd9a675afbce9d10e6744a7eb96646f1732)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>fix(build): update the netplan version field in the build file (#603)</code>](https://github.com/canonical/netplan/commit/e9dd90a96727bc6b7264c36526b39d1dacccc00f)
-  - <sub>Tags: <code>1.2.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+
+#### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
+
 
 #### [nexa](https://github.com/qualcomm/GenieX): [refs/tags/v0.2.73 → HEAD](https://github.com/qualcomm/GenieX/compare/refs/tags/v0.2.73...HEAD)
 
@@ -4512,6 +3697,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(server): rewrite tool-calling example as VLM + web_search round-trip (#1238)</code>](https://github.com/qualcomm/GenieX/commit/89c2bdc8207305efcae825786ebc05638c50d798)
 - [ ] [<code>fix(sdk): forward quant suffix on benchmark cache hit</code>](https://github.com/qualcomm/GenieX/commit/d2c90bd7d24fa26c812431eaa7aa8c84629cff0c)
 - [ ] [<code>ci: harden workflows against zizmor high-severity findings</code>](https://github.com/qualcomm/GenieX/commit/e12e9adaeed6d5a6ae08655dde34d4f6023d1023)
+- [ ] [<code>chore(release): source signed HTP bundle from qcom-ai-hub/geniex LFS</code>](https://github.com/qualcomm/GenieX/commit/8b3ade77bda3b7a54c5f2ca0946c7a65e19b3a9c)
+- [ ] [<code>chore(release): reuse GH_PAT for signed-htp cross-repo checkout</code>](https://github.com/qualcomm/GenieX/commit/1dfc48f52bde6250f58833cb6e84660b031ab74c)
+- [ ] [<code>chore(release): narrow signed-htp checkout and defer to notes/release.md</code>](https://github.com/qualcomm/GenieX/commit/b2c440fcd3afacc2e5d27ad37a9c7e57ff51104d)
+- [ ] [<code>chore(release): point overlay-htp at chore/signed-htp-lfs-store</code>](https://github.com/qualcomm/GenieX/commit/6bbac70226a8012b8591f7dfc361f1dacc954dbf)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -18896,6 +18085,265 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump the android-deps group across 1 directory with 5 updates (#113083)</code>](https://github.com/openclaw/openclaw/commit/52bf653427585805d81fa76ea3090a864658c393)
 - [ ] [<code>fix(cron): prevent completed jobs rerunning after gateway restart (#114820)</code>](https://github.com/openclaw/openclaw/commit/6ca7c6488ed91cca03e05a71650105058a8eca5d)
 - [ ] [<code>fix(usage): guard malformed Copilot payloads (#110795)</code>](https://github.com/openclaw/openclaw/commit/a90bef3970b953d9ee97362e9d033afe21b8f01c)
+- [ ] [<code>build(deps): bump the swift-deps group across 1 directory with 2 updates (#114452)</code>](https://github.com/openclaw/openclaw/commit/9fbbe2cc983a4a5efe2dee02ddbed1cf0e06684a)
+- [ ] [<code>fix(process): prevent concurrent scoped replacement leaks (#114845)</code>](https://github.com/openclaw/openclaw/commit/1292262996363df2c646ce867b12e13d2139a637)
+- [ ] [<code>feat(ui): match ClickClack discussion sidebars to host themes (#114812)</code>](https://github.com/openclaw/openclaw/commit/56d9d075168253f78e40a04c7c023b598b52c656)
+- [ ] [<code>fix(channels): preserve external current target aliases</code>](https://github.com/openclaw/openclaw/commit/153c4f088eccc39912082e2d153bc9293ec17ace)
+- [ ] [<code>fix(messages): authorize external targets before resolution</code>](https://github.com/openclaw/openclaw/commit/d8eb6aa8d3b6640792db63f97cc7f948eef01d11)
+- [ ] [<code>fix(messages): gate gateway action dry runs</code>](https://github.com/openclaw/openclaw/commit/ca592adcc8b1aa21b585d3698d903f842cfec528)
+- [ ] [<code>fix(messages): preserve policy ordering before target resolution</code>](https://github.com/openclaw/openclaw/commit/0b96c10aad0079eb4311f6997c4ed651bd57630b)
+- [ ] [<code>fix(active-memory): accept max thinking config (#103614)</code>](https://github.com/openclaw/openclaw/commit/c3713317b86bdef97d2cfbf47d543ff9cce3bb6e)
+- [ ] [<code>fix(ollama): release failed discovery bodies (#109967)</code>](https://github.com/openclaw/openclaw/commit/6de4b47203a3931e2456d91b0ee50d98f92e80a8)
+- [ ] [<code>fix(cli): keep read-only config queries from writing state (#114847)</code>](https://github.com/openclaw/openclaw/commit/3806c3866b1610f3f39345170b94d3dbe50cc57c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(nodes): preserve gateway connections and local inference (#114857)</code>](https://github.com/openclaw/openclaw/commit/9bcc44301bcbc6d97143425b2b47201460de57e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(media): keep hosted plugin media pinned (#112515)</code>](https://github.com/openclaw/openclaw/commit/6559e3f3b94c54e2b1aa06d1fca712c5360455ff)
+- [ ] [<code>refactor(sessions): remove file-era transcript runtime (#113233)</code>](https://github.com/openclaw/openclaw/commit/4273ca9dbd9b3e3172f34a7231d41bcd8b5d200c)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(codex): refuse Platform routes on a subscription-signed native Codex home (#114719)</code>](https://github.com/openclaw/openclaw/commit/f2a12916d746a24f2af90f99bfc71f114224d430)
+- [ ] [<code>fix(line): preserve webhook object error details (#113606)</code>](https://github.com/openclaw/openclaw/commit/b4e246be01efa25750ccd44faa73515a4036c8b8)
+- [ ] [<code>fix(plugin-sdk): classify loopback hosts consistently (#114832)</code>](https://github.com/openclaw/openclaw/commit/577a0642fa6a2578cb9f71c1c25b6cd2fc6cc265)
+- [ ] [<code>fix(tui): prevent unsafe errors and out-of-order streamed replies (#114869)</code>](https://github.com/openclaw/openclaw/commit/eeba5a343317b950002d524b674a964b0aba0ad9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(agents): avoid duplicate subagent registry write (#114705)</code>](https://github.com/openclaw/openclaw/commit/073f7a9ba255249bb1cfd39c626207ca4184eeec)
+- [ ] [<code>docs: add Buzz to generated plugin inventory (#114875)</code>](https://github.com/openclaw/openclaw/commit/feb588308918ac219f38973dd49e37bdbd8a8bfa)
+- [ ] [<code>fix(ui): preserve navigation during startup (#114828)</code>](https://github.com/openclaw/openclaw/commit/a0530259e2fa8c3ebbec1f17fbabb550af27eb83)
+- [ ] [<code>fix: speed up Control UI startup model projection (#114605)</code>](https://github.com/openclaw/openclaw/commit/b244adf430c60731c971dd061f30bd85d150276f)
+- [ ] [<code>feat(code-mode): first-class nodes API (#114877)</code>](https://github.com/openclaw/openclaw/commit/ea707382fd62eeaa1e9da72e2ef8bfe52e1ff19e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(channels): own account status in one closed state machine (#114775)</code>](https://github.com/openclaw/openclaw/commit/e0a119dabf48426cc937d33db4e817ff12688605)
+- [ ] [<code>test(messages): lock external alias authorization order</code>](https://github.com/openclaw/openclaw/commit/8d682b74bd90727de6a4db09da4e4a9c98df8db2)
+- [ ] [<code>fix(doctor): honor configured plugin load paths (#113200)</code>](https://github.com/openclaw/openclaw/commit/5723d36b46a808f6bc5bf53ff2703c2fcfeb731e)
+- [ ] [<code>feat(code-mode): unify node MCP namespaces (#114876)</code>](https://github.com/openclaw/openclaw/commit/d7622734d583da36ee303b144bf740c0c0bd10b2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(skills): build snapshot cache key lazily (#114584)</code>](https://github.com/openclaw/openclaw/commit/ac795a5821b1bcf3a19f1647f76e707004c4d538)
+- [ ] [<code>fix: prevent cron and Workboard lifecycle regressions (#114865)</code>](https://github.com/openclaw/openclaw/commit/124911aee00dd67497b14a7ad0b50255d42f5c67)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: align macos remote url validation copy (#98548)</code>](https://github.com/openclaw/openclaw/commit/b168e4b5ed59be6bf601330ecd459acec4f79364)
+- [ ] [<code>fix(ios): suppress stale delayed UI actions (#113062)</code>](https://github.com/openclaw/openclaw/commit/a84ea8b7324a7650eb3deb910f27c5beeaa40d65)
+- [ ] [<code>fix(voice-call): keep custom tail cursor aligned with short reads (#108322)</code>](https://github.com/openclaw/openclaw/commit/478a8956233df0560da9918e1062969a85913b37)
+- [ ] [<code>fix(agents): classify Google invalid API keys as auth (#114825)</code>](https://github.com/openclaw/openclaw/commit/7653bcce58b371cb7ed496d258f421d511f00a4d)
+- [ ] [<code>fix(googlechat): media downloads can grow unbounded without a size cap (#98425)</code>](https://github.com/openclaw/openclaw/commit/7ebd486ed127580c7edc9b7e3f1b142898ce070a)
+- [ ] [<code>fix(android): Wear Talk works after exiting and reopening (#112383)</code>](https://github.com/openclaw/openclaw/commit/aa26ecfac1958474cc7d579b5bc6dc4c7cff5e5d)
+- [ ] [<code>fix(slack): preserve native tables during outbound delivery (#111955)</code>](https://github.com/openclaw/openclaw/commit/f2293566896fa37d3d013bc9d72cef4b9c628035)
+- [ ] [<code>fix(github-copilot): authenticate fine-grained tokens</code>](https://github.com/openclaw/openclaw/commit/fbd6b842f9ed73cde33f349a1a6c7396380538e6)
+- [ ] [<code>docs(github-copilot): update runtime auth contract</code>](https://github.com/openclaw/openclaw/commit/7c980eaec04ab50b14bb926f4970e7b694169c43)
+- [ ] [<code>fix(github-copilot): format legacy oauth credentials</code>](https://github.com/openclaw/openclaw/commit/3da4ef3a6cc758ccb026bb9a6dd181a298cf417a)
+- [ ] [<code>refactor(github-copilot): own runtime request identity</code>](https://github.com/openclaw/openclaw/commit/a706d49cdb2b309e40a504e9308839a4d8992249)
+- [ ] [<code>fix(github-copilot): preserve expired legacy profiles</code>](https://github.com/openclaw/openclaw/commit/e9414c684b34128ed3cf962da415b9478eb40d06)
+- [ ] [<code>test(github-copilot): keep token exchange helper private</code>](https://github.com/openclaw/openclaw/commit/5249b617ec82e9e3814772447d15988ba6f4ba44)
+- [ ] [<code>test(github-copilot): type token exchange fetch mock</code>](https://github.com/openclaw/openclaw/commit/0ba4adb1cbd2132eaa206fc5162f04b35848f8c3)
+- [ ] [<code>fix(auth): keep OAuth refresh policy provider-owned</code>](https://github.com/openclaw/openclaw/commit/1c65628fe8191d3edea75622e66b298d4cd7f556)
+- [ ] [<code>chore(plugin-sdk): refresh API baseline</code>](https://github.com/openclaw/openclaw/commit/1153ef4c4de1d8390ef62f0c9a8d980a8eac18c5)
+- [ ] [<code>test(ai): freeze packed-package and stream parity contracts (#114843)</code>](https://github.com/openclaw/openclaw/commit/0297f0ed39d34dfe5b8e11969af6859d23eb57ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(code-mode): preserve concurrent tool execution safely (#114884)</code>](https://github.com/openclaw/openclaw/commit/e1ced6de50bbfd31814cadb2f35a6eca524076c4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(agents): report per-run stats (code-mode engagement, round trips, cost) in agent JSON envelopes (#114688)</code>](https://github.com/openclaw/openclaw/commit/cf4cb0ac852a1ffbe1620fc46347fe901ce1ac00)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): restore observer delivery and fence companion (#114898)</code>](https://github.com/openclaw/openclaw/commit/77e1f213b6ee5c990fa9e9b37422adbbecae4909)
+- [ ] [<code>refactor(nodes)!: retire arming leases for durable capability enablement (#114892)</code>](https://github.com/openclaw/openclaw/commit/938749180e4a4147ce9b27f5dfc51ec8f018b270)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(pr): bind review artifacts to the PR being landed (#114897)</code>](https://github.com/openclaw/openclaw/commit/cba26e3b688a7e53b04f6c46ea7355fc01106814)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(sessions): watermark-cache derived titles and single-pass list filtering (#114842)</code>](https://github.com/openclaw/openclaw/commit/81f291db58093dfd4d36aecf3e39073133689e4d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(codex): prevent long conversations slowing on thread resume (#114882)</code>](https://github.com/openclaw/openclaw/commit/f036ed43a2bf78e177afce8ea59229f6eb1bbc09)
+- [ ] [<code>fix: block CXXCPP host env override (#112684)</code>](https://github.com/openclaw/openclaw/commit/dae1817a17b49536fbf86065e0cce0b55b601dfe)
+- [ ] [<code>fix(codex): verify native patches and honor fast mode (#114907)</code>](https://github.com/openclaw/openclaw/commit/27f62f3e8e2216c3354bf961d1ef38700c2e8220)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve native trace heading typography (#103436)</code>](https://github.com/openclaw/openclaw/commit/1e3a4a69b51fb085b5dbc9bc15afffdc04cee075)
+- [ ] [<code>fix(discord): suppress unsafe outbound previews</code>](https://github.com/openclaw/openclaw/commit/021e1457e807f47ef3535db74638700e9b0090c6)
+- [ ] [<code>perf(ui): trust startup metadata and damp catalog polling (#114837)</code>](https://github.com/openclaw/openclaw/commit/9dddddb9406122e0e7f03f83b1a41925f4356359)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(process): honor cancellation during process startup (#114917)</code>](https://github.com/openclaw/openclaw/commit/7bc36b76be48a483a91dccdeaba373ac3027c53b)
+- [ ] [<code>fix(cron): normalize delivery targets and reuse prepared plans (#114918)</code>](https://github.com/openclaw/openclaw/commit/0e3e24d2d89022efffd1bbec5c4eb61263a12aae)
+- [ ] [<code>fix(ui): stabilize Workboard dashboard lifecycle under load (#114921)</code>](https://github.com/openclaw/openclaw/commit/453e3e7c21f5e31d180573aa7c5845d1e80ffea7)
+- [ ] [<code>feat(code-mode): first-class skills access (#114894)</code>](https://github.com/openclaw/openclaw/commit/61bd5af77e857ed225d44bf73dd8acf4eeab6757)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): preserve bootstrap for version-pinned skill commands (#114924)</code>](https://github.com/openclaw/openclaw/commit/929a8cf641fe82eeb5d38fc412216141aff94ea6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cron): bound alerts and complete heartbeat cleanup (#114920)</code>](https://github.com/openclaw/openclaw/commit/af0a1c0dfe162aca335f1a12b82077bdfc83f954)
+- [ ] [<code>fix(ui): draw themed chevron on settings selects instead of native arrow (#114923)</code>](https://github.com/openclaw/openclaw/commit/d7fcc3e8a6376874b456f08b5456e3f0dfcc6b6b)
+- [ ] [<code>fix(android): honor reduced motion reactively in mascot and talk waveform (#112687)</code>](https://github.com/openclaw/openclaw/commit/852120e72445fb6fc4083e2efa20fb26c7c9c583)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(cli): isolate process exit coverage (#114903)</code>](https://github.com/openclaw/openclaw/commit/258cc8496571e130af73f314379038e3e3f9643e)
+- [ ] [<code>chore(i18n): refresh native locale catalogs (#114915)</code>](https://github.com/openclaw/openclaw/commit/01f6ad67d52a79ed71adb798ebbfc6bc6f9b8c21)
+- [ ] [<code>test(ui): stabilize board ticket refresh timing (#114930)</code>](https://github.com/openclaw/openclaw/commit/63261b8c5e8f46c58bc517c6c2b405b1f6b67209)
+- [ ] [<code>refactor(delivery): centralize durable queue routing metadata (#114928)</code>](https://github.com/openclaw/openclaw/commit/e8cd287aad237b076497fc80a39aa470d96f35e3)
+- [ ] [<code>fix(tui): recover chat after dropped gateway events (#114932)</code>](https://github.com/openclaw/openclaw/commit/42fdb81d97b6110e8002c50675c614729ca07beb)
+- [ ] [<code>fix(cron): preserve edited schedules and simplify run ownership (#114919)</code>](https://github.com/openclaw/openclaw/commit/5a5255e6219a5d5ce0a3f3558b194c15edc358cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-channel): prevent duplicate agent replies (#114910)</code>](https://github.com/openclaw/openclaw/commit/76373d4eed5addf7c4cc2ffbf3d3d7ae88b1d6ea)
+- [ ] [<code>fix(ui): preserve agent, session, locale, and dashboard ownership (#114896)</code>](https://github.com/openclaw/openclaw/commit/854a7f0e9163ec117d06c5a8979e6cdf6d712d99)
+- [ ] [<code>fix(node): cancel remote commands and stabilize local inference (#114935)</code>](https://github.com/openclaw/openclaw/commit/a92f85e642b94fc59eb782cfa7f8fdadf5beb453)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: unify doctor state migration execution (#114938)</code>](https://github.com/openclaw/openclaw/commit/318807a96965e6fbeafcb389ab22cabc7ff52067)
+- [ ] [<code>test(ui): split the oversized Control UI e2e suites (#114889)</code>](https://github.com/openclaw/openclaw/commit/a5ee5039ce9c7f59b40a5ac95b296f0cd747cf04)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(providers): unify provider stream policy composition (#114929)</code>](https://github.com/openclaw/openclaw/commit/3ae29adffac527f963343d63b19b26d17b7feed1)
+- [ ] [<code>fix(ui): avoid restart prompt when toggling advanced settings (#114937)</code>](https://github.com/openclaw/openclaw/commit/31ad055259b230c34cebeec5d1d85264deeb102f)
+- [ ] [<code>fix: sharpen working-claw silhouette into a toothed pincer (#114939)</code>](https://github.com/openclaw/openclaw/commit/a4d60af42b40a9194bbf7284ad7c2a22bf018980)
+- [ ] [<code>refactor(sessions): use canonical lifecycle owners (#114936)</code>](https://github.com/openclaw/openclaw/commit/d894a235e88dd4fa9b262e09e2df7f0f9427ddba)
+- [ ] [<code>fix(ui): explain every channel setting and link its docs (#114844)</code>](https://github.com/openclaw/openclaw/commit/add9205d1a06e0b4f148d6f1546b1d8f21af1d99)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: Google invalid keys no longer stop model fallback (#114887)</code>](https://github.com/openclaw/openclaw/commit/f99d45cb5547c8a95718e8ad2856bca4d46604ee)
+- [ ] [<code>test: protect cloud worktree rediscovery state</code>](https://github.com/openclaw/openclaw/commit/2c71b3bebf194f95eeb0e3dd8922296bb8b15228)
+- [ ] [<code>fix: allow clearing unavailable worktree choice (#114947)</code>](https://github.com/openclaw/openclaw/commit/deeebed136c785bf8a8aa09eda9814c00fb7eb10)
+- [ ] [<code>fix(channels): keep healthy accounts' message actions when one credential SecretRef fails (#110329)</code>](https://github.com/openclaw/openclaw/commit/9dbfeb7e61a66bf63b62b5ca2db81cbf2550ff12)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): restore PowerShell completion after options (#114950)</code>](https://github.com/openclaw/openclaw/commit/32a390f4e4512a60543699f802772b7c3f34b240)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>fix(process): never start cancelled queued replacements (#114951)</code>](https://github.com/openclaw/openclaw/commit/8dac8967f9194557334151ff6f5f238dcb877fe2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): keep settled autosave status quiet (#114957)</code>](https://github.com/openclaw/openclaw/commit/a5d70238d7771f89490a8915de26d9d54ba381f1)
+- [ ] [<code>perf(catalog): memoize probes and single-flight identical list requests (#114961)</code>](https://github.com/openclaw/openclaw/commit/6dbe7ff1e2faff0f98c80b5fafd246b384f8439f)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(tool-display): avoid recursive search summaries (#114933)</code>](https://github.com/openclaw/openclaw/commit/ca82f7dfbc27fcd05e44573be17022879ccec7f9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(mattermost): prevent hook-controlled preview leaks</code>](https://github.com/openclaw/openclaw/commit/817aec8445d689a5322c799f215c30b7194e9b97)
+- [ ] [<code>fix(code-mode): bound and simplify worker lifecycles (#114945)</code>](https://github.com/openclaw/openclaw/commit/681535cb8b98bfe9075b99a93f853dd3f93307be)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(pr): provide ripgrep surface in review harness (#114958)</code>](https://github.com/openclaw/openclaw/commit/faa7b2fe11328993ee4b540c28507ec159911e22)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(apps): fence stale mobile delivery state</code>](https://github.com/openclaw/openclaw/commit/7838c6a6fd42435b758b95abc0cc992721ead959)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): honor models.providers auth mode pin in credential eligibility (#114944)</code>](https://github.com/openclaw/openclaw/commit/0778c397fe44a90c2d710a4ea90a9423fc11e7b4)
+- [ ] [<code>feat(ui): expand the Lobsterdex with 14 palettes, lore tooltips, and a collection page (#114959)</code>](https://github.com/openclaw/openclaw/commit/54309a832aef002410df0beae40f56336c711800)
+- [ ] [<code>fix(channels): keep running-channel connectivity tri-state (#114970)</code>](https://github.com/openclaw/openclaw/commit/30fda068aa5461b0000dbefbd16eac0322606c73)
+- [ ] [<code>fix(mac): bound node worker crash retries (#114974)</code>](https://github.com/openclaw/openclaw/commit/4b59f06d274d422d079cace798d308560f4f02cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(imessage): add native poll approval controls</code>](https://github.com/openclaw/openclaw/commit/42aeccd149721b3537a6713153c93dff7da1c14a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(imessage): harden native approval polls</code>](https://github.com/openclaw/openclaw/commit/245dc90543db2ea6837548a96a30fb5d4a6ee0db)
+- [ ] [<code>fix(imessage): resolve approval controls safely</code>](https://github.com/openclaw/openclaw/commit/6b5eaa6e223aade1ff44bb8a9e055d0805b4b924)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): narrow channel approval runtime types</code>](https://github.com/openclaw/openclaw/commit/6df2be1d068b4c40fc71b35234c30b42a8d0a7b1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(imessage): keep approval test resets internal</code>](https://github.com/openclaw/openclaw/commit/f1f46f58a4f0e06c3f9e62c25cf65bcd97b3d4b4)
+- [ ] [<code>fix(imessage): unblock text approval fallback</code>](https://github.com/openclaw/openclaw/commit/2987571782893d3c9568852861ab579739a07fea)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(auto-reply): satisfy approval boundary checks</code>](https://github.com/openclaw/openclaw/commit/5e481fdeae920a94453a888e0b7c01c5ca137750)
+- [ ] [<code>fix(auto-reply): keep fast approval result private</code>](https://github.com/openclaw/openclaw/commit/cb167acf5e44f0f022c1561575fb67a7dc24b85e)
+- [ ] [<code>fix(discord): reject mismatched reply context (#114716)</code>](https://github.com/openclaw/openclaw/commit/28ecf953f382011c91d797214af4efe4732cce94)
+- [ ] [<code>refactor(plugins): reuse prepared channel discovery (#114942)</code>](https://github.com/openclaw/openclaw/commit/d6096f36e45f1dc762aea2c9a0770c078ef6a229)
+- [ ] [<code>fix(config): refresh generated docs baseline</code>](https://github.com/openclaw/openclaw/commit/a15f080a123fcb58bf1fe6958b1f9242037741de)
+- [ ] [<code>fix(mac): cache gateway profile registry and isolate dev keychain items (#114956)</code>](https://github.com/openclaw/openclaw/commit/2ed2e46763853e60919f8c7ba75652308fc4cb17)
+- [ ] [<code>fix: trim trailing whitespace from final reply chunks (#114973)</code>](https://github.com/openclaw/openclaw/commit/85f03ac6379ad6bb16db2042a9df81143a5e73ea)
+- [ ] [<code>fix(i18n): refresh native source baseline</code>](https://github.com/openclaw/openclaw/commit/5c9564c42871a6771ca0c68959f5e3c691f4f914)
+- [ ] [<code>feat(agents): default code mode to per-model auto activation (#114906)</code>](https://github.com/openclaw/openclaw/commit/c903ca8158d73a67016556b3dae3e3f6aaec4d08)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(gateway): single-entry reads and config-keyed projections for chat startup (#115007)</code>](https://github.com/openclaw/openclaw/commit/b0a8346ae2c21eb0826cec4a63432390d54ff4e6)
+- [ ] [<code>refactor(auto-reply): deduplicate command context rewrites (#115002)</code>](https://github.com/openclaw/openclaw/commit/b3fe7a1246dccf457bab6420449f058760771f8b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): let crash-looping channels reach their give-up state (#114976)</code>](https://github.com/openclaw/openclaw/commit/991a521d12a9d7b373bcae1b303a3e258ecb9c6f)
+- [ ] [<code>fix(config): demote tool policy allowlists to advanced settings tier (#114941)</code>](https://github.com/openclaw/openclaw/commit/177f81028e248c62addef1b009b48a097b59e285)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(channels): fail channel start when the durable ingress queue is denied (#114998)</code>](https://github.com/openclaw/openclaw/commit/ca2681313b89206850218d39842ebaf4f2ab4fe5)
+- [ ] [<code>fix(ui): prevent duplicate Workboard widget loads and card moves (#114972)</code>](https://github.com/openclaw/openclaw/commit/81478b564e5bc935106774a21c64f0caf0ed01af)
+- [ ] [<code>fix(agents): prefer native Windows PowerShell on PATH (#114999)</code>](https://github.com/openclaw/openclaw/commit/d9b498f7f06d06a6e3f8e87068b15f248d9193a5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(usage): normalize current MiniMax quota windows (#115030)</code>](https://github.com/openclaw/openclaw/commit/a1174b10b5421af1ad388c3f4def9f550b4391b0)
+- [ ] [<code>fix(macos): stop replacement handoff retry storms (#114975)</code>](https://github.com/openclaw/openclaw/commit/86e92486aaf7656a85a806c957e7e3e03c70c437)
+- [ ] [<code>fix(tui): recover from transient session subscription failures (#115010)</code>](https://github.com/openclaw/openclaw/commit/0bc6f7525aec347a741bc24b285fb553d0abcb21)
+- [ ] [<code>fix(qa-lab): filter unsupported profile channels (#115026)</code>](https://github.com/openclaw/openclaw/commit/d2d6108d2c1728b7139505d7b1fb83f80367a630)
+- [ ] [<code>fix(ui): mirror optimistic session-settings patches into the sessions capability snapshot (#115009)</code>](https://github.com/openclaw/openclaw/commit/0771486cc1b0d5128386e78cbd5f60f0ece42252)
+- [ ] [<code>fix(providers): prevent idle timeouts during hidden reasoning (#114997)</code>](https://github.com/openclaw/openclaw/commit/0216fbd4e4911a6794d174b40c26fe390b596034)
+- [ ] [<code>improve(gateway): reduce plugin startup memory (#115020)</code>](https://github.com/openclaw/openclaw/commit/6b255f1f747ae3ef0f7fb4e69ae3de0344a762e6)
+- [ ] [<code>fix(slack): bound read-only Web API calls (#115018)</code>](https://github.com/openclaw/openclaw/commit/78d6c6c0471723721243d67fb053f3810c622bf8)
+- [ ] [<code>refactor(fs): adopt fs-safe 0.5 core primitives (#113705)</code>](https://github.com/openclaw/openclaw/commit/0d7fb8eb392fa59714d7bcec3f112898c31441a9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(agents): prevent cancelled prompts from spawning zombie runs (#115011)</code>](https://github.com/openclaw/openclaw/commit/fe19f8f54bb29c85e5d124cef79b009ffbe256f3)
+- [ ] [<code>fix(ui): clarify chat startup status labels (#115044)</code>](https://github.com/openclaw/openclaw/commit/c738887f054b840e58620d511c63a9aba31d6aa2)
+- [ ] [<code>refactor(ui): restructure Communications settings (Messages/Talk/Voice) (#114948)</code>](https://github.com/openclaw/openclaw/commit/5a8939d88e162cce00b5d67191ab57bb9081ac44)
+- [ ] [<code>improve(sqlite): reuse synchronous prepared statements (#114777)</code>](https://github.com/openclaw/openclaw/commit/accc6ccaa2902970f68ac0f41b6f7ef8a57030f6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(plugins): remove dead provider test reset (#115043)</code>](https://github.com/openclaw/openclaw/commit/75531b2fb706491370d57b3f504648f918846fd1)
+- [ ] [<code>fix: macOS reports CLI-only Tailscale as not installed (#114179)</code>](https://github.com/openclaw/openclaw/commit/5d4ff17d7d208ccfdf98da042a69ccb20c35edba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales</code>](https://github.com/openclaw/openclaw/commit/6fd32035de3454010e1212db35cdf6c285798cf7)
+- [ ] [<code>fix(i18n): restore control UI locale terminology</code>](https://github.com/openclaw/openclaw/commit/1c9fa8f51439bc362d17895bba4991e3940dc087)
+- [ ] [<code>fix(i18n): polish generated locale labels</code>](https://github.com/openclaw/openclaw/commit/719950edd2968693ad76f84f24921e81865258e7)
+- [ ] [<code>chore(ui): align locales with current catalog</code>](https://github.com/openclaw/openclaw/commit/2d10e337908d3f3140f59c77fcf8682410534e0c)
+- [ ] [<code>fix(gateway): shutdown reports unresolved SecretRef warnings when channel credentials use exec/file refs (#112717)</code>](https://github.com/openclaw/openclaw/commit/7072ba50e2ffc09cfa1cc87b8be05c27ea131ff3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): keep fork embedded-agent shard alive on cold runners (#115035)</code>](https://github.com/openclaw/openclaw/commit/97c19a98e35fa23f0300bbcd1003511dc5f77e1a)
+- [ ] [<code>fix(cli): harden infer provider workflows (#115054)</code>](https://github.com/openclaw/openclaw/commit/521d05f290c2f86d3237db7b219de231a9975c10)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): preserve QMD results in noisy command output (#115023)</code>](https://github.com/openclaw/openclaw/commit/81628fb3232a3cf6fce04f2aa0a8d11a98331c76)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa-lab): retry failed suite partitions (#115046)</code>](https://github.com/openclaw/openclaw/commit/90564722ecc1052dbd129cb594be210bbbdb50bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(node): harden reconnect and local inference cancellation (#115033)</code>](https://github.com/openclaw/openclaw/commit/98b8a18b4c2db471f20412da8930affa79442127)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(android): remove unused Wear voice button (#115061)</code>](https://github.com/openclaw/openclaw/commit/9000da0451d8bc1aa7ada872e9f093ee52af0ac2)
+- [ ] [<code>refactor(ui): consolidate gateway host/status onto the Gateway settings page (#114971)</code>](https://github.com/openclaw/openclaw/commit/b6f8641c287edab64e342273f4aff7a5ace308fa)
+- [ ] [<code>perf(ui): keep chat render state alive across session switches (#115059)</code>](https://github.com/openclaw/openclaw/commit/3f209cf1b7b621e91f246df721840703efac5290)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(imessage): render complete poll selections [AI-assisted] (#114714)</code>](https://github.com/openclaw/openclaw/commit/4b32e6f0e83ecebdafe2e2ba179b131f23eac795)
+- [ ] [<code>chore(ui): align locales with final catalog</code>](https://github.com/openclaw/openclaw/commit/958dc13f03217d0bfbd2dbf68f5d8fd984846f0b)
+- [ ] [<code>fix: keep shared web and TUI chats in sync (#115066)</code>](https://github.com/openclaw/openclaw/commit/fdc1ca073cdbde988badc48187422855c45b30bc)
+- [ ] [<code>fix: full release validation avoids embedded-agent shard stalls (#115019)</code>](https://github.com/openclaw/openclaw/commit/c1414962173cba5c369d2fb85cb2de621883b34b)
+- [ ] [<code>fix: generated images do not appear in native chat (#115042)</code>](https://github.com/openclaw/openclaw/commit/4b05d83035cc7b466f155645603ce87d5b9fdf1a)
+- [ ] [<code>fix(slack): stop cyclic directory pagination (#115056)</code>](https://github.com/openclaw/openclaw/commit/50a97288dd030279702158e206c741eab46f0823)
+- [ ] [<code>fix(security): harden CodeQL-reported boundaries (#115055)</code>](https://github.com/openclaw/openclaw/commit/f8ed8ecf4faa61a8cd3b71b9a89576bee4388578)
+- [ ] [<code>fix(deps): remediate tar and Hono advisories (#115029)</code>](https://github.com/openclaw/openclaw/commit/9d5bec848780f9a8a2ae711dbcd08e11c08cd43d)
+- [ ] [<code>fix: speed up doctor on large SQLite state (#115005)</code>](https://github.com/openclaw/openclaw/commit/c1dcabce150bdfc8535ba49d8ff05cfc0291ce1c)
+- [ ] [<code>refactor(ui): share board provider helpers (#115082)</code>](https://github.com/openclaw/openclaw/commit/4d105ebdd0ec288deb14f7a5ab44a3ae19adf153)
+- [ ] [<code>fix(matrix): render message history and collapse streamed edits (#115014)</code>](https://github.com/openclaw/openclaw/commit/c9b0f4260ff6e600e59608472929ed844d2b77b9)
+- [ ] [<code>fix(openai): honor per-turn timeout and retry controls (#115017)</code>](https://github.com/openclaw/openclaw/commit/d1b8701e3717d7e8cc18ef397d09b72b8a286b90)
+- [ ] [<code>refactor(google-meet): reuse OAuth option resolver (#115096)</code>](https://github.com/openclaw/openclaw/commit/086d17dd0d22576d38613d8ca01a2ec5679a6ebf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(codex): reuse live app-server threads safely (#115089)</code>](https://github.com/openclaw/openclaw/commit/92b4af2dc840810798eea1623c61ba7888a35a09)
+- [ ] [<code>fix(gateway): keep tearing down listeners when cron.stopAndDrain() rejects on shutdown (#114848)</code>](https://github.com/openclaw/openclaw/commit/dd73d4b0da2deddd59b4d026ee9f8bb32366f754)
+- [ ] [<code>fix(openshell): restore sandbox creation on current OpenShell (#115058)</code>](https://github.com/openclaw/openclaw/commit/ac157b3af0cd80a9f7aad47b771dd9abf9b194b0)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): restore Android CodeQL compatibility (#115095)</code>](https://github.com/openclaw/openclaw/commit/9fbe9abc86e9936cfb71eabbbcdae9cce083cdd2)
+- [ ] [<code>fix(discord): keep reasoning replies within message limits (#115092)</code>](https://github.com/openclaw/openclaw/commit/7d69c518197d43755bb401630b1832425688d918)
+- [ ] [<code>feat(system-agent): give Ask OpenClaw ambient page context (#114943)</code>](https://github.com/openclaw/openclaw/commit/2025c3d1b87dbd66158f262348feb04be1e01578)
+- [ ] [<code>fix(slack): abort health probes within their deadline (#107835)</code>](https://github.com/openclaw/openclaw/commit/07768aa5f684b26cd052bc303d1af488eff64108)
+- [ ] [<code>fix(infra): preserve text in PowerShell clipboard fallback (#113835)</code>](https://github.com/openclaw/openclaw/commit/edd1c4d30af88aaced906a7c9f2dd9f82bb33e27)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(android): finish Wear OS release readiness [AI-assisted] (#110425)</code>](https://github.com/openclaw/openclaw/commit/37bddc75ccc95632f1265c7f03f3c77ead7f3094)
+- [ ] [<code>fix(cron): allow no-timeout scheduled jobs in Control UI (#115090)</code>](https://github.com/openclaw/openclaw/commit/18556423da811ef6bd4e6e4f75f4b767b6a66aaf)
+- [ ] [<code>fix(config): accept documented global exec approval notice delay (#115101)</code>](https://github.com/openclaw/openclaw/commit/9c051c6513459602f689d861ddae0c7a0ae03387)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(browser): reject startup when control ports are occupied (#109994)</code>](https://github.com/openclaw/openclaw/commit/4c2d06be2bf8860e5e67c1a14d99a185de960729)
+- [ ] [<code>feat(memory): provenance-gated memory with dreaming on by default (#114819)</code>](https://github.com/openclaw/openclaw/commit/28630a9a6501dd3835d1cf5660eb5dd9c337d3bc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(msteams): display decoded attachment filenames (#115127)</code>](https://github.com/openclaw/openclaw/commit/ecd22f5e2d7014de911ca55f366212eb37a8a356)
+- [ ] [<code>refactor(plugin-sdk): share HTML escaping (#115109)</code>](https://github.com/openclaw/openclaw/commit/8bae9cebafd8c267a2e91505271b6a24b7e8651c)
+- [ ] [<code>perf(ui): flip sessions instantly and drop redundant switch RPCs (#115129)</code>](https://github.com/openclaw/openclaw/commit/7f37900bca09917a5355e32d46f8e6cab1482d10)
+- [ ] [<code>fix(slack): keep previews with custom outbound identity (#115114)</code>](https://github.com/openclaw/openclaw/commit/4233301c7c504918607642b6006ebdf4ca2f2b8b)
+- [ ] [<code>fix: stop synthetic model tests from stalling CI (#115139)</code>](https://github.com/openclaw/openclaw/commit/a20c5550c87490de67701effd87145c2d959aa7f)
+- [ ] [<code>fix(matrix): reject non-canonical synthetic thread cursors (#111243)</code>](https://github.com/openclaw/openclaw/commit/1d047ac4f18f744a09b97133ead30ca1ee31c751)
+- [ ] [<code>fix(release): accept advisory runtime gaps (#115140)</code>](https://github.com/openclaw/openclaw/commit/7cf14c12c8be60eca1374a7be464fe2feaa96ebb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): prevent silent corruption when editing non-UTF-8 files (#115088)</code>](https://github.com/openclaw/openclaw/commit/b6bebfa73c388632c4cef03dafe1ca5c6cd11e41)
+- [ ] [<code>fix(tlon): use waitUntilAbort to fix monitor abort-race hang (#114940)</code>](https://github.com/openclaw/openclaw/commit/07c4f7b7219299098c66cb501e1060b5190e0d78)
+- [ ] [<code>docs(mistral): fix broken adjustable reasoning docs URL (#114867)</code>](https://github.com/openclaw/openclaw/commit/d57e228c3a54a86f0dff8ef55d52d5cca3ab6cbf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(state): accept pre-provenance agent DBs missing memory chunk metadata columns (#115144)</code>](https://github.com/openclaw/openclaw/commit/59f8245f368e4067cde68ae5a501a663e18a069a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(system-agent): host skills and web-search setup in Ask OpenClaw (#115130)</code>](https://github.com/openclaw/openclaw/commit/29b6f5625461572e5b87e002d77a27039479ae73)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(openai): preserve incomplete Responses stream output (#115132)</code>](https://github.com/openclaw/openclaw/commit/d28fb5265111592573d425084b8188dd163c6d41)
+- [ ] [<code>fix(ui): hide Cron mutations from read-only operators (#115091)</code>](https://github.com/openclaw/openclaw/commit/2a94aa57eb14682deaf123a0ac4bf14256ad7469)
+- [ ] [<code>fix(feishu): inspect canonical doctor transcripts (#115148)</code>](https://github.com/openclaw/openclaw/commit/f66a06e420194d5849b4b5552330ce31a3ab7196)
+- [ ] [<code>fix(ci): compare env ratchet at branch fork (#115149)</code>](https://github.com/openclaw/openclaw/commit/fe035de4d61d2de1eeae5847b12904b9b021e569)
+- [ ] [<code>fix(plugins): report missing plugin modules as missing, not boundary escapes (#115053)</code>](https://github.com/openclaw/openclaw/commit/0ecd449a438d75b2a3a98040bb3d82f3d018e586)
+- [ ] [<code>test(memory): align QMD alias identity fixture (#115150)</code>](https://github.com/openclaw/openclaw/commit/e834293747d15f8753c547434f4444f6eab21a22)
+- [ ] [<code>test: align release validation fixtures (#115146)</code>](https://github.com/openclaw/openclaw/commit/9692e621194c37f8c695711ba01796b191343506)
+- [ ] [<code>fix(twitch): use managed runtime dependencies (#115147)</code>](https://github.com/openclaw/openclaw/commit/ca4727e1a195495dd0c8a46a6c620e517d173841)
+- [ ] [<code>fix(kimi): flag K3 as code-mode preferred (#115022)</code>](https://github.com/openclaw/openclaw/commit/64991433137f838f3aa9ec405d828b3f6168edfc)
+- [ ] [<code>fix: reject malformed gateway upgrade claims (#115038)</code>](https://github.com/openclaw/openclaw/commit/beab295d24e6a44efea7cef3bd38b9415f1dffc5)
+- [ ] [<code>fix: reject unsafe SSH sandbox targets [AI] (#115036)</code>](https://github.com/openclaw/openclaw/commit/edea5287dc1d1ae8833fd02af336e7f242b482b2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(logging): scale heap pressure with V8 limit (#115153)</code>](https://github.com/openclaw/openclaw/commit/20eda756fae6599bc9d776815016f555a64d77d6)
+- [ ] [<code>feat(browser): return inline page state after navigation (#114814)</code>](https://github.com/openclaw/openclaw/commit/a54e28e8e91915a6af4d20903089d91c559c71f8)
+- [ ] [<code>fix(scripts): bound android-release-signing exec operations (#110822)</code>](https://github.com/openclaw/openclaw/commit/89b6d85cdd862d3315927abcc604c9e128e67314)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
