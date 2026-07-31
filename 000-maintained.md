@@ -336,11 +336,18 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.8 to 4.1.9</code>](https://github.com/krille-chan/fluffychat/commit/38690be3e902c660c010b3c9d866d66efa349952)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://gitlab.howett.net/DHowett/ectool Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://gitlab.howett.net/DHowett/ectool /home/runner/work/what-changed/what-changed/src/../work/ectool
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ectool'...
-fatal: unable to access 'https://gitlab.howett.net/DHowett/ectool/': The requested URL returned error: 502
-'
+
+#### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
+
+- [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
+- [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
+- [ ] [<code>build: raise minimum cmake version</code>](https://gitlab.howett.net/DHowett/ectool/commit/b600f3175b02f474d0d315dc1ad5fcde91a821ff)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fwpdversion: add sakura, tulip, marigold and sunflower</code>](https://gitlab.howett.net/DHowett/ectool/commit/09bcb1e0e53ea70b6c1ca8ca8ac33ca0ecc1fbc9)
+- [ ] [<code>win32: add a resource file with version info</code>](https://gitlab.howett.net/DHowett/ectool/commit/bc9f9c9ba293025510b9184f5e72710b02934cc5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ver: update to 0.0.2, fix win32 res to use CROS macro</code>](https://gitlab.howett.net/DHowett/ectool/commit/38f92b1f2773c30c0d911453051619c0a07773d3)
+  - <sub>Tags: <code>v0.0.2</code></sub>
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
@@ -1698,6 +1705,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>feat(go.d): add DynCfg operational test for local listeners (#23324)</code>](https://github.com/netdata/netdata.git/commit/4f1fffed6cd480aaca4159763629ec3b9b8d9773)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-967-nightly.</code>](https://github.com/netdata/netdata.git/commit/629cd16a39331287d26021d7247fe784d222a912)
+- [ ] [<code>test(go.d): stabilize jobmgr lifecycle integrations (#23328)</code>](https://github.com/netdata/netdata.git/commit/bf44ad6164a6c8163bdb933a9b559529cc50790e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(go.d/discovery): test HTTP configurations operationally (#23327)</code>](https://github.com/netdata/netdata.git/commit/2fa6aa5cdebb24f9027432866371040b909f3732)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -3801,6 +3812,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(sdk): drop num_chunks getter, use div_ceil, flatten info.json fetch</code>](https://github.com/qualcomm/GenieX/commit/01e417ff9bfcdd499c7fe4af3b95255f2941182c)
 - [ ] [<code>Merge pull request #1195 from qualcomm/feat/llama-cpp-speculative</code>](https://github.com/qualcomm/GenieX/commit/9edbd9207c922ed3130b07303fa7b05678f46e91)
   - <sub>Tags: <code>v0.3.18-alpha.5</code></sub>
+- [ ] [<code>fix(qairt): resolve context-binary shards from ctx-bins, not a *.bin glob</code>](https://github.com/qualcomm/GenieX/commit/03014287e7ac1ce22da806266e7f238934792653)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore(sdk): bump geniex-qairt to pick up the Gemma 4 dispatch fix</code>](https://github.com/qualcomm/GenieX/commit/5792cb6e0b8eff4c4301bf963040b92071a255ad)
+- [ ] [<code>Merge pull request #1257 from qualcomm/dev/david/gemma4-downstream-support</code>](https://github.com/qualcomm/GenieX/commit/40fad4aafeca5640feceb06d72275d935f6ca4b4)
+  - <sub>Tags: <code>v0.3.18-alpha.6</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -19895,6 +19911,65 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(matrix): use temp directory tracker</code>](https://github.com/openclaw/openclaw/commit/f36bfabf89615f5af49175f181ee0ffd740070e2)
 - [ ] [<code>test(matrix): keep temp tracker plugin-local</code>](https://github.com/openclaw/openclaw/commit/7051d94f79fc2c134a5a40f97092f39fb8ba301e)
 - [ ] [<code>test(matrix): use preferred temp root</code>](https://github.com/openclaw/openclaw/commit/b7bfe21348c24abdb7d50ef257ef8b4bce4f4a3f)
+- [ ] [<code>Android: add adaptive app navigation sidebar (#113908)</code>](https://github.com/openclaw/openclaw/commit/47f8c1d6b0faea7eb8dd62776052e9de3e7b19f0)
+- [ ] [<code>fix(gateway): validate chat completion token caps (#116563)</code>](https://github.com/openclaw/openclaw/commit/b4d9cafa14078c682aff5c1e1c036c9500f362f0)
+- [ ] [<code>fix: forward stored auth to transport-owning harnesses</code>](https://github.com/openclaw/openclaw/commit/0723190a577feb51c3c382444786c31ae147e479)
+- [ ] [<code>fix(voice-call): cancel native consults on teardown</code>](https://github.com/openclaw/openclaw/commit/1fac5d69388f93ac17ee1f4c8100936749c8d30d)
+- [ ] [<code>test(voice-call): cover late native consult results</code>](https://github.com/openclaw/openclaw/commit/645929da80ed686ae102210bbf5574fbb102e826)
+- [ ] [<code>fix(voice-call): guard synchronous realtime close</code>](https://github.com/openclaw/openclaw/commit/2269e0cfcf974c0c00cec8e9ff48dbfbab98c363)
+- [ ] [<code>test(voice-call): cover synchronous realtime close</code>](https://github.com/openclaw/openclaw/commit/67c1e2aac95fd3b08f37f8da9a051beb4b570b99)
+- [ ] [<code>fix(voice-call): retain consult owner in const cell</code>](https://github.com/openclaw/openclaw/commit/a16453b538f61df3d41a188ad5dc592a98e1d23f)
+- [ ] [<code>test(voice-call): cover consult cancellation before start</code>](https://github.com/openclaw/openclaw/commit/bec4243ed2b82ed7c25fce335e9f76da88282f9e)
+- [ ] [<code>fix(voice-call): stop cancelled consults before start</code>](https://github.com/openclaw/openclaw/commit/f65b514eb0cc37d97a12158df69448e1d7136f5f)
+- [ ] [<code>fix(voice-call): preserve consult working handshake</code>](https://github.com/openclaw/openclaw/commit/d4cb5ef6e35dbf63c45b371cc1941226785c9c07)
+- [ ] [<code>fix(voice-call): type cancelled consult outcomes</code>](https://github.com/openclaw/openclaw/commit/4c331166c40cccb6e4d2da1136c921faed1cc8c1)
+- [ ] [<code>fix(outbound): recognize current-source message-tool sends (#116560)</code>](https://github.com/openclaw/openclaw/commit/dc34274397f987811f99782350b409b1c7584f84)
+- [ ] [<code>fix(macos): wait for the current reconnect snapshot (#116550)</code>](https://github.com/openclaw/openclaw/commit/60bf2bd1adebbd22b5b84f39b87a35e23cff9816)
+- [ ] [<code>fix(codex): add remote WebSocket heartbeat and reconnect (#116135)</code>](https://github.com/openclaw/openclaw/commit/43156fe482f3bff6c2f69178776d1b6f708db93a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(discord): cover realtime output backpressure</code>](https://github.com/openclaw/openclaw/commit/365d61d5360778c77046cca9a802743140d8d8a2)
+- [ ] [<code>fix(discord): cancel backpressured realtime playback</code>](https://github.com/openclaw/openclaw/commit/118fa6b8b89ee6003aafb30349698402e78200df)
+- [ ] [<code>test(discord): cover deferred backpressure terminals</code>](https://github.com/openclaw/openclaw/commit/c3145b622ce7b7fd74a6f56b474940e87773a4a7)
+- [ ] [<code>fix(auto-reply): keep explicit NO_REPLY silent (#116548)</code>](https://github.com/openclaw/openclaw/commit/138be7fd86d46c636d7b63b5a81fd0c3f9a01199)
+- [ ] [<code>fix(cli): close MCP listener after one-shot commands</code>](https://github.com/openclaw/openclaw/commit/2b639649b317c2866edc37b274981581d8284c1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: prevent configured models from stalling startup (#116553)</code>](https://github.com/openclaw/openclaw/commit/f4a7f2b553d3fd788552f3f3ae1004ecac8b2370)
+- [ ] [<code>fix(ci): extend OpenAI live profile setup budget (#116580)</code>](https://github.com/openclaw/openclaw/commit/a473fc6f3e21489147ade3b4dfa1bac6a5a09a08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa-lab): preserve Matrix fault proxy identity</code>](https://github.com/openclaw/openclaw/commit/db4ad84d7f0b22664f65a2e98a73a8cdd599f7b7)
+- [ ] [<code>fix(agents): preserve locked session model routes</code>](https://github.com/openclaw/openclaw/commit/9bef0455bab33e7a615e7dc79cef3c37a6ba9206)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): accept concrete versions selected by ranges (#116585)</code>](https://github.com/openclaw/openclaw/commit/0982ddb35a853ff70b40001490bb38508a1555ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add OpenClaw TUI prototype skill (#116583)</code>](https://github.com/openclaw/openclaw/commit/0a9bb046d6d986640f61a75b49d4b6afbfda5639)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(i18n): refresh native locales (#116567)</code>](https://github.com/openclaw/openclaw/commit/8c6104457614370747ac1e67d2a95e052be71ebf)
+- [ ] [<code>test(buzz): add live QA Lab channel lane (#116298)</code>](https://github.com/openclaw/openclaw/commit/61cf4b924660434cbfb374f4f0f7ef9893a00d54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(trajectory): preserve prompts in oversized events (#116220)</code>](https://github.com/openclaw/openclaw/commit/bca8dd9cc1620dc680fede4348dbf8b53aafa8a0)
+- [ ] [<code>fix(cli): keep Gateway auth failures parseable in JSON (#116597)</code>](https://github.com/openclaw/openclaw/commit/d81465f779e4b5a6d42734333c5c689725d8add1)
+- [ ] [<code>fix(plugins): keep registry sqlite root consistent (#116427)</code>](https://github.com/openclaw/openclaw/commit/3a6ee79a72e4375b65fd3ff4201cceb737272f3a)
+- [ ] [<code>feat(setup): improve local model onboarding</code>](https://github.com/openclaw/openclaw/commit/94b85cba5fd8462041abc9c2f65d9a2431a47718)
+- [ ] [<code>merge: sync origin/main</code>](https://github.com/openclaw/openclaw/commit/f50d4cff4517657430029957a818ded0117497be)
+- [ ] [<code>fix(setup): sync macOS onboarding strings</code>](https://github.com/openclaw/openclaw/commit/dc5d1c3f3852bac331ec90eda3aa4a47be556343)
+- [ ] [<code>chore(setup): refresh generated native artifacts</code>](https://github.com/openclaw/openclaw/commit/3fba74802bf3521e5dc4ba79a47f5dea807a8e51)
+- [ ] [<code>fix(ci): restore beta release harnesses (#116596)</code>](https://github.com/openclaw/openclaw/commit/39156a99cd1a8ff02ec914a9fa909d1a4ad70262)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(setup): allow timeout fallback without prepare options</code>](https://github.com/openclaw/openclaw/commit/af82ca471c99f210e2340ca17e9a43768d1ec6ff)
+- [ ] [<code>merge: sync origin/main</code>](https://github.com/openclaw/openclaw/commit/d7b31e59fd732f3414a1f157c6a69e2e20ff6253)
+- [ ] [<code>fix(agents): resume Code Mode through gateway restarts (#116605)</code>](https://github.com/openclaw/openclaw/commit/32036c473dec656b16c315581280cc807da2a6aa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ui): settle custodian mobile layout assertions (#116613)</code>](https://github.com/openclaw/openclaw/commit/871abad910e76e76cf9f5922ce091ede076bbd3b)
+- [ ] [<code>fix(ai): prevent websocket cache clobber on concurrent acquire (#116216)</code>](https://github.com/openclaw/openclaw/commit/834fb2e3c2cbe539274fc85a009cc625383bf085)
+- [ ] [<code>merge: sync origin/main</code>](https://github.com/openclaw/openclaw/commit/2bd9329af24f038eba188b665f36b5041d2538b9)
+- [ ] [<code>fix(tui): contain shutdown phase failures (#116609)</code>](https://github.com/openclaw/openclaw/commit/3b864a18c47d525206ca38fa4045b48a669efb9d)
+- [ ] [<code>fix(android): preserve device work across lifecycle changes (#116593)</code>](https://github.com/openclaw/openclaw/commit/88876f780b81d77bc41d13b29efb42b7992aac6e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): run fs-safe removal Windows coverage (#116510)</code>](https://github.com/openclaw/openclaw/commit/d5ab7d7d036baab8cb82eccd854615d0bef783fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(codex): wait for heartbeat scheduling before timer advance (#116617)</code>](https://github.com/openclaw/openclaw/commit/e0e0b7cedeac45260b49d411725b756ae9259793)
+- [ ] [<code>fix(codex): /steer hangs indefinitely when the app-server does not answer turn/steer (#116565)</code>](https://github.com/openclaw/openclaw/commit/5e2fec29694f058aadaaea1c460065b7363082f8)
+- [ ] [<code>merge: improve local model onboarding (#116606)</code>](https://github.com/openclaw/openclaw/commit/0929a00c37410c0ee55a3801fa19dd35f6218d6f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -19972,11 +20047,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 269774 ms: Couldn't connect to server
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
