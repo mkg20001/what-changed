@@ -396,8 +396,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>popupMenu.js, close menus immediately on panel-click events, to allow</code>](https://github.com/linuxmint/cinnamon/commit/c709a6c1384d42ceacf2e0ff68e0e5ed1f704280)
 - [ ] [<code>Improve debian packaging (#13811)</code>](https://github.com/linuxmint/cinnamon/commit/22e0e5c5bcc8f61bdc0cf3a6fe34a1bbdeee2996)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>panel.js: Fix layout restoration when hotplugging monitors.</code>](https://github.com/linuxmint/cinnamon/commit/e3cbc04410b9f4964fec9aed421a337bd443ffd1)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -726,6 +727,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>keybindings: Match the iso_next_group accelerator on keysym, not</code>](https://github.com/linuxmint/muffin/commit/afda8adbfe053400576d5e24d1bf09a312edeb18)
 - [ ] [<code>wayland: Fix HW cursor never hiding on wl_pointer.set_cursor(nil)</code>](https://github.com/linuxmint/muffin/commit/81306a461f0b091f747d7335ef02c0380dc62e98)
+- [ ] [<code>kms: Fail cleanly when a device cannot modeset</code>](https://github.com/linuxmint/muffin/commit/b02e637d35e442defdc3e01b68da7d6b4a3785a5)
+- [ ] [<code>native: Wait for an active logind session before backend init</code>](https://github.com/linuxmint/muffin/commit/57145cfe61da6c3a87105290573755253a362ce6)
+- [ ] [<code>renderer/native: Probe gbm scanout support instead of assuming it</code>](https://github.com/linuxmint/muffin/commit/70496cba3de59c9a569b960c46169929de0382e0)
+- [ ] [<code>wayland: Advertise the render node of the GPU we composite on</code>](https://github.com/linuxmint/muffin/commit/458af175942f64f1fe2628fcae69d384dcd077d2)
+- [ ] [<code>renderer/native: Allocate cross-GPU surfaces linear</code>](https://github.com/linuxmint/muffin/commit/b5a7ce56ebb064d34e532d42dcece8c2979075ff)
+- [ ] [<code>renderer/native: Drop unused meta_renderer_native_use_modifiers()</code>](https://github.com/linuxmint/muffin/commit/4fdd5029dfd37a425191ceeefd425d0db4dc97fe)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
