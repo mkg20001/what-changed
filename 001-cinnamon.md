@@ -398,7 +398,13 @@
 - [ ] [<code>Improve debian packaging (#13811)</code>](https://github.com/linuxmint/cinnamon/commit/22e0e5c5bcc8f61bdc0cf3a6fe34a1bbdeee2996)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>panel.js: Fix layout restoration when hotplugging monitors.</code>](https://github.com/linuxmint/cinnamon/commit/e3cbc04410b9f4964fec9aed421a337bd443ffd1)
+- [ ] [<code>looking-glass: replace pyinotify with Gio.FileMonitor (#13898)</code>](https://github.com/linuxmint/cinnamon/commit/4b5791b536251ea99bf69e751f885428d9bc6df2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-looking-glass.py: Handle deleted/missing file raising</code>](https://github.com/linuxmint/cinnamon/commit/d99c79d88ee91c45b6e6cc184c514042e32ae8bd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-looking-glass.py: Change how file content tailing is</code>](https://github.com/linuxmint/cinnamon/commit/9ae8d6a7d93147c5a34dced2af133c8dcf015aee)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
