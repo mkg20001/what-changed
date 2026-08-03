@@ -743,6 +743,8 @@
 - [ ] [<code>wayland: Advertise the render node of the GPU we composite on</code>](https://github.com/linuxmint/muffin/commit/458af175942f64f1fe2628fcae69d384dcd077d2)
 - [ ] [<code>renderer/native: Allocate cross-GPU surfaces linear</code>](https://github.com/linuxmint/muffin/commit/b5a7ce56ebb064d34e532d42dcece8c2979075ff)
 - [ ] [<code>renderer/native: Drop unused meta_renderer_native_use_modifiers()</code>](https://github.com/linuxmint/muffin/commit/4fdd5029dfd37a425191ceeefd425d0db4dc97fe)
+- [ ] [<code>cursor: Reuse the cursor sprite when the shape is unchanged</code>](https://github.com/linuxmint/muffin/commit/81298e24d186c60dde848744fbf4e245b7fc318e)
+- [ ] [<code>cursor/native: Stop using the hardware cursor where it is slower.</code>](https://github.com/linuxmint/muffin/commit/97e20ecf2ff8855fec39cdf005193b12e78a800a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
