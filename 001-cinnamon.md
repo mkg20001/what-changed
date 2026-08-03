@@ -403,8 +403,12 @@
 - [ ] [<code>cinnamon-looking-glass.py: Handle deleted/missing file raising</code>](https://github.com/linuxmint/cinnamon/commit/d99c79d88ee91c45b6e6cc184c514042e32ae8bd)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-looking-glass.py: Change how file content tailing is</code>](https://github.com/linuxmint/cinnamon/commit/9ae8d6a7d93147c5a34dced2af133c8dcf015aee)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>src/screensaver: Only translate backup-locker.c.</code>](https://github.com/linuxmint/cinnamon/commit/4274e2e1dd0ac92f46b3c0fcc992f272bdcbbeef)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>makepot: Fix insufficient recursion for C and JS paths.</code>](https://github.com/linuxmint/cinnamon/commit/cdfd15f6e3f9a4dd3a91d16143f8774a2f113c27)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
