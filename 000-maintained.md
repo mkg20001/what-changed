@@ -310,6 +310,8 @@
 - [ ] [<code>build: update to flutter 3.44.8</code>](https://github.com/krille-chan/fluffychat/commit/9d5458064b4700f03c0e3636e5417fc0b9b1e93a)
 - [ ] [<code>chore: add missing license header</code>](https://github.com/krille-chan/fluffychat/commit/70e76fdd5a673599b0bef2151c98e3eae7c53cc6)
 - [ ] [<code>fix: remove extra spacing in sticker selection dialog</code>](https://github.com/krille-chan/fluffychat/commit/af48f1371d3bbb65a99b05fff7ffe79d787391be)
+- [ ] [<code>build: (deps): bump docker/login-action from 4.5.2 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/8db031c5b113073c91fef2b367b6e483057322ec)
+- [ ] [<code>feat: add double-tap to react option in settings</code>](https://github.com/krille-chan/fluffychat/commit/9a641f4a58349974cd8a4da42d5620b843b2ff2d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -377,6 +379,8 @@
 - [ ] [<code>build: update to flutter 3.44.8</code>](https://github.com/krille-chan/fluffychat/commit/9d5458064b4700f03c0e3636e5417fc0b9b1e93a)
 - [ ] [<code>chore: add missing license header</code>](https://github.com/krille-chan/fluffychat/commit/70e76fdd5a673599b0bef2151c98e3eae7c53cc6)
 - [ ] [<code>fix: remove extra spacing in sticker selection dialog</code>](https://github.com/krille-chan/fluffychat/commit/af48f1371d3bbb65a99b05fff7ffe79d787391be)
+- [ ] [<code>build: (deps): bump docker/login-action from 4.5.2 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/8db031c5b113073c91fef2b367b6e483057322ec)
+- [ ] [<code>feat: add double-tap to react option in settings</code>](https://github.com/krille-chan/fluffychat/commit/9a641f4a58349974cd8a4da42d5620b843b2ff2d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1934,6 +1938,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): isolate SNMP trap dedup and telemetry (#23387)</code>](https://github.com/netdata/netdata.git/commit/abd3f0803e9aef882b66cf2c497d0f00fa50afd3)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1001-nightly.</code>](https://github.com/netdata/netdata.git/commit/4b1b71e189fa6a736018541f54a6eb89617e88e9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(go.d/snmp_traps): isolate SNMP trap job runtime (#23389)</code>](https://github.com/netdata/netdata.git/commit/22edc6a75045c363c7d9f59a91e1238009ae685e)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4069,6 +4074,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(cli): print backend/device summary on infer --verbose (#1295)</code>](https://github.com/qualcomm/GenieX/commit/5c41d81ba4c9e09cf07ebd0681aa4f4af7413b99)
 - [ ] [<code>fix(go): print only crashing goroutine on backend abort()</code>](https://github.com/qualcomm/GenieX/commit/f4d057c7c99823a74a31a9a92c0c8f141a61aef2)
 - [ ] [<code>fix(cli/server): print qairt compute-coercion warning on serve (#1295)</code>](https://github.com/qualcomm/GenieX/commit/1997acc94e00e6d11b64eaa7a5b2f1e553bddfa4)
+- [ ] [<code>geniex-bench: honour --prompt-file in the VLM run loop</code>](https://github.com/qualcomm/GenieX/commit/49467ea9016c513234837a13bbb54a4fae2a84ef)
+- [ ] [<code>docs(docs): add tutorials section with MTP speculative decoding guide</code>](https://github.com/qualcomm/GenieX/commit/9a088ef539549d5fc9735002cf193a85306d53ac)
+- [ ] [<code>docs(docs): list supported chipsets explicitly on platforms page</code>](https://github.com/qualcomm/GenieX/commit/d5f374bceb1433fdfe0181b6304b587e41840322)
+- [ ] [<code>fix(sdk): filter chipset list to the host OS</code>](https://github.com/qualcomm/GenieX/commit/4e035bd340d09c6e5106a6118472ef7f6e3dbb1f)
+- [ ] [<code>fix(cli): point context-exceeded errors at --nctx / --sliding-window</code>](https://github.com/qualcomm/GenieX/commit/fd88ec1a323f44ef2216d414c07f0d35ab191cfa)
+- [ ] [<code>docs(docs): document --nctx and how to increase context length</code>](https://github.com/qualcomm/GenieX/commit/c8268050a1db23034b7adbc6d88223a6787b35c2)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4584,6 +4595,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dcbfab6606eef227fdf84f25ee47fb3c9c8b6334)
 - [ ] [<code>fix(gui): vendor warning widget and fix text color bug</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa56fe9b77e1f3bd5aff0cd3d1d24c495fed7991)
 - [ ] [<code>fix(gui): remove debug print</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0dc9b2b0a98fb5ded4f1dcc38d18381112031014)
+- [ ] [<code>build: v2.11.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95b47201980b82d6f94adcd919ed097296c52e1c)
+  - <sub>Tags: <code>v2.11.0</code></sub>
+- [ ] [<code>ci: bump actions/checkout from 7.0.0 to 7.0.1 (#332)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/682918c45ce3ab2a4d39b41f467a1f177b5eb38b)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.33 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.33...HEAD)
 
@@ -23111,12 +23125,96 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(gateway): honor external status target context (#119015)</code>](https://github.com/openclaw/openclaw/commit/afa4977b2c3af6bed8eba998e1f7a6cc11b3b26e)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(setup): preserve the prepared model handoff</code>](https://github.com/openclaw/openclaw/commit/dea04651b9c24803309ac4ae5ee4668e47bae1e8)
+- [ ] [<code>fix(ollama): activate the model selected during setup</code>](https://github.com/openclaw/openclaw/commit/f70821908ee2b2f7978f5f812d85ba127020e770)
 - [ ] [<code>fix(cli): honor local port in gateway call (#119046)</code>](https://github.com/openclaw/openclaw/commit/25e3b6c9b79dadb912195d86fbff968602d58798)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(protocol): regenerate Swift wizard models</code>](https://github.com/openclaw/openclaw/commit/03ba86544e8f3051a1275a4b4a4646e10078a9f9)
 - [ ] [<code>test(qa): prove workspace mutation tools (#119021)</code>](https://github.com/openclaw/openclaw/commit/fc1913defefb53504a8c573c6ee51072367b9409)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>test(qa): prove agent session scope continuity (#119032)</code>](https://github.com/openclaw/openclaw/commit/6b66866fe89a1a3d35379710d42e8832de87dd56)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): repair scenario catalog baselines (#119062)</code>](https://github.com/openclaw/openclaw/commit/e29f692066cff4aac3933ec5939708917855992e)
+- [ ] [<code>fix(qa): provision ffmpeg for Playwright scenarios (#119064)</code>](https://github.com/openclaw/openclaw/commit/cd50780d6ae20f835942196ca3379b128b754ad0)
+- [ ] [<code>docs(agents): require exact-head ClawSweeper re-review after post-review pushes (#119069)</code>](https://github.com/openclaw/openclaw/commit/ed8d1e71d1a22de31529889258906eb6bf95c828)
+- [ ] [<code>test(qa): prove agent tool approval controls (#119029)</code>](https://github.com/openclaw/openclaw/commit/7f766550a1423f0b2931f0f5ca30b764112f8b24)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(setup): complete prepared model activation</code>](https://github.com/openclaw/openclaw/commit/c489a2ddab2f357693db257e66da43cea607c9d3)
+- [ ] [<code>merge: sync prepared model handoff with main</code>](https://github.com/openclaw/openclaw/commit/7a6d6fdfb4fd45b7212903263a67cba4131129eb)
+- [ ] [<code>test(setup): type provider kind fixture</code>](https://github.com/openclaw/openclaw/commit/3e96bdc1573b6c96d55929afdce76e0110647f5c)
+- [ ] [<code>fix(ai): prefer provider-owned completion streams</code>](https://github.com/openclaw/openclaw/commit/9501a8264b83ea1ae9e4348ac24d26b0de0a2389)
+- [ ] [<code>fix(tts): use prepared completion transport</code>](https://github.com/openclaw/openclaw/commit/ea90866916b52123ca6fc97891b565987c05c81f)
+- [ ] [<code>merge: sync llama.cpp completion fix with main</code>](https://github.com/openclaw/openclaw/commit/99341b9ee7394eaf8d05c9dbe3a4ce5cd20b0510)
+- [ ] [<code>test(qa): cover packaged browser profiles (#119043)</code>](https://github.com/openclaw/openclaw/commit/12beeb7b29476d0ac96590e51bbc14fff63fbe60)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>merge: sync prepared model handoff with main</code>](https://github.com/openclaw/openclaw/commit/203a7500ee990ee3d199ee3ed4d7a4222d00c4cf)
+- [ ] [<code>fix(macos): keep setup activation within app checks</code>](https://github.com/openclaw/openclaw/commit/8a68252113666121795a6d8ee2b4be4545b291a4)
+- [ ] [<code>merge: sync llama.cpp completion fix with main</code>](https://github.com/openclaw/openclaw/commit/48a759f6a0468f0777b477fdfc6e894d729a4fb0)
+- [ ] [<code>fix(tool-search): preserve deferred MCP failures (#118363)</code>](https://github.com/openclaw/openclaw/commit/ba24420f17c92e724722684c497c9e44ee8f9c62)
+- [ ] [<code>test(qa): prove overflow compaction pruning (#119033)</code>](https://github.com/openclaw/openclaw/commit/2ca01fb618a0b61cc11d07ad51e031469e6dc385)
+- [ ] [<code>test(qa): cover memory promotion safety (#119093)</code>](https://github.com/openclaw/openclaw/commit/5a1daf81a554a9ff63604700824ea074d301f9db)
+- [ ] [<code>fix(telegram): record automatic delivery message ids</code>](https://github.com/openclaw/openclaw/commit/2ea3b0da9832b3d94859a1d23448c6246430a402)
+- [ ] [<code>test(qa): cover instruction profile artifacts (#119078)</code>](https://github.com/openclaw/openclaw/commit/a8fbadcde7725ad09ac1161964e2fe9e81f5bba0)
+- [ ] [<code>fix: recover new-session models through Gateway startup (#119120)</code>](https://github.com/openclaw/openclaw/commit/3be66d771610e0a34050ad8d6aaf1d8555fb79b4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: preserve live updater failure diagnostics (#119096)</code>](https://github.com/openclaw/openclaw/commit/8ad2e06a9d7a2ac74767dd3e149014b344173f6c)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>merge: sync prepared model handoff with main</code>](https://github.com/openclaw/openclaw/commit/70d75c6fa3d022fb0de55640c4aca11baecd8175)
+- [ ] [<code>fix(ai): preserve Google simple completion sanitation</code>](https://github.com/openclaw/openclaw/commit/9c854cb1a0514101d01505cc784a839f4e015bef)
+- [ ] [<code>fix(ai): keep OpenAI tool call id truncation UTF-16 safe (#110471)</code>](https://github.com/openclaw/openclaw/commit/01e7fca71670f0cdb3947abc80f35a6bc07a5bb7)
+- [ ] [<code>test(qa): cover gateway plugin approvals (#119128)</code>](https://github.com/openclaw/openclaw/commit/3f2fb7e36589e79408dcfdf93df231eea4850978)
+- [ ] [<code>fix(telegram): keep request deadlines through response bodies</code>](https://github.com/openclaw/openclaw/commit/84cfc436841d210a7ba3d2a58dc1392815c9deb4)
+- [ ] [<code>fix(voice): start socket timeout after auth preparation</code>](https://github.com/openclaw/openclaw/commit/ebf335f1a6d1d996ce27c9e685a91b855248efdf)
+- [ ] [<code>test(xai): cover delayed OAuth connection setup</code>](https://github.com/openclaw/openclaw/commit/d21c6be1817cc838779088d873333fb89dddf315)
+- [ ] [<code>test(qa): prove shared-channel memory recall (#119111)</code>](https://github.com/openclaw/openclaw/commit/52c9448cb505bf49df234347f6084eb3b5d3d1fb)
+- [ ] [<code>test(qa): cover sandboxed exec behavior (#119053)</code>](https://github.com/openclaw/openclaw/commit/e0799199b30fda0ee7268c8fed7e195cb6f5251b)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore: merge main into xAI OAuth timeout fix</code>](https://github.com/openclaw/openclaw/commit/dc8bcf97d09b6f4dde45e83c9c40ba28a42d38e8)
+- [ ] [<code>merge: activate exact prepared local model</code>](https://github.com/openclaw/openclaw/commit/6ce6dd3f210f6e2d55bdcb348431477a4f7edd18)
+- [ ] [<code>merge: sync llama.cpp transport fix with main</code>](https://github.com/openclaw/openclaw/commit/1fb4f3c70975e94d6f9a83ddc96693f5daa4c411)
+- [ ] [<code>improve(qa): cover vision channel offload (#118862)</code>](https://github.com/openclaw/openclaw/commit/3ac70832135ba711612b9946c7bd118af115b682)
+- [ ] [<code>fix: unblock macOS release validation (#119110)</code>](https://github.com/openclaw/openclaw/commit/7a5f1082937fc44c6c46ffed18b7f7807fa678b7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): preserve Claude follow-up replies after background tasks</code>](https://github.com/openclaw/openclaw/commit/df867bd9231bc2733965430d94904c5efe0f8e58)
+- [ ] [<code>fix(agents): preserve Claude fork successor on stalls</code>](https://github.com/openclaw/openclaw/commit/b71e81e6e733df35ff13997d11c1a36ed5606b3e)
+- [ ] [<code>fix(agents): gate Claude live session protocol</code>](https://github.com/openclaw/openclaw/commit/d636f5f8e0988db2be8e97ee627ba93053f4d970)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(setup): keep compatible Claude wrappers selectable</code>](https://github.com/openclaw/openclaw/commit/8393b37779d9c732e4e0c881aec66da3339545a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): use monotonic polling liveness</code>](https://github.com/openclaw/openclaw/commit/1b58ecb5af0a7ff5b366fdaae88d43bd7a1e8a71)
+- [ ] [<code>merge: keep llama.cpp completions on native transport</code>](https://github.com/openclaw/openclaw/commit/32c5f0205075b92b2333764a86086a4e56bc248f)
+- [ ] [<code>fix(test): isolate shared state between test files (#118781)</code>](https://github.com/openclaw/openclaw/commit/45643863d7132a2580864ac05d007dcc724a5dbf)
+- [ ] [<code>chore: merge main into xAI OAuth timeout fix</code>](https://github.com/openclaw/openclaw/commit/a7cf1ba9fc74dad4924886051a7667db8388b3c5)
+- [ ] [<code>test(qa): repair QA catalog integrity (#119140)</code>](https://github.com/openclaw/openclaw/commit/7aa3642f6dc95f938475ca88bbf82ff0e4c98a74)
+- [ ] [<code>fix(daemon): skip unlabeled launchd plists (#119091)</code>](https://github.com/openclaw/openclaw/commit/ae21f3c00c78403f05137d5e48957b8ceb40910c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(codex): cap compaction override warning cache via createDedupeCache (#101745)</code>](https://github.com/openclaw/openclaw/commit/7cf7fbbe9940ac3fb4b1f0f00565ce5bb6d27430)
+- [ ] [<code>fix(agents): settle yielded fanout at harness boundary (#118703)</code>](https://github.com/openclaw/openclaw/commit/05c987ccec4cd0032aa7727d2de0644916bafa11)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): restore memory tools primary ownership (#119142)</code>](https://github.com/openclaw/openclaw/commit/fd1cce282679d9cfe3164cd926cd466ea3961d81)
+- [ ] [<code>fix: prevent live updater from leaving Gateway offline indefinitely (#119116)</code>](https://github.com/openclaw/openclaw/commit/b1f2aae3034f6d0f6204f033ff4631be635785ef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>merge: wait for auth before starting realtime timeout (#119131)</code>](https://github.com/openclaw/openclaw/commit/9faf34d3bcb6aed4b69faa24c329b03691178692)
+- [ ] [<code>test(channels): verify built sanitizer semantics (#119151)</code>](https://github.com/openclaw/openclaw/commit/b0c5d48f7475c8faf0509ccdf85c71d9e941b02a)
+- [ ] [<code>fix(scripts): prevent gateway benchmarks from stalling on probes (#119063)</code>](https://github.com/openclaw/openclaw/commit/98feafe78506fabb7c928585a79bb803305ad061)
+- [ ] [<code>fix(auto-reply): suppress false no-reply fallback during continuations (#119154)</code>](https://github.com/openclaw/openclaw/commit/1e3880352e614116549c0a30c67a59a2d40ba259)
+- [ ] [<code>fix(tui): block terminal controls in system messages (#118998)</code>](https://github.com/openclaw/openclaw/commit/4bdf9ca789b59fdf07f3f8c67c4ae390f2d211bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): preserve later chunks after rejected sends</code>](https://github.com/openclaw/openclaw/commit/b6a445c393ec378d066ced0d31b679ad4c6c2f72)
+- [ ] [<code>fix(testbox): remove changed-gate sync residue (#119163)</code>](https://github.com/openclaw/openclaw/commit/da3b5edf40d9eabf719aee827f0fc95b5e0d6905)
+- [ ] [<code>fix(perf): give each concurrency sample a full deadline (#119164)</code>](https://github.com/openclaw/openclaw/commit/4def15d5df2caa89c280d0a31ba06dcc4bd7bbad)
+- [ ] [<code>fix(message): preserve sends with incidental Telegram locations</code>](https://github.com/openclaw/openclaw/commit/0069f3f111084d49bdece57a82d70fcf5974ec22)
+- [ ] [<code>fix(testbox): restore claims across path aliases (#119170)</code>](https://github.com/openclaw/openclaw/commit/a7cca37838ac002723d7f376fa751a6f8b4ae3e5)
+- [ ] [<code>test(tui): prove command surfaces through PTY (#119165)</code>](https://github.com/openclaw/openclaw/commit/121c6c10423827ce8a65118600f3498e20b8f6e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): bound direct gateway server runs (#119184)</code>](https://github.com/openclaw/openclaw/commit/b5d41f90053b414267bb203b64f1f8dde12b2bda)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugins): preserve metadata reloads during models status (#119183)</code>](https://github.com/openclaw/openclaw/commit/c3f148f6b772bc96d24c5619bf9f78f80733a67c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): expose OAuth-backed tools to CLI agents (#119166)</code>](https://github.com/openclaw/openclaw/commit/2a3a840aaf80dab40b0ba2bf9a02a5e2f5cc5015)
+- [ ] [<code>fix(agents): recover from invalid compaction summaries (#119137)</code>](https://github.com/openclaw/openclaw/commit/6d88ec5248c91c4a7c2e911e6f29dcd6dd1b006c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qqbot): keep channel API calls on the active account [AI] (#118575)</code>](https://github.com/openclaw/openclaw/commit/4170e11be93157bc4eb59223e43d58fa805a06c8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -23194,11 +23292,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 270438 ms: Couldn't connect to server
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
