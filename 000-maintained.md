@@ -1931,6 +1931,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update manage-alert-notification-silencing-rules.md (#23382)</code>](https://github.com/netdata/netdata.git/commit/c2dbbade52e0fff9c7e609afa35960d7c53b17df)
 - [ ] [<code>refactor(go.d/snmp-traps): internalize receiver ownership (#23377)</code>](https://github.com/netdata/netdata.git/commit/9a1f8978a40ccf36d3b00e3c871c20f17c90eae1)
 - [ ] [<code>refactor(go.d): share reverse DNS across SNMP collectors (#23385)</code>](https://github.com/netdata/netdata.git/commit/33e7b4ba0dc830f2af39a144f672a144bee1fb38)
+- [ ] [<code>refactor(go.d): isolate SNMP trap dedup and telemetry (#23387)</code>](https://github.com/netdata/netdata.git/commit/abd3f0803e9aef882b66cf2c497d0f00fa50afd3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1001-nightly.</code>](https://github.com/netdata/netdata.git/commit/4b1b71e189fa6a736018541f54a6eb89617e88e9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -22970,6 +22973,150 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(imessage): honor explicitly enabled accounts during startup (#118944)</code>](https://github.com/openclaw/openclaw/commit/6fa63a4e675184b604f83dfca28d2df8f77e9973)
 - [ ] [<code>docs: correct onboarding risk flags and Google Chat credential shapes (#118936)</code>](https://github.com/openclaw/openclaw/commit/76cc60a452dcdd49e54d2f81f811be07ddb1bc29)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): prove plugin tool ownership in gateway flow (#118958)</code>](https://github.com/openclaw/openclaw/commit/9cbc13015cd23d26cb75e198b0ac9f4b972bd3c1)
+- [ ] [<code>chore(i18n): refresh native locales (#118883)</code>](https://github.com/openclaw/openclaw/commit/7f9994d4f9f26080f94a029547e9c385a3b713e4)
+- [ ] [<code>test(qa): cover CLI distribution workflows (#118948)</code>](https://github.com/openclaw/openclaw/commit/5b1b1e0632254fce3497878688cfa0d65719a61b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ui): add shell and PWA primary QA proof (#118788)</code>](https://github.com/openclaw/openclaw/commit/361c07f9932bd0b64c30e06bf435231d32da83de)
+- [ ] [<code>test(qa): prove gateway catalog RPCs (#118808)</code>](https://github.com/openclaw/openclaw/commit/950872b9e0baac7342a56c43f46b129f393ba395)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(automation): cover plugin hook lifecycles (#118962)</code>](https://github.com/openclaw/openclaw/commit/42fd51d6c2ef98097acbe6d12f3495c1d8f112b5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(gateway): prove RPC wire and agent contracts (#118794)</code>](https://github.com/openclaw/openclaw/commit/e4ab08cbfb72519b190542a9e1407369d8428ee3)
+- [ ] [<code>test(gateway): cover agent and artifact APIs (#118889)</code>](https://github.com/openclaw/openclaw/commit/e4b6bde45a0769865219fa0b086618c66decdc13)
+- [ ] [<code>test(tui): add reusable PTY evidence producer (#118902)</code>](https://github.com/openclaw/openclaw/commit/99926b732346ed740afa1288aee82bac5481759f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(tasks): add durable task operations QA (#118943)</code>](https://github.com/openclaw/openclaw/commit/622b5eaf8e5d71b7e4dff71f12dd4ccc5be3f28f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(gateway): cover task and automation RPCs (#118966)</code>](https://github.com/openclaw/openclaw/commit/99c5ea79ab1843145745f373baf01123e99025c5)
+- [ ] [<code>test(qa): cover gateway exec approvals (#118872)</code>](https://github.com/openclaw/openclaw/commit/16635fa9c74aa8501349ec87f24e65e455f22800)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: fix stale 2gb session disk budget default on chrome extension page (#110624)</code>](https://github.com/openclaw/openclaw/commit/347398311acbea76b79882f37e8713c8ca489080)
+- [ ] [<code>fix(msteams): enforce documented AAD owner approval principals (#118967)</code>](https://github.com/openclaw/openclaw/commit/467492b125a56d90236183ecf8eff6974d7e3bc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(cron): cover execution diagnostics (#118964)</code>](https://github.com/openclaw/openclaw/commit/ac6cc33d5f72e9a8521ef7a234f827059a6125e5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(gateway): cover hosted web surfaces (#118870)</code>](https://github.com/openclaw/openclaw/commit/a36aa23c2c3878925740960d4e63f56c69f3bf03)
+- [ ] [<code>fix(googlechat): block webhook startup without valid audience configuration (#118968)</code>](https://github.com/openclaw/openclaw/commit/386228ad665dcabd0f28f4260bc5852105b80d80)
+- [ ] [<code>fix(signal): deduplicate durable ingress across sender identity aliases (#118970)</code>](https://github.com/openclaw/openclaw/commit/5cddc85e55e576e689aaa13e359c19275de4ad39)
+- [ ] [<code>chore(qa): cover plugin tools activation (#118949)</code>](https://github.com/openclaw/openclaw/commit/3ded8fba9bdfe93185b8d39f613e00ef990c4d8a)
+- [ ] [<code>fix(imessage): deduplicate only configured watchers with canonical backend identity (#118974)</code>](https://github.com/openclaw/openclaw/commit/7fd33638668f2ad0c20ce9abc7df350877ef9fe0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(qa): cover Prometheus install and runtime export (#118867)</code>](https://github.com/openclaw/openclaw/commit/7daf990688e7989bf9bc75835c254d74c8b9a3cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(skills): provide safe workspace-specific malicious skill remediation (#118969)</code>](https://github.com/openclaw/openclaw/commit/108cec388e589c246329024a30a3cca0d38883b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): honor last repeated CLI flag value (#118710)</code>](https://github.com/openclaw/openclaw/commit/aa3628ce668bbcf88e6894e6288d22687a60ace2)
+- [ ] [<code>fix(cli): keep update dry-run state immutable (#118856)</code>](https://github.com/openclaw/openclaw/commit/0fd7354cdb0741d3c291a1bcec9bbe3a952db2c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover tool policy and sandbox gates (#118925)</code>](https://github.com/openclaw/openclaw/commit/082e9e793ef1fc11791b36422e70311de18080b8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(gateway): prove TLS certificate pinning (#118812)</code>](https://github.com/openclaw/openclaw/commit/d0194ee7e15a465577e6656ead0eeaa84eb0de95)
+- [ ] [<code>feat(sms): add Twilio MMS support (#118664)</code>](https://github.com/openclaw/openclaw/commit/554a6f3bbf6d8173efc2f1c92e30139f88dc26d6)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(feishu): enforce exact signed webhook request boundaries (#118758)</code>](https://github.com/openclaw/openclaw/commit/14fe739ee9f131c107fc1e4844ed28a096058fdd)
+- [ ] [<code>test(qa): cover support export and stability (#118956)</code>](https://github.com/openclaw/openclaw/commit/95f7777b423a739a84e0e9a9d8a0746f4a399aba)
+- [ ] [<code>chore(clawhub): cover plugin release policy contracts (#118971)</code>](https://github.com/openclaw/openclaw/commit/10b4baceb39782b3c403970c619cabc4b6c67959)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover bundled runtime discovery (#118922)</code>](https://github.com/openclaw/openclaw/commit/972eb56ffeae7b32dbb68c52880ba898a4c2c959)
+- [ ] [<code>fix(plugins): remove stale load paths during uninstall (#118930)</code>](https://github.com/openclaw/openclaw/commit/1d446ad2ccb86c48e86988720ec273410d9c8993)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(signal): drain accepted websocket messages before shutdown (#118975)</code>](https://github.com/openclaw/openclaw/commit/65fa1f9a7bd19bdd625dabd434e0edc3920166ac)
+- [ ] [<code>test(gateway): cover WebSocket runtime contracts (#118797)</code>](https://github.com/openclaw/openclaw/commit/6ab556919e79c4b3d6a439a094e414af7735923e)
+- [ ] [<code>test(qa): cover diagnostic event boundary (#118844)</code>](https://github.com/openclaw/openclaw/commit/aff3909db6d18a8a08da42d847d73aaf0f077dae)
+- [ ] [<code>test(qa): promote package-backed Docker artifact proof (#118826)</code>](https://github.com/openclaw/openclaw/commit/59982714ee48c0795d32a0acdeef0ca4ffcb3d30)
+- [ ] [<code>test(qa): add Active Memory recall coverage (#118963)</code>](https://github.com/openclaw/openclaw/commit/3a57ad4b2e3ee14d38894b4c0bde440d2031fd2d)
+- [ ] [<code>test(gateway): cover node exec approval relay (#118825)</code>](https://github.com/openclaw/openclaw/commit/a2e0eea58cdaa395cc8e99b35c94414b4dc35f8d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(cron): cover durable scheduler state (#118981)</code>](https://github.com/openclaw/openclaw/commit/bc65789e133f400bd85593d42d210bedffa13300)
+- [ ] [<code>fix(gateway): resolve SQLite usage details (#118918)</code>](https://github.com/openclaw/openclaw/commit/d3ea24c669da8148be7df27d47dfca7d662b378b)
+- [ ] [<code>test(qa): cover runtime telemetry evidence (#118950)</code>](https://github.com/openclaw/openclaw/commit/0483ca712bd5a4aa7c3267a046f18bad3acf7ebb)
+- [ ] [<code>fix(googlechat): recover durable lanes after oversized attachments (#118986)</code>](https://github.com/openclaw/openclaw/commit/554968fba6c4dea835592e5fc1cb40a53549ecc5)
+- [ ] [<code>fix(macos): restore dashboard frame double-click zoom (#118976)</code>](https://github.com/openclaw/openclaw/commit/00b459a1727d616164fea477cd9dd02cc69788a4)
+- [ ] [<code>test(qa): cover health monitor and cache boundaries (#118961)</code>](https://github.com/openclaw/openclaw/commit/51f6b8f5f890aa5f79271aba7d2c71cd48044f36)
+- [ ] [<code>fix(memory): persist trusted owner provenance at canonical transcript boundary (#118987)</code>](https://github.com/openclaw/openclaw/commit/2c79d1d7fc798262a3d072efdab48a4f0c0337c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(tui): prove editor input through PTY (#118982)</code>](https://github.com/openclaw/openclaw/commit/57a1cbbeee482f68c4ed7c82f8185aef7baf9d25)
+- [ ] [<code>fix(googlechat): align doctor policy ownership with canonical account configuration (#118972)</code>](https://github.com/openclaw/openclaw/commit/3d65ea2a1b54f4ef1dea66a6e2b17bf6a61836e7)
+- [ ] [<code>fix(security): harden network tool output at canonical owner boundaries (#118984)</code>](https://github.com/openclaw/openclaw/commit/c83dcc2bc089ca22db9ba19bb602694a66e19337)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(gateway): verify SSH tunnel fallback (#118818)</code>](https://github.com/openclaw/openclaw/commit/2da6cb0f012e8f28c061e5003a780b3e2996a720)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(tasks): cover TaskFlow registry lifecycle (#118983)</code>](https://github.com/openclaw/openclaw/commit/1be662aa9dc3a47b75c31f3e898e41084a5cab14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(sms): track Twilio delivery status (#118665)</code>](https://github.com/openclaw/openclaw/commit/0758316883f50553809b713f7df291b1b5787b94)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(qa): cover image generation task lifecycle (#118915)</code>](https://github.com/openclaw/openclaw/commit/c27fb940cfba63397fbcb22e5672e311a00cb3e1)
+- [ ] [<code>test(qa): cover media reference intake (#118858)</code>](https://github.com/openclaw/openclaw/commit/2e3284abaa57cb3dff3b43ebe4e19d2158a49fd7)
+- [ ] [<code>test(qa): cover video generation invocation (#118864)</code>](https://github.com/openclaw/openclaw/commit/a492eb90684a1990a0eba4b89433051be3a1ff6a)
+- [ ] [<code>fix(sms): retry transient MMS failures before durable adoption (#118994)</code>](https://github.com/openclaw/openclaw/commit/6194cfdfb2facb595fdb5fe9f5d4563aa0f9b78b)
+- [ ] [<code>test(qa): cover remote logging boundaries (#118951)</code>](https://github.com/openclaw/openclaw/commit/ba2764a256789406ac7d7f5107af8d011eb1c699)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover CLI onboarding and plugin install sources (#118882)</code>](https://github.com/openclaw/openclaw/commit/06b5f0b2ffee9afe421e436ce85c4d66faff506b)
+- [ ] [<code>test(ui): add service-worker update primary QA proof (#118805)</code>](https://github.com/openclaw/openclaw/commit/a2ccd6ea61ece3bc19e79c040e0ee912f688408e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover PDF extraction dispatch (#118860)</code>](https://github.com/openclaw/openclaw/commit/1cdfe9ed7d7b7f2575916e514b94f9cf8976e499)
+- [ ] [<code>test(qa): cover audio proxy and limit handling (#118863)</code>](https://github.com/openclaw/openclaw/commit/dc11c7892777b8123315199303897aeb40c40982)
+- [ ] [<code>test(qa): cover managed gateway service lifecycle (#118855)</code>](https://github.com/openclaw/openclaw/commit/3bbc4ad085e248976d1381339a3ca4288123d1af)
+- [ ] [<code>test(plugins): align tool fixtures with owner policy (#118959)</code>](https://github.com/openclaw/openclaw/commit/a78f2c40bf6f1eaee9cd9b7899de1686b3030c42)
+- [ ] [<code>fix(docker): use authenticated gateway health command (#118996)</code>](https://github.com/openclaw/openclaw/commit/15b23cfc2d7a72377ac8d9449a8b0cec767c29af)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(qa): cover Gateway usage and memory APIs (#118995)</code>](https://github.com/openclaw/openclaw/commit/e110b560071de2d23b11219d013ad3c8eca4b160)
+- [ ] [<code>test(qa): cover core vision routing (#118861)</code>](https://github.com/openclaw/openclaw/commit/482a63337f531246e461c774e92c2e848745922b)
+- [ ] [<code>test(qa): cover music generation controls (#118901)</code>](https://github.com/openclaw/openclaw/commit/9dfc74e0cb72857a475d7ff13edba3eaae125b83)
+- [ ] [<code>test(qa): cover guarded media fetch boundaries (#118857)</code>](https://github.com/openclaw/openclaw/commit/31a6d096a15267c9f61c0f3cd74dd847e1f45e0b)
+- [ ] [<code>test(cron): cover delivery outcomes (#118993)</code>](https://github.com/openclaw/openclaw/commit/abf9e26d968ecbb98e425d3ca0b7d2b680dd8b35)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover composed tool result consumption (#118991)</code>](https://github.com/openclaw/openclaw/commit/d8caec4de5cc63cf748d746ab0e2e7a996278f73)
+- [ ] [<code>fix(sms): align MMS retries with network timeouts (#119002)</code>](https://github.com/openclaw/openclaw/commit/d38f68065f36263f4196983271d37a0d4b4e7a49)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(sms): add Twilio A2P delivery guidance (#88743)</code>](https://github.com/openclaw/openclaw/commit/5cd66943498768afc5fdec8247507ba3811222e4)
+- [ ] [<code>fix: Ollama missing from onboarding when its service is reachable (#118020)</code>](https://github.com/openclaw/openclaw/commit/7f7a709b1d0e573cd92f89ae9a1ca1a3f55c87a6)
+- [ ] [<code>test(qa): cover media audio selection fallback (#118859)</code>](https://github.com/openclaw/openclaw/commit/2039b87d85e1ef9a58066967cb6eb017d563bcbf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>improve(tui): prove CLI entrypoints under real PTY (#118990)</code>](https://github.com/openclaw/openclaw/commit/85af36dbf63f599661900a79acc4dd05ca825456)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover startup instruction first action (#119010)</code>](https://github.com/openclaw/openclaw/commit/0287116594206dbe40cc5ef3f9d2375f1147afa4)
+- [ ] [<code>test(qa): prove packaged plugin lifecycle transitions (#118973)</code>](https://github.com/openclaw/openclaw/commit/2de88241a437e139ed7c359365f340b54456be6c)
+- [ ] [<code>test(ui): cover operator administration flows (#118836)</code>](https://github.com/openclaw/openclaw/commit/67d67b5ca95fc49bac0ed238cc56c2531ff17eab)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(auth): do not admit ambient environment credentials behind declared profiles (#118458)</code>](https://github.com/openclaw/openclaw/commit/778be6f5cc223ecabe0419f8f989a8d85e9a8622)
+- [ ] [<code>test(ui): cover Control UI auth transports (#118866)</code>](https://github.com/openclaw/openclaw/commit/0dc99706243ec4e1b340a0a13d78dc1f862b5bce)
+- [ ] [<code>test(qa): prove gateway chat RPCs (#118988)</code>](https://github.com/openclaw/openclaw/commit/1520b839f32de9b45933550d9a9f02be56797ebc)
+- [ ] [<code>test(qa): cover agent session reconnect dedupe (#119013)</code>](https://github.com/openclaw/openclaw/commit/945597bb81c0a42246efd924f17d8eac245d7868)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): cover ClawHub package compatibility (#118985)</code>](https://github.com/openclaw/openclaw/commit/07a9856ccea2b8486264242e28923cd4a9a4ad8d)
+- [ ] [<code>fix(plugins): refresh bundled channel skills (#119020)</code>](https://github.com/openclaw/openclaw/commit/1aea2df9351969f6cbac4bc17abcbb71a1720670)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): keep plugin model allowlists static (#118854)</code>](https://github.com/openclaw/openclaw/commit/e16bc0108c5d827b54c8d0d242b50c3522ffc562)
+- [ ] [<code>test(qa): claim sessionless heartbeat coverage (#119027)</code>](https://github.com/openclaw/openclaw/commit/36b681344c9ca3aa3431e7be28a94e5a1aba448d)
+- [ ] [<code>test(qa): prove container health endpoints (#119012)</code>](https://github.com/openclaw/openclaw/commit/a85d3bbc5c9f614d9b96225d3ca32047b1bc9bb0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(qa): close external app SDK proof gaps (#118978)</code>](https://github.com/openclaw/openclaw/commit/e928762b9da2998160d6abf7be6cf1850b9e41aa)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test(qa): cover direct tool invocation (#119025)</code>](https://github.com/openclaw/openclaw/commit/6419711eb3cbc713a24b100b2efe52e77e9c8499)
+- [ ] [<code>test(qa): prove failure recovery visibility (#119034)</code>](https://github.com/openclaw/openclaw/commit/79dac911f6192f31bdaffb1a17f3b871892c83e4)
+- [ ] [<code>fix(xai): bound realtime playback marks</code>](https://github.com/openclaw/openclaw/commit/73544a73afcab40ba0710b0eb341d4fb031340fb)
+- [ ] [<code>test(xai): cover playback mark overflow</code>](https://github.com/openclaw/openclaw/commit/d5d4a63733477c6367c00ebbb26e2b09e873a731)
+- [ ] [<code>chore(qa): cover plugin testing harness contracts (#118933)</code>](https://github.com/openclaw/openclaw/commit/84d9e93dbb46fa75d24bbc7664f128d7b2fc233a)
+- [ ] [<code>test(qa): prove ClawHub catalog discovery (#118934)</code>](https://github.com/openclaw/openclaw/commit/ee397f0c59fe512527e396f08350cda8f51a0982)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(gateway): cover update and setup RPCs</code>](https://github.com/openclaw/openclaw/commit/b4faa5aa5eee35705e4b98736acfe83dea2aecdb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(auth): cooldown inline api key billing failures (#88709)</code>](https://github.com/openclaw/openclaw/commit/196d81195bf438ef095ba392445bb164e4e07310)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): cover progress followthrough evidence (#119039)</code>](https://github.com/openclaw/openclaw/commit/bf61c4c581f3545b672817731950232bebebd4e2)
+- [ ] [<code>test(qa): cover sandbox workspace isolation (#119038)</code>](https://github.com/openclaw/openclaw/commit/5a59bb07b391b12e087f5029aee5c216c42ac862)
+- [ ] [<code>test(qa): cover agent session streaming (#119028)</code>](https://github.com/openclaw/openclaw/commit/ada473e5609099bb639d92ec26e5893b87a8df9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): honor external status target context (#119015)</code>](https://github.com/openclaw/openclaw/commit/afa4977b2c3af6bed8eba998e1f7a6cc11b3b26e)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(cli): honor local port in gateway call (#119046)</code>](https://github.com/openclaw/openclaw/commit/25e3b6c9b79dadb912195d86fbff968602d58798)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): prove workspace mutation tools (#119021)</code>](https://github.com/openclaw/openclaw/commit/fc1913defefb53504a8c573c6ee51072367b9409)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): prove agent session scope continuity (#119032)</code>](https://github.com/openclaw/openclaw/commit/6b66866fe89a1a3d35379710d42e8832de87dd56)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -23047,19 +23194,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 270438 ms: Couldn't connect to server
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
