@@ -672,6 +672,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: scale Windows CI timing budgets from a shared helper (#275)</code>](https://github.com/openclaw/mcporter/commit/b1640df7f015d095de7957115afa82bb3e6c703a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(ci): resolve the default branch before the ancestry check</code>](https://github.com/openclaw/mcporter/commit/92958bb199601967f49fd265b048d986932eaaee)
+- [ ] [<code>fix(release): wait for npm propagation (#279)</code>](https://github.com/openclaw/mcporter/commit/58986a78d0eece0c81f68206dd8187f55ff6c0b9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1945,6 +1947,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix listen backlog and add backlog listener test for spawn server (#23380)</code>](https://github.com/netdata/netdata.git/commit/c758816c1790b1b2e9ba506b0d9497412fa2708b)
 - [ ] [<code>docs(mcp): describe the account URL field in MCP Connections (#23393)</code>](https://github.com/netdata/netdata.git/commit/0821991f7f9c077c2940c6e256902e471a5df3f5)
 - [ ] [<code>fix(vnode): ensure exclusive ownership of local vnodes during streaming (#23388)</code>](https://github.com/netdata/netdata.git/commit/0754e14293c08ec21497fe0cce89a04e3eefe021)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1008-nightly.</code>](https://github.com/netdata/netdata.git/commit/ac44b7476517d2cb779c1da23eb31a4ae35faed9)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4610,6 +4613,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.11.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95b47201980b82d6f94adcd919ed097296c52e1c)
   - <sub>Tags: <code>v2.11.0</code></sub>
 - [ ] [<code>ci: bump actions/checkout from 7.0.0 to 7.0.1 (#332)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/682918c45ce3ab2a4d39b41f467a1f177b5eb38b)
+- [ ] [<code>feat(i18n): add Korean translations (#326)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8cda7ddd91bc0bb0f8e10a130d13f02595275ea0)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.33 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.33...HEAD)
 
@@ -23316,6 +23320,38 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ci): retry interrupted Windows dashboard release checks (#119095)</code>](https://github.com/openclaw/openclaw/commit/532580fa2b1b13f2ff270cccbb170e543fa49237)
 - [ ] [<code>fix(qa): carry selected runtime into flow scenarios (#119324)</code>](https://github.com/openclaw/openclaw/commit/f15120c6d19b14e18a571fad52b3a08d32cf3666)
 - [ ] [<code>fix(release): accept legacy empty core artifacts (#119337)</code>](https://github.com/openclaw/openclaw/commit/8fc44585931decce2e821efac34a599b5845c08a)
+- [ ] [<code>fix(tui): restore provider auth in installed local mode (#119283)</code>](https://github.com/openclaw/openclaw/commit/bfcce12e6b381aac1452ae4e686ffee8394b6adf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sessions): keep gateway responsive while large transcript archives are built (#112424)</code>](https://github.com/openclaw/openclaw/commit/9bfe292c8686c9f55282fb5773b8729f96b68051)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(exec): leave safe builtins unrewritten in enforced mode (#119351)</code>](https://github.com/openclaw/openclaw/commit/63f4acbbc80b4f1f6a8e5c033dcc7d66a13ed132)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(slack): drop redundant .js-suffixed system-event mock (#119352)</code>](https://github.com/openclaw/openclaw/commit/44f3747daacfce770a5602feb42a7e405d6d93d5)
+- [ ] [<code>test(agents): realpath apply-patch temp dir fixture (#119353)</code>](https://github.com/openclaw/openclaw/commit/702e0277bd5c434bfe7d5ad61b3d670bc0a66c1b)
+- [ ] [<code>fix(qa): enable OpenAI for stored audio scenario (#119349)</code>](https://github.com/openclaw/openclaw/commit/15499e7fc269516132ef559314ecaf4a72d90284)
+- [ ] [<code>test(msteams): serve JWKS from in-process server in auth coverage (#119354)</code>](https://github.com/openclaw/openclaw/commit/2d1242556e6be22d515193eef59d1394933eb4c7)
+- [ ] [<code>docs: add ChromeOS (Crostini) platform install guide (#107663)</code>](https://github.com/openclaw/openclaw/commit/c81aee5a963c84c8202cf2b58460d7995c3b62fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(media): release rejected BytePlus and Runway video downloads under debug capture (#119257)</code>](https://github.com/openclaw/openclaw/commit/0d18bde84859ec69eba1209fce5fea0ee042ff93)
+- [ ] [<code>fix(commands): restore tool inventory for dynamic models (#119306)</code>](https://github.com/openclaw/openclaw/commit/fb81d03d8eb2f2784f7a7ab64c31f1b8dc81f771)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): isolate built TUI PTY fixture (#119339)</code>](https://github.com/openclaw/openclaw/commit/9ff9aac71a8bd5ec900a799cb27c9f8b5c6448f0)
+- [ ] [<code>perf(memory): defer session backfill runtime (#119372)</code>](https://github.com/openclaw/openclaw/commit/cbde3c1945fb18b5f7f97ec99ade63d4713bb4b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): keep commands responsive during Codex login</code>](https://github.com/openclaw/openclaw/commit/f207e14d92bee788d9af72941fcad496d405708a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): preserve release evidence across reruns (#119380)</code>](https://github.com/openclaw/openclaw/commit/9518564e3055dfb60c228268573a797fc7a23c54)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(fs): adopt fs-safe 0.5.2 untrusted filename sanitization (#119363)</code>](https://github.com/openclaw/openclaw/commit/58025dd33ceaa82cd8a92700afecba90e2870c60)
+- [ ] [<code>feat(audit): add execution identity inspection (#117034)</code>](https://github.com/openclaw/openclaw/commit/618fba92bf010a4417ac07c979dfc1ca64df0165)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(slack): Fix bad escaping in slack tool commentary (#119373)</code>](https://github.com/openclaw/openclaw/commit/c56eaca14bd04b4cee548c0aaade3c4a7aeefece)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): isolate cache warmer configs (#119381)</code>](https://github.com/openclaw/openclaw/commit/8f2850d83e909b1ea8929e30c0e47aebe71c95df)
+- [ ] [<code>fix(slack): authorize reaction and message reads before applying limits (#118736)</code>](https://github.com/openclaw/openclaw/commit/ed31a4dd79bf2a6003b2a13442ea5e61ef06885b)
+- [ ] [<code>fix(ui): clear split-pane questions after answers and cancellations (#118787)</code>](https://github.com/openclaw/openclaw/commit/8d2996937f85786a08e0163d4e62ab8f0cfa903f)
+- [ ] [<code>fix(qa): repair release validation scenarios (#119150)</code>](https://github.com/openclaw/openclaw/commit/6a8e11e63ceed04aed5476180b2a9a4dccea44a0)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
