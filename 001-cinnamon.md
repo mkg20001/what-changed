@@ -745,6 +745,9 @@
 - [ ] [<code>renderer/native: Drop unused meta_renderer_native_use_modifiers()</code>](https://github.com/linuxmint/muffin/commit/4fdd5029dfd37a425191ceeefd425d0db4dc97fe)
 - [ ] [<code>cursor: Reuse the cursor sprite when the shape is unchanged</code>](https://github.com/linuxmint/muffin/commit/81298e24d186c60dde848744fbf4e245b7fc318e)
 - [ ] [<code>cursor/native: Stop using the hardware cursor where it is slower.</code>](https://github.com/linuxmint/muffin/commit/97e20ecf2ff8855fec39cdf005193b12e78a800a)
+- [ ] [<code>constraints.c: Place popups on the same monitor as their anchor rect.</code>](https://github.com/linuxmint/muffin/commit/b5520c5fe7f8e944e05051f47626dcd94054bb8f)
+- [ ] [<code>constraints.c: Flip popups even when they won't fully fit afterwards</code>](https://github.com/linuxmint/muffin/commit/b3ff94e3830643752af6edbe9007b10906c54879)
+- [ ] [<code>meta-wayland-xdg-shell.c: Dismiss instead of destroy invalid popup</code>](https://github.com/linuxmint/muffin/commit/2f856789eeea6ae5c7cb2f9f0fae314b2acf869d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
