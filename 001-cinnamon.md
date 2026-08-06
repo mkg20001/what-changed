@@ -844,6 +844,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -857,6 +859,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -870,6 +874,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -883,6 +889,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -896,6 +904,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
