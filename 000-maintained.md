@@ -1961,6 +1961,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Explicitly trigger daemon-reload in RPM packages when needed. (#23300)</code>](https://github.com/netdata/netdata.git/commit/4e74f43090b8f4b8f581ad91227b482acf59e001)
 - [ ] [<code>fix: update time format to use int64_t for consistency in logging (#23397)</code>](https://github.com/netdata/netdata.git/commit/104279d99afcf6221d2d0a3702865522ce463f4b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1016-nightly.</code>](https://github.com/netdata/netdata.git/commit/a253d66f4cd62602e5c10ba33f383ea88e09e071)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4112,6 +4114,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v0.3.19-alpha.3</code></sub>
 - [ ] [<code>feat(python): show progress bar during pip install SDK fetch</code>](https://github.com/qualcomm/GenieX/commit/795d00c7e61a89b1defdc84322d00ad065d58405)
   - <sub>Tags: <code>v0.3.19-alpha.2</code></sub>
+- [ ] [<code>feat(sdk): add InternVL 3.5 QAIRT model support</code>](https://github.com/qualcomm/GenieX/commit/c57ad870ba5cb44ea5ff73298ed8a3c42e700ccb)
 - [ ] [<code>docs(cli): refresh update-checks section in run.md</code>](https://github.com/qualcomm/GenieX/commit/c87564ec3b38bbbd4f945d9bf6dc961dd6ed3bff)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>perf(python): coalesce range GETs in install-time SDK fetch</code>](https://github.com/qualcomm/GenieX/commit/f40df5c1d5cb31f0b80c7788f3be36d1a9056037)
@@ -4122,6 +4125,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci(qdc): reconstruct pytest summary from --report-log on abort</code>](https://github.com/qualcomm/GenieX/commit/79af2b599316d3629887ba5bf1ae37de8159e9d6)
 - [ ] [<code>Merge pull request #1290 from qualcomm/worktree-rename-python-sdist-assets</code>](https://github.com/qualcomm/GenieX/commit/341ac513c20cb7873ded887d85b3e1c99b25cb23)
   - <sub>Tags: <code>v0.3.19-alpha.5</code></sub>
+- [ ] [<code>chore(qairt): update subproject commit to latest version</code>](https://github.com/qualcomm/GenieX/commit/9645e28821eab92a592bf888c38a505aa19b1995)
+- [ ] [<code>Merge pull request #1285 from qualcomm/david/dev/internvl_3_5_qairt_support</code>](https://github.com/qualcomm/GenieX/commit/a1fd5cad58b661efff075fa91251b0d05b404d50)
+  - <sub>Tags: <code>v0.3.19-rc.1</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -23625,6 +23631,39 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: keep completed actions visible after settled finalization (#119726)</code>](https://github.com/openclaw/openclaw/commit/e9e6ef3edbf22274eb79d41a1e092e5ce8f59e9f)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix(qa): report cleanup failures truthfully (#119727)</code>](https://github.com/openclaw/openclaw/commit/7b8bba26c9539eb631a56ea65c2ff22771b2d0db)
+- [ ] [<code>fix(diagnostics): honor signal-specific OTLP protocols (#119708)</code>](https://github.com/openclaw/openclaw/commit/92b4757227a7c4754eb99406ab54f1e4a499082e)
+- [ ] [<code>fix(skills): keep installed verdicts scoped to publisher (#119672)</code>](https://github.com/openclaw/openclaw/commit/ad80956428560ca7f450bd3dadd2eb897acb0d6d)
+- [ ] [<code>fix(cli): report accurate filtered node totals (#119744)</code>](https://github.com/openclaw/openclaw/commit/97505b723cabd0362046a4d71deaee2439fad787)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: steering reaches active runs across agent harnesses (#119594)</code>](https://github.com/openclaw/openclaw/commit/6d2ba0d5622fa7aa21a4770cb4c6fd93cae44e04)
+- [ ] [<code>fix(agents): seed fresh session identity before transcript append (#119473)</code>](https://github.com/openclaw/openclaw/commit/5ec4d9f82a6bf05edb3bf33558f10f84ec6d317e)
+- [ ] [<code>fix(diagnostics): preserve OTEL startup failure (#119747)</code>](https://github.com/openclaw/openclaw/commit/397a60582a109489d7dd4f1be1136251c10dc1b9)
+- [ ] [<code>perf(agents): isolate concurrency benchmark workers (#119749)</code>](https://github.com/openclaw/openclaw/commit/b4e82951e70c41a3c85256c0647d77a1f5912cbd)
+- [ ] [<code>fix(auth): limit inline key cooldowns to credential failures (#119147)</code>](https://github.com/openclaw/openclaw/commit/2a835768ae576626eccb22e2dae7d4a3b15e37ce)
+- [ ] [<code>docs(slack): document retired Socket Mode tuning cleanup (#119328)</code>](https://github.com/openclaw/openclaw/commit/11757fecd45b598e2876ae86905adbdc07df522d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(codex): bump app-server to 0.146.1</code>](https://github.com/openclaw/openclaw/commit/b269e652bc8118abb53e6486a839cf120dc55043)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): recognize portable Slack commentary lane (#119698)</code>](https://github.com/openclaw/openclaw/commit/d3d25737cf31547bd70ef9f0e1fcf2e3e7115f64)
+- [ ] [<code>improve(gateway): defer inactive plugin runtime imports (#119733)</code>](https://github.com/openclaw/openclaw/commit/e41c574793c461e80d75d867cfaf58b953dd7cb6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(ollama): reduce inactive startup cost (#119745)</code>](https://github.com/openclaw/openclaw/commit/2fc2fc930b24ec579efd9d00826a280805924b7d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): preserve chat history and active run timing (#119729)</code>](https://github.com/openclaw/openclaw/commit/3645e369a86f64c68e055699dd39d54ed68ff519)
+- [ ] [<code>fix(agents): fence restart recovery lifecycle (#119776)</code>](https://github.com/openclaw/openclaw/commit/a20746e3abf7378462448c456eaa7098b85aab48)
+- [ ] [<code>fix(gateway): finish successful sessions after timestamp races (#119752)</code>](https://github.com/openclaw/openclaw/commit/678a3c18a94188093e260807b44f4ac9e9bc6391)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): attest realized profile executions (#119761)</code>](https://github.com/openclaw/openclaw/commit/7dcb1ad5ceeb961e1c142f3fdba33d8487871a08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(worker): isolate state observer failures (#117507)</code>](https://github.com/openclaw/openclaw/commit/d28371e95d709d520ce1a039bd5e660b103b53e7)
+- [ ] [<code>fix(diagnostics-otel): propagate exported span context (#112283)</code>](https://github.com/openclaw/openclaw/commit/a1064adb6861cdd242c6814562120c0420ea494b)
+- [ ] [<code>fix(matrix): prevent shared client key collisions (#119667)</code>](https://github.com/openclaw/openclaw/commit/f5849f134fae15f9fccbaeb8c78f5d27bde2d66b)
+- [ ] [<code>fix(worktrees): preserve registered roots during orphan cleanup (#119709)</code>](https://github.com/openclaw/openclaw/commit/1e347e2c7ab0b14121899ec9b19aae10aada23e9)
+- [ ] [<code>fix: grant host-authorized control ui owner access</code>](https://github.com/openclaw/openclaw/commit/c56ad42525afa8acd4656140a8d8e8f7255072bb)
+- [ ] [<code>docs: document control ui owner handoff</code>](https://github.com/openclaw/openclaw/commit/47591e7b11c08de2a682fd9843a5f81e3d46ea0f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: correct dashboard auth precedence (#119785)</code>](https://github.com/openclaw/openclaw/commit/37aa0b964e7a8a005958390100769a0c2a76a6c8)
+- [ ] [<code>fix(test): keep TUI PTY suites in their owner lane (#119787)</code>](https://github.com/openclaw/openclaw/commit/6e4d387feda92e456227c1c7b4b44ca3dcf69263)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
