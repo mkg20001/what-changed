@@ -409,6 +409,14 @@
 - [ ] [<code>makepot: Fix insufficient recursion for C and JS paths.</code>](https://github.com/linuxmint/cinnamon/commit/cdfd15f6e3f9a4dd3a91d16143f8774a2f113c27)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Keyboard settings: Add keyboard layout viewer, remove dependency on</code>](https://github.com/linuxmint/cinnamon/commit/467c8d3e03405304442f2961ed1dbe2faaa29481)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>input-sources-list.ui: Fix rendering of AddKeyboardLayoutDialog's</code>](https://github.com/linuxmint/cinnamon/commit/96c5a52837beae78fca6378cfcde70d502f2cdf2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>keyboard settings: Pass parent windows to AddKeyboardLayout and</code>](https://github.com/linuxmint/cinnamon/commit/3c7756861417c3ab1d3d6bc85c512c149c60aa83)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>input-sources-list.ui: Use icons for add/remove layout, use a label</code>](https://github.com/linuxmint/cinnamon/commit/79ffe8e01b64eda8810f224f59043e7fb33f5677)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -749,6 +757,7 @@
 - [ ] [<code>constraints.c: Flip popups even when they won't fully fit afterwards</code>](https://github.com/linuxmint/muffin/commit/b3ff94e3830643752af6edbe9007b10906c54879)
 - [ ] [<code>meta-wayland-xdg-shell.c: Dismiss instead of destroy invalid popup</code>](https://github.com/linuxmint/muffin/commit/2f856789eeea6ae5c7cb2f9f0fae314b2acf869d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>meta-backend-native.c: Handle NULL from xkb_keymap_new_from_names.</code>](https://github.com/linuxmint/muffin/commit/6ed5907a15ae5614c74682f8c736745f4b3a6fab)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -846,6 +855,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -860,6 +871,8 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
@@ -876,6 +889,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -891,6 +906,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -905,6 +922,8 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
