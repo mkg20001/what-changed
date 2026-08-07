@@ -315,6 +315,7 @@
 - [ ] [<code>build: update vodozemac and matrix</code>](https://github.com/krille-chan/fluffychat/commit/e9e878f9074b6d9ae76c98ed0060e1f4fe83fdca)
 - [ ] [<code>build: remove webrtc workaround for iOS simulator</code>](https://github.com/krille-chan/fluffychat/commit/08a96cf8944fa2c829048ad9ecc3e759bc6b1f55)
 - [ ] [<code>refactor: Reuse timeline from archive</code>](https://github.com/krille-chan/fluffychat/commit/baaf40f0557236b597691fb650306dc1e77ddfd9)
+- [ ] [<code>chore: update sdk and make benchmarks configurable</code>](https://github.com/krille-chan/fluffychat/commit/2a06058e9f952f0519f5a245d9536c29d2bdde8a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -387,6 +388,7 @@
 - [ ] [<code>build: update vodozemac and matrix</code>](https://github.com/krille-chan/fluffychat/commit/e9e878f9074b6d9ae76c98ed0060e1f4fe83fdca)
 - [ ] [<code>build: remove webrtc workaround for iOS simulator</code>](https://github.com/krille-chan/fluffychat/commit/08a96cf8944fa2c829048ad9ecc3e759bc6b1f55)
 - [ ] [<code>refactor: Reuse timeline from archive</code>](https://github.com/krille-chan/fluffychat/commit/baaf40f0557236b597691fb650306dc1e77ddfd9)
+- [ ] [<code>chore: update sdk and make benchmarks configurable</code>](https://github.com/krille-chan/fluffychat/commit/2a06058e9f952f0519f5a245d9536c29d2bdde8a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -504,57 +506,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix AvifDecodeTest.NonPersistentIOBug506387278</code>](https://github.com/AOMediaCodec/libavif/commit/a50205d2c2b819a60e62e05d67d528966cad5e15)
 - [ ] [<code>Document Firefox versions that support lsel 0xFFFF</code>](https://github.com/AOMediaCodec/libavif/commit/b71e67f953b2cc905c14869296c72f266cd31683)
 - [ ] [<code>Bump the github-actions group across 2 directories with 7 updates (#3314)</code>](https://github.com/AOMediaCodec/libavif/commit/714beb91144ac58f3e055dce77f77daf822f4e8a)
+- [ ] [<code>Honour the base image stride in the tone map early exit (#3316)</code>](https://github.com/AOMediaCodec/libavif/commit/25a6d23f872f37c91a3df15b75e1a97f590d7c46)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [mcporter](https://github.com/openclaw/mcporter): [refs/tags/v0.12.3 → HEAD](https://github.com/openclaw/mcporter/compare/refs/tags/v0.12.3...HEAD)
+#### [mcporter](https://github.com/openclaw/mcporter): [refs/tags/v0.12.4 → HEAD](https://github.com/openclaw/mcporter/compare/refs/tags/v0.12.4...HEAD)
 
-- [ ] [<code>chore(release): start 0.12.4</code>](https://github.com/openclaw/mcporter/commit/f95142b66511564482aeb946d837205b35d91612)
-- [ ] [<code>chore(deps): adopt TypeScript 7 and update dependencies</code>](https://github.com/openclaw/mcporter/commit/1ebe32ffb4575a94cac6a43d494b892dfab6fd32)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(oauth): recover rejected refresh credentials safely</code>](https://github.com/openclaw/mcporter/commit/85f4c9e81508fa262c2bf17399f3c05671867c92)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build(release): prepare v0.12.4 native artifacts</code>](https://github.com/openclaw/mcporter/commit/9aab3956db9eee1e77f1193b39b027922b92b4f4)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>ci: make release contract checks portable</code>](https://github.com/openclaw/mcporter/commit/7487facf5760a8afd60366f3b5e75cf940479d77)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore(repo): enforce pnpm release-age policy</code>](https://github.com/openclaw/mcporter/commit/2e7f7b65ba54ec37d0103a1b257a271cc098a365)
-- [ ] [<code>fix(oauth): preserve primary cache fallback (#228)</code>](https://github.com/openclaw/mcporter/commit/c6940ef8e5e74ce9b97dd1e39d78aa15c95a4f24)
-- [ ] [<code>docs: update moved repository links (#225)</code>](https://github.com/openclaw/mcporter/commit/710840fb7dd0d1f7400d543409b660acd77b149e)
-- [ ] [<code>docs: correct call timeout guidance (#232)</code>](https://github.com/openclaw/mcporter/commit/21f76ad447a79789cf41e9ed84fb645fc2006aa4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(transport): isolate idle SSE streams (#234)</code>](https://github.com/openclaw/mcporter/commit/57cf3b19aba60dca5cb2ed003f58d259e93dcd86)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore(release): v0.12.4</code>](https://github.com/openclaw/mcporter/commit/9f5c0ab588c7e0724079f1a2a6d3892024ef6a12)
-- [ ] [<code>ci: add ClawSweeper dispatch workflow</code>](https://github.com/openclaw/mcporter/commit/0522c0724bc76eadaf3fcef93de9c9576cf58e61)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore(deps): refresh dependencies (#240)</code>](https://github.com/openclaw/mcporter/commit/ad26fe357ac0a1a1fa4df78cbf8180fa7365f69e)
-- [ ] [<code>docs: add safety guidance for generated CLIs and replay fixtures (#238)</code>](https://github.com/openclaw/mcporter/commit/4062298d66efc5f3721574590af2fc1af509fca3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(oauth): invalidate cache on server URL changes (#243)</code>](https://github.com/openclaw/mcporter/commit/f935f8ec0f169b3304c6d8c7225e0d14ea57a015)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(deps): update MCP SDK for patched Hono (#245)</code>](https://github.com/openclaw/mcporter/commit/7259c8c2c9b091b4ff6c5ec88b8420c2bd4534cf)
-- [ ] [<code>refactor: dedupe and modularize runtime, OAuth, and CLI internals (#249)</code>](https://github.com/openclaw/mcporter/commit/69c98e88127c8c5466e3875edf67ce3fc8d9b968)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>test: exclude .claude worktrees from root vitest collection</code>](https://github.com/openclaw/mcporter/commit/7faea8278a9e2cca1480147febb978eb50d87b99)
-- [ ] [<code>chore(release): stamp 0.12.4 changelog date</code>](https://github.com/openclaw/mcporter/commit/e056f77bd2bf7aae38c8377fb3788dae600bff23)
-- [ ] [<code>feat(chrome-devtools): route autoConnect through OpenClaw extension relay (#250)</code>](https://github.com/openclaw/mcporter/commit/e1689c3dec7c307950b2ac401e66729cb20db59f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: dedicated section for prompt-free Chrome DevTools via extension relay (#252)</code>](https://github.com/openclaw/mcporter/commit/434d53019b546417a7dc1af795057926738dd9ef)
-- [ ] [<code>test(oauth): cover credential-generation compare-and-set helpers (#246)</code>](https://github.com/openclaw/mcporter/commit/ced43e458a8bc8d7305cda79bbd5ae7025cd2220)
-- [ ] [<code>fix(oauth): open Windows browser without shell-string URL (#242)</code>](https://github.com/openclaw/mcporter/commit/e1b12c086e9aff6dea7755f4c803cc2822d9beaf)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(known-issues): mark SDK inline-stdio Status line as stale (#251)</code>](https://github.com/openclaw/mcporter/commit/b88f4a2bb4b36c443a6796a398948d532c6e53d6)
-- [ ] [<code>fix(error-classifier): stop reading embedded digits as auth signals (#248)</code>](https://github.com/openclaw/mcporter/commit/223c5124cf37e303557066d1bb4a35ca8c08299f)
-- [ ] [<code>docs(changelog): credit Windows OAuth open fix (#242) and error-classifier 401 fix (#248)</code>](https://github.com/openclaw/mcporter/commit/b19f32a6996d887e4db1477ce6533bb1d530f2a4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(oauth): serialize interactive authorization per provider session (#253)</code>](https://github.com/openclaw/mcporter/commit/e4966179b6b89daa50ec06b8c0bc03395bd915fd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build: mark dist/cli.js executable after tsc build</code>](https://github.com/openclaw/mcporter/commit/fbe9d034843bdfa1dbd59a44e39099d77722741b)
-- [ ] [<code>build: compare designated requirements in canonical decompiled form</code>](https://github.com/openclaw/mcporter/commit/437eab2986ce4ef6c42d5d4315c1c061ae53ec84)
-  - <sub>Tags: <code>v0.12.4</code></sub>
 - [ ] [<code>build: sort release asset names with locale-independent comparator</code>](https://github.com/openclaw/mcporter/commit/27de8e7e44c87795965d9d1de1edec6e217e3ba3)
 - [ ] [<code>ci: sort tap-verification asset names with locale-independent comparator</code>](https://github.com/openclaw/mcporter/commit/f284a3f69f764d7bcb0a31b08e04800f7a8e80f1)
 - [ ] [<code>docs(changelog): credit shipped 0.12.4 fixes and open 0.12.5</code>](https://github.com/openclaw/mcporter/commit/279bbc67f1858bbd53da591ad1eddc40e73cafc1)
@@ -4143,9 +4102,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(qairt): update subproject commit to latest version</code>](https://github.com/qualcomm/GenieX/commit/9645e28821eab92a592bf888c38a505aa19b1995)
 - [ ] [<code>Merge pull request #1285 from qualcomm/david/dev/internvl_3_5_qairt_support</code>](https://github.com/qualcomm/GenieX/commit/a1fd5cad58b661efff075fa91251b0d05b404d50)
   - <sub>Tags: <code>v0.3.19-rc.1</code></sub>
+- [ ] [<code>fix(cli): route --spec-type through the LLM path for VLM-classified models</code>](https://github.com/qualcomm/GenieX/commit/5fe22c744db7b52d66aefbff0804b1ec3721100d)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(cli): echo compute alias in model-loaded line</code>](https://github.com/qualcomm/GenieX/commit/bf79237d8190f938a8744d629e02a86d46f39079)
 - [ ] [<code>refactor(cli): rename model-loaded labels to runtime/compute</code>](https://github.com/qualcomm/GenieX/commit/c9674af0ebf04af1bee9198f26621625e0603dfc)
 - [ ] [<code>feat(server): match tool-call JSON by braces instead of tags</code>](https://github.com/qualcomm/GenieX/commit/9ef8d8ecfcf46394456831bf5d9d99e38216c8ec)
+- [ ] [<code>fix(cli): apply --log to the SDK log callback</code>](https://github.com/qualcomm/GenieX/commit/edec313a1f5c937b3f5bd9622114db83f21f6d36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): suggest --log debug in model-load failure hint</code>](https://github.com/qualcomm/GenieX/commit/a514c6670a53441b92c5f84b1ce47d16c49a3db2)
+- [ ] [<code>fix(sdk): fully clear VLM memory on reset</code>](https://github.com/qualcomm/GenieX/commit/19213553575086fc4b85206386e6371dda5ab46d)
+- [ ] [<code>test(sdk): rebuild pytest suite for the platform x plugin QDC matrix</code>](https://github.com/qualcomm/GenieX/commit/e1821edf88657ab90283461886c269074733bca3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>ci(qdc): rebuild QDC Test as per-platform matrix</code>](https://github.com/qualcomm/GenieX/commit/bfd109040a4cbf228f3615c95f4344d028891e07)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>ci: rename _test.yml -> _unit-test.yml</code>](https://github.com/qualcomm/GenieX/commit/cba8b27b8badf6afe2826aead18dd779fb7743f9)
+- [ ] [<code>fix(ci): avoid rebuilding SDK inside QDC Test when called from test.yml</code>](https://github.com/qualcomm/GenieX/commit/dec058f683112d8ad659570cefc0cc5739013826)
+- [ ] [<code>Merge pull request #1295 from qualcomm/fix/vlm-spec-preflight</code>](https://github.com/qualcomm/GenieX/commit/d33df5f6afe20e8564d12f9b976686db849307a6)
+  - <sub>Tags: <code>v0.3.19-rc.2</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4359,6 +4332,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix openwrt buildscript plugins</code>](https://github.com/OLSR/OONF/commit/adac214e7c170e1bf9a6fb5184f799b3f9252998)
 - [ ] [<code>fix: make it build with gcc15</code>](https://github.com/OLSR/OONF/commit/868b3be3afb09d0804550a5d248a4f3de020a4be)
 - [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
+- [ ] [<code>Add LICENSE file with the project's BSD-3-Clause terms</code>](https://github.com/OLSR/OONF/commit/7884342f175aaaa85d3e3a576c6e3e605b0a1433)
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.6.2 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.6.2...HEAD)
 
@@ -23753,6 +23727,75 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(telegram): preserve callback action ownership</code>](https://github.com/openclaw/openclaw/commit/4d91d44d0073de22f6a4b29823cea84cb8c7c8d1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(qa): allow restart startup diagnostics (#119928)</code>](https://github.com/openclaw/openclaw/commit/4d9c249d4006ce20409c94b190cf7e4674c6a162)
+- [ ] [<code>chore(i18n): refresh native locales (#119669)</code>](https://github.com/openclaw/openclaw/commit/d5668d83c0362380cc787b1f7b4e459fa20946b4)
+- [ ] [<code>feat(skills): reviewer patch contract, active learning bias, shallow-turn accumulation</code>](https://github.com/openclaw/openclaw/commit/90e39c49e46c4a6a8edbc497c15b42a701f466a7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(agents): isolate lifecycle registry persistence (#119931)</code>](https://github.com/openclaw/openclaw/commit/b0c368ae34d845ab2ef6a6c6adf160e1edf49442)
+- [ ] [<code>fix(diagnostics): report exporter health in doctor and status (#119816)</code>](https://github.com/openclaw/openclaw/commit/c4292bc8b218006b70b1b91458f73d4527566427)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(plugins): migrate Fish Audio plugin identity (#119900)</code>](https://github.com/openclaw/openclaw/commit/52b8f9be80363b415dc2e40a82172408e5aa6f75)
+- [ ] [<code>fix(device-pair): keep notifier poll off Gateway startup (#119936)</code>](https://github.com/openclaw/openclaw/commit/95fd4d3dc9ced0f3ad8f02928d727f1753a14a46)
+- [ ] [<code>docs: openclaw-refactor-docs points at a skill renamed in 0dabb70 (#119394)</code>](https://github.com/openclaw/openclaw/commit/cd009e72f0bc336a6c454c28611fd7fc50394652)
+- [ ] [<code>fix(channels): preserve bundled delivery contracts</code>](https://github.com/openclaw/openclaw/commit/913b53ad808772be8c3a8497f7320d93e928b4db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(docker): shorten Unix socket fixture paths (#119952)</code>](https://github.com/openclaw/openclaw/commit/08a3f5f949466d3cdf08fd1a23b3cb5cef9cbfb0)
+- [ ] [<code>fix(release): stream JSON preparation output (#119951)</code>](https://github.com/openclaw/openclaw/commit/a91468246759b918bf765bfa1c9e73e358ce705b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa): provide Matrix module-flow fixture (#119953)</code>](https://github.com/openclaw/openclaw/commit/f5add8197fa990890d3f96142cba1523e9c6c0df)
+- [ ] [<code>fix(test): zalo lifecycle suites fail Windows teardown with EBUSY on agent state DB (#119809)</code>](https://github.com/openclaw/openclaw/commit/978f9b15eb82ed9ec738f3068b84f88f77aa9850)
+- [ ] [<code>fix(qa): enforce scenario provider lane metadata (#119908)</code>](https://github.com/openclaw/openclaw/commit/75e5c2694fd517fdf173ed82257f898c5a6d2f2e)
+- [ ] [<code>refactor(qa): derive scenario runtime API from deps (#119974)</code>](https://github.com/openclaw/openclaw/commit/9213792cdfb6e51ca5bf3c19c1dfd7775d9c436d)
+- [ ] [<code>fix(telegram): preserve inbound quote attribution</code>](https://github.com/openclaw/openclaw/commit/70f84286c9ae20fd47dcf775b55ebb99296794de)
+- [ ] [<code>test(models): isolate scoped catalog fixture (#119990)</code>](https://github.com/openclaw/openclaw/commit/9c2dbf6500f16cafc6c68edbc3144b9acf06fe56)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): show Pi logo in session catalog (#119998)</code>](https://github.com/openclaw/openclaw/commit/d3558460d5a34f2f2e5bc24aeaf425ec0882fbe2)
+- [ ] [<code>fix(release): restore Fish Audio ClawHub publishing</code>](https://github.com/openclaw/openclaw/commit/05e3ce11aca70c6896d6a06047a663c90850449c)
+- [ ] [<code>fix(slack): apply channel tool restrictions to normalized session IDs (#119408)</code>](https://github.com/openclaw/openclaw/commit/dcf7fadf2c03d594f455e140194044a492f1fc6e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(test): table-drive duplicated test cases (#119973)</code>](https://github.com/openclaw/openclaw/commit/9fdae501b83f7b4ef733edc5a5f813e531b2726d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: keep read-only preferences browser-local</code>](https://github.com/openclaw/openclaw/commit/5a88b7b9a2899dc525c7eccfe5a9e28418885265)
+- [ ] [<code>test: cover read-only preference sync</code>](https://github.com/openclaw/openclaw/commit/54e2ab545f1bb157a509d8145afb63c2716a3f48)
+- [ ] [<code>fix: apply server preference deltas after read-only edits</code>](https://github.com/openclaw/openclaw/commit/e118e607bc6853d04e4e20358eb2bc454b3c071d)
+- [ ] [<code>fix: reconcile preference intent across tabs</code>](https://github.com/openclaw/openclaw/commit/fa06a000c56449716f00cbb871ea5fca89a927ce)
+- [ ] [<code>fix: label browser-local read-only preferences</code>](https://github.com/openclaw/openclaw/commit/56ab6ce78ecab41b2d5c3d36d97e95237751cb1a)
+- [ ] [<code>fix: satisfy preference sync type checks</code>](https://github.com/openclaw/openclaw/commit/698520f654d3d924019fb98056e33ed948d854ec)
+- [ ] [<code>refactor: separate preference state policy</code>](https://github.com/openclaw/openclaw/commit/55e1246702c76797b976057b591b6073e7c08648)
+- [ ] [<code>test: split preference lifecycle coverage</code>](https://github.com/openclaw/openclaw/commit/93b2b0fde0bac06b99cac39aa59f46173d9cd0b4)
+- [ ] [<code>docs: clarify browser-local text size</code>](https://github.com/openclaw/openclaw/commit/e16421d5d1d90e11d1dc093c6e195000c6e4a193)
+- [ ] [<code>fix: preserve chat settings ownership (#120036)</code>](https://github.com/openclaw/openclaw/commit/db90dff1396fecbf7029e9e9ea19d6c6ca3e644e)
+- [ ] [<code>refactor(ui): adopt shared control-ui e2e suite bootstrap (#119978)</code>](https://github.com/openclaw/openclaw/commit/11dd7c08ebf3c459bf2626e6c3cc24993fa9704d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(plugins): single-source question reactions and preflight audio (#119987)</code>](https://github.com/openclaw/openclaw/commit/f5e3b5ef547144121d81199ff4595f3370361f99)
+- [ ] [<code>refactor(test): consolidate duplicated requireRecord and provider HTTP mock helpers (#119982)</code>](https://github.com/openclaw/openclaw/commit/b4a26783f7606194d282c9e9bfbbe268794216c0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(doctor): recover terminal NUL-only tails in archived session JSONL (#120041)</code>](https://github.com/openclaw/openclaw/commit/725f50b883a210c1233bf23c2c27549753a857dd)
+- [ ] [<code>docs(skills): repair stale file references in bundled skills (#120042)</code>](https://github.com/openclaw/openclaw/commit/77291007759ecf9cfad6a691112ea0b451155a6d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(acp): pass configured agent model to ACP binding sessions (#120046)</code>](https://github.com/openclaw/openclaw/commit/d0fe7bcb3caf4e8d6f995f7e7ba12439b85e3c0f)
+- [ ] [<code>fix(memory): report persisted vector index state on unprobed status path (#120048)</code>](https://github.com/openclaw/openclaw/commit/d9ffbb3ed6c0237a6c6235079f9471bcb6c12811)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): resolve authoritative session keys for delegated compaction (#120047)</code>](https://github.com/openclaw/openclaw/commit/a73910dfba852e399b324114ff805a795aaa403c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): adapt read-only prefs e2e test to suite bootstrap</code>](https://github.com/openclaw/openclaw/commit/dc0b9958999b114a8f7f5547c80f303c250b37cf)
+- [ ] [<code>refactor(test): compress repetitive fixtures in worst mega-tests with builders (#120055)</code>](https://github.com/openclaw/openclaw/commit/65d2222a6e84a76e3c0fb7e3e4251bc86c376f97)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(googlechat): redact reflected credentials in API errors (#119965)</code>](https://github.com/openclaw/openclaw/commit/d64f5b6a096088f1739ecd0e8c2f7182a0e90ce7)
+- [ ] [<code>refactor(plugins): single-source interactive dispatch and its auth downgrade via plugin SDK (#120062)</code>](https://github.com/openclaw/openclaw/commit/0b849a316dcafe5628d59ff3e7029d1529331bf1)
+- [ ] [<code>refactor(test): replace logic-bearing vi.mock factories with real modules and boundary fakes (#120063)</code>](https://github.com/openclaw/openclaw/commit/bfd47df34d2529f517aa414da78af1c8f1e66f5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): remove stale i18n keys (#120064)</code>](https://github.com/openclaw/openclaw/commit/d6540db953ff387277d6c4b41145df4801855ee6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test): adopt codex app-server test harness in worst-preamble suites (#120065)</code>](https://github.com/openclaw/openclaw/commit/7c9596b0077c0e394b8bf814d7d6c3dd5df2ebe5)
+- [ ] [<code>refactor(test): table-drive exact-duplicate test blocks, batch 2 (#120071)</code>](https://github.com/openclaw/openclaw/commit/c663c39763bfc9d179c7c432a12a74d0a31a769d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(protocol): preserve gateway session attribution across node runs</code>](https://github.com/openclaw/openclaw/commit/735f176b0121ca6ba837d46e9665431707df546a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(protocol): record node attribution envelope</code>](https://github.com/openclaw/openclaw/commit/ec023a433614bdca5567fac0f00ea86b92fc60a9)
+- [ ] [<code>test(ui): model dropdown item slot in responsive fixture</code>](https://github.com/openclaw/openclaw/commit/265f43eded8cb6bffe5c0b70ca29c61daf4f2fad)
+- [ ] [<code>fix(qa): replace false Codex pin compatibility evidence (#118012)</code>](https://github.com/openclaw/openclaw/commit/b5369f8e5d99fc4e8500f972ae6a66cf7859d0b8)
+- [ ] [<code>test: fix current main CI baselines (#120080)</code>](https://github.com/openclaw/openclaw/commit/c245cfc19c79c3a420174a48b5f6ad774ffeec38)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
