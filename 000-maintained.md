@@ -640,6 +640,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(release): wait for npm propagation (#279)</code>](https://github.com/openclaw/mcporter/commit/58986a78d0eece0c81f68206dd8187f55ff6c0b9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>docs(changelog): open 0.13.1 after the 0.13.0 release (#278)</code>](https://github.com/openclaw/mcporter/commit/4219927ec68057daa0a2aafe77e325ed5349e35b)
+- [ ] [<code>refactor: remove obsolete commit helper</code>](https://github.com/openclaw/mcporter/commit/5f30f68d044bc8fa32a75fb721d0603d437bdf13)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1932,6 +1933,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/prometheus): add profile-owned fallback types (#23410)</code>](https://github.com/netdata/netdata.git/commit/c89446ebe9056a5162c84aeea4892b090dbdff33)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#23411)</code>](https://github.com/netdata/netdata.git/commit/5c63eede6238b33ea8a51355ac890c0b663364b6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1022-nightly.</code>](https://github.com/netdata/netdata.git/commit/8e35bd63c3f9cb911d1c6d9d8dfc588fef197330)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4639,6 +4641,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v2.11.0</code></sub>
 - [ ] [<code>ci: bump actions/checkout from 7.0.0 to 7.0.1 (#332)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/682918c45ce3ab2a4d39b41f467a1f177b5eb38b)
 - [ ] [<code>feat(i18n): add Korean translations (#326)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8cda7ddd91bc0bb0f8e10a130d13f02595275ea0)
+- [ ] [<code>ci: bump actions/attest from 4.2.0 to 4.2.1 (#337)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08b28dd8ce8c9f91c3ef44ad25c9d5f3491a2aa0)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.6.33 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.6.33...HEAD)
 
@@ -23795,6 +23798,31 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(ui): model dropdown item slot in responsive fixture</code>](https://github.com/openclaw/openclaw/commit/265f43eded8cb6bffe5c0b70ca29c61daf4f2fad)
 - [ ] [<code>fix(qa): replace false Codex pin compatibility evidence (#118012)</code>](https://github.com/openclaw/openclaw/commit/b5369f8e5d99fc4e8500f972ae6a66cf7859d0b8)
 - [ ] [<code>test: fix current main CI baselines (#120080)</code>](https://github.com/openclaw/openclaw/commit/c245cfc19c79c3a420174a48b5f6ad774ffeec38)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(tui): avoid repeated runtime rebuilds in local sessions (#120051)</code>](https://github.com/openclaw/openclaw/commit/25401e47582dbe1eb683595ad457326d8e263a1d)
+- [ ] [<code>test(qa): keep Control UI parity fixture typed (#120090)</code>](https://github.com/openclaw/openclaw/commit/179f5fa8ce17e13bfcd3b81a37cf7473705453d6)
+- [ ] [<code>refactor: remove obsolete commit helper</code>](https://github.com/openclaw/openclaw/commit/00a5db443aacf1e3a9899c3be762b380caf53219)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test(file-transfer): cover final symlink write policy (#120082)</code>](https://github.com/openclaw/openclaw/commit/9094e10c11c049388870ba988745fe27a988571d)
+- [ ] [<code>fix(doctor): list actual removed ids in stale heartbeat/modelByChannel changes (#119202)</code>](https://github.com/openclaw/openclaw/commit/9571ae8c93c78d4106f100662d09a1f190be87f1)
+- [ ] [<code>fix(release): restart gateway after migration convergence (#120091)</code>](https://github.com/openclaw/openclaw/commit/53006a289e766a4696ba96b0224746dbe94d2f68)
+- [ ] [<code>refactor(browser): remove model-backed page extraction (#120101)</code>](https://github.com/openclaw/openclaw/commit/01281ad9f860ba518b155ec615d968cb0e60cbd2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): preserve startup release during repair (#120085)</code>](https://github.com/openclaw/openclaw/commit/b8b878ed334fe0358e38deb9f489a47516ac72d7)
+- [ ] [<code>fix(security): stop recommending retired install-policy bypasses (#120011)</code>](https://github.com/openclaw/openclaw/commit/804ae7f1217fd095484485a05798f6816db0ca0f)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(heartbeat): explain target-none skips (#119689)</code>](https://github.com/openclaw/openclaw/commit/89173ea9c2beda223d7e05a3db26a4ed27ffcf67)
+- [ ] [<code>fix(gateway): make doctor dreaming timestamp comparators NaN-safe (#118749)</code>](https://github.com/openclaw/openclaw/commit/e0ec1361089ac0f360660745ab50c2a419cf6ac9)
+- [ ] [<code>fix(canvas): serve Content-Length on A2UI HEAD responses (#117961)</code>](https://github.com/openclaw/openclaw/commit/a466958d338701de7f4e53d23e78461c35a2bce9)
+- [ ] [<code>fix(plugins): warn when registerHook uses a typed hook event name (#118601)</code>](https://github.com/openclaw/openclaw/commit/4d87263b1b60f595de7462d80dd3563f323073d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(google): accept base64url provider media (#116204)</code>](https://github.com/openclaw/openclaw/commit/83963e5135e97eaec97b7b8a2c7d0325c4d2a2ef)
+- [ ] [<code>refactor(agents): centralize exact execution attribution</code>](https://github.com/openclaw/openclaw/commit/e628b42a49d8ca859abf4dbeb89c9d3c10aff323)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): defer attribution until admission succeeds</code>](https://github.com/openclaw/openclaw/commit/8893c93558a9713d3c7da2c8c26298069d3cc8ac)
+- [ ] [<code>test(agents): exercise execution attribution ingress guard</code>](https://github.com/openclaw/openclaw/commit/22ae9bd3680aa63d26d6aa448fcf8faaea87e643)
+- [ ] [<code>fix(release): isolate private Telegram QA harness (#120088)</code>](https://github.com/openclaw/openclaw/commit/20131234724ec2b1cf126d4bb13f510e9fa9bceb)
+- [ ] [<code>fix(gateway): derive lock and coordinator paths from the resolved state dir (#120110)</code>](https://github.com/openclaw/openclaw/commit/70abd88e03e07e827e2b142e4e93bd5ec9f506e3)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
