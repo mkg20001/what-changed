@@ -319,6 +319,7 @@
 - [ ] [<code>refactor: async user device keys</code>](https://github.com/krille-chan/fluffychat/commit/9303746e6cdbd8332af45a43005b63f08ba0e01e)
 - [ ] [<code>chore: update branch</code>](https://github.com/krille-chan/fluffychat/commit/8f6e33cd0d5e3faa62b9d61c379c7b1159c4ab6e)
 - [ ] [<code>Revert "refactor: async user device keys"</code>](https://github.com/krille-chan/fluffychat/commit/11c6ed536bedab25a1b4f7f1f354f832af4a0439)
+- [ ] [<code>build: update vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/087f7d1acd9c0c7cfafd7f9e8f8dc4f65cbb30aa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -395,6 +396,7 @@
 - [ ] [<code>refactor: async user device keys</code>](https://github.com/krille-chan/fluffychat/commit/9303746e6cdbd8332af45a43005b63f08ba0e01e)
 - [ ] [<code>chore: update branch</code>](https://github.com/krille-chan/fluffychat/commit/8f6e33cd0d5e3faa62b9d61c379c7b1159c4ab6e)
 - [ ] [<code>Revert "refactor: async user device keys"</code>](https://github.com/krille-chan/fluffychat/commit/11c6ed536bedab25a1b4f7f1f354f832af4a0439)
+- [ ] [<code>build: update vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/087f7d1acd9c0c7cfafd7f9e8f8dc4f65cbb30aa)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -513,6 +515,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document Firefox versions that support lsel 0xFFFF</code>](https://github.com/AOMediaCodec/libavif/commit/b71e67f953b2cc905c14869296c72f266cd31683)
 - [ ] [<code>Bump the github-actions group across 2 directories with 7 updates (#3314)</code>](https://github.com/AOMediaCodec/libavif/commit/714beb91144ac58f3e055dce77f77daf822f4e8a)
 - [ ] [<code>Honour the base image stride in the tone map early exit (#3316)</code>](https://github.com/AOMediaCodec/libavif/commit/25a6d23f872f37c91a3df15b75e1a97f590d7c46)
+- [ ] [<code>Improve ToneMapTest.ToneMapRGBPaddedBaseStride</code>](https://github.com/AOMediaCodec/libavif/commit/d1db0c1d1b9c7bb3568ab0fd334291d188f089c1)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1942,6 +1945,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1022-nightly.</code>](https://github.com/netdata/netdata.git/commit/8e35bd63c3f9cb911d1c6d9d8dfc588fef197330)
 - [ ] [<code>docs: Explain cloudflared tunnel origin must be http not https (#23345)</code>](https://github.com/netdata/netdata.git/commit/c5c68eb13295657f3dbb3427abe535402abe9ddd)
 - [ ] [<code>docs: Clarify Netdata Cloud is optional for Parent dashboard access (#23339)</code>](https://github.com/netdata/netdata.git/commit/f6feecf62847c806178126f2c82b0ed7c679d03b)
+- [ ] [<code>fix(go.d/chartengine): resolve authored algorithms from runtime metric kinds (#23414)</code>](https://github.com/netdata/netdata.git/commit/7e0447936987c4c721c60afd5729aff270ece75f)
+- [ ] [<code>docs: Add SNMP vnode.labels example to snmp collector README (#23347)</code>](https://github.com/netdata/netdata.git/commit/d3ee188945ee213168fc8439459a9b2a969a8c83)
+- [ ] [<code>Regenerate integrations docs (#23418)</code>](https://github.com/netdata/netdata.git/commit/4af1cf7ab937129a48c5bf9afd33abe44831b43d)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4129,6 +4135,33 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ci): avoid rebuilding SDK inside QDC Test when called from test.yml</code>](https://github.com/qualcomm/GenieX/commit/dec058f683112d8ad659570cefc0cc5739013826)
 - [ ] [<code>Merge pull request #1295 from qualcomm/fix/vlm-spec-preflight</code>](https://github.com/qualcomm/GenieX/commit/d33df5f6afe20e8564d12f9b976686db849307a6)
   - <sub>Tags: <code>v0.3.19-rc.2</code></sub>
+- [ ] [<code>ci(test): change-gate test-sdk-qdc, drop duplicate build-sdk, restrict tag trigger</code>](https://github.com/qualcomm/GenieX/commit/cb52087fa17dc4e5ef26191e5935f3e6bd5a7b67)
+- [ ] [<code>test(models): move model manifest to JSON with env override loader</code>](https://github.com/qualcomm/GenieX/commit/415dae2d40ed73f9de6f14150c3a6d151d3fd574)
+- [ ] [<code>test(llama_cpp): pass MTP target as model_name to bypass path validator</code>](https://github.com/qualcomm/GenieX/commit/c081161744884598417219f8a551761972391eb7)
+- [ ] [<code>ci(qdc): upload device logs as artifact; label job with device id</code>](https://github.com/qualcomm/GenieX/commit/5ebf1626a109539e101b90c4d07751b2f566b832)
+- [ ] [<code>test(models): swap llama_cpp VLM to gemma-4-E2B-it Q4_0</code>](https://github.com/qualcomm/GenieX/commit/5f5fc92e1c78bd1b2e1f541973a511ecbbf4b7ab)
+- [ ] [<code>ci(qdc): list models used on job summary</code>](https://github.com/qualcomm/GenieX/commit/936243b7a0864822d0fe03bdc9d41f670505ae46)
+- [ ] [<code>ci(qdc): add Android SM8850 leg via APPIUM+adb harness</code>](https://github.com/qualcomm/GenieX/commit/025904192a66d5a2a0ef4182d64666afdc83ee0a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "ci(qdc): add Android SM8850 leg via APPIUM+adb harness"</code>](https://github.com/qualcomm/GenieX/commit/45ef2f75983c70f71bede95ed4c87791059867a5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(bindings/python): route spec_type through LLM path for VLM-classified models</code>](https://github.com/qualcomm/GenieX/commit/f62ee6b4104483d992628461f26a384b2f5a8487)
+- [ ] [<code>fix(bindings/python): appease ruff on VLM+spec_type warning line</code>](https://github.com/qualcomm/GenieX/commit/9c277f6b8a41a47b129b225118b6850b7569474b)
+  - <sub>Tags: <code>v0.3.19-rc.3</code></sub>
+- [ ] [<code>feat(sdk): add hub-model listing to the model-manager FFI</code>](https://github.com/qualcomm/GenieX/commit/451f90f095ba6ad9be535b0526fb53229622e928)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(bindings): add hub-model listing to Go/Python/Android</code>](https://github.com/qualcomm/GenieX/commit/d59a24f7307064c77724fa72c6421d2d093cb89f)
+- [ ] [<code>feat(cli): add 'geniex model list' for AI Hub catalogue</code>](https://github.com/qualcomm/GenieX/commit/e7febb0636465f8319015743391b6f41cac4a3c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(qdc): route matrix values through env to satisfy zizmor</code>](https://github.com/qualcomm/GenieX/commit/f884e649d6583a14002a572b3d5c191cb25b7d25)
+- [ ] [<code>ci(test): add Rust model-manager unit-test job to PR check</code>](https://github.com/qualcomm/GenieX/commit/2085a7e125b8fc384b28049565213d7517977fd3)
+- [ ] [<code>feat(sdk): detect RB3 Gen2 and add offline flag to detect_chipset</code>](https://github.com/qualcomm/GenieX/commit/1152743d0494bf51f4f3f6f78834f8fb491ed79d)
+- [ ] [<code>feat(bindings): thread detect_chipset offline flag through all bindings</code>](https://github.com/qualcomm/GenieX/commit/8f74f847b358213303d34dbe794d0667e0f448e4)
+- [ ] [<code>feat(cli): default compute to cpu on RB3 Gen2</code>](https://github.com/qualcomm/GenieX/commit/148e9f8d75b919f81f8c79996b5cab5c918d838f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: bump up geniex-qairt to include qnwe3 0.6b and gemma 4 fix</code>](https://github.com/qualcomm/GenieX/commit/5e4db40549f302b5537de8f69379442d264e99fa)
+- [ ] [<code>Merge pull request #1310 from qualcomm/chore/paul/bumpup</code>](https://github.com/qualcomm/GenieX/commit/091754c61b4b1bcf86bc861ecc384e71eca43508)
+  - <sub>Tags: <code>v0.3.19</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -23934,6 +23967,45 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(cron): on-exit watcher retries transient failures instead of silently dropping the watch (#120023)</code>](https://github.com/openclaw/openclaw/commit/44a5c40e11bae2b67953ba0479120acd2e61577a)
 - [ ] [<code>fix(gateway): redact credentials from gateway URLs in status and logs diagnostics (#120024)</code>](https://github.com/openclaw/openclaw/commit/e910324f101c77529641a9a3a613dde20a76bd96)
 - [ ] [<code>fix(agents): subagent hard-deny list cannot be overridden by allow config (#120025)</code>](https://github.com/openclaw/openclaw/commit/8994c7799ba3c8700f0fc0f7201e4695ee140a20)
+- [ ] [<code>feat(claws): adopt portable profiles and native bootstrap (#115237)</code>](https://github.com/openclaw/openclaw/commit/60fc2fe64d8ec2988a555a638dc1074d31e5760b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(tui): gate built CLI PTY cases (#120221)</code>](https://github.com/openclaw/openclaw/commit/01cc71060d6c57eff142cfc210685c651ccb6397)
+- [ ] [<code>fix(systemd): apply dotenv changes on gateway restart (#119441)</code>](https://github.com/openclaw/openclaw/commit/4cbbfc215953602d5789ae866343567bb3a7dfd5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(diagnostics-otel): keep telemetry exporting across in-process restarts (#120131)</code>](https://github.com/openclaw/openclaw/commit/3bc188efe55eede47c13f97e9ab172754a0bed9e)
+- [ ] [<code>fix(android): gate Wear model controls by operator scope (#120016)</code>](https://github.com/openclaw/openclaw/commit/a23444fc74b0ddfea5e4b2aad6ae2f81fdc6cf8b)
+- [ ] [<code>feat(status): render /status as a native rich card and declutter the plain body (#120167)</code>](https://github.com/openclaw/openclaw/commit/5e477aff2adc0ebaf5e66692c3544616a1a07f9b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(diagnostics): cover OTEL exporter contracts (#120261)</code>](https://github.com/openclaw/openclaw/commit/c549250bfae8ff40822099c9af93ed05ff540579)
+- [ ] [<code>docs: promote Release and CI navigation (#119802)</code>](https://github.com/openclaw/openclaw/commit/b738e2578087a5fb292abf333dbc5c7e92c853d6)
+- [ ] [<code>fix: remove retired insecure auth guidance (#120295)</code>](https://github.com/openclaw/openclaw/commit/dcb125d202ed4fbf0cef1f9009aa250895f12b3f)
+- [ ] [<code>fix(ui): preserve structured login error codes (#120069)</code>](https://github.com/openclaw/openclaw/commit/ab4761f3fc9a903646a6ac7346ae1091745de79a)
+- [ ] [<code>refactor(test): replace logic-bearing vi.mock factories with boundary fakes, batch 3 (#120291)</code>](https://github.com/openclaw/openclaw/commit/4188f6892d912324f4fdd4de6b4a97b1b012c2f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cron): isolate post-persist notification failures from the store write (#120266)</code>](https://github.com/openclaw/openclaw/commit/824cf2dcd9463b98867723cd3506a8a0de453084)
+- [ ] [<code>fix(plugins): reject malformed percent-encoding in local JSON Schema $ref anchors (#120254)</code>](https://github.com/openclaw/openclaw/commit/fcdc8460e36a00061ec25e23adbbf7fe1b7d1b07)
+- [ ] [<code>fix(agents): failed compaction no longer zeroes live assistant usage (#120264)</code>](https://github.com/openclaw/openclaw/commit/c93b3f704569fb4f9d03fd3d6b6ace11a7dad127)
+- [ ] [<code>fix(discord): surface inbound attachment download failures (#120269)</code>](https://github.com/openclaw/openclaw/commit/a68ff9961c3cee5f8e076cbfdafda16c15bc2294)
+- [ ] [<code>fix(imessage): stop dropping user text that collides with recent outbound sends (#120260)</code>](https://github.com/openclaw/openclaw/commit/c25671cf275a4b5a339db182a5ba8bffc2e73c11)
+- [ ] [<code>test(plugins): add Agent Plugins gateway e2e with model-driven MCP tool call (#120303)</code>](https://github.com/openclaw/openclaw/commit/2fa9a29c770ad47b4ad8770d69983f8b6f66146a)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor(test): compress repetitive fixtures in mega-tests, batch 3 (#120294)</code>](https://github.com/openclaw/openclaw/commit/d448a25a8a876b40d62b8cc09532d2480f9db163)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): quota suspension resolves the real owning agent instead of no-opping (#120262)</code>](https://github.com/openclaw/openclaw/commit/b12616b44468e3d2772e3647d8f4de5805520389)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): require a fresh reply and real tool use after switching models (#119662)</code>](https://github.com/openclaw/openclaw/commit/5a795f4ddacc1e416102ce16fd9e5e53dbc2f9f2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(discord): thread archive/delete closes sessions in each agent's store (#120259)</code>](https://github.com/openclaw/openclaw/commit/6543e6f7c9ce9c40cb6834e85d274709fc6bcd76)
+- [ ] [<code>fix(ui): isolate debug diagnostics and supersede stale RPC calls</code>](https://github.com/openclaw/openclaw/commit/3d4a7d49622371fed1afd2d6955eb13fde05cb79)
+- [ ] [<code>fix: isolate debug diagnostics failures (#117546)</code>](https://github.com/openclaw/openclaw/commit/a3cf376258bef69ae9dbf7b86303dcdb37f39592)
+- [ ] [<code>docs(plugins): include Agent Plugins in the plugins page read-when hints (#120323)</code>](https://github.com/openclaw/openclaw/commit/b99c507ce62a5eff25c8522c2469510ffaf2c8ef)
+- [ ] [<code>fix(progress): preserve callback acceptance results (#120171)</code>](https://github.com/openclaw/openclaw/commit/c691f2e41cd61b26b5457541f5ff5ecbd7f2a9a3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): align hosted gates with workflow applicability (#120313)</code>](https://github.com/openclaw/openclaw/commit/8c68f74ef914763e846f4b3c2fef8b80ace56f5e)
+- [ ] [<code>fix(ios): remove permission pre-prompts</code>](https://github.com/openclaw/openclaw/commit/0bcbaf2edaf94c49d51ae7d0982e02dea71fe31b)
+- [ ] [<code>fix(ios): keep permission actions readable</code>](https://github.com/openclaw/openclaw/commit/ac2994a0e2be61c693b57e2420a9c5000e3c9016)
+- [ ] [<code>fix(android): keep Wear chat on the latest reply (#120307)</code>](https://github.com/openclaw/openclaw/commit/62937ea6fc2515782d65c566399cf98e16af6893)
+- [ ] [<code>fix(qa): preserve script evidence coverage (#120286)</code>](https://github.com/openclaw/openclaw/commit/588d8bb853883121ddd3a2c5d50550bfb8433be4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
