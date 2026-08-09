@@ -417,6 +417,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>input-sources-list.ui: Use icons for add/remove layout, use a label</code>](https://github.com/linuxmint/cinnamon/commit/79ffe8e01b64eda8810f224f59043e7fb33f5677)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-util.c: Add cinnamon_find_program_in_path().</code>](https://github.com/linuxmint/cinnamon/commit/428c82a65a498affd170bd275f050a65c4ae8b14)
+- [ ] [<code>keyboard applet: Check if gucharmap is installed before adding it</code>](https://github.com/linuxmint/cinnamon/commit/d62a19f45d4b9989513b06d8d9cb0b1610b812af)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
