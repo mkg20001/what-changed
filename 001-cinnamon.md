@@ -426,6 +426,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel-launchers: Resolve launchers from the panel-launchers</code>](https://github.com/linuxmint/cinnamon/commit/05ddc68c5b1ebb1d958474aaadc206a733d6d13f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-screenshot: Respect prefs during launch via non-</code>](https://github.com/linuxmint/cinnamon/commit/655a9b2aad688723c1848d452f9965ba45eab932)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: open applet configuration on the selected panel's instance (#13883)</code>](https://github.com/linuxmint/cinnamon/commit/b98e1b335cfc8991c1e7e0a5f8463bbddb757538)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix typo in System Administration Keyword Filters (#13781)</code>](https://github.com/linuxmint/cinnamon/commit/e9ba28a87f0f69594487a08e940840d494bb3ea0)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -645,6 +651,16 @@
 - [ ] [<code>Added symlinks for spotify-launcher and vesktop (#542)</code>](https://github.com/linuxmint/mint-y-icons/commit/50a7685c6f0fb3894dd9b06be677405ceb0739e5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add icon for Counter-Strike 2 (#548)</code>](https://github.com/linuxmint/mint-y-icons/commit/7ca40a75584dc5053d4f9f8e7d3bd7df4a9fcf6c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Prism Launcher icon (#558)</code>](https://github.com/linuxmint/mint-y-icons/commit/5892bbc19a3293071339bb7df502165c7ebfb75f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update VirtualBox icon (#563)</code>](https://github.com/linuxmint/mint-y-icons/commit/4413906b9bd5deae6690627d26dc31b5f8c173a1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Drive icon (#564)</code>](https://github.com/linuxmint/mint-y-icons/commit/edd7e20615e92ffc427eb8f91101e4b7fdd2006f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Gmail icon (#565)</code>](https://github.com/linuxmint/mint-y-icons/commit/5ed62ba98e15a1ab1285b33623801c19f036f55b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Photos icon (#566)</code>](https://github.com/linuxmint/mint-y-icons/commit/c3eded88c8fb5f20f895a272f22fd1161a1cdb28)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
@@ -867,6 +883,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -884,6 +903,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -901,6 +923,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -918,6 +943,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -935,6 +963,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
