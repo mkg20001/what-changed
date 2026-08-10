@@ -420,6 +420,8 @@
 - [ ] [<code>cinnamon-util.c: Add cinnamon_find_program_in_path().</code>](https://github.com/linuxmint/cinnamon/commit/428c82a65a498affd170bd275f050a65c4ae8b14)
 - [ ] [<code>keyboard applet: Check if gucharmap is installed before adding it</code>](https://github.com/linuxmint/cinnamon/commit/d62a19f45d4b9989513b06d8d9cb0b1610b812af)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-desktop-editor: Fix panel launcher edits hanging the dialog and not refreshing the panel (#13896)</code>](https://github.com/linuxmint/cinnamon/commit/b05a1d0512082face7eb617375d4218b19353ddf)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -537,8 +539,9 @@
 - [ ] [<code>main.c: Clear IM-related environment values between sessions,</code>](https://github.com/linuxmint/cinnamon-session/commit/071312e13711ce4a57ad3341082143a17a29b4fe)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Debian packaging improvements (#205)</code>](https://github.com/linuxmint/cinnamon-session/commit/824fdcd1e4f9e8e30a89b2f06c55fff18d4962e7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>csm-manager.c: Move SessionOver emission to a more common location.</code>](https://github.com/linuxmint/cinnamon-session/commit/382af0f7e6df69ea84f63db54a0f5440278d7c7d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
