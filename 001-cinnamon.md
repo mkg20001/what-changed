@@ -422,6 +422,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-desktop-editor: Fix panel launcher edits hanging the dialog and not refreshing the panel (#13896)</code>](https://github.com/linuxmint/cinnamon/commit/b05a1d0512082face7eb617375d4218b19353ddf)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>eventView.js: Don't check for gnome-calendar every time a row is</code>](https://github.com/linuxmint/cinnamon/commit/b36c0b7ec9d5e711d8e964763a6802710803ef65)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel-launchers: Resolve launchers from the panel-launchers</code>](https://github.com/linuxmint/cinnamon/commit/05ddc68c5b1ebb1d958474aaadc206a733d6d13f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
