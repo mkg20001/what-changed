@@ -1994,6 +1994,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi from 1.35.2 to 1.35.4 in /src/go (#23431)</code>](https://github.com/netdata/netdata.git/commit/8c5d7cfd75efbc6576992ca642c4a63e8b77ee30)
 - [ ] [<code>build(deps): bump github.com/klauspost/compress from 1.19.1 to 1.19.2 in /src/go (#23433)</code>](https://github.com/netdata/netdata.git/commit/9a18ef78fbf44f9a823ed227b6c04503cad2e75a)
 - [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/cloudwatch from 1.66.1 to 1.66.3 in /src/go (#23434)</code>](https://github.com/netdata/netdata.git/commit/c979cb72c54666353f73d2d5fa8ebe0476bdee29)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-1044-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f3dbb9d478304948b4f38b128985cf9ca4f6d13)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -24853,6 +24854,83 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(imessage): exercise chat lookup through runtime boundary (#121205)</code>](https://github.com/openclaw/openclaw/commit/2904bbfc475c1bf53ea39d7d3f4bca3cd8afd71f)
 - [ ] [<code>refactor(gateway): typed internal agent turn path for recovery (#121223)</code>](https://github.com/openclaw/openclaw/commit/bff0494f33b24aef664990dafda0d38750d798bc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: prevent externally supervised state schema drift (#121069)</code>](https://github.com/openclaw/openclaw/commit/f31d9d8fa929ee23b4f01547434fab886dda00ac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(qa): remove retired scenario migration ledgers (#121229)</code>](https://github.com/openclaw/openclaw/commit/9ede0e9cefc2216fa50110cc2ecc1451c5d07b23)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): use frozen source build entrypoint (#121216)</code>](https://github.com/openclaw/openclaw/commit/87ba8ef82b4d4db450f4ee967b6d72fba37ae048)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): preserve topic routing for reactions and poll answers (#121231)</code>](https://github.com/openclaw/openclaw/commit/59ec48439e3f1f08e6ac34fcc52043ea6e7adb56)
+- [ ] [<code>refactor(gateway): relocate agent turn modules (#121241)</code>](https://github.com/openclaw/openclaw/commit/063acb926817a7204a104671a13681e35b5a3aa8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): pin compact task-suggestion split button to the card top-right (#121246)</code>](https://github.com/openclaw/openclaw/commit/4b4be7448edde9cc2590abe891ac6dac01def4bc)
+- [ ] [<code>fix(sessions): deliver generated images in agent announcements [AI-assisted] (#115126)</code>](https://github.com/openclaw/openclaw/commit/306c923e3d1940243a8bc6033a876ae90257ffea)
+- [ ] [<code>fix(gateway): keep hello authorization aligned with RPC access (#120888)</code>](https://github.com/openclaw/openclaw/commit/0ef798d28d2e8731f100657411f2a480ab3328d5)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>feat(macos): isolate named app profiles (#121136)</code>](https://github.com/openclaw/openclaw/commit/0dbdf994b38e2615c98dfb86a8c46fc23ab84d4a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(commands): share native plugin command merging (#120972)</code>](https://github.com/openclaw/openclaw/commit/6ee409ca7b6dd53da47bfb90d159862028bf7c0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(tests): simplify internal test-only seams (#121243)</code>](https://github.com/openclaw/openclaw/commit/096b2764e02e498d02d1a5ed80d6efb1047e49bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): use in-app dialog for session rename (#121255)</code>](https://github.com/openclaw/openclaw/commit/ce133d4a35fdf9a0db8513e448111fed33befac7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): refresh chat metadata after runtime auth succeeds (#121193)</code>](https://github.com/openclaw/openclaw/commit/ba35d2a09aaf4be0742ccdb818b4d10ebf555ce1)
+- [ ] [<code>fix(models): honor replace mode in list output (#103103)</code>](https://github.com/openclaw/openclaw/commit/aa0bad1ebe0ec0a094acb0bd04fb7def94f79c47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(anthropic): reject leaked Claude tool protocol output (#120734)</code>](https://github.com/openclaw/openclaw/commit/67e653e5808e307c2b4835e9c6a98d526eb6c0c3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(agents)!: remove the session write lease (#121113)</code>](https://github.com/openclaw/openclaw/commit/ce53f7e82e25e49f6c78736bf14e2861ee774135)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(gateway): keep view-only desktop sessions connected [AI-assisted] (#121256)</code>](https://github.com/openclaw/openclaw/commit/e9cf5dde561349577d19f9dc1e9402845fdbe45b)
+- [ ] [<code>fix(ui): confirm disruptive Control UI updates before they start (#121234)</code>](https://github.com/openclaw/openclaw/commit/95fdce70493196c1193e8b2939f76bfbfe336353)
+- [ ] [<code>docs(ios): cut 2026.8.10 release notes</code>](https://github.com/openclaw/openclaw/commit/59e4e3160221fa225404521ffa802a4c95f5690d)
+- [ ] [<code>fix: completed tasks no longer block gateway suspension (#121267)</code>](https://github.com/openclaw/openclaw/commit/42283cb609a4d83ea3bd3f105b165619f28989d0)
+- [ ] [<code>refactor(channels): move owner policy into plugins (#121257)</code>](https://github.com/openclaw/openclaw/commit/0efd5b4bc9bb0179a9e2a8edcf350fe3e513773d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): remove source-mirror assertions (#121266)</code>](https://github.com/openclaw/openclaw/commit/810b99432c211a855904bffed8c10a1dfe84f566)
+- [ ] [<code>fix(cli): reject blank configuration section filters (#121145)</code>](https://github.com/openclaw/openclaw/commit/eb59c68436b5d4bc94a58a6e4ba8c51375e49170)
+- [ ] [<code>fix: prevent startup failures from obsolete managed plugin shadows (#121261)</code>](https://github.com/openclaw/openclaw/commit/d9e43b147a7abd02e95753efa03da504276b7bf0)
+- [ ] [<code>fix(telegram): stabilize command menu ordering (#121239)</code>](https://github.com/openclaw/openclaw/commit/cfb19c7054aef8f65f7b5b8468edaa8ebee664a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): start subagent retention after execution completes (#121178)</code>](https://github.com/openclaw/openclaw/commit/0f6de6a75181dd2480c08dc615ee4d9a7c2dd9e4)
+- [ ] [<code>improve(agents): avoid plugin registry rebuilds on auth refresh (#121250)</code>](https://github.com/openclaw/openclaw/commit/1b2920a5200c4ee8fa1811066d256aa1bd698767)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): enforce recursive rich-message transport limits (#117020)</code>](https://github.com/openclaw/openclaw/commit/1c9649afc46978342840a8de2427266162bf4a2e)
+- [ ] [<code>refactor(ws): consolidate raw WebSocket payload decoding (#121268)</code>](https://github.com/openclaw/openclaw/commit/bd6c6aaef2a428ca05a9cc80c24d938bf1e41440)
+- [ ] [<code>fix(gateway): accept noVNC extended clipboard framing (#121276)</code>](https://github.com/openclaw/openclaw/commit/68e77c5ea7eb67d21d67e9922c6f72e9ab1f85c6)
+- [ ] [<code>fix(discord): preserve distinct interaction occurrences (#121155)</code>](https://github.com/openclaw/openclaw/commit/727e48240be44c72a17f93e6bd67fd3dc6b67bd2)
+- [ ] [<code>fix(media): accept mixed-case local file URLs (#121226)</code>](https://github.com/openclaw/openclaw/commit/3bdfd60caaa70ac148863d8c6945544a25a5c2bf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat: continue dashboard sessions from CLI URLs (#120893)</code>](https://github.com/openclaw/openclaw/commit/055a2dc6ced54dbf0669e3d88fbb53593dfc66d0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ios): trim duplicate root shell mirrors (#121272)</code>](https://github.com/openclaw/openclaw/commit/af708e6628954c024f9d6af81a1d6bd7b9e12e08)
+- [ ] [<code>fix(slack): support Grid reaction and pin event listeners (#120944)</code>](https://github.com/openclaw/openclaw/commit/6efd013c25d515cd175b03ad545eedfedb381814)
+- [ ] [<code>fix(cli): guard remaining embedded state writers (#121282)</code>](https://github.com/openclaw/openclaw/commit/08507909ed7cfa38615ac5eb7366200f0f9e599e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): confirm Devices pairing rejects and token revokes in-app (#121279)</code>](https://github.com/openclaw/openclaw/commit/f9eae0c2762dbd646afc6cbc41a34354af3ef1ac)
+- [ ] [<code>fix(scripts): anchor hydrated tsx at checkout root (#121149)</code>](https://github.com/openclaw/openclaw/commit/cfe6ebcd1e1ec29ff69e7160fbc3c7f92c735b78)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve exec completion identity across poll and heartbeat (#120575)</code>](https://github.com/openclaw/openclaw/commit/c71c29ecaecb8fcff7ef97b67e2a671a04504d80)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(zalo): remove private rate-limit size seam (#121290)</code>](https://github.com/openclaw/openclaw/commit/04b110b9327f8b648c88e1fc6a8d8127a70bc065)
+- [ ] [<code>test(telegram): fix vacuous stale-copy assertions (#121291)</code>](https://github.com/openclaw/openclaw/commit/15dc3de1eeb64c698920f011eb0aec52c793dcb1)
+- [ ] [<code>fix(update): bind managed handoffs to install root (#121288)</code>](https://github.com/openclaw/openclaw/commit/ef167715e3b91a8690ff0a845e182930fd08cd50)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(agents): count rate-limit profile rotations only when rotation happens (#121294)</code>](https://github.com/openclaw/openclaw/commit/0c70eeeeaba6207ed3e35bcac50f15b5806d6563)
+- [ ] [<code>test(agents): add golden failover classification corpus (#121289)</code>](https://github.com/openclaw/openclaw/commit/e934d5d650e9c0134fefb82ff0f3316094e64118)
+- [ ] [<code>test(gateway): exercise schema cache through handlers (#121298)</code>](https://github.com/openclaw/openclaw/commit/6081685f7774d3a319c5cabdc0a348dc658bc3fb)
+- [ ] [<code>test(telegram): remove vacuous rate-limit assertion (#121292)</code>](https://github.com/openclaw/openclaw/commit/90ae49a5e5e990f12eeec40fa20bed6e0202a7c4)
+- [ ] [<code>fix(ui): coordinate settings mutations and visible refresh outcomes (#116940)</code>](https://github.com/openclaw/openclaw/commit/1fb5d4f1012c69aeff94504ac9a76e6b93b28de8)
+- [ ] [<code>fix(sessions): fence lifecycle transcript writers (#121284)</code>](https://github.com/openclaw/openclaw/commit/d7cdb2e60b7a1ed0e46d9e4c8f82bde4f2d122cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): preserve legacy runtime-doctor imports (#121220)</code>](https://github.com/openclaw/openclaw/commit/0b663e7a62efc3d17eda81920b236b8921bd04bb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(concepts): add session synchronization and attachment guide (#121091)</code>](https://github.com/openclaw/openclaw/commit/ada95a20c1c53ee3690379b8cf683c678a415c29)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): move swarm family into subagents/swarm (#121295)</code>](https://github.com/openclaw/openclaw/commit/6f4c8bfb6ddadcc33668147c9cfbafcf02b5aa8b)
+- [ ] [<code>test(sessions): remove assertion-free history kick probe (#121310)</code>](https://github.com/openclaw/openclaw/commit/3c09da59f6700be629c96bc66d5d3d5f8f098039)
+- [ ] [<code>fix(acp): preserve source runtime ownership for bound turns (#110261)</code>](https://github.com/openclaw/openclaw/commit/a3b4c0aa7196712ae9240147e9c1b5d7a86b962d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
