@@ -791,7 +791,9 @@
 - [ ] [<code>meta-wayland-data-offer.c: Ignore the "ask" user_action once the</code>](https://github.com/linuxmint/muffin/commit/34f33b95b0bf3c58292ff648856bfb05b206ad94)
 - [ ] [<code>wayland: Let the compositor update the DnD cursor, so in-flight drag</code>](https://github.com/linuxmint/muffin/commit/05dc32d44d320311ada62a0ee89aa37dce04d4e5)
 - [ ] [<code>meta-workspace-manager.c: Adapt show-desktop to work with layer-</code>](https://github.com/linuxmint/muffin/commit/7ab53259f906517bfa0868883aafb8e4cc558339)
+- [ ] [<code>[Wayland] Switch to stable linux-dmabuf (#840)</code>](https://github.com/linuxmint/muffin/commit/167e852cbc31da646c594db16e06e176c880e5a0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -879,6 +881,8 @@
 - [ ] [<code>menus: Fix popups having no transient parent in Wayland.</code>](https://github.com/linuxmint/nemo/commit/4a41953aff3919789a366683c3221ae5976023f9)
 - [ ] [<code>nemo-dnd.c: Fix the drop action menu in Wayland.</code>](https://github.com/linuxmint/nemo/commit/d0185b890427fb54e20017280d0264422de7fe93)
 - [ ] [<code>dnd: Free path_str in the get_data_binder() functions.</code>](https://github.com/linuxmint/nemo/commit/2395cff59783c8586b292fa2dc9439aed1e07ba5)
+- [ ] [<code>eel-gtk-extensions.c: Restore Wayland popup workaround.</code>](https://github.com/linuxmint/nemo/commit/f4ab02656f15ced68ed449bfcc5240cd64d35198)
+- [ ] [<code>nemo-action.c: Fix find_token_type() - ignore invalid tokens. (#3779)</code>](https://github.com/linuxmint/nemo/commit/c605b752cd268b5dba16620f7f1bb403c7a72318)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
