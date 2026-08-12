@@ -865,6 +865,12 @@
 - [ ] [<code>nemo-window-list.c: Clear interactive no-search-results label</code>](https://github.com/linuxmint/nemo/commit/d43c6de8dcc59704b40e7173c7a867f50762e2ea)
 - [ ] [<code>dnd: Don't allow drops into a search result view.</code>](https://github.com/linuxmint/nemo/commit/eeb2b64c563d2df964223e23fcbb346723420a5b)
 - [ ] [<code>nemo-desktop: Don't crash/quit in Wayland when the monitor is removed (#3785)</code>](https://github.com/linuxmint/nemo/commit/932438fc4767c1d95fe6677edcd3d13d7b2ffa24)
+- [ ] [<code>nemo-columns: Use natural sort for other string columns,</code>](https://github.com/linuxmint/nemo/commit/648d3890349bf18f35d2ef5a0d3a35210de8f108)
+- [ ] [<code>nemo-file.c: Fall back to path/name ordering when a sort column's</code>](https://github.com/linuxmint/nemo/commit/f7ec00b7096abede9eeb1d58d039a103007394c6)
+- [ ] [<code>nemo-column.c: Remove stray g_free().</code>](https://github.com/linuxmint/nemo/commit/ff1af2c5d1d9f243c6bb8bb4af6489d354fe75f1)
+- [ ] [<code>menus: Fix popups having no transient parent in Wayland.</code>](https://github.com/linuxmint/nemo/commit/4a41953aff3919789a366683c3221ae5976023f9)
+- [ ] [<code>nemo-dnd.c: Fix the drop action menu in Wayland.</code>](https://github.com/linuxmint/nemo/commit/d0185b890427fb54e20017280d0264422de7fe93)
+- [ ] [<code>dnd: Free path_str in the get_data_binder() functions.</code>](https://github.com/linuxmint/nemo/commit/2395cff59783c8586b292fa2dc9439aed1e07ba5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -886,6 +892,7 @@
 - [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -906,6 +913,7 @@
 - [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -926,6 +934,7 @@
 - [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -946,6 +955,7 @@
 - [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -966,6 +976,7 @@
 - [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
