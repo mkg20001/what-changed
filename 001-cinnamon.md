@@ -782,8 +782,16 @@
 - [ ] [<code>constraints.c: Place popups on the same monitor as their anchor rect.</code>](https://github.com/linuxmint/muffin/commit/b5520c5fe7f8e944e05051f47626dcd94054bb8f)
 - [ ] [<code>constraints.c: Flip popups even when they won't fully fit afterwards</code>](https://github.com/linuxmint/muffin/commit/b3ff94e3830643752af6edbe9007b10906c54879)
 - [ ] [<code>meta-wayland-xdg-shell.c: Dismiss instead of destroy invalid popup</code>](https://github.com/linuxmint/muffin/commit/2f856789eeea6ae5c7cb2f9f0fae314b2acf869d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>meta-backend-native.c: Handle NULL from xkb_keymap_new_from_names.</code>](https://github.com/linuxmint/muffin/commit/6ed5907a15ae5614c74682f8c736745f4b3a6fab)
+- [ ] [<code>layer-shell: Protocol conformance fixes, v5, and exclusive keyboard focus.</code>](https://github.com/linuxmint/muffin/commit/77cc685a383beda80b1d0dc2731455388f9dfb99)
+- [ ] [<code>layer-shell: Fix crash and stacking of popups parented to layer surfaces.</code>](https://github.com/linuxmint/muffin/commit/01c22ad6c5573154679c98bb3d7764022214f138)
+- [ ] [<code>layer-shell: Support subsurfaces on layer surfaces.</code>](https://github.com/linuxmint/muffin/commit/3d3319b3d3c7c0f5d5aa30783015d179428a179d)
+- [ ] [<code>layer-shell: Scale surfaces on HiDPI monitors.</code>](https://github.com/linuxmint/muffin/commit/082790ea69532ae4a16524624ca46bc6b41c6476)
+- [ ] [<code>cursor: Scale shape cursors and honor texture scale on HiDPI.</code>](https://github.com/linuxmint/muffin/commit/e627fbafb54d7b6143cd12d8bd41a988226c5480)
+- [ ] [<code>meta-wayland-data-offer.c: Ignore the "ask" user_action once the</code>](https://github.com/linuxmint/muffin/commit/34f33b95b0bf3c58292ff648856bfb05b206ad94)
+- [ ] [<code>wayland: Let the compositor update the DnD cursor, so in-flight drag</code>](https://github.com/linuxmint/muffin/commit/05dc32d44d320311ada62a0ee89aa37dce04d4e5)
+- [ ] [<code>meta-workspace-manager.c: Adapt show-desktop to work with layer-</code>](https://github.com/linuxmint/muffin/commit/7ab53259f906517bfa0868883aafb8e4cc558339)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
