@@ -432,6 +432,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix typo in System Administration Keyword Filters (#13781)</code>](https://github.com/linuxmint/cinnamon/commit/e9ba28a87f0f69594487a08e940840d494bb3ea0)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>js/ui: Move expo, overview, appswitcher into Main.switcherGroup.</code>](https://github.com/linuxmint/cinnamon/commit/1d86f33f2b90d083dcb510066c772eddc0f5afed)
+- [ ] [<code>popupMenu.js: Queue a relayout when the number of columns changes.</code>](https://github.com/linuxmint/cinnamon/commit/36c2e1d9be0a4a36e531809f982260e84b6545cb)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
