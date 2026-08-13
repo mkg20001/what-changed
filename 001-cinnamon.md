@@ -553,7 +553,12 @@
 - [ ] [<code>Debian packaging improvements (#205)</code>](https://github.com/linuxmint/cinnamon-session/commit/824fdcd1e4f9e8e30a89b2f06c55fff18d4962e7)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>csm-manager.c: Move SessionOver emission to a more common location.</code>](https://github.com/linuxmint/cinnamon-session/commit/382af0f7e6df69ea84f63db54a0f5440278d7c7d)
+- [ ] [<code>csm-manager.c: Don't end the session once it's running if a</code>](https://github.com/linuxmint/cinnamon-session/commit/1870e118432e5d9cc206db44e87225fbaa0787c4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>pkg-config variable systemduserunitdir belongs to package systemd</code>](https://github.com/linuxmint/cinnamon-session/commit/c06d421a6f689a54902d01fa3c7219b04042aa10)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>debian/control: Update build deps to reliably fetch the</code>](https://github.com/linuxmint/cinnamon-session/commit/3633be1a539d485a5e477cada5c22aaefe141f5c)
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
