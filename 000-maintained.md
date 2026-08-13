@@ -330,6 +330,10 @@
 - [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/39b1ebdc754550087551bd58e73857ba85265a93)
 - [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee0298083bbd912f29733c4b980451ad9a551054)
 - [ ] [<code>fix: Pass context with navigator to allow setupPush to display a UnifiedPush modal</code>](https://github.com/krille-chan/fluffychat/commit/67996506ed589bbfddd591a202e4cc81d4b0a920)
+- [ ] [<code>build: update to flutter 3.44.9</code>](https://github.com/krille-chan/fluffychat/commit/ed7761dea16c602e10b5a05929d8cc55a68a7abf)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.2.0 to 22.3.0</code>](https://github.com/krille-chan/fluffychat/commit/0a70b2fb3383bb3875956e57d4d3746cc22bbf13)
+- [ ] [<code>chore: follow up for send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/870e1641eec85bc876c8bf7249bc2129584034c2)
+- [ ] [<code>feat: display verified icon next to verified rooms and users</code>](https://github.com/krille-chan/fluffychat/commit/7db469bb71d72f3f6ef59862928cb4522b966342)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -416,6 +420,10 @@
 - [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/39b1ebdc754550087551bd58e73857ba85265a93)
 - [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee0298083bbd912f29733c4b980451ad9a551054)
 - [ ] [<code>fix: Pass context with navigator to allow setupPush to display a UnifiedPush modal</code>](https://github.com/krille-chan/fluffychat/commit/67996506ed589bbfddd591a202e4cc81d4b0a920)
+- [ ] [<code>build: update to flutter 3.44.9</code>](https://github.com/krille-chan/fluffychat/commit/ed7761dea16c602e10b5a05929d8cc55a68a7abf)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.2.0 to 22.3.0</code>](https://github.com/krille-chan/fluffychat/commit/0a70b2fb3383bb3875956e57d4d3746cc22bbf13)
+- [ ] [<code>chore: follow up for send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/870e1641eec85bc876c8bf7249bc2129584034c2)
+- [ ] [<code>feat: display verified icon next to verified rooms and users</code>](https://github.com/krille-chan/fluffychat/commit/7db469bb71d72f3f6ef59862928cb4522b966342)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -537,6 +545,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve ToneMapTest.ToneMapRGBPaddedBaseStride</code>](https://github.com/AOMediaCodec/libavif/commit/d1db0c1d1b9c7bb3568ab0fd334291d188f089c1)
 - [ ] [<code>Parse 'iref' and 'grpl' children within their own box size (#3321)</code>](https://github.com/AOMediaCodec/libavif/commit/6868dd1a51f5a66c96fb9a0deb32087aab7515a8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Parse 'auxl' and 'prem' within their own box size</code>](https://github.com/AOMediaCodec/libavif/commit/bc15ac558b580b42bd1ebd8b422e02b2a5dcb24e)
+- [ ] [<code>Simplify avifROStreamReadBoxHeader() slightly</code>](https://github.com/AOMediaCodec/libavif/commit/93717e957e75ace6d5db3c61c52c4c1d7e151e09)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -715,6 +725,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>fix(http): stop SSE fallback from masking primary transport errors (#311)</code>](https://github.com/openclaw/mcporter/commit/97a5ee44de4ec143d81cdfe2b31b49b27c851632)
 - [ ] [<code>fix(list): keep the array shape for enum-typed array parameters (#309)</code>](https://github.com/openclaw/mcporter/commit/6b011ad9598c472c54749091321fc9e549aa2813)
+- [ ] [<code>chore(release): prepare 0.13.5</code>](https://github.com/openclaw/mcporter/commit/12f4f8e38e4a3872f15daaa4ef1fe9310c8010e6)
+  - <sub>Tags: <code>v0.13.5</code></sub>
+- [ ] [<code>chore: open 0.13.6 development</code>](https://github.com/openclaw/mcporter/commit/5222632a54310cff3a48673b79e21ab7c964924b)
+- [ ] [<code>test(oauth): deflake callback shutdown coverage (#313)</code>](https://github.com/openclaw/mcporter/commit/c92c0bfa068b33c94d506e7b12a827050caad602)
+- [ ] [<code>fix(oauth): serialize post-401 refresh (#314)</code>](https://github.com/openclaw/mcporter/commit/082d790a58178ca683c0235060f8197f99692156)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4309,8 +4324,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(docs): add audio input tutorial and modality table</code>](https://github.com/qualcomm/GenieX/commit/edee4a8a4ccbb3a26b00cb02a442994c1ca3079d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>sdk(model-manager): bump DEFAULT_AI_HUB_VERSION to v0.60.0</code>](https://github.com/qualcomm/GenieX/commit/ccc263ac6a2aa6930202fdf27d2c89fd26899b09)
-- [ ] [<code>Merge pull request #1327 from qualcomm/sdk/bump-aihub-v0.60.0</code>](https://github.com/qualcomm/GenieX/commit/28adbd05be849ce94bc9858aeddb0b31788b8435)
-  - <sub>Tags: <code>v0.4.0-rc.1</code></sub>
+- [ ] [<code>fix(sdk): keep llama.cpp HTP sessions warm across sequential loads</code>](https://github.com/qualcomm/GenieX/commit/cdcf17e83160c2795acae9ca87c559798b26bfb3)
+- [ ] [<code>fix(sdk): free llama_model in LlamaVlm destructor</code>](https://github.com/qualcomm/GenieX/commit/8f19efafdfa95545f6af6a8326161b38d6ec4fe2)
+- [ ] [<code>fix(server): guard in-use models from keep-alive destruction</code>](https://github.com/qualcomm/GenieX/commit/66a011402cd6bcd1d22d9bda571d10dcaa222b92)
+- [ ] [<code>refactor(server): move model params into cli/server/types</code>](https://github.com/qualcomm/GenieX/commit/6d415c0121981650da636cb161bba2d4785c5cdf)
+- [ ] [<code>refactor(server): simplify keep-alive to a lockless single-model cache</code>](https://github.com/qualcomm/GenieX/commit/fbfe8a1c4dabc209f8dff374272f8bdd8f7a1d95)
+- [ ] [<code>fix(sdk): only last MTP-prefill token needs logits</code>](https://github.com/qualcomm/GenieX/commit/8773df79ed6d4ceaa6f2eacb08fc542e038a5955)
+- [ ] [<code>fix(sdk): trim comments on HTP session hook</code>](https://github.com/qualcomm/GenieX/commit/83562da706843724ae34ffae60a4e2df719f2fc4)
+- [ ] [<code>Merge pull request #1334 from qualcomm/fix/mtp-htp-session-lifecycle</code>](https://github.com/qualcomm/GenieX/commit/9b3b98fadac66a0d107664d205d2d08e18f34654)
+  - <sub>Tags: <code>v0.3.20-rc.1</code></sub>
+- [ ] [<code>Merge pull request #1324 from mansiverma897993/fix/keepalive-in-use-guard</code>](https://github.com/qualcomm/GenieX/commit/303b3c8966f692cc3dde5ee5b34a4adc3ea0e536)
+  - <sub>Tags: <code>v0.3.20</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -26780,6 +26804,60 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(ci): stop killing healthy discord Vitest runs and repair partial runtime-env mocks (#123131)</code>](https://github.com/openclaw/openclaw/commit/c218187244e5e67a54401e8775c2919af58c9087)
 - [ ] [<code>improve: speed up focused model directive tests (#123119)</code>](https://github.com/openclaw/openclaw/commit/88a412b0d9ce843bd0ef60d64f130a0220b9aaeb)
+- [ ] [<code>ci: pipeline canonical main runs across two concurrency slots (#123135)</code>](https://github.com/openclaw/openclaw/commit/fa18d8d273a1e6cfe1dc151a402e67ff3dc33eec)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(agents): prepare selected harnesses for setup probes (#123141)</code>](https://github.com/openclaw/openclaw/commit/d5d069a09e234704db8910fd507575bfbb433e37)
+- [ ] [<code>feat: view your machine's screen from the iOS and Android apps (#123097)</code>](https://github.com/openclaw/openclaw/commit/2a8b322ebf52d6d32dbf1170fc4344fee158a474)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(codex): resume parent after terminal subagent fan-out (#123124)</code>](https://github.com/openclaw/openclaw/commit/033247ab427e005a725dbce63a757862589b8f66)
+- [ ] [<code>fix(release): allow ANSI in reusable job logs (#123129)</code>](https://github.com/openclaw/openclaw/commit/57fabb2c9c35db79956c9aa1e9a1956b09d9a39e)
+  - <sub>Tags: <code>release-publish/57fabb2c9c35-1786621048</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(raft): report missing CLI in channel status (#123140)</code>](https://github.com/openclaw/openclaw/commit/baf85e6868e67aebd12ef0e7b77774061fc9db2f)
+- [ ] [<code>fix(ui): keep limited-access banner clear of shell controls (#123128)</code>](https://github.com/openclaw/openclaw/commit/449ca204a6eeca93c24a9ca71d3021c500a84f50)
+- [ ] [<code>test: remove residual duplicate assertions (#123134)</code>](https://github.com/openclaw/openclaw/commit/c3d843eb242d5740745aefa9052fa09ba75c036c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(doctor): stop after failed config migration write (#123045)</code>](https://github.com/openclaw/openclaw/commit/6f99d3405cec1221c4fd9fa30f89795acc5f427d)
+- [ ] [<code>feat(runners): publish atomic device runner inventory (#123094)</code>](https://github.com/openclaw/openclaw/commit/6c9916a48ad22ad6c9c74114e94c24b6e9078103)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: speed up model selection suite (#123155)</code>](https://github.com/openclaw/openclaw/commit/5739c1951b66d019e9d6a4f7e9a929dbf613a508)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): stop stamping a dead blur class on chat links containing 'tail' (#123154)</code>](https://github.com/openclaw/openclaw/commit/0926d56cbf90a8f50d0f0e2b36b5fd4af9e2be44)
+- [ ] [<code>refactor(ui): route stylesheet colors through the token layer and gate hex literals (#123156)</code>](https://github.com/openclaw/openclaw/commit/843017073cc27b28c1926ea21808b4209620ee03)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(memory-wiki): guard malformed wiki_apply input (#123050)</code>](https://github.com/openclaw/openclaw/commit/0e5855be8bb39c6294fb9bef96a2b1aa910f0207)
+- [ ] [<code>fix(reasoning-tags): prevent internal reflections in replies (#123196)</code>](https://github.com/openclaw/openclaw/commit/f70d5b8ba5881346e7d9f76ea2c8c5cc5ae59ca6)
+- [ ] [<code>chore(i18n): refresh native locales (#123101)</code>](https://github.com/openclaw/openclaw/commit/9550d6f9628472e83f6852dae8c1ac3f79573556)
+- [ ] [<code>fix: keep CI running during Blacksmith outages (#123263)</code>](https://github.com/openclaw/openclaw/commit/fb82d87cada297859fd0cbebb236aaa776aa05f5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): extend runner-backend breaker to PR-gating standalone workflows</code>](https://github.com/openclaw/openclaw/commit/165a2e9ede696adbc84313bbb731ee89c1ef53d2)
+- [ ] [<code>improve(ci): stripe giant compact test groups (#123142)</code>](https://github.com/openclaw/openclaw/commit/2a70d849e8a8bde3d66562bc441d96fb95388baf)
+- [ ] [<code>fix(agents): keep portal URLs visible to the portal tool listing (#123149)</code>](https://github.com/openclaw/openclaw/commit/2b6bf2f8c2c9bb243022ec2e301e9ec2897d6f8c)
+- [ ] [<code>feat(slack): unify the native progress turn into one streamed message (#122976)</code>](https://github.com/openclaw/openclaw/commit/11b3bf374cf563b25adda5bb464d73596a307c78)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): suppress ambient channel auto-enable (#123174)</code>](https://github.com/openclaw/openclaw/commit/8e0f464a5f0dd159d3a33eb62b2fdd86187260db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep background work scoped to its selected agent (#123257)</code>](https://github.com/openclaw/openclaw/commit/249a38d29fb4a62fcac2034c980a843afba6df3b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): allow GitHub-hosted npm preflight (#123191)</code>](https://github.com/openclaw/openclaw/commit/abd63c06c2f59779ab93b1b345ab665add96fa05)
+  - <sub>Tags: <code>release-publish/abd63c06c2f5-1786646045</code></sub>
+- [ ] [<code>refactor(memory-core): strengthen dreaming boundaries (#123138)</code>](https://github.com/openclaw/openclaw/commit/bc8e51ce378394f71a7c2876c10da2fd10eaf0a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): verify referenced translation keys (#123279)</code>](https://github.com/openclaw/openclaw/commit/d805562a84b968729f0fb46048e4077c991d2ef9)
+- [ ] [<code>fix(ci): raise shared e2e hookTimeout to 180s on all platforms</code>](https://github.com/openclaw/openclaw/commit/f329a9489f32e6472ded5437be971609229c9451)
+- [ ] [<code>fix(ci): route fork-PR runs to hosted runners in standalone workflows</code>](https://github.com/openclaw/openclaw/commit/0d73229b60079202774b47c0e8edef2bb577ab04)
+- [ ] [<code>refactor(ui): consolidate responsive breakpoints onto a canonical ladder (#123160)</code>](https://github.com/openclaw/openclaw/commit/f2f3ba2eaff30439215b57c4d3f7facf77e1788d)
+- [ ] [<code>fix(cron): fence executions with durable receipts (#122948)</code>](https://github.com/openclaw/openclaw/commit/d3308e2cfd9d8818c5663811e7ea9fd5b66be82f)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ui): make active visibility pill distinct from its hover state (#123173)</code>](https://github.com/openclaw/openclaw/commit/9415181b75604dc5e98b08289ef4904e95ce8ed6)
+- [ ] [<code>fix(health): surface blocked ingress lanes (#123234)</code>](https://github.com/openclaw/openclaw/commit/b233ea79575eb93b97d6e0b26119c551c16d3211)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(gateway): monitor cloud session disk space (#123177)</code>](https://github.com/openclaw/openclaw/commit/21d59e16e233d57b8be8c46996c6b68002b4a368)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(ui): resolve duplicate stylesheet selectors and restore no-duplicate-selectors (#123166)</code>](https://github.com/openclaw/openclaw/commit/12ada4346443f51576655ac58b3d1ab13ae53636)
+- [ ] [<code>fix: keep automation delivery owned in multi-agent fleets (#123283)</code>](https://github.com/openclaw/openclaw/commit/927a97c1ea1f7ca19cbd721ad17294ed940ce6ea)
+- [ ] [<code>fix(agents): self-heal unsupported harness transports (#123258)</code>](https://github.com/openclaw/openclaw/commit/036bcc1a6504230c8b79e761e9b361ab0648b436)
+- [ ] [<code>fix(slack): keep thread freshness on routed agent (#123202)</code>](https://github.com/openclaw/openclaw/commit/faa62024123c2a7abbc61de44613c4b11ba61a5d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
