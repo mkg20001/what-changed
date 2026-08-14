@@ -517,8 +517,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/048253296c51a0ee92379d7fd1480fb73782171b)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ef4edcb317f363a9bd26844c05748a22528132fd)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>passwordEntry: guard against None layout sources (#504)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1e8c655d6c6f9d308be1103ce265b508db2b509e)
+- [ ] [<code>Fix the desktop staying locked after entering the password with pygobject >= 3.57 (#508)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1ffa9338b508c21ccecb9e646e1fbe6f2ce60655)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -636,6 +639,8 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
 
+- [ ] [<code>Add support for ungoogled-chromium (#219)</code>](https://github.com/linuxmint/mint-x-icons/commit/045080051b513cb7d8bb56f13065397a513a179c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.2...HEAD)
 
