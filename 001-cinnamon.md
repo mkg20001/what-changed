@@ -434,6 +434,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>js/ui: Move expo, overview, appswitcher into Main.switcherGroup.</code>](https://github.com/linuxmint/cinnamon/commit/1d86f33f2b90d083dcb510066c772eddc0f5afed)
 - [ ] [<code>popupMenu.js: Queue a relayout when the number of columns changes.</code>](https://github.com/linuxmint/cinnamon/commit/36c2e1d9be0a4a36e531809f982260e84b6545cb)
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon/commit/80dc1d252975bf9661c8cb8f01314bd4ca2a8602)
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -464,6 +468,9 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/218fd2d2fe76cb60a9b5420a8e33bacb79d12acd)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -496,7 +503,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8336b75f23cc230718106a21e597a299efb2f921)
 - [ ] [<code>org.cinnamon.desktop.keybindings.gschema: Add 'show-panels'</code>](https://github.com/linuxmint/cinnamon-desktop/commit/934d693ca8336271fc321f30f0b93f7029255129)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8bc14f9a51823db863d95b08948c9221adf4d3e1)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -521,7 +530,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>passwordEntry: guard against None layout sources (#504)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1e8c655d6c6f9d308be1103ce265b508db2b509e)
 - [ ] [<code>Fix the desktop staying locked after entering the password with pygobject >= 3.57 (#508)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1ffa9338b508c21ccecb9e646e1fbe6f2ce60655)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b873caa1bacb20c601c8bebdbbb9fb8fd3c061dc)
+  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -557,11 +568,13 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>csm-manager.c: Move SessionOver emission to a more common location.</code>](https://github.com/linuxmint/cinnamon-session/commit/382af0f7e6df69ea84f63db54a0f5440278d7c7d)
 - [ ] [<code>csm-manager.c: Don't end the session once it's running if a</code>](https://github.com/linuxmint/cinnamon-session/commit/1870e118432e5d9cc206db44e87225fbaa0787c4)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>pkg-config variable systemduserunitdir belongs to package systemd</code>](https://github.com/linuxmint/cinnamon-session/commit/c06d421a6f689a54902d01fa3c7219b04042aa10)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Update build deps to reliably fetch the</code>](https://github.com/linuxmint/cinnamon-session/commit/3633be1a539d485a5e477cada5c22aaefe141f5c)
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/d10f4249d2d0009747a0d213196bde0f1c9449b1)
+  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -602,7 +615,9 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-xsettings-manager.c: Fix fcitx support for xwayland clients.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/18bb726dc21ac7127f50e7b2c9c3885d66dd34b6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ca0a328ba03c9540b6ba5407603648689c29890f)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -612,7 +627,9 @@
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.0...HEAD)
 
 - [ ] [<code>object: Only use property accessor fast path for real getters/setters.</code>](https://github.com/linuxmint/cjs/commit/991f7b261d0e7e7d15cf975858b2a0f1eec940b4)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>140.1</code>](https://github.com/linuxmint/cjs/commit/3f8ca7c65bd1d8c4f1e93c984f179d44d71fcb65)
+  - <sub>Tags: <code>140.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -804,8 +821,11 @@
 - [ ] [<code>wayland: Let the compositor update the DnD cursor, so in-flight drag</code>](https://github.com/linuxmint/muffin/commit/05dc32d44d320311ada62a0ee89aa37dce04d4e5)
 - [ ] [<code>meta-workspace-manager.c: Adapt show-desktop to work with layer-</code>](https://github.com/linuxmint/muffin/commit/7ab53259f906517bfa0868883aafb8e4cc558339)
 - [ ] [<code>[Wayland] Switch to stable linux-dmabuf (#840)</code>](https://github.com/linuxmint/muffin/commit/167e852cbc31da646c594db16e06e176c880e5a0)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/muffin/commit/7d82fcc65ca692ee96dbdad83258a23ac0553c17)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -895,7 +915,10 @@
 - [ ] [<code>dnd: Free path_str in the get_data_binder() functions.</code>](https://github.com/linuxmint/nemo/commit/2395cff59783c8586b292fa2dc9439aed1e07ba5)
 - [ ] [<code>eel-gtk-extensions.c: Restore Wayland popup workaround.</code>](https://github.com/linuxmint/nemo/commit/f4ab02656f15ced68ed449bfcc5240cd64d35198)
 - [ ] [<code>nemo-action.c: Fix find_token_type() - ignore invalid tokens. (#3779)</code>](https://github.com/linuxmint/nemo/commit/c605b752cd268b5dba16620f7f1bb403c7a72318)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/nemo/commit/1027f8590ea69dc377a65e37c55ea64160f6532f)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -917,6 +940,9 @@
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 - [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -938,6 +964,9 @@
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 - [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -959,6 +988,9 @@
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 - [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -980,6 +1012,9 @@
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 - [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1001,6 +1036,9 @@
 - [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
 - [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
 - [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1049,9 +1087,8 @@
   - <sub>Tags: <code>3.3.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-sn-watcher: Fix capitalize() mangling non-ASCII titles.</code>](https://github.com/linuxmint/xapp/commit/94a348f16ec3a483fdb6c8a807a6de5f7f613c10)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>3.3.4-unstable</code>](https://github.com/linuxmint/xapp/commit/c52e5f37ac96c467aa05c947a20fd1c0a22c8333)
-  - <sub>Tags: <code>3.3.4-unstable</code></sub>
+  - <sub>Tags: <code>3.3.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
