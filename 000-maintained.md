@@ -337,6 +337,8 @@
 - [ ] [<code>chore: follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/91ef31126fcfa86d914f514c388e9669978cd387)
 - [ ] [<code>feat: display notification icon on iOS if cached</code>](https://github.com/krille-chan/fluffychat/commit/c5ebfc4324f8241d2b7621b989e20ffd280b80ee)
 - [ ] [<code>build: release 2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/1eecc591e444c2330d0aa72f1be0b2f07390f957)
+- [ ] [<code>Merge pull request #3398 from krille-chan/release/2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/cf3ba86d834b1bbdceda04afee59d63044d5676f)
+  - <sub>Tags: <code>rc2.9.0-0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -430,6 +432,8 @@
 - [ ] [<code>chore: follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/91ef31126fcfa86d914f514c388e9669978cd387)
 - [ ] [<code>feat: display notification icon on iOS if cached</code>](https://github.com/krille-chan/fluffychat/commit/c5ebfc4324f8241d2b7621b989e20ffd280b80ee)
 - [ ] [<code>build: release 2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/1eecc591e444c2330d0aa72f1be0b2f07390f957)
+- [ ] [<code>Merge pull request #3398 from krille-chan/release/2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/cf3ba86d834b1bbdceda04afee59d63044d5676f)
+  - <sub>Tags: <code>rc2.9.0-0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2123,6 +2127,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Complete collector documentation descriptions (#23476)</code>](https://github.com/netdata/netdata.git/commit/df98224e79ce7e2509811e06ab52d336f23a5b56)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>fix(dbengine): acquire merged page references before publishing (#23475)</code>](https://github.com/netdata/netdata.git/commit/4864de85e26f6734d92cfc27ccbeff5921f49938)
+- [ ] [<code>Regenerate integrations docs (#23484)</code>](https://github.com/netdata/netdata.git/commit/9d4c991fa1af4b3994d47478f78f513b82a6c330)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -27727,6 +27733,85 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ui): preserve agent file lifecycle outcomes (#124140)</code>](https://github.com/openclaw/openclaw/commit/5b96cbc52d1fea16df3a29ef4cbece73d53332fe)
 - [ ] [<code>fix(ui): prevent oversized request frames from disconnecting (#124139)</code>](https://github.com/openclaw/openclaw/commit/717b2d7474dd343f2acb7684ac6923829d933b42)
 - [ ] [<code>fix(memory-lancedb): cancel timed-out native queries (#124143)</code>](https://github.com/openclaw/openclaw/commit/dec4d44618c31fdd07c6b8ffaa33c61ad814bd23)
+- [ ] [<code>refactor(qa): remove aggregate test facades (#124147)</code>](https://github.com/openclaw/openclaw/commit/c77ee5ba37ce98fc57c7640bc36c234405905800)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): keep same-sequence history rows reachable (#124145)</code>](https://github.com/openclaw/openclaw/commit/7e0941270d0d17d6fcc9cb0ba7f918d264758c8f)
+- [ ] [<code>fix(ui): keep queued message removals exact (#124150)</code>](https://github.com/openclaw/openclaw/commit/939aa7dddc289104a32f3410063cf2796eab4dd6)
+- [ ] [<code>fix(macos): settle canceled node worker invokes (#124151)</code>](https://github.com/openclaw/openclaw/commit/70ceb70cdfa42fb3179bda82388a07457fe70f01)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(build): bound CLI metadata render fanout (#124153)</code>](https://github.com/openclaw/openclaw/commit/23f84a851ae7702b5a52b837a50de3799a5f3323)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(computer-use): repair artifact verification and post-approval descriptor found by the Linux gate (#124128)</code>](https://github.com/openclaw/openclaw/commit/abf0ef6513cd626dfe41e5488f0950a771bd32f1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): migrate apply refusal suggests a valid preview command (#124149)</code>](https://github.com/openclaw/openclaw/commit/8d5a54deaa158b39a7ec4168c88935963d6bc201)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: remove UI and native test residue (#124152)</code>](https://github.com/openclaw/openclaw/commit/f916e690c00fdd28e0f4c4a87b06fdb57052cd4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auto-reply): reject undelivered ask_user prompts (#124148)</code>](https://github.com/openclaw/openclaw/commit/f7b809933d6910838039bbf372fb9074a047245e)
+- [ ] [<code>fix(cua): initialize execution resources on first use (#124156)</code>](https://github.com/openclaw/openclaw/commit/94a06613227b5d1bedea7115af39b4219b81c104)
+- [ ] [<code>fix(agents): deliver Codex input choices in Telegram and web chat (#124146)</code>](https://github.com/openclaw/openclaw/commit/0134c781cd1f51c6acb68da643ecf4ab92632950)
+- [ ] [<code>fix(session-catalog): preserve explicit agent ownership across UI and CLI (#123899)</code>](https://github.com/openclaw/openclaw/commit/632581477f042de83bfdc095b9fdb042330deb72)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(tooling): remove obsolete runner facades (#124159)</code>](https://github.com/openclaw/openclaw/commit/1610771b1d7abb06ad138ef2befa190f19a5b9e3)
+- [ ] [<code>fix(gateway): restart after prepared maintenance suspension (#124157)</code>](https://github.com/openclaw/openclaw/commit/3109bc3b5d1504ee635bd25aee0f7ac14379df99)
+- [ ] [<code>test(config): remove orphan bundled channel runtime (#124163)</code>](https://github.com/openclaw/openclaw/commit/25dda7968c1e9d10e419926456c8b0d542351938)
+- [ ] [<code>test(scripts): remove duplicate parser facades (#124167)</code>](https://github.com/openclaw/openclaw/commit/c98ae0f99cb2981e3f885e99cc1a141dc46689d1)
+- [ ] [<code>fix(ci): invalidate session catalog sdk declarations (#124165)</code>](https://github.com/openclaw/openclaw/commit/cc9883a3d33bfcb43a84b9a68cbf2097745cd685)
+- [ ] [<code>fix(codex): preserve paired-node agent ownership (#124172)</code>](https://github.com/openclaw/openclaw/commit/da111689594c70620d88f516dcff064363ec3b2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test): remove unused testing bag members (#124175)</code>](https://github.com/openclaw/openclaw/commit/4f68eee80a0cd7dedaca815b4c0a20c4ca820ad2)
+- [ ] [<code>fix(auto-reply): surface empty message-tool-only completions (#105765)</code>](https://github.com/openclaw/openclaw/commit/987c73e793042a527650edf4d6c77a4771f684bd)
+- [ ] [<code>refactor(session-catalog): split codex catalog modules and unify adoption coordination (#124178)</code>](https://github.com/openclaw/openclaw/commit/7862a5da1592039cfc14bf7f9f8f02b6692457ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: remove obsolete provider runtime wrappers (#124182)</code>](https://github.com/openclaw/openclaw/commit/3e471bd6e46a8b783fc3958ab03ca4b9f6afbc15)
+- [ ] [<code>test(google-meet): remove unused testing bags (#124183)</code>](https://github.com/openclaw/openclaw/commit/9877d6f8a8b532b55a7620f182111d4cb1c4f36f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): enforce strict session ownership (#123222)</code>](https://github.com/openclaw/openclaw/commit/c00dd282db2f6a2473116ad312c840a81991efea)
+- [ ] [<code>fix: keep status read-only while gateway owns state (#124142)</code>](https://github.com/openclaw/openclaw/commit/9663cc7edcc30d2e2f6a4e7dfbc7966bb3cb409c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: move core coverage to owner boundaries (#124184)</code>](https://github.com/openclaw/openclaw/commit/b365f7ec891f52a3d2a2fb473b49afeb90fb7ca6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(plugins): refresh reviewed publish scan baseline (#124185)</code>](https://github.com/openclaw/openclaw/commit/571009dd8b885826c354c0bc82c506efef064502)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(extensions): remove type-only probe contracts (#124190)</code>](https://github.com/openclaw/openclaw/commit/c0824d284e9550c411270e6b618fcfc6bd147e12)
+- [ ] [<code>refactor(plugins): trim test-only barrel exports (#124192)</code>](https://github.com/openclaw/openclaw/commit/7ce902c8b6001b94b4ac5ba39fcf1118db6ac069)
+- [ ] [<code>test(diffs): remove private icon source mirrors (#124196)</code>](https://github.com/openclaw/openclaw/commit/a5603681c617f60fe2bb8ca87d25b183131f1ca7)
+- [ ] [<code>fix(outbound): preserve Markdown code during HTML sanitization (#116123)</code>](https://github.com/openclaw/openclaw/commit/b5a0deb068cb15aa36345fb32dfcbba7149df309)
+- [ ] [<code>test: remove redundant subset assertions (#124198)</code>](https://github.com/openclaw/openclaw/commit/aad64693ba1067f35fd266021838cd894b777ca7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: align onboarding TTY prompts (oc-efc) (#124199)</code>](https://github.com/openclaw/openclaw/commit/8cfcc3155a55a27a73a6811e048b3ee59ccf764a)
+- [ ] [<code>test: trim residual subset assertions (#124203)</code>](https://github.com/openclaw/openclaw/commit/f4a047b87c1b65d9e8d4e4744d5cbfc69c65a7fd)
+- [ ] [<code>test(plugins): review llama runtime bundle probe (#124194)</code>](https://github.com/openclaw/openclaw/commit/96a7b25ca705b59d6b281728151d011292c16403)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): restore Buzz canary selection (#124200)</code>](https://github.com/openclaw/openclaw/commit/cd5076770e56393de12787564bcf31eb0c8e019e)
+- [ ] [<code>test(ios): remove construction-only probes (#124205)</code>](https://github.com/openclaw/openclaw/commit/2d9a3f5849c921d699b954b8d054a005f6cefda7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(cli): accept inherited flags after nested subcommands (#116587)</code>](https://github.com/openclaw/openclaw/commit/56798ae085051ab957ab813fb86e32f72e472a9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: repair worker environment E2E fixtures (#124202)</code>](https://github.com/openclaw/openclaw/commit/de23bf1893f9de43862d079bf8380b29c23e1535)
+- [ ] [<code>fix(sessions): prevent cleanup from deleting readable transcripts (#123495)</code>](https://github.com/openclaw/openclaw/commit/fc4d5d744fadfe8e61e33b83bbc9b11e950ae420)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(amazon-bedrock): remove discovery cache reset (#124212)</code>](https://github.com/openclaw/openclaw/commit/10a98702b7b8f954120a383d25d56feb88ec8fb0)
+- [ ] [<code>test(amazon-bedrock-mantle): remove cache resets (#124216)</code>](https://github.com/openclaw/openclaw/commit/6b9a6ece48149bcadc92479e5320a6db53b9931b)
+- [ ] [<code>improve(control-ui): continuous corner curvature with a radius scale (#124129)</code>](https://github.com/openclaw/openclaw/commit/292506566bc6f812d40674f25d3c3455e4214dd2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(telegram): remove probe cache reset (#124219)</code>](https://github.com/openclaw/openclaw/commit/eeabc2cf69a0fbe1036e37542151db8e2b82add0)
+- [ ] [<code>fix(xai): report lazy voice bridge connect failure as a terminal error (#123064)</code>](https://github.com/openclaw/openclaw/commit/8f59226bc93afe0e203cfb260a68370847e98996)
+- [ ] [<code>refactor(channels): own thread binding cleanup in managers (#124221)</code>](https://github.com/openclaw/openclaw/commit/1db88feeef05125235e49d7d1e29875667ea0e22)
+- [ ] [<code>refactor(test): remove test-force testing facade (#124225)</code>](https://github.com/openclaw/openclaw/commit/394648c7021aa06b36970f14ad967793c71e1a74)
+- [ ] [<code>fix(workboard): avoid hydrating cards for board summaries (#123922)</code>](https://github.com/openclaw/openclaw/commit/a3817e987483765dd339f9d584ae5d1580d5981e)
+- [ ] [<code>refactor(test): remove duplicate ClawHub archive case (#124240)</code>](https://github.com/openclaw/openclaw/commit/50f656fc4d20ebb205e70a32d11ef657e4c54f6d)
+- [ ] [<code>feat(slack): make presence event guidance configurable (#123875)</code>](https://github.com/openclaw/openclaw/commit/dbc2356abc9a10c3c9e2b7f5b7f14d9a4fc229be)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(discord): bind transcript capture to source account [AI] (#118579)</code>](https://github.com/openclaw/openclaw/commit/8668aeb96987bca08dcc14230a0e313d11893ceb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(test): prove release validation through its harness (#124245)</code>](https://github.com/openclaw/openclaw/commit/ab5b8b9a02c8b90c15b9c618b03cdf9a553d0cde)
+- [ ] [<code>refactor(release): remove summary test facades (#124259)</code>](https://github.com/openclaw/openclaw/commit/ceb469abb3f15989264d004c1ec08c58b28d2137)
+- [ ] [<code>fix(openrouter): use dedicated /api/v1/images endpoint for image generation</code>](https://github.com/openclaw/openclaw/commit/02af2fa05305cf2efe72514a540291e85d206af2)
+- [ ] [<code>fix: preserve OpenRouter image compatibility</code>](https://github.com/openclaw/openclaw/commit/e2d04702c323b4b00b680003e8b8d61a87d95c44)
+- [ ] [<code>docs: explain OpenRouter image route compatibility (#101367)</code>](https://github.com/openclaw/openclaw/commit/8f807ae912d480248739bff6fa3bc711d000a645)
+- [ ] [<code>refactor(cli): remove unsupported Node 24 cache workaround (#124271)</code>](https://github.com/openclaw/openclaw/commit/715e32448e2d1ad88f00b69c639516426bf22729)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -27981,28 +28066,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump @typescript-eslint/eslint-plugin from 8.57.0 to 8.57.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cdcad8d61e461c4ccc90d69bcccdaf3a7f77972f)
 - [ ] [<code>fix: clear stale device_id on logout and retry login without it when revoked (#824)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/76d6539d863b9353c509481ca65d8e32fe03f9a3)
 
-#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
+#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.231 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.231...HEAD)
 
-- [ ] [<code>Fix config file update</code>](https://github.com/axcore/tartube/commit/08427e6cd0cceb5feb34f020cfb8465e1b301d47)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Improve MSWin font rendering, temporary fix for undeletable temporary folders</code>](https://github.com/axcore/tartube/commit/d1cbfe699acfbc3369d3afcdc65fc4bd6a29010f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Fix temporary video dls, new menu options for selected videos</code>](https://github.com/axcore/tartube/commit/77fe4e81d5b2819b333646c76fa82855bc4517f8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update to v2.5.197</code>](https://github.com/axcore/tartube/commit/e1a207df9c4e4e390f47e0d6b6f0c115b721dac9)
-  - <sub>Tags: <code>v2.5.197</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>GNU license in RTF file format</code>](https://github.com/axcore/tartube/commit/b2ca1c29cb745e7ec395a9beb6177416fbcd7f29)
-- [ ] [<code>Installer improvement - Use RTF license file</code>](https://github.com/axcore/tartube/commit/6a44bbf57a1755dbfe75e6afd6a11fde7cc14005)
-- [ ] [<code>LGPL 2.1 in RTF file format</code>](https://github.com/axcore/tartube/commit/45980081853d69bdcc99e411215ebb41c47f4a00)
-- [ ] [<code>Instalelr improvements</code>](https://github.com/axcore/tartube/commit/6c893fbbb213eb0776ebb0949637e8a789556723)
-- [ ] [<code>Misc fixes</code>](https://github.com/axcore/tartube/commit/7b28f377184af8314eb932a43c0771798474f92c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Various fixes</code>](https://github.com/axcore/tartube/commit/8c1866ad4886ebd56db113ed87b4c2aa3694a694)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update to v2.5.231</code>](https://github.com/axcore/tartube/commit/13f753e1d6c63378ebb38b183ff9ec5cab3aecd4)
-  - <sub>Tags: <code>v2.5.231</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Various tweaks</code>](https://github.com/axcore/tartube/commit/748c721c812a25c1c79c10a87652ad5ae0c0982d)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Improved zh_HANT translation, other minor updates</code>](https://github.com/axcore/tartube/commit/1640710c8393c02c0fb879c5fafc15a98b050757)
