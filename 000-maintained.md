@@ -2129,6 +2129,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(dbengine): acquire merged page references before publishing (#23475)</code>](https://github.com/netdata/netdata.git/commit/4864de85e26f6734d92cfc27ccbeff5921f49938)
 - [ ] [<code>Regenerate integrations docs (#23484)</code>](https://github.com/netdata/netdata.git/commit/9d4c991fa1af4b3994d47478f78f513b82a6c330)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Correct zRAM and eBPF VFS descriptions (#23487)</code>](https://github.com/netdata/netdata.git/commit/603f4b88a8d75da5f526c346fc482b3a4cbebdbb)
+- [ ] [<code>Regenerate integrations docs (#23488)</code>](https://github.com/netdata/netdata.git/commit/eaadb352ff202cd2df5273df899da469359f58e8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.11.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/4bf218c96749e87f337b95f9d5995c1493628b16)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -27812,6 +27815,39 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: explain OpenRouter image route compatibility (#101367)</code>](https://github.com/openclaw/openclaw/commit/8f807ae912d480248739bff6fa3bc711d000a645)
 - [ ] [<code>refactor(cli): remove unsupported Node 24 cache workaround (#124271)</code>](https://github.com/openclaw/openclaw/commit/715e32448e2d1ad88f00b69c639516426bf22729)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor(feishu): remove thread-binding test reset (#124276)</code>](https://github.com/openclaw/openclaw/commit/37763e4d7ef8ae21cfed604b9d9a485b8102abec)
+- [ ] [<code>test(discord): remove thread cache reset (#124278)</code>](https://github.com/openclaw/openclaw/commit/f69226b7b42c2e3307a8a16124c626bbf5c76098)
+- [ ] [<code>fix(agents): deliver token-limited partial replies instead of discarding them (#123546)</code>](https://github.com/openclaw/openclaw/commit/db0d133ec9521edffe9f722551762dce3d1d5783)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(runtime): consolidate exit error coverage (#124281)</code>](https://github.com/openclaw/openclaw/commit/99766cbbfdc8436e1b815caad8a8c60dce86d21b)
+- [ ] [<code>refactor(ui): remove unreachable assistant message expanded flag (#124263)</code>](https://github.com/openclaw/openclaw/commit/73c45824e1e2f625b0da5f3a2149f44ab7af7d05)
+- [ ] [<code>test(ui): consolidate dynamic route startup coverage (#124287)</code>](https://github.com/openclaw/openclaw/commit/50df307fab6d78fcd609dfceb09c6be8aa0f1918)
+- [ ] [<code>fix(ui): standardize scrollbar styling across the Control UI (#124285)</code>](https://github.com/openclaw/openclaw/commit/f4910cbb3823c36e08fb2952dd013c12f93ad585)
+- [ ] [<code>test(agents): assert real ACP task-row ownership contract (#124260)</code>](https://github.com/openclaw/openclaw/commit/69c2c06c46a6572c00afc07a48716dcc4a3ca0b5)
+- [ ] [<code>fix(ui): keep GitHub deep-link labels destination-specific (#124252)</code>](https://github.com/openclaw/openclaw/commit/ac6940641ce0c4528b0d91d7e41f948bee1938c1)
+- [ ] [<code>test(ui): assert positive New Session draft behavior (#124253)</code>](https://github.com/openclaw/openclaw/commit/abe9800777b1028ad07b9648fb6e5585050cf44a)
+- [ ] [<code>test(ios): remove low-value render and source guards (#124291)</code>](https://github.com/openclaw/openclaw/commit/644d93c4123ad65b356ae9fb50fe4680db587474)
+- [ ] [<code>refactor(ui): unify composer menu active-option scrolling (#124256)</code>](https://github.com/openclaw/openclaw/commit/4be9091a3ef615083ed89aa787d727fff1cc8e3b)
+- [ ] [<code>fix(ui): commit queued-message reorders as one durable batch write (#124266)</code>](https://github.com/openclaw/openclaw/commit/195913ad981a1502466466b49af0b4deb932ac70)
+- [ ] [<code>feat(sessions): preserve recent session history (#123987)</code>](https://github.com/openclaw/openclaw/commit/4c556292386ef8808be3e87df7b09841f0e28b74)
+- [ ] [<code>fix: keep Codex plugin aligned during stable upgrades (#124209)</code>](https://github.com/openclaw/openclaw/commit/3e116952e4b1ba85c11f397f2a435fbc08aebbf8)
+- [ ] [<code>fix(ui): use native placement for the lobster dismiss menu (#124261)</code>](https://github.com/openclaw/openclaw/commit/80ee4b97e56a23ca527d9d31c719068ecae1662c)
+- [ ] [<code>fix(ui): stop inferring session sharing identity kind from ID strings (#124257)</code>](https://github.com/openclaw/openclaw/commit/8a3fff21a8902ed2f1143d81f55f08f11bb562d2)
+- [ ] [<code>fix: restore frozen Codex release validation (#124204)</code>](https://github.com/openclaw/openclaw/commit/3bb7fdd40b11522b1b14ca1e762223b04e66f8b0)
+- [ ] [<code>fix(ui): make file-link label disambiguation near-linear (#124258)</code>](https://github.com/openclaw/openclaw/commit/5374c110fb99b23113b47c82deac1e9bac5ec4d0)
+- [ ] [<code>fix(ui): reject blank required strings in Control UI update readers (#124264)</code>](https://github.com/openclaw/openclaw/commit/1db8fe4d4f521ceded584d5bca2c8d17705986ba)
+- [ ] [<code>fix(ui): persist the sidebar session sort selection (#124277)</code>](https://github.com/openclaw/openclaw/commit/94552862ad84ea94c7013654a1a3d1b8d632f113)
+- [ ] [<code>test(tooling): deduplicate release timeout evaluators (#124297)</code>](https://github.com/openclaw/openclaw/commit/878236cfabffcd050849d333387826bf75d61c7d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): abort stale destructive session confirmations on reconnect (#124254)</code>](https://github.com/openclaw/openclaw/commit/5014839937b9a9dc72841b4755b55699ac91a8c8)
+- [ ] [<code>fix(ui): disambiguate multi-account session labels (#124228)</code>](https://github.com/openclaw/openclaw/commit/bf4ec4b58af0bc2cdffcc92f956983548e0afbf3)
+- [ ] [<code>test(tooling): deduplicate updater deployment fixtures (#124304)</code>](https://github.com/openclaw/openclaw/commit/5626a79cc836d95d236debd720a34fc2dcdcc685)
+- [ ] [<code>fix(ui): GitHub link hovercard closes before the pointer can reach it (#124274)</code>](https://github.com/openclaw/openclaw/commit/38e0ae6ec8517ec2d64070f9ae52ac70e62c12e8)
+- [ ] [<code>test(plugins): deduplicate publication fixtures (#124312)</code>](https://github.com/openclaw/openclaw/commit/eb13f5719f028c49c94ea80faecd8b0b44ea401e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(workers): run device sessions from Gateway bundles (#124037)</code>](https://github.com/openclaw/openclaw/commit/78502eda6dec3df8dccbc1d3b2a3cbb2b008127e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ui): stop config snapshot refreshes from eating focused in-flight edits</code>](https://github.com/openclaw/openclaw/commit/60babddd626adcad473ae7b2b1b4417892a7828d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
