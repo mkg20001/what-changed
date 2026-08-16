@@ -624,12 +624,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
   - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.0...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.1...HEAD)
 
-- [ ] [<code>object: Only use property accessor fast path for real getters/setters.</code>](https://github.com/linuxmint/cjs/commit/991f7b261d0e7e7d15cf975858b2a0f1eec940b4)
-- [ ] [<code>140.1</code>](https://github.com/linuxmint/cjs/commit/3f8ca7c65bd1d8c4f1e93c984f179d44d71fcb65)
-  - <sub>Tags: <code>140.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
