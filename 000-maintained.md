@@ -20,20 +20,8 @@
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.27.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.27.0...HEAD)
 
-- [ ] [<code>Install v0.26.1 by default</code>](https://github.com/stepchowfun/docuum/commit/3a518a51178e553b86203d0004f0eeb80ad63d7b)
-- [ ] [<code>Update dependencies</code>](https://github.com/stepchowfun/docuum/commit/2c3664abb96c7449983dc78e4d4a93c12a562fc5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Switch to the struct/enum/attributes Clap style</code>](https://github.com/stepchowfun/docuum/commit/d10b430a1c7d4b96504785702c99328f53d060d0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove a redundant Clap action</code>](https://github.com/stepchowfun/docuum/commit/a63613aaddd101bcf87dc665303532a64460a99f)
-- [ ] [<code>Run `tagref list-unused --fail-if-any` in the `lint` task</code>](https://github.com/stepchowfun/docuum/commit/cbacf1556961bf2b9548f2f0f368e8c63a567941)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Release v0.27.0</code>](https://github.com/stepchowfun/docuum/commit/5d5eddc0a4d622ca3fc34ef95038d1e4e05c8929)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #362 from stepchowfun/release-v0.27.0</code>](https://github.com/stepchowfun/docuum/commit/c16108dccf075b0a485302eb4a83191755e834f9)
-  - <sub>Tags: <code>v0.27.0</code></sub>
 - [ ] [<code>Install v0.27.0 by default</code>](https://github.com/stepchowfun/docuum/commit/84e038342f11c0f39e885b28ef43d8972408fd8c)
 - [ ] [<code>Fix shared template inconsistencies (#364)</code>](https://github.com/stepchowfun/docuum/commit/6d269d6d9be31fc265155f3a437111b201fea545)
   - <sub>Keywords: <code>command</code></sub>
@@ -4606,309 +4594,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
 - [ ] [<code>Add LICENSE file with the project's BSD-3-Clause terms</code>](https://github.com/OLSR/OONF/commit/7884342f175aaaa85d3e3a576c6e3e605b0a1433)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.6.2 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.6.2...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.11.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.11.0...HEAD)
 
-- [ ] [<code>fix(gui): empty appstream metadata description for v2.6.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc9afd0fc037c6784d44efd27cfa5db5a3f52e37)
-- [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7a4e7cf58513352ffd71c231b063e9e660d66f2f)
-- [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8b3fac91f7d3dbf2557b0dcc24757436cfb7cafc)
-- [ ] [<code>refactor(android): remove redundant catch</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e6a38c8f6ccefec356926e5df221cfa6fa82b669)
-- [ ] [<code>refactor(android): be very careful with nulls in ConnectionBackends</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a91016cf397d6db10a17ee2e8b4efbdc36c56314)
-- [ ] [<code>test(android): add test for AndroidRfcommConnectionBackendImpl</code>](https://github.com/Oppzippy/OpenSCQ30/commit/664c89756e69ab7eaf2cbb71e477737d21d93290)
-- [ ] [<code>ci: pin github actions using pinact</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e1baf8e82b73e565b629aa701d920b206cf9be1)
-- [ ] [<code>ci(dependabot): add cooldown</code>](https://github.com/Oppzippy/OpenSCQ30/commit/123e824fde76b5cc1ddbc2c2934f62aa8709d2ec)
-- [ ] [<code>ci: fix zizmor warnings except for GITHUB_ENV</code>](https://github.com/Oppzippy/OpenSCQ30/commit/769494130344a4237429b8fb37d1cf3225f9be63)
-- [ ] [<code>ci: add option to build only for specific platforms</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7d0d60537e13ca2d42fe18795330972f1fc4f1b4)
-- [ ] [<code>build(android): remove obsolete release-android profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/637f2d03b6f2d0d9ff59fd7c0249534be4f7c712)
-- [ ] [<code>fix(android): decrease widget title bar size</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ef16c23e390be9fe7416b4e9971b5ade5b9ae197)
-- [ ] [<code>fix(lib): don't give up when only one bluetooth adapter is unavailable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ac8251c04ad4132c8c560555274a076a380fd484)
-- [ ] [<code>fix(lib): specify client rfcomm role</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8549b5e9755846bc184d27f8ba4e61aab4f708d0)
-- [ ] [<code>build(lib): add script to generate skeleton for new device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c06012ce95f00e4c5d95e12c660262526dd79d44)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>feat(soundcore-device-faker): add a3952</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e3dcf41232ae442dfa3fae9535af4f63ef4c46b2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build: update rust to 1.95.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f9e61f1de63a2657bcfec7563c595f0d4f172ff4)
-- [ ] [<code>refactor: replace cfg_if with cfg_select</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86a719148f2894a677a8a0c9f3b89f3e1cd5103f)
-- [ ] [<code>feat(lib): add support for a3952</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bbe9df58640ec851ac749df53024c0183490f2eb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbb608e941392cd771ad1bf95892eb53fc8f43ac)
-- [ ] [<code>refactor(android): tweak SoundcoreEqualizerScreen shouldOverride logic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9457c6723f0c5b227cfb93d45f9f79fe27ae5764)
-- [ ] [<code>style(android): fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6e4815fe072610ab0a6e57d829fa9a5575f7d81)
-- [ ] [<code>refactor(lib): use pathfinding for MigrationPlanner</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f4ff4316aaa7d6b8931628995a54ee5951e1f411)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>feat(lib-macros): allow for multiple values in #[migration_requirement]</code>](https://github.com/Oppzippy/OpenSCQ30/commit/550f5dcf4acf23750def1bc09a3562934a61b487)
-- [ ] [<code>perf(lib): use bidirectional bfs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d1380c982c552b75c62e2d1d00fb6c28268537d3)
-- [ ] [<code>refactor(lib): take reference rather than ownership</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20173878822bde52e689aa163568c81aa4987716)
-- [ ] [<code>refactor(lib): remove unnecessary bounds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98e6d4a2fc1dbb62180edfb56de260c65e7fd9d1)
-- [ ] [<code>fix(lib): allow changing wind noise setting while in transparency mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/480120072fb04838a5f3e0a9867b20a65a7ba90e)
-- [ ] [<code>refactor(lib): make use of migration_planner everywhere</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2406beab5bd0fd2aa890c3733abed7c15a836027)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(soundcore-device-faker): add a3062</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b600f3e52d2e62e0ef67b8ca2940cee7a806fa0c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(lib): add support for a3062</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5ae09ddd1318ac16bbd80dfaabe4f5792c86033d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e300add182bd50bb2ec108ebbc0254823b485b2a)
-- [ ] [<code>ci: bump actions/upload-artifact from 7.0.0 to 7.0.1 (#256)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0f267c5d4136815e60c10285274c3bc6096fcb7)
-- [ ] [<code>refactor(lib): add level_offset option for battery modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8808aae8835fe669f14960a08b4d1bd6128ff98c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(lib): device specific structure should be private</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1a32f46adacad7934063f67b989771d14ca151a)
-- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1c87b6cd5e737083e03c044615bb6bd37cbf4402)
-- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2abe7b79054be988d8f66dc2d7373cfc896405aa)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat(lib): add LDAC</code>](https://github.com/Oppzippy/OpenSCQ30/commit/408cd9a448a5539289a0130789aa36b9780afda8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): br-connection-busy on linux when connecting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b82afa4c77eac26cea9dcd78e3dd7f1d50bd79a1)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53ba66bae2f673a2d039f9222ad0c558153a765f)
-- [ ] [<code>build: v2.7.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6ac1d835f21360a56c9d14ae5485fb8b55daed2)
-- [ ] [<code>ci: update actions in install-android-build-tools</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32058216e6ffd8f5bb83b4012410b7ca8921f1bc)
-- [ ] [<code>revert(android): add back release-android profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9ec6e6e896c5d1cf52de00f64bfec207f37cdb13)
-  - <sub>Tags: <code>v2.7.0</code></sub>
-- [ ] [<code>fix(lib): serial numbers can contain non-hex alphabetic characters too</code>](https://github.com/Oppzippy/OpenSCQ30/commit/907cea07aa6fbabb7af56f1bec47ef3f9782aa58)
-- [ ] [<code>docs(README): add script for generating table of supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9352bb88cf3049281129d510f024cb5406bf52a7)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat(lib): add a3040 voice prompt, low battery alert, and ldac</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c3d09499080f22bc3ae164d9674cd9624b4d09fb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): a3930 is Liberty 2 Pro+, not Liberty 2 Pro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4997609de775a9762fae05af67789eda2000257b)
-- [ ] [<code>feat(soundcore-device-faker): add work in progress a3909</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1acd0a87b9eb3ba47495d6beb4df8a3b75d50c6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(soundcore-device-faker): update a3909 packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4cfdce17d5d4b2e7ba860750799ae67c38114bbc)
-- [ ] [<code>feat(lib): add support for a3909</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f47d0a77a1018ab880ec8c37680d99ca656fe94a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): another attempt at fixing a3116 connection issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c45fae052afab7cfe40a11257f82a761dff1f19c)
-- [ ] [<code>fix(lib): log level not configurable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b1cebfc9399815147b2b371e9769db1be5a9c05)
-- [ ] [<code>fix(cli): deprecate --debug-errors and supercede with --verbose</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f23df19127e6fc0cc3a86a3049996053495fc956)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): don't show a3959 gaming mode with old firmware</code>](https://github.com/Oppzippy/OpenSCQ30/commit/14c4864ebade93000d591f12ebfc55e59e741fd5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(cli): remove test log</code>](https://github.com/Oppzippy/OpenSCQ30/commit/769ab056ab3334df55b3ec5c10e9d2eac08c2d08)
-- [ ] [<code>feat(lib): add support for dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b0fb361706804facaf88ce0120ab2f904afc4c4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): potential race condition with dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e7f028e5faea8c8d111785643d186b40b8eb8a3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f67ea2644662ab696e1ee8c5a38acd5c3b161337)
-- [ ] [<code>fix(lib): tolerate unexpected dual connections device index</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8d28cf6de263cc0f3ff124afdc75049960da2193)
-- [ ] [<code>fix(lib): disallow dual connections from connecting to >2 devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64abc128636ffcd60d8804e3076b9598a14dfa03)
-- [ ] [<code>chore(lib): add TODOs regarding dual connections synchronization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/222624fb64efd45f9e221843601835edd7ccccb0)
-- [ ] [<code>feat(lib): add dual connections for a3035, a3040, and a3062</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1978f1280306742f67d95da6e3bf738ece3ea968)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(lib): add common AutoPowerOffDuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f92d405f0ad846cc9835a378af9ef1b5f587678)
-- [ ] [<code>ci: bump taiki-e/install-action from 2.75.1 to 2.77.1 (#271)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a82b75d80f571535837ad10126f02925921700ca)
-- [ ] [<code>feat(lib): add a3959 dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e57e8085dfd2ec9792b19983dbdb6acb72089496)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test(lib): default to empty list of dual connections devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/06dfd1510b4e415d834066e7e78049ec20d8915f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(soundcore-device-faker): mislabeled byte in a3957</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e42309973dade46b7bc3384e848596ecb87344ed)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(lib): add dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dfb45a9596bac42d66353c10a7f18c8d16275ce7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps(soundcore-device-faker): update bumble</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6e5a2028e08cdf93bfd00b75bd02dbb84dfedaf)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(soundcore-device-faker): adjust module structure</code>](https://github.com/Oppzippy/OpenSCQ30/commit/79503baa43fc927818af55c49f02333bda16b9dc)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix(soundcore-device-faker): keystore using pre-spoof mac address</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28301324e6c38fb6a696652f43b1f65adbb9f680)
-- [ ] [<code>build(soundcore-device-faker): add just fmt alias</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6dc0d2ad6c08db7300197f8eaeb76686759edd2c)
-- [ ] [<code>feat(lib): add a3955 dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b0dbebf649d26fffaf489847844c1c001e19568)
-- [ ] [<code>feat(lib): add a3952 ldac</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4064afc1da5d90c4b0ef866ed41fdca33347e75)
-- [ ] [<code>feat(soundcore-device-faker): document a3951 ldac</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2a7f5e466c56858a2ee581f665f0b71d1b487a39)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(soundcore-device-faker): document a3930 ldac</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49805fb64e46468301ae1570955c0641b9040810)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>style(lib): run rustfmt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97e7cb8ff3c09c28490df681875c265680533069)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): (slightly hacky) fix for 2550% battery when TWS disconnected</code>](https://github.com/Oppzippy/OpenSCQ30/commit/02155ef49166548ecc19d957c0b9e7cfee4f9359)
-- [ ] [<code>refactor(lib): replace duplicate implementations with DualBattery::bytes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/793cf1564bf53d7bb221d2d5f11611dd92ee4932)
-- [ ] [<code>feat(lib): add ldac for a3930 and a3951</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c4a9a4daeb1cc32836c94a5321d99956aecbe780)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c10d35b9901fbd5898915346e75204e583300164)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build: v2.8.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6219d7e490aa91a483f274943c4b86b1b07e235d)
-  - <sub>Tags: <code>v2.8.0</code></sub>
-- [ ] [<code>refactor: replace RfcommBackend generics with dyn</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5e66cbe1f600c6c101712d20a5130d35d0133305)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor: replace RfcommBackend generics with dyn</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6ceb1e33d202d0683d2116aeb5d0b198e8ee8f50)
-- [ ] [<code>refactor(lib): separate out non-generic parts of fns and inline(never)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/63087e98a70af88db4cd1c13c1b0524966926855)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): a3936 changes sound modes too fast and device cant keep up</code>](https://github.com/Oppzippy/OpenSCQ30/commit/12f7c01cd200942cdfc993b7ba3bcd7b09279dc8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): a3936 adaptive NC should be read only</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62caa2b7b83abcfc7e241bb7cc2dead11cc87780)
-- [ ] [<code>fix(lib): a3936 can change all sound modes in one go</code>](https://github.com/Oppzippy/OpenSCQ30/commit/01d59197d37397f78ebc5235da77e1f9bf6b2d65)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>style: enable more restriction clippy lints</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e28421df3c3135730f389ab04a978cca2ac6e5c8)
-- [ ] [<code>refactor(lib): missed windows and none backends during refactor</code>](https://github.com/Oppzippy/OpenSCQ30/commit/101f321c57518f73c99e939f34c35741bba2153b)
-- [ ] [<code>refactor(lib): missing import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73d946d77b97766e8a56f1795dc6e92e5967fe4d)
-- [ ] [<code>refactor(lib): remove NoneRfcommConnection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/93a2d15f207e209d2ff8ea17730d380a3ae48051)
-- [ ] [<code>fix(lib): timeout when waiting for dual connections devices response</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d828df22b749a633fc999a911d6e4e54fd90f36b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): dual connections devices packets can have multiple devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bd3ad115b3fc8047821aed77a4f7aa6639d0b4bc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): update dual connections state when toggling</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5cb27c2c58499b2efb987fc62292635d469786c6)
-- [ ] [<code>feat(tools/wireshark): add dual connections enabled command</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e9920cd05b567b389038a53f232457730bb183a5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(tools/wireshark): use same command byte order as rust code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9867efe0d9888479c54337802bce44f3c02b39f4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build: v2.8.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8560453ca73d7c7c332672e03573c9bf9f9d5b6e)
-  - <sub>Tags: <code>v2.8.1</code></sub>
-- [ ] [<code>fix(lib): a3936 equalizer not working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/200b70b3d0ade41f327a0e23c111ff95e15f611d)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/feea7f98b3282fbbcbf4a853bd208591f32723d7)
-- [ ] [<code>build: v2.8.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76f2581f32e1ee1ee3d84c2e5fa4833bc4f3779d)
-  - <sub>Tags: <code>v2.8.2</code></sub>
-- [ ] [<code>ci: bump taiki-e/install-action from 2.77.1 to 2.78.0 (#279)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d332fceebfcc143ff23c0be8f0813960d486f6db)
-- [ ] [<code>docs: add what data is collected by bluetooth logs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4f89096b875e6f4afe19e2b6c3fa7373e01b0fb)
-- [ ] [<code>docs: inform of device request prioritization by thumbs up</code>](https://github.com/Oppzippy/OpenSCQ30/commit/be9074d66d22806a73156eefdfa37ac6beaea7b8)
-- [ ] [<code>docs(cli): add man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4cb8b5096d956523e7a57963e9c82af2df6dc7fd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(cli): fix typos and minor mistakes in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8240465fea846304abcf133dfef885abc65a373a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): clarify that Q30 and Life Q30 are the same thing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0cb16d18df5a5b17fcc6565d1f813a61253cce7)
-- [ ] [<code>fix(lib): repeated Soundcore word in a3959 device name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9c78aaf82d41e08ae70426977bb386506ccb5f9)
-- [ ] [<code>docs(cli): fix man page formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce69aae3ab3f368f6eaa39e8b10760888786e884)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(lib): add support for a3968 (GH-289)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7848d17f5893b9872c67f75892cf4e7b7cbfaa2f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(cli): man page fixes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62594cad37874eed10698d954ba59dae1e27cc73)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(cli): add man page to install script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/38f207539dc51f29100f9e968157326d1d141de5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>style(cli): remove extra line break</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e44d6fb3de6c0a4c2f31f122f9099568c9311264)
-- [ ] [<code>docs(cli): prefix commands with $ in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7816a773ffa7c0d69673b1d8a8ec19c676c5a8c2)
-- [ ] [<code>docs(cli): fix improperly formatted list of examples in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed9c264b345935aa8819fc12585fcb13dc2f683c)
-- [ ] [<code>docs(cli): reword to indicate list of setting types is non-exhaustive</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b885fd69749cf99c9b14695143484d0d51c00917)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(cli): remove extra newline from man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3636d3004bf4f8934f1212618b8867d5c5715d7)
-- [ ] [<code>ci: bump actions/checkout from 6.0.2 to 6.0.3 (GH-295)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/68f84575b33cb1ffb1f54fb3806d9058160b4985)
-- [ ] [<code>ci: bump taiki-e/install-action from 2.78.0 to 2.81.4 (GH-294)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08c01dea358564f45e7dee253739162d61af0fca)
-- [ ] [<code>feat: add dual connections device removal</code>](https://github.com/Oppzippy/OpenSCQ30/commit/eee894aa15061cddb2d3fe42189327012786776c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(android): improve ui for multi selects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/daf0fef41ec441b430c88532ebc9bc7852b3b902)
-- [ ] [<code>test(android): fix integration tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3461abf73710c36973686771bac3ff8ea4dc8fa7)
-- [ ] [<code>docs(cli): fix incorrect usage of .PP in manual (GH-297)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d672805e6f22d780b030e6ae09fe81a9916a0413)
-- [ ] [<code>build(android): update to new AGP DSL</code>](https://github.com/Oppzippy/OpenSCQ30/commit/83ddfa15286c79436e94ee31f0a637b86a7353fd)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code> <code>exec</code></sub>
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a7ab8a3dce74afc116629ceb32ab91ae535c3ada)
-- [ ] [<code>fix(android): add category icons for dualConnections and limitHighVolume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee1d3110062f95c6d5900c346a69cc38492e10a0)
-- [ ] [<code>feat(soundcore-device-faker): add a3130</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9ee29a9e7bd22eb2d4f0d6c269478eaf0efc5894)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs(soundcore-device-faker): document a3954</code>](https://github.com/Oppzippy/OpenSCQ30/commit/edd9df011f509d37a4316d0cda8b905e065e4e53)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build: update cargo resolver to 3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9715d313f8a4ee032d396f8c5e83edba306fc890)
-- [ ] [<code>fix(lib): a3957 gaming mode uses different command</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46fb7027b0abe10d1f5ab61ac18ecfd541243e3c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): remove incorrect guess at a3955 AgeRange</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fcc5ce4e9a11a0c9e7e20b19f128510685818316)
-- [ ] [<code>feat(gui): add key bind for focusing search text field</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9ef493008cb2410b4545ec47aa0ab45482bb177c)
-- [ ] [<code>feat(gui): add key bind to open settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/009d7aa2eb134ed53738a6d73709004992524572)
-- [ ] [<code>fix(gui): buttons that open context drawer should toggle it</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e574021d9409dc18a60f570bdae0d5afa0edde3)
-- [ ] [<code>feat(gui): add key bind to close dialogs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31941a142c36dcedbcaf56e2c4eb5b72972ac7ff)
-- [ ] [<code>feat(lib): add support for a3954</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8883d124297adae24119ded7d15b1f7a1b4ace87)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build: don't depend on unstable just features</code>](https://github.com/Oppzippy/OpenSCQ30/commit/05bc59bb1cfd043bb985108688ef3cc8a05706b1)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dda7cf2a6558bcbff494647fe1dcd8e39bbbc7b5)
-- [ ] [<code>fix(lib): a3954 noise canceling slider get/set mismatch</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4544988a360538bc787fc6e1059b9736308e6364)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95544b6d44a60907f355575b81c960aff77059e0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build(android): remove universal build from justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08c1341a9f4564772e933da049d2fc348f0e2b13)
-- [ ] [<code>ci(android): parallelize android build over supported architectures</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1d84f76444b0bd9cd650b0575505567667601ea4)
-- [ ] [<code>fix(android): add earbud case category icon</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1c519cddc8359eb164f7fd61d5245f8fb6c46bfc)
-- [ ] [<code>build: v2.9.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f88d149a38e833bab178c5744da8505f3a8df6e)
-  - <sub>Tags: <code>v2.9.0</code></sub>
-- [ ] [<code>ci: bump actions/checkout from 6.0.3 to 7.0.0 (#307)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/40e014c2f163f2868fd3f207305d7abe3651992a)
-- [ ] [<code>ci: bump taiki-e/install-action from 2.81.4 to 2.82.0 (#308)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/41d9af1540b1817c767a6c84b204fdf19eeeb863)
-- [ ] [<code>test(lib): use new assert_matches! macro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7e2c5efe327e8ff55cf1d1bb41eaa81f6886eacd)
-- [ ] [<code>feat(tools/soundcore-device-faker): add d1202</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8ec35fb1b9020ba05348dc4a98f8abfba70f7bf1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(lib): generic RfcommConnection was removed</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9640f013f9c09ea165d5460dcdf3383218aab3d6)
-- [ ] [<code>feat(lib): add support for d1202</code>](https://github.com/Oppzippy/OpenSCQ30/commit/858cb14167ae2e72b249964fe428627e8006dc0c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(lib): add sound_mode_enum! macro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/51511de5192db8eb91259fa1bf82f32bc04618e5)
-- [ ] [<code>refactor(lib): move manual/adaptive noise canceling to common</code>](https://github.com/Oppzippy/OpenSCQ30/commit/87ea543af0aab8df455ca38f439ba119dd8360e5)
-- [ ] [<code>refactor(lib): move wind noise to common</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58e5c6a7f841f9622ca651e6074e9bbd7354aeb7)
-- [ ] [<code>refactor(lib): use sound_mode_enum! in common::structures</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2576f89e5b5121f385928d34ae243498cc6bf8a7)
-- [ ] [<code>refactor(lib): merge common sound modes into one file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ec4993192089fa38011c5e6bb5217315d20015b)
-- [ ] [<code>feat(lib): add d1202c model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9cf8b91f48b45ed14f10f8ebc4c97a3af2aed84f)
-- [ ] [<code>fix(lib): incorrect a3957 set eq packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5e3b1dde2b18a81e46e5a285577b17f7c66b170a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(lib): add support for a3876</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45e6a4394425b07328e3428831102786c7f9a2fa)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: update device list in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d805d320c75ad7170bbbb23f92dc759ff6f97a6)
-- [ ] [<code>perf(lib): enable strum phf for large SettingId enum</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6646daf67fc570489163ae92376d18fb62a9a116)
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c7f473aa8b6200295d51ec97026dd7830853f648)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build(android): update target sdk to 37</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54eb43b9a1f041c10a1aeaa1e7e90f1add547a78)
-- [ ] [<code>style: run cargo clippy --fix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2de9a4033878f148a2717cfdc7fc341ca9c98db6)
-- [ ] [<code>build: update rust to v1.97.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d800e9313c6601fe242c68af033b108b32b0de7b)
-- [ ] [<code>fix(lib): rename ColorfulLights settings to Lights</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5c05a3f7e460ee5d95bf935bbd483f4eeaebd6d3)
-- [ ] [<code>fix(android): add lights category icon</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bffb3d4b8b3e3874d481a7ee617edc96c73b240d)
-- [ ] [<code>build(android): fix CopyNativeLibTask depending on path rather than file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f4c6fb10caed006c88f47d0575b99c3afd0da64)
-- [ ] [<code>ci: bump actions/attest from 4.1.0 to 4.1.1 (#317)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee8b992ef0ef8504a4affe38b5a0d016a7ba121a)
-- [ ] [<code>build: update soundcore-device-name script for d1202c</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b609a07b64211e823f258ea129718f4694939a97)
-- [ ] [<code>build: v2.10.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b3b5a92f89a562d0878f5a3835cf7cd96cc9234)
-  - <sub>Tags: <code>v2.10.0</code></sub>
-- [ ] [<code>fix(lib): a3062 equalizer repeats active volume adjustments, not drc</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b07ac3775680e8a2715cb70c8a23e8e187a9ddf)
-- [ ] [<code>build: v2.10.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7489088c8a397ff54576f2659476c57acb6a4199)
-- [ ] [<code>test(lib): add test for a3062 set equalizer packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8634ab9c14aafa3ae16b16387551acbe47f7b99)
-  - <sub>Tags: <code>v2.10.1</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(tools/soundcore-device-faker): add d1101</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9f25a58d186f22686fd2083fd4be56c031c1539)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(lib): add support for d1101</code>](https://github.com/Oppzippy/OpenSCQ30/commit/68d82b3023aca07c8f8a50f9b2c99d0ced7c6d5f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(android): enable dynamic colors for widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/33b9b3bed07850291f4f8b818a8aaf08fd438dfc)
-- [ ] [<code>feat(tools/soundcore-device-faker): add d1301</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ba6a34ef2d317cc69263f11f3d99617ac36f61a8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(tools/soundcoredevicefaker): add mutli responses</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cdf45424821ee229de63cba94e0882c734ca05d1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(tools/soundcore-device-faker): watch all files in sync-remote-watch</code>](https://github.com/Oppzippy/OpenSCQ30/commit/06f23f3e40a553f0d1ba74f24c8d01e2be0b56a0)
-- [ ] [<code>fix(gui): equalizer not showing negative sign in range (-1, 0)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/943dfa50fd1999dfdd652294cb56e135d54e22b7)
-- [ ] [<code>fix(lib): remove potentially harmful all_consuming in state packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5cfd854223f19b05559e89bd8e5dab0d6979a429)
-- [ ] [<code>fix(lib): make EqualizerConfiguration's volume adjustments optional</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a638812900dcd35f0f96b813276632bc2b70c59a)
-- [ ] [<code>fix(lib): implement invisible bands mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0fa427e8d66b78e7e0d87aedbc3833f22db65b0e)
-- [ ] [<code>fix(lib): match soundcore app eq behavior more closely</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45a1c55612ee484bd87da9ec14d53fa62b1a814b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(lib): remove InvisibleBandsMode::Remember</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6aeb3945bc92b9122f79db9775d9a63629a4746)
-- [ ] [<code>refactor(lib): re-use values_to_volume_adjustments for preset eq</code>](https://github.com/Oppzippy/OpenSCQ30/commit/166177baec46d8c9600bfc1abbc788c868e2de42)
-- [ ] [<code>fix(lib): validate number of passed in EQ bands</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b6bcc587223f9982e8e5a40a52b22f31f302284)
-- [ ] [<code>fix(lib): don't save custom eq profile invisible bands</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dd719146e9e711342ed8951dd8fe776c4cebc025)
-- [ ] [<code>fix(lib): properly handle custom profiles with too many bands</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f256f4f6bec6fa66caabc94750f02f67721c5d9)
-- [ ] [<code>test(lib): add test for too few eq custom profile bands</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f4e8b4a65f0b3bef9b92213a5f9336f3a8b54f46)
-- [ ] [<code>refactor(lib): reusable set up function for eq setting handler tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b71d2f4bd9b22c12b3807aa99bec8e859e88d98)
-- [ ] [<code>build: update rust to 1.97.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a2b66cc17ff06a09bbf53892c2c6f9e51941dafd)
-- [ ] [<code>ci: don't install unnecessary rust targets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/354fa3a934cb3acaa0554af7f302b24447778fef)
-- [ ] [<code>ci: fix syntax error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1d195f31f116ffe492d0d793a44fbc041ed6462)
-- [ ] [<code>ci: fix typo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/61773c0a8978e075eef9d29c48c105d196d74db1)
-- [ ] [<code>fix(lib): fix a3955 equalizer inaccuracies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98a27ddcb7467c9d3479189c807ed6ff97bf3e63)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat(tools): add script for generating EqualizerPresets from packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/526ac8c9ffa85b48f9a094bd39c04fa5c90cbbf2)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>fix(tools/soundcore-device-faker): incorrect a3004 rfcomm service uuid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9739fab97a1a6a9754d460539f5ea46cd86f552)
-- [ ] [<code>fix(lib): incorrect eq presets for many devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/79ec8a335f66a50869a8836778773000a4362042)
-- [ ] [<code>style(lib): fix clippy warning</code>](https://github.com/Oppzippy/OpenSCQ30/commit/835e45a38d0a7cc11d1ad0c652853df20adc09b4)
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/69106c05f9383dfa3852183ba54e903a2baa92a0)
-- [ ] [<code>feat(android): add option to use compact widget layout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0f4d36b8cf90366855a6a2296dec848b9af25558)
-- [ ] [<code>build(android): update uniffi target kotlin version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/34431fd81370d7b61600df441adeb35026612cb0)
-- [ ] [<code>build(android): remove unnecessary kotlin compilerOptions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d14437c90bd06b8c434a461bb506bd5b9b1a183f)
-- [ ] [<code>test(android): remove mockk from instrumented tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e29a24f5c828c51dd9d0839c5dd2879aea2236ca)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/409460e16c44324b35aeb5c99ea9acb7896726f4)
-- [ ] [<code>fix(lib): active custom eq profile is always None</code>](https://github.com/Oppzippy/OpenSCQ30/commit/878f7e6f6550fce923e742e999278d45d28fa6b5)
-- [ ] [<code>fix(lib): debug log outbound packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9bedefa7649a7f22a0018a48a3c0c875ef306028)
-- [ ] [<code>docs(lib): add explanation for apply_drc</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3858119c45d25bdf700b88e15a7f7a8c7769346e)
-- [ ] [<code>test(lib): add test for a3949 set equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3fbdc761bfdc6f15e1394c7928b4ccd58ff2b5d3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps(android): update AGP</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9482572a8e18b5083c46169715b51a6d52b27578)
-- [ ] [<code>fix(lib): remove a3949 custom equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/167c56a8156d91066895e420d2acd38a9522f2c3)
-- [ ] [<code>fix(lib): equalizer with read_only set should be SettingMode::ReadOnly</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bd2a6cc0b9fd601c973687a26f421be48fb2d1aa)
-- [ ] [<code>fix(android): get preset eq volume adjustments from new setting type</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2987156b3aae9a65035ae5430f6dbe3bdb0cc465)
-- [ ] [<code>refactor(lib): simplify ReadOnlyEqualizer drawing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e0b8b2429d769f60496bd28c7255c748086e9b05)
-- [ ] [<code>fix(lib): expose preset eq volume range</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0212e02362222baeae53653b60967ed6176ee05d)
-- [ ] [<code>fix(lib): setting PresetEqualizerProfile to None should switch to custom</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce57c7aa6978d06561805962023eb6abc56add6c)
-- [ ] [<code>refactor(lib): use constant for common min/max volume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/89afa5a72d2f759a291b0252f15a4c9ecba2fdce)
-- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2310480d0dc269476539689ba7bf459e2309de27)
-- [ ] [<code>ci: bump actions/attest from 4.1.1 to 4.2.0 (#329)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77c4e13d173408edf492bac957cfb69a9f08061f)
-- [ ] [<code>test(lib): add test for a3949 having no custom eq</code>](https://github.com/Oppzippy/OpenSCQ30/commit/afa8a7e36a06940c3f1d87aca42016f51405f2e1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dcbfab6606eef227fdf84f25ee47fb3c9c8b6334)
-- [ ] [<code>fix(gui): vendor warning widget and fix text color bug</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa56fe9b77e1f3bd5aff0cd3d1d24c495fed7991)
-- [ ] [<code>fix(gui): remove debug print</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0dc9b2b0a98fb5ded4f1dcc38d18381112031014)
-- [ ] [<code>build: v2.11.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95b47201980b82d6f94adcd919ed097296c52e1c)
-  - <sub>Tags: <code>v2.11.0</code></sub>
 - [ ] [<code>ci: bump actions/checkout from 7.0.0 to 7.0.1 (#332)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/682918c45ce3ab2a4d39b41f467a1f177b5eb38b)
 - [ ] [<code>feat(i18n): add Korean translations (#326)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8cda7ddd91bc0bb0f8e10a130d13f02595275ea0)
 - [ ] [<code>ci: bump actions/attest from 4.2.0 to 4.2.1 (#337)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08b28dd8ce8c9f91c3ef44ad25c9d5f3491a2aa0)
@@ -27999,6 +27686,246 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sessions): reject invalid explicit store paths (#124515)</code>](https://github.com/openclaw/openclaw/commit/15a01bcc5e4876e183020c9bc9d804f2db975b3f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(release): exclude RoboClaw from contributor credit (#124526)</code>](https://github.com/openclaw/openclaw/commit/0c546979b2ac833498e56ef8d58ac2bcda67b414)
+- [ ] [<code>fix(gateway): prevent sustained-turn readiness stalls (#124528)</code>](https://github.com/openclaw/openclaw/commit/d86593fa28074b0644a5c5792d0a5eae853dd8b8)
+- [ ] [<code>fix(computer-use): macOS live-proof rig deadlocks on operator device approval (#124536)</code>](https://github.com/openclaw/openclaw/commit/b07c6b2b8bec01b177cc3d7d26b1e4c4572393e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): batch worker placement session evidence (#124372)</code>](https://github.com/openclaw/openclaw/commit/96cacfdf74503baf1b9175b25f5a5aedb7b312b2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): give the artifact mtime repair a millisecond of headroom</code>](https://github.com/openclaw/openclaw/commit/ee4bd4aa47372874839f2f2fa667870e2141f5e4)
+- [ ] [<code>refactor(workers): separate runner consent from capacity (#124356)</code>](https://github.com/openclaw/openclaw/commit/dbad5e385d38c708b10df493e11585635d254068)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(ci): fold built-runtime verifiers into the artifact-check wave</code>](https://github.com/openclaw/openclaw/commit/bba57301d9c5b6f15a86628bd1af0b9c99d5b138)
+- [ ] [<code>fix(cli): scope unknown-subcommand help to its command tree (#124544)</code>](https://github.com/openclaw/openclaw/commit/23a034d584b89b70137b5f2eed46af20de67c3af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): honor pairing exemptions on reconnect (#124545)</code>](https://github.com/openclaw/openclaw/commit/6e7b1e2215b3e082fa7fc2ce59f30e14706a565d)
+- [ ] [<code>perf(test): avoid Canvas Git timeout wait (#124547)</code>](https://github.com/openclaw/openclaw/commit/66db70133b2cc06884d231a2e817d7e4c08e0c48)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: remove vestigial runtime indirection (#124554)</code>](https://github.com/openclaw/openclaw/commit/f43544f752a373bb377bcba3bb930f6d96819510)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qa): stop shutdown from leaving bus poll timers (#124463)</code>](https://github.com/openclaw/openclaw/commit/c1622d08f50f57a03ce719198c83e8b4847b4122)
+- [ ] [<code>fix(test): route extension roots through bounded planner (#124553)</code>](https://github.com/openclaw/openclaw/commit/d437a4a4b49c43b4104299f14bdc0550e631e424)
+- [ ] [<code>fix(cron): stop reaping deleted agents (#124566)</code>](https://github.com/openclaw/openclaw/commit/91a3b9ba563619c5493f0da50c6bcde052971175)
+- [ ] [<code>fix(ui): preserve task recovery across refresh (#124371)</code>](https://github.com/openclaw/openclaw/commit/e3e45ed462f6295df3b5779f6ec114d25d1a83d8)
+- [ ] [<code>fix(gateway): omit JavaScript class names from proven RPC failures (#124563)</code>](https://github.com/openclaw/openclaw/commit/75116010927042b0cf66df4442099ede84435aca)
+- [ ] [<code>perf(cli): build root help from plugin metadata (#124562)</code>](https://github.com/openclaw/openclaw/commit/ebd23631ae8d92f0ff4ebd14e663c355736751b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(gateway): correct node pairing storage (#124571)</code>](https://github.com/openclaw/openclaw/commit/eab287d224e3acd1fa6c5676fa06f4f5ff523403)
+- [ ] [<code>fix(gateway): preserve device capacity failures (#124574)</code>](https://github.com/openclaw/openclaw/commit/458923cb03e5ea44eadddc264020901837aa16c1)
+- [ ] [<code>fix(heartbeat): emit the documented quiet-hours skip event (#124542)</code>](https://github.com/openclaw/openclaw/commit/4e652f9fac92ac7a7e83787a3bc7a44c8c720e43)
+- [ ] [<code>fix(slack): stop sniffing the NO_REPLY product token in the transport (#124561)</code>](https://github.com/openclaw/openclaw/commit/a118bfbf308b2c2e28d34a48454c5321d0b011dd)
+- [ ] [<code>refactor: dedupe session-catalog cursor paging and sleep helper clones (#124569)</code>](https://github.com/openclaw/openclaw/commit/0d9a424d81e20cdef2f50d5b30e9b2810b2ea224)
+- [ ] [<code>fix(macos): fully persist embedded CUA pid (#124572)</code>](https://github.com/openclaw/openclaw/commit/1787fd6e0add357cce531c822cc3bd1189c92e6d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>perf(test): reuse QA hook routing fixture (#124565)</code>](https://github.com/openclaw/openclaw/commit/9f29ebc828313ea763eabfee42561ed3e0d53fcc)
+- [ ] [<code>fix(ui): scope Labs mutations to connection (#124578)</code>](https://github.com/openclaw/openclaw/commit/509f947a20fae85b3f753ea9ef59b4730c6120e9)
+- [ ] [<code>fix(plugins): surface swallowed cleanup, setup, and CLI-load failures (#124570)</code>](https://github.com/openclaw/openclaw/commit/7ed321de30ef8818c0a74a4388d02fbeb99e1f61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): five operator papercuts — actionable gateway/channel errors, legible status tables (#124581)</code>](https://github.com/openclaw/openclaw/commit/ec9135b22be33741b18f6147c563823b24e07239)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(compaction): bound the ratcheting file-operations summary lists (#124577)</code>](https://github.com/openclaw/openclaw/commit/761203b7fec0e7d28f03d7dcb5733506c14a589c)
+- [ ] [<code>fix(ci): cover core-driven extension impact in PR fallback (#124579)</code>](https://github.com/openclaw/openclaw/commit/8638d50ce663127605b752d59502bc6cac399de6)
+- [ ] [<code>refactor(macos): name computer-use executors for their scope (#124586)</code>](https://github.com/openclaw/openclaw/commit/243f51d314d186b081dbdc9f7291717664530b50)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: surface hidden-pane steer failures and demote per-turn gateway log noise (#124560)</code>](https://github.com/openclaw/openclaw/commit/7173aeb6637fa29df53a985be27076b852b6cfce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(workers): bound node bundle retention (#124590)</code>](https://github.com/openclaw/openclaw/commit/18d130fc1b4b240c122149bf22f312fdce77038c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ci): drop the disabled timing-summary job and unread build outputs</code>](https://github.com/openclaw/openclaw/commit/d8697d59564799ea5eefd26df6133784bc58897f)
+- [ ] [<code>fix: reject invalid targeted channel setup (#124584)</code>](https://github.com/openclaw/openclaw/commit/6602b4eca5198c43a97f3daa20f023c72cd4d8bd)
+- [ ] [<code>fix(ai): preserve WebSocket response failure semantics (#124591)</code>](https://github.com/openclaw/openclaw/commit/9a555b6a9d47e408a4cec0ba8961aeccf321bb97)
+- [ ] [<code>perf(cli): skip plugin preflight for audit (#124595)</code>](https://github.com/openclaw/openclaw/commit/eafeeec537a643d1f47459ec617516986b17c514)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): keep approvals JSON failures parseable (#124585)</code>](https://github.com/openclaw/openclaw/commit/b5491a08bf1c338c3aa2a16e4ab7ff94fa6498c6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(ci): drop the artifact-check step outputs left behind by the job outputs</code>](https://github.com/openclaw/openclaw/commit/81d44365ae2eb39270ade4a9f8cd1021a0cbc96a)
+- [ ] [<code>fix(zalo): reject failed probe responses (#124593)</code>](https://github.com/openclaw/openclaw/commit/85ac519900207f9546048ad901247af26df6cd2a)
+- [ ] [<code>fix(auto-reply): fully read startup context files (#124597)</code>](https://github.com/openclaw/openclaw/commit/147fa7e4c353a356becb0907f6ac8fdc94478559)
+- [ ] [<code>fix(macos): stop idle node setup CPU loop (#124599)</code>](https://github.com/openclaw/openclaw/commit/c82dfdb43a35557859012df45fefcd9dea9b1f68)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>perf(test): shorten Google Meet reconnect proof (#124602)</code>](https://github.com/openclaw/openclaw/commit/605dece17105e2287969a632d7d785f8355ba76f)
+- [ ] [<code>fix(plugins): resolve package module specifiers (#124600)</code>](https://github.com/openclaw/openclaw/commit/2ceb18118ced797a448feed3dc634e9588614aae)
+- [ ] [<code>fix(ui): show snapshot warning after forced worktree removal (#124605)</code>](https://github.com/openclaw/openclaw/commit/d8e7ec5345b6eda69f68fea758605f55f801ca95)
+- [ ] [<code>fix(telegram): keep canceled requests health-neutral (#124588)</code>](https://github.com/openclaw/openclaw/commit/1f420c26291b096c8206b1f56ea30ce621863ea8)
+- [ ] [<code>fix(line): bound inbound media response bodies (#124606)</code>](https://github.com/openclaw/openclaw/commit/51964c1eee30aadaa43217a5b27a8b230151573d)
+- [ ] [<code>fix(plugins): restrict npm project cleanup to owned roots (#124608)</code>](https://github.com/openclaw/openclaw/commit/7f842da4bd45c1850562892a1003bc573e516d42)
+- [ ] [<code>fix(agents): allow required-preflight native Codex compaction (#120197)</code>](https://github.com/openclaw/openclaw/commit/16cde041368f40fd287cd69ff823be537167666e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): local devices stall on scope upgrade pending approval despite autoApproveLocal (#124589)</code>](https://github.com/openclaw/openclaw/commit/086f5916fad9c3ba40ae3c0b3a0fd41716a01822)
+- [ ] [<code>refactor: make transport stream writer types honest (#124587)</code>](https://github.com/openclaw/openclaw/commit/99bda3d8cda4fd1f0b30d17e911d6fbe0bdd60c7)
+- [ ] [<code>fix(gateway): retire ownerless requested placements (#124609)</code>](https://github.com/openclaw/openclaw/commit/1b34939f8210daa026a0284a44e5d661dd621313)
+- [ ] [<code>improve(ci): cut hybrid compact runner overhead (#124622)</code>](https://github.com/openclaw/openclaw/commit/3e2edc7f229ea76d1dd3ddab8fb9b425541c34c8)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(sessions): missing configured store must not poison readable siblings (#124617)</code>](https://github.com/openclaw/openclaw/commit/cb65a14c4603c6e7941799d543220014c49a8725)
+- [ ] [<code>fix(gateway): keep shutdown reliable during updates (#124582)</code>](https://github.com/openclaw/openclaw/commit/45572dbf367952a1d7fdca8e247d84d2d90568df)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(macos): stop Talk MLX helpers after shutdown or replacement (#124604)</code>](https://github.com/openclaw/openclaw/commit/fb32d5df476f73522ee6e29c440d1b86890ed4d9)
+  - <sub>Keywords: <code>bin</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>perf(test): remove ingress capacity waits (#124630)</code>](https://github.com/openclaw/openclaw/commit/ea77e2164646a2798c06c5daa977724cc3870006)
+- [ ] [<code>refactor(compaction): delete dead generic-fallback variant and prod-dead wrappers (#124603)</code>](https://github.com/openclaw/openclaw/commit/4caa06b976e036542c19ce2f41d069b0a8e4a563)
+- [ ] [<code>fix(update): bound automatic dev update attempts (#124626)</code>](https://github.com/openclaw/openclaw/commit/8dc3230b0a8a64abafbfaa95804e1c3f810037fa)
+- [ ] [<code>fix: preserve reply order across overlapping turns (#124623)</code>](https://github.com/openclaw/openclaw/commit/19bcb23ba127a2401338e27a193a2c013ed9010f)
+- [ ] [<code>fix(ui): surface the blocking reason when Enter cannot start a new session (#124613)</code>](https://github.com/openclaw/openclaw/commit/a5f9adf483d660cb0eb30e35f5f229744658df57)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): stop devices approve from misdiagnosing a superseded pairing request (#124637)</code>](https://github.com/openclaw/openclaw/commit/a3099a572d18ca98ee3ce04dbea9d508136e6369)
+- [ ] [<code>fix(update): remove false dependency staleness (#124627)</code>](https://github.com/openclaw/openclaw/commit/8bf55bfe1929494b695879446776cf7d5181550b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(lint): enable verified-clean rules and import checks (#124610)</code>](https://github.com/openclaw/openclaw/commit/82ffcdd0d8a532b9d2303a806acd535b1f63cb54)
+- [ ] [<code>fix(plugins): avoid lifecycle lease startup flake (#124607)</code>](https://github.com/openclaw/openclaw/commit/a11e9d673b23525067101baab258b1bf0e210444)
+- [ ] [<code>fix(gateway): warn on placement session evidence pipeline failure (#124635)</code>](https://github.com/openclaw/openclaw/commit/29e8bebcbe16cf6bf4462151fe1a45c162b98326)
+- [ ] [<code>fix(acpx): require the complete runtime contract behind the lazy proxy (#124628)</code>](https://github.com/openclaw/openclaw/commit/5ce012619463149a1f81243298f27ec69111ba54)
+- [ ] [<code>refactor: replace runtime mock seams with injection (#124634)</code>](https://github.com/openclaw/openclaw/commit/6a8243149481841ef5ef5fd25f4c87c4426efbe6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(pr): release clean-exit locks despite escaped notify-pipe holders (#124614)</code>](https://github.com/openclaw/openclaw/commit/63bae0d69f2ffe5b3d70e9ee576a99d10277c1cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(ci): route runners by contributor trust instead of fork status</code>](https://github.com/openclaw/openclaw/commit/8d86fe79a61db2df3d03647908b64ef62228f3eb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(cron): honor explicit delivery agent ownership (#124631)</code>](https://github.com/openclaw/openclaw/commit/e38a645a75171433647f0c5d8f55b597102cf93d)
+- [ ] [<code>refactor(sessions): delete dead maintenanceReport and evict-budget surfaces (#124641)</code>](https://github.com/openclaw/openclaw/commit/1113d1d24584b6be61709079ae57002b9dad0c0e)
+- [ ] [<code>perf(agents): skip dead restart session lookups (#124616)</code>](https://github.com/openclaw/openclaw/commit/26f980d9f52b2c6e06f3d2c3853cbe5fb4710d99)
+- [ ] [<code>feat(ui): named glyphs and custom emoji entry for session icons (#124629)</code>](https://github.com/openclaw/openclaw/commit/9873b0f6ad8fdb02191b386e5332d57e1747449f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): surface command-palette chat search failures (#124648)</code>](https://github.com/openclaw/openclaw/commit/b90d7efddbc04f0363ba5c024d9cf538511d6ae1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(discord): warn when webhook persona send falls back to bot send (#124650)</code>](https://github.com/openclaw/openclaw/commit/688068101d0c110b678a6a7fcf81abfd76a40a21)
+- [ ] [<code>fix(ui): redact errors across Control UI surfaces (#124552)</code>](https://github.com/openclaw/openclaw/commit/d61202b128356145c812001fe2f28ceaa51c12d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): join concurrent node worker tunnel starts (#124638)</code>](https://github.com/openclaw/openclaw/commit/3e0634f7ed9450b963cffdf481061630f7340cdb)
+- [ ] [<code>fix(update): complete high-volume stable upgrades without stalls (#124651)</code>](https://github.com/openclaw/openclaw/commit/468d621f9a75198fc037c8b78205643445f6d801)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(crabbox): keep active cloud worker leases alive (#124615)</code>](https://github.com/openclaw/openclaw/commit/5a0fe2232b46213b4f436ea69d45e260f2043925)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(nodes): keep MCP calls within the published catalog (#124652)</code>](https://github.com/openclaw/openclaw/commit/146350f417713a89d129b30448fe00557f2ff766)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(plugins): compile externalized plugins in source builds (#124639)</code>](https://github.com/openclaw/openclaw/commit/eeffa53b2048a29bbb6df0bff6c600f4d3072bf8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: avoid nesting dedicated Linux workers (#124636)</code>](https://github.com/openclaw/openclaw/commit/55240929f5adc00a418cde48dded3b51459d5663)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): recover remote-exec staged results after restart (#124619)</code>](https://github.com/openclaw/openclaw/commit/b864da4d1f3b48a52434993e10a8082757497cf6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(codex): candidate checks reject a mismatched app-server (#124137)</code>](https://github.com/openclaw/openclaw/commit/eb174bcaffd4ef116ef2294863a24b8f784b6396)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>perf(plugins): memoize failed facade module resolutions (#124664)</code>](https://github.com/openclaw/openclaw/commit/61a3d3e7d940f5df1fca52c7c1c5f0dd7c56dfcc)
+- [ ] [<code>fix(update): resolve detached dev status from origin (#124611)</code>](https://github.com/openclaw/openclaw/commit/886e5c049005845135dfc25f7a3cb9bebc4ea01e)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(scripts): drop redundant boolean comparison in worker detection (#124668)</code>](https://github.com/openclaw/openclaw/commit/5f561999a9d849d1c4fe61d13a2e932aa0ca809f)
+- [ ] [<code>fix(cli): report unknown subcommands instead of excess arguments (#124661)</code>](https://github.com/openclaw/openclaw/commit/76f4b942e0554b8af53a83867379bdf0aaa30467)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): correct compaction mode help text; repair main lint + qa-lab flake (#124656)</code>](https://github.com/openclaw/openclaw/commit/43e910142f199a78894c3d8277a5ce992b029764)
+- [ ] [<code>fix(pr): support split GitHub CLI auth (#124671)</code>](https://github.com/openclaw/openclaw/commit/e0e9e272bca0e0f00615639c586f5f69df677488)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(llm-task): forward tool cancellation (#124673)</code>](https://github.com/openclaw/openclaw/commit/421e319fb7c1455c08fb855aa807e8ea3549ec0e)
+- [ ] [<code>fix(compaction): use canonical session context projection for post-turn estimator (#117400)</code>](https://github.com/openclaw/openclaw/commit/394ce62ef720486ed3a67be5a7f07be95a002ffd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(gateway): assert the exact pinned-clock dispatch timeout (#124669)</code>](https://github.com/openclaw/openclaw/commit/01a23bc8b9c65f7d63843ea12d55d8890ccb14b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): preserve delegation when image generation is denied (#124598)</code>](https://github.com/openclaw/openclaw/commit/2404d41de234c7e490e55642c47b6abb36cb5972)
+- [ ] [<code>fix(sessions): warn when a fire-and-forget disk-budget sweep fails (#124681)</code>](https://github.com/openclaw/openclaw/commit/2b8e94ea4dba467f32c99b386bf80a7e0460d987)
+- [ ] [<code>fix(qa-lab): bound matrix probe re-polling by deadline (#124684)</code>](https://github.com/openclaw/openclaw/commit/56f594aa97b54d34a379ee76a3d5072d047d5e0f)
+- [ ] [<code>refactor: make dense test fixtures type-safe (#124625)</code>](https://github.com/openclaw/openclaw/commit/d258c6651a5e7c58747c9af349f2ebc70f05a88a)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(pr): support authenticated GitHub CLI wrappers (#124674)</code>](https://github.com/openclaw/openclaw/commit/9eb68f37cf1e6b3c3a7385ff8c5f3ecb508f0a1b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(cron): missing automations show recovery guidance (#124663)</code>](https://github.com/openclaw/openclaw/commit/fa29984096861d3f33aa3b1243277742b35d97b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(gateway): retire the Control UI device-auth migration window (#124667)</code>](https://github.com/openclaw/openclaw/commit/bdcc6836e09b8eafc96ddf09facf36584866e876)
+- [ ] [<code>fix: keep dirty changed checks scoped to local edits (#124685)</code>](https://github.com/openclaw/openclaw/commit/eb63cb14811559891210df353bff7381087c3b04)
+- [ ] [<code>fix(android): stop wrapper subprocess trees on cancellation (#124686)</code>](https://github.com/openclaw/openclaw/commit/337933509d623cb68f2b3fbb9ebeb3641901dab7)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(gateway): accidental gateway run against a live install no longer mutates its state before refusing (#124653)</code>](https://github.com/openclaw/openclaw/commit/d91b290a058d439a63a2339520171243e2351680)
+- [ ] [<code>refactor(gateway): extract the pairing approval plan from requirePairing (#124691)</code>](https://github.com/openclaw/openclaw/commit/551c65e490104cc266d3281a317b3f11bb3e0f17)
+- [ ] [<code>test(azure-speech): make voices timeout proof deterministic (#124694)</code>](https://github.com/openclaw/openclaw/commit/3ca7b038f0c9b088c9d0ca62771e1fb7ebcb0809)
+- [ ] [<code>refactor(reply): unify keyed FIFO leases (#124690)</code>](https://github.com/openclaw/openclaw/commit/2aab6b8e3726356b226159cbd2e2fa64f0784d8d)
+- [ ] [<code>feat(nodes): expose installed worker bundle status (#124640)</code>](https://github.com/openclaw/openclaw/commit/4d872fbfbc74eb17a6e69d46df6f3876b136cefe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(config): consolidate context budget to one per-model knob (#124665)</code>](https://github.com/openclaw/openclaw/commit/715c379fd949a9a77224a590e8d9016f88b62d0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(doctor): show migration progress (#124692)</code>](https://github.com/openclaw/openclaw/commit/66dc9d1c1e25a19fa8ca0b5c497a1165e27cf316)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(code-mode): advertise the nodes namespace only when the catalog has it (#124698)</code>](https://github.com/openclaw/openclaw/commit/2d6f8a79c4317e1dd21d913931da7ceb60e73596)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(media): discover whisper.cpp models instead of a test fixture path (#124699)</code>](https://github.com/openclaw/openclaw/commit/6509a09ca7a51d7087c32a3b783c461d1ea12532)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: keep doctor security conditions as single findings (#124666)</code>](https://github.com/openclaw/openclaw/commit/63401b730b55b40f691b004308cab45b66c8eb89)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): prevent invalid names from targeting the default agent (#124670)</code>](https://github.com/openclaw/openclaw/commit/aeff737da9ea5d5010131a4249cf8bdd0be180b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(failover): classify transient Undici error codes (#123042)</code>](https://github.com/openclaw/openclaw/commit/0e7deeec45c2bc91eef69689477595dfab735147)
+- [ ] [<code>fix(pr): substitute anchor-matching canonical wrapper for stale worktrees (#124710)</code>](https://github.com/openclaw/openclaw/commit/cae9ecaba40a3acbc4c07dc8ce5a3f1135cd7e37)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: preserve beta validation fixtures (#124717)</code>](https://github.com/openclaw/openclaw/commit/52ef157b5e64ca4af1fd827165a534f4cc0fa074)
+- [ ] [<code>perf(test): reuse Gateway for hosted wizard exits (#124721)</code>](https://github.com/openclaw/openclaw/commit/d3a656602a4ecc20f4e661b3a02e1e5a693f4e54)
+- [ ] [<code>chore: remove stray agent report artifact from repo root (#124722)</code>](https://github.com/openclaw/openclaw/commit/62967773366c00e78bdedcf9a0def8b11dbec3b2)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ci): align baseline ratchets across local and CI (#124720)</code>](https://github.com/openclaw/openclaw/commit/569835e8b0aab6ce6b5be3859e181549c1e3a751)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(skills): note hosted state-dir and envelope media in session fetching</code>](https://github.com/openclaw/openclaw/commit/8f23e68a10f5931ace00487f63f929a51d81a8aa)
+- [ ] [<code>fix(auto-reply): reject redeliveries without recreating drained queues (#124723)</code>](https://github.com/openclaw/openclaw/commit/98805b8584724550e28513d45ec50eec11ed2d17)
+- [ ] [<code>perf(ci): keep the real-Gateway UI E2E lane on Blacksmith in hybrid mode</code>](https://github.com/openclaw/openclaw/commit/4fb27369ee935be2199e821f5690845814729533)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): prevent QA maturity scorecard timeouts (#124612)</code>](https://github.com/openclaw/openclaw/commit/edf4c74601adfa702d48917b966302ae31849db1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(browser): reattach relay tabs after reconnect (#122177)</code>](https://github.com/openclaw/openclaw/commit/d0793caf38faf43898c95e1c5c9eae4d462a197b)
+- [ ] [<code>fix(agents): stop advertising unavailable tools (#124716)</code>](https://github.com/openclaw/openclaw/commit/ffa0929c7f2101c95f4faa0e574c10426e301e28)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(tui): report each reconnect failure instead of freezing on the first (#124700)</code>](https://github.com/openclaw/openclaw/commit/23d4e6e4961d6c37d2ec957aca18260f6a0d7093)
+- [ ] [<code>fix(tasks): skip session sweep when the cron store is unreadable (#124718)</code>](https://github.com/openclaw/openclaw/commit/9d0c1f8f8c59d0cedc80d8c7b409c94e4e917fd1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): stop broadcast serialization failures from storming gap detectors (#124726)</code>](https://github.com/openclaw/openclaw/commit/86adb6e67ea5bff85528aa6294977b632e25ffdb)
+- [ ] [<code>fix(ci): let Crabbox own doctor readiness deadlines (#124725)</code>](https://github.com/openclaw/openclaw/commit/b7fb951a94e7bbdf25f79146b28c3d49bcb6a0f2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): gate session.tool mirrors behind session subscriptions (#124732)</code>](https://github.com/openclaw/openclaw/commit/1bcec211d9efa3e6f68dbf0cdf8826da1be94f7a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): report unknown subcommands even with --help (#124707)</code>](https://github.com/openclaw/openclaw/commit/b80d55a7f6dc934656ced152145b2449e25aac5e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): fail absent service start and restart (#124711)</code>](https://github.com/openclaw/openclaw/commit/57ebd205663b2b23a56605942b06507616887db5)
+- [ ] [<code>refactor(infra): split device pairing lifecycle modules (#124734)</code>](https://github.com/openclaw/openclaw/commit/eb77ce56905159786d2533af26039ca2bb57a2a5)
+- [ ] [<code>perf(test): reuse memory plugin module (#124741)</code>](https://github.com/openclaw/openclaw/commit/cb8a7449e7f470dfd45aae9a7b3997ba7d24914d)
+- [ ] [<code>feat(lint): enforce import ordering and deduplication (#124730)</code>](https://github.com/openclaw/openclaw/commit/568b920b210af20f9f66add62e76fc440cca15f5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(voice-call): sessionScope "main" routes calls into the agent main session (#124708)</code>](https://github.com/openclaw/openclaw/commit/5168b5d4ab5f8a059b91e1c9f9bc8aac497c5438)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): forward agent name through setup (#124740)</code>](https://github.com/openclaw/openclaw/commit/a2067ed1bb748fd54a2de4e929243e8c51a042ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(mcp): centralize tool filter policy (#124739)</code>](https://github.com/openclaw/openclaw/commit/a741f5b8aec7fc8cf3be4041ee7cf33bffbed026)
+- [ ] [<code>fix(agents): preserve restart-unsafe delivery evidence (#124737)</code>](https://github.com/openclaw/openclaw/commit/6c9eda0593cfdead225f93acae8ee4b7cba6a8a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): snapshot synced Testbox candidates (#124743)</code>](https://github.com/openclaw/openclaw/commit/6540028c799093a79991954834060fc797d598b2)
+- [ ] [<code>fix(ci): keep QA evidence output repo-relative (#124760)</code>](https://github.com/openclaw/openclaw/commit/6a0c9f43d2cffe597f4da33a9dade01f0719f631)
+- [ ] [<code>fix(cli): allow hook toggles to select an agent (#124761)</code>](https://github.com/openclaw/openclaw/commit/ebe7af218c7d8f5d807534c574b10938362293af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(upgrade): drop retired agent context assertion (#124765)</code>](https://github.com/openclaw/openclaw/commit/7e92751d9ac93104320da0a89dfc47a8e516c172)
+- [ ] [<code>fix(skills): report missing ClawHub skills as not found (#124764)</code>](https://github.com/openclaw/openclaw/commit/34bfcdba58245dc3ea5451f5d8b0c5814365c24a)
+- [ ] [<code>feat(codex): show sessions from additional homes (#124660)</code>](https://github.com/openclaw/openclaw/commit/08786d32b21b6a3569192437e9892f355146674c)
+- [ ] [<code>fix(qa): preserve effective fast mode (#124762)</code>](https://github.com/openclaw/openclaw/commit/22dd3d4ed0ba50d40d494ee23136a38fcbe27d5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): keep Control UI device identity working on plain-HTTP origins (#124724)</code>](https://github.com/openclaw/openclaw/commit/75bcc5cebe97c661c865e0520815b682c90e45f9)
+- [ ] [<code>fix(line): retry lost pushes without duplicating an accepted send (#124464)</code>](https://github.com/openclaw/openclaw/commit/12138d2cee7db3a4bdafc2747a42fd22a06018a5)
+- [ ] [<code>fix(outbound): record queue-write loss and fail every payload on prep abort (#124756)</code>](https://github.com/openclaw/openclaw/commit/820bcb78cd97b928aa03fb0306724070c5c8a8f6)
+- [ ] [<code>refactor(gateway): drop dead session-subscriber registry surface (#124754)</code>](https://github.com/openclaw/openclaw/commit/29deb75ec5837b77dd3d54bf9f19e5a1e4a41b3d)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(config): preserve migration notice paths (#124719)</code>](https://github.com/openclaw/openclaw/commit/5d68a8e1db3e3c78085030f9910b10554c982f21)
+- [ ] [<code>fix(runners): preserve device sessions through lifecycle faults (#124744)</code>](https://github.com/openclaw/openclaw/commit/91e537da159781e2faebdfdc0f67b41f09a5f403)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): keep setup auth choices consistent (#124729)</code>](https://github.com/openclaw/openclaw/commit/b1c2ed7d47444d8d0208e6cbf97ca91fb9a83229)
+- [ ] [<code>fix(tasks): cancel subagents through gateway (#124752)</code>](https://github.com/openclaw/openclaw/commit/6abb1273bfa3bd0f0d681f80005267784a41e127)
+- [ ] [<code>fix: honor context caps on Codex-routed models (#124735)</code>](https://github.com/openclaw/openclaw/commit/6cc72f9b3ded4546d3af6ee5f11e3e0a6137fc07)
+- [ ] [<code>fix(config): render actionable validation errors (#124763)</code>](https://github.com/openclaw/openclaw/commit/0d9b22ad2da7b6d9150a5b083e4def5e335383de)
+- [ ] [<code>docs: remove agent-hierarchy guardrail from VISION roadmap</code>](https://github.com/openclaw/openclaw/commit/e40bd56dfdd5a58b850fc005127b62c2fd57d94c)
+- [ ] [<code>fix(gateway): preserve worker lifecycle failure reasons (#124774)</code>](https://github.com/openclaw/openclaw/commit/09a76ac773ba13aefe69c018eb57c487bfb0c793)
+- [ ] [<code>fix(cli): explain empty directory lookups (#124753)</code>](https://github.com/openclaw/openclaw/commit/d5db5854fefce6d822d99f8717dfa9bb3b38597d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): honor session node exec host (#124777)</code>](https://github.com/openclaw/openclaw/commit/4667d188f25decfff935102aa41f61f5e7870164)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(line): replace nine-marker prompt DSL with typed rich messages (#124755)</code>](https://github.com/openclaw/openclaw/commit/d8ebe85c2413c3c380c42d711a458ee821b0b589)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(ui): surface approvals passively and redesign the approval card (#124767)</code>](https://github.com/openclaw/openclaw/commit/ed1799315e76b32118fc256ac0a5c773a9adb2ff)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(channels): carry typed approval-prompt bindings through signal/imessage send seams (#124742)</code>](https://github.com/openclaw/openclaw/commit/a0f4d5462a4e55f6d66142f2cdcd2f74871394fe)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): select aggregate QA evidence by manifest (#124802)</code>](https://github.com/openclaw/openclaw/commit/de52a6c314817393ffac44fee05364f8dc63716a)
+- [ ] [<code>docs: correct code mode runtime contract (#124792)</code>](https://github.com/openclaw/openclaw/commit/bc24508f5ef569e40c753ec030cd398a0f00282f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): invalidate extension boundary cache for attempt types (#124800)</code>](https://github.com/openclaw/openclaw/commit/df5b5baf83022af3347d7f4219b186f69397728f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
