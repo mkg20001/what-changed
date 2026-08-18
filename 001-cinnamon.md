@@ -515,8 +515,10 @@
 - [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-menus/commit/34a8bc78cbbda3a01395fbd40c6ac1d9fa8bad12)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-menus/commit/1142b5fb313b486f93d7edd1035301a48cc8b4a2)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>entry-directories: skip entries whose desktop file id is not valid UTF-8 (#85)</code>](https://github.com/linuxmint/cinnamon-menus/commit/683df096bdeaf00cbbe28cf8b2681b8186bb9eb0)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
