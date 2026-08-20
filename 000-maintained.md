@@ -17,7 +17,7 @@
 
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.27.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.27.0...HEAD)
@@ -310,11 +310,37 @@
 - [ ] [<code>chore: update branch</code>](https://github.com/krille-chan/fluffychat/commit/8f6e33cd0d5e3faa62b9d61c379c7b1159c4ab6e)
 - [ ] [<code>Revert "refactor: async user device keys"</code>](https://github.com/krille-chan/fluffychat/commit/11c6ed536bedab25a1b4f7f1f354f832af4a0439)
 - [ ] [<code>build: update vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/087f7d1acd9c0c7cfafd7f9e8f8dc4f65cbb30aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Arabic)</code>](https://github.com/krille-chan/fluffychat/commit/6d4c9caf3efbf1d2a9c6a481754332ab804272a1)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dd73af2878fa6319e7353133866acd8f4f2b13d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/f077619a81c053bd2c7707dd9a13a2967f82d1c6)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2dd10c422cbbd96dfc0630a9d8d164b8c0364e30)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/2fd9d592973ddcbb8d7211bcee23afe629fa9040)
+- [ ] [<code>chore(translations): Translated using Weblate (Swedish)</code>](https://github.com/krille-chan/fluffychat/commit/985fc4cec5fe069fd1a3b8851a36846272a15052)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/7e69aac3f046bf5b141e337718f87fee4ba98666)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/14166350997546f1da64142a06e3605c11982aef)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/f5f47499dbf99deae9e676ace89dc48d8802b9ee)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/09a7148fbb130d7555a155f1c18a5d54a072b68d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/f10462d10f2e0cabc3c5aafb2fb8342b4ad91d90)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/7b25069e55f5b510a36ab22948ec76a5801e184c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/7a320ae25b0e0b7ba0e8bcfca07dbd5e1bbc84d0)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2c00de7eeb7f071b0b76794713af92ff69f04054)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d04669c2e6a431c620149e0fa9843b232dbeec5e)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/56953233de4ff1502525fafe3a5facbdf2347dad)
+- [ ] [<code>chore(translations): Translated using Weblate (Tamil)</code>](https://github.com/krille-chan/fluffychat/commit/121381ac63bca735c3a027731427a3e21ae4f61d)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/fe48121a3c99a1b9960c35f795eb44fa155fa66e)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/67c374e739492ed7f33af6bd428c6949db020c87)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/7dff6b3584baa48b4c254a3b8c1969b41ed16f83)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/08f090d88e8ee8a3a4ad593197e55377a27ee4d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b5f744b1906bc2f396531b055f6a7ef029219846)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/484870c1a1be73cee0b5defcbaafdf03a83ac95d)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/0b20fb458a17b0502d8f4f5270d41b881db5dbf1)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/81827e51e623a17fc29cb82a05e3e2b72b5b4ef5)
 - [ ] [<code>chore: follow up mark muted rooms as read</code>](https://github.com/krille-chan/fluffychat/commit/efa501274ebfb5acd2702063dc37aff79aa9d947)
 - [ ] [<code>feat: enable double tap to react by default on mobile</code>](https://github.com/krille-chan/fluffychat/commit/fb2f82add8813041d67ef219f18e0919eed50ef0)
 - [ ] [<code>feat: use foreground service when sending files</code>](https://github.com/krille-chan/fluffychat/commit/9b9a030bc10edd8dd9fcc0094560cd07c641849c)
 - [ ] [<code>build: update gradle and kotlin versions</code>](https://github.com/krille-chan/fluffychat/commit/15480b7052d0c4bb48429e375958d9b0def9c043)
 - [ ] [<code>build: (deps): bump flutter_secure_storage from 10.3.1 to 11.0.0</code>](https://github.com/krille-chan/fluffychat/commit/b958a29bcdd3bd9fc8ab48a0dd9799f783fdb48a)
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/9166cc6ae721e6efd2287f329b6476d06c5bc73f)
 - [ ] [<code>fix: center app unlock pin field</code>](https://github.com/krille-chan/fluffychat/commit/9843bd66cde050678598191783f5661409031fa0)
 - [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/39b1ebdc754550087551bd58e73857ba85265a93)
 - [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee0298083bbd912f29733c4b980451ad9a551054)
@@ -350,6 +376,46 @@
 - [ ] [<code>chore: wrap everything in zone guarded</code>](https://github.com/krille-chan/fluffychat/commit/ba427cb186eb2d1de91db7e6266c993768adb405)
 - [ ] [<code>build: (deps): bump video_player from 2.13.0 to 2.14.0</code>](https://github.com/krille-chan/fluffychat/commit/02275a3940f6c516f7bef135464e63082fcee284)
 - [ ] [<code>build: (deps): bump chewie from 1.14.1 to 1.15.0</code>](https://github.com/krille-chan/fluffychat/commit/95ab093e0eba5dd02736f8e98de853ab9e543f24)
+- [ ] [<code>chore: remove logs inside notifications and bump version</code>](https://github.com/krille-chan/fluffychat/commit/fe016c4ed63b2c8f02212b96425a5ad5dc8a76db)
+- [ ] [<code>chore: follow up mark muted rooms as read</code>](https://github.com/krille-chan/fluffychat/commit/2a5d6ef664dd623ab83c3df1e33b1a09400d2e68)
+- [ ] [<code>feat: enable double tap to react by default on mobile</code>](https://github.com/krille-chan/fluffychat/commit/ad149e0c494da26828cffb5405080bb754a0e3b7)
+- [ ] [<code>feat: use foreground service when sending files</code>](https://github.com/krille-chan/fluffychat/commit/b44f6cb05a087d146efd4199894d78d081b284b8)
+- [ ] [<code>build: update gradle and kotlin versions</code>](https://github.com/krille-chan/fluffychat/commit/d9d8d229341d6f6fe8e22dc6baeca725d40477ff)
+- [ ] [<code>build: (deps): bump flutter_secure_storage from 10.3.1 to 11.0.0</code>](https://github.com/krille-chan/fluffychat/commit/1cb8edae941e894bdc861d51701526cd2fe47ba0)
+- [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/62c53d00ce097f036500eef75016cca2d716d558)
+- [ ] [<code>fix: center app unlock pin field</code>](https://github.com/krille-chan/fluffychat/commit/79e7a59872425f046636c6c065ea5469d732d928)
+- [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/116679f8e352fa39b53b84c5d20d947b86e5c953)
+- [ ] [<code>fix: Pass context with navigator to allow setupPush to display a UnifiedPush modal</code>](https://github.com/krille-chan/fluffychat/commit/58f7fef77b75877e6dbdca6093b6f418ba662cac)
+- [ ] [<code>build: update to flutter 3.44.9</code>](https://github.com/krille-chan/fluffychat/commit/08e81e6b6dfb78ede1005db36f6ddaf836a434e8)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.2.0 to 22.3.0</code>](https://github.com/krille-chan/fluffychat/commit/c62f276d35531aade00e1130e390ef7c82f137cd)
+- [ ] [<code>chore: follow up for send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/ff7f521a22010463aca5381352e186cc2e6df029)
+- [ ] [<code>feat: display verified icon next to verified rooms and users</code>](https://github.com/krille-chan/fluffychat/commit/545cbcfb0e06acbee64cc6f312fa242f5463a1ba)
+- [ ] [<code>chore: follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/0b1760e2d14c7f8b927b01fd6c7c1998ae76d448)
+- [ ] [<code>feat: display notification icon on iOS if cached</code>](https://github.com/krille-chan/fluffychat/commit/12ef37381cf1e6dbab098328ab5ca209e9fa1307)
+- [ ] [<code>build: release 2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/e84af387979bb1a1bd4c85c77a0fd06c400b3d6e)
+- [ ] [<code>build: update to flutter 3.47</code>](https://github.com/krille-chan/fluffychat/commit/27e74d967f9357e825d1ffa73360b47ce2f2d683)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump intl from 0.20.2 to 0.20.3</code>](https://github.com/krille-chan/fluffychat/commit/81f63844e6af7954b9a37f46b54e0be90607f88b)
+- [ ] [<code>chore: follow up add missing localizations</code>](https://github.com/krille-chan/fluffychat/commit/6d703cafd157494aea3f0aa585100ee3a8ece549)
+- [ ] [<code>fix: remove transparent displayname in dm rooms</code>](https://github.com/krille-chan/fluffychat/commit/f92479b125a5f3e8a0046abf1e2324d38b1fd32e)
+- [ ] [<code>refactor: replace video compress package with light compressor</code>](https://github.com/krille-chan/fluffychat/commit/c41e3a44952b9eacd0fef8f9295d10764301ee7f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.2 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/02fbe5af9b66cb6514ef88330f8ad2b1d8c67a8a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>build: update gradle and use build in kotlin</code>](https://github.com/krille-chan/fluffychat/commit/2893bdc3602bf508207cf2e6363e01bff36a1689)
+- [ ] [<code>Revert "feat: use cronet with http3 on android"</code>](https://github.com/krille-chan/fluffychat/commit/8ddc761a1546262c2fc1c08fd88464a412dabeb6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: add changelog for 2.9.1</code>](https://github.com/krille-chan/fluffychat/commit/88afabb760a3b3aa994e2834bfca13623bf1cc49)
+- [ ] [<code>feat: add automatic crash report sharing</code>](https://github.com/krille-chan/fluffychat/commit/2c23d0c31d94b33755282ae198ead086649cf592)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.3 to 5.1.0</code>](https://github.com/krille-chan/fluffychat/commit/325345755e241cc9d3a149c932497d4fee748401)
+- [ ] [<code>build: (deps): bump go_router from 17.3.0 to 17.5.0</code>](https://github.com/krille-chan/fluffychat/commit/4d8990a950cd3dfecab452caf22649051dd9064a)
+- [ ] [<code>chore: wrap everything in zone guarded</code>](https://github.com/krille-chan/fluffychat/commit/0196b0c2039c85193e6e2ec83a4b7191128e949f)
+- [ ] [<code>feat: enable matrix native oidc by default</code>](https://github.com/krille-chan/fluffychat/commit/2686f7447f7106e5b635955fcd3d8cd83d272e41)
+- [ ] [<code>build: (deps): bump video_player from 2.13.0 to 2.14.0</code>](https://github.com/krille-chan/fluffychat/commit/50b2c0b6166e4284ae2640fdca7d2a5234803dba)
+- [ ] [<code>build: (deps): bump chewie from 1.14.1 to 1.15.0</code>](https://github.com/krille-chan/fluffychat/commit/f0ef2b772238b642af828e5de1e8cc17937b5729)
+- [ ] [<code>chore: repair ar translation</code>](https://github.com/krille-chan/fluffychat/commit/ce2eb7acb2d4447f637f45401f52168edf9abae9)
+- [ ] [<code>chore: follow up error reports</code>](https://github.com/krille-chan/fluffychat/commit/c101eb28904eeec5c05e596f3e96e9ced09644bc)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -427,11 +493,37 @@
 - [ ] [<code>chore: update branch</code>](https://github.com/krille-chan/fluffychat/commit/8f6e33cd0d5e3faa62b9d61c379c7b1159c4ab6e)
 - [ ] [<code>Revert "refactor: async user device keys"</code>](https://github.com/krille-chan/fluffychat/commit/11c6ed536bedab25a1b4f7f1f354f832af4a0439)
 - [ ] [<code>build: update vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/087f7d1acd9c0c7cfafd7f9e8f8dc4f65cbb30aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Arabic)</code>](https://github.com/krille-chan/fluffychat/commit/6d4c9caf3efbf1d2a9c6a481754332ab804272a1)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dd73af2878fa6319e7353133866acd8f4f2b13d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/f077619a81c053bd2c7707dd9a13a2967f82d1c6)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2dd10c422cbbd96dfc0630a9d8d164b8c0364e30)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/2fd9d592973ddcbb8d7211bcee23afe629fa9040)
+- [ ] [<code>chore(translations): Translated using Weblate (Swedish)</code>](https://github.com/krille-chan/fluffychat/commit/985fc4cec5fe069fd1a3b8851a36846272a15052)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/7e69aac3f046bf5b141e337718f87fee4ba98666)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/14166350997546f1da64142a06e3605c11982aef)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/f5f47499dbf99deae9e676ace89dc48d8802b9ee)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/09a7148fbb130d7555a155f1c18a5d54a072b68d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/f10462d10f2e0cabc3c5aafb2fb8342b4ad91d90)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/7b25069e55f5b510a36ab22948ec76a5801e184c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/7a320ae25b0e0b7ba0e8bcfca07dbd5e1bbc84d0)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2c00de7eeb7f071b0b76794713af92ff69f04054)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d04669c2e6a431c620149e0fa9843b232dbeec5e)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/56953233de4ff1502525fafe3a5facbdf2347dad)
+- [ ] [<code>chore(translations): Translated using Weblate (Tamil)</code>](https://github.com/krille-chan/fluffychat/commit/121381ac63bca735c3a027731427a3e21ae4f61d)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/fe48121a3c99a1b9960c35f795eb44fa155fa66e)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/67c374e739492ed7f33af6bd428c6949db020c87)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/7dff6b3584baa48b4c254a3b8c1969b41ed16f83)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/08f090d88e8ee8a3a4ad593197e55377a27ee4d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b5f744b1906bc2f396531b055f6a7ef029219846)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/484870c1a1be73cee0b5defcbaafdf03a83ac95d)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/0b20fb458a17b0502d8f4f5270d41b881db5dbf1)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/81827e51e623a17fc29cb82a05e3e2b72b5b4ef5)
 - [ ] [<code>chore: follow up mark muted rooms as read</code>](https://github.com/krille-chan/fluffychat/commit/efa501274ebfb5acd2702063dc37aff79aa9d947)
 - [ ] [<code>feat: enable double tap to react by default on mobile</code>](https://github.com/krille-chan/fluffychat/commit/fb2f82add8813041d67ef219f18e0919eed50ef0)
 - [ ] [<code>feat: use foreground service when sending files</code>](https://github.com/krille-chan/fluffychat/commit/9b9a030bc10edd8dd9fcc0094560cd07c641849c)
 - [ ] [<code>build: update gradle and kotlin versions</code>](https://github.com/krille-chan/fluffychat/commit/15480b7052d0c4bb48429e375958d9b0def9c043)
 - [ ] [<code>build: (deps): bump flutter_secure_storage from 10.3.1 to 11.0.0</code>](https://github.com/krille-chan/fluffychat/commit/b958a29bcdd3bd9fc8ab48a0dd9799f783fdb48a)
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/9166cc6ae721e6efd2287f329b6476d06c5bc73f)
 - [ ] [<code>fix: center app unlock pin field</code>](https://github.com/krille-chan/fluffychat/commit/9843bd66cde050678598191783f5661409031fa0)
 - [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/39b1ebdc754550087551bd58e73857ba85265a93)
 - [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee0298083bbd912f29733c4b980451ad9a551054)
@@ -467,6 +559,46 @@
 - [ ] [<code>chore: wrap everything in zone guarded</code>](https://github.com/krille-chan/fluffychat/commit/ba427cb186eb2d1de91db7e6266c993768adb405)
 - [ ] [<code>build: (deps): bump video_player from 2.13.0 to 2.14.0</code>](https://github.com/krille-chan/fluffychat/commit/02275a3940f6c516f7bef135464e63082fcee284)
 - [ ] [<code>build: (deps): bump chewie from 1.14.1 to 1.15.0</code>](https://github.com/krille-chan/fluffychat/commit/95ab093e0eba5dd02736f8e98de853ab9e543f24)
+- [ ] [<code>chore: remove logs inside notifications and bump version</code>](https://github.com/krille-chan/fluffychat/commit/fe016c4ed63b2c8f02212b96425a5ad5dc8a76db)
+- [ ] [<code>chore: follow up mark muted rooms as read</code>](https://github.com/krille-chan/fluffychat/commit/2a5d6ef664dd623ab83c3df1e33b1a09400d2e68)
+- [ ] [<code>feat: enable double tap to react by default on mobile</code>](https://github.com/krille-chan/fluffychat/commit/ad149e0c494da26828cffb5405080bb754a0e3b7)
+- [ ] [<code>feat: use foreground service when sending files</code>](https://github.com/krille-chan/fluffychat/commit/b44f6cb05a087d146efd4199894d78d081b284b8)
+- [ ] [<code>build: update gradle and kotlin versions</code>](https://github.com/krille-chan/fluffychat/commit/d9d8d229341d6f6fe8e22dc6baeca725d40477ff)
+- [ ] [<code>build: (deps): bump flutter_secure_storage from 10.3.1 to 11.0.0</code>](https://github.com/krille-chan/fluffychat/commit/1cb8edae941e894bdc861d51701526cd2fe47ba0)
+- [ ] [<code>build: (deps): bump dynamic_color from 1.8.1 to 1.9.0</code>](https://github.com/krille-chan/fluffychat/commit/62c53d00ce097f036500eef75016cca2d716d558)
+- [ ] [<code>fix: center app unlock pin field</code>](https://github.com/krille-chan/fluffychat/commit/79e7a59872425f046636c6c065ea5469d732d928)
+- [ ] [<code>build: update to matrix sdk 10.0.1</code>](https://github.com/krille-chan/fluffychat/commit/116679f8e352fa39b53b84c5d20d947b86e5c953)
+- [ ] [<code>fix: Pass context with navigator to allow setupPush to display a UnifiedPush modal</code>](https://github.com/krille-chan/fluffychat/commit/58f7fef77b75877e6dbdca6093b6f418ba662cac)
+- [ ] [<code>build: update to flutter 3.44.9</code>](https://github.com/krille-chan/fluffychat/commit/08e81e6b6dfb78ede1005db36f6ddaf836a434e8)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.2.0 to 22.3.0</code>](https://github.com/krille-chan/fluffychat/commit/c62f276d35531aade00e1130e390ef7c82f137cd)
+- [ ] [<code>chore: follow up for send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/ff7f521a22010463aca5381352e186cc2e6df029)
+- [ ] [<code>feat: display verified icon next to verified rooms and users</code>](https://github.com/krille-chan/fluffychat/commit/545cbcfb0e06acbee64cc6f312fa242f5463a1ba)
+- [ ] [<code>chore: follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/0b1760e2d14c7f8b927b01fd6c7c1998ae76d448)
+- [ ] [<code>feat: display notification icon on iOS if cached</code>](https://github.com/krille-chan/fluffychat/commit/12ef37381cf1e6dbab098328ab5ca209e9fa1307)
+- [ ] [<code>build: release 2.9.0</code>](https://github.com/krille-chan/fluffychat/commit/e84af387979bb1a1bd4c85c77a0fd06c400b3d6e)
+- [ ] [<code>build: update to flutter 3.47</code>](https://github.com/krille-chan/fluffychat/commit/27e74d967f9357e825d1ffa73360b47ce2f2d683)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump intl from 0.20.2 to 0.20.3</code>](https://github.com/krille-chan/fluffychat/commit/81f63844e6af7954b9a37f46b54e0be90607f88b)
+- [ ] [<code>chore: follow up add missing localizations</code>](https://github.com/krille-chan/fluffychat/commit/6d703cafd157494aea3f0aa585100ee3a8ece549)
+- [ ] [<code>fix: remove transparent displayname in dm rooms</code>](https://github.com/krille-chan/fluffychat/commit/f92479b125a5f3e8a0046abf1e2324d38b1fd32e)
+- [ ] [<code>refactor: replace video compress package with light compressor</code>](https://github.com/krille-chan/fluffychat/commit/c41e3a44952b9eacd0fef8f9295d10764301ee7f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.5.2 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/02fbe5af9b66cb6514ef88330f8ad2b1d8c67a8a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>build: update gradle and use build in kotlin</code>](https://github.com/krille-chan/fluffychat/commit/2893bdc3602bf508207cf2e6363e01bff36a1689)
+- [ ] [<code>Revert "feat: use cronet with http3 on android"</code>](https://github.com/krille-chan/fluffychat/commit/8ddc761a1546262c2fc1c08fd88464a412dabeb6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: add changelog for 2.9.1</code>](https://github.com/krille-chan/fluffychat/commit/88afabb760a3b3aa994e2834bfca13623bf1cc49)
+- [ ] [<code>feat: add automatic crash report sharing</code>](https://github.com/krille-chan/fluffychat/commit/2c23d0c31d94b33755282ae198ead086649cf592)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.3 to 5.1.0</code>](https://github.com/krille-chan/fluffychat/commit/325345755e241cc9d3a149c932497d4fee748401)
+- [ ] [<code>build: (deps): bump go_router from 17.3.0 to 17.5.0</code>](https://github.com/krille-chan/fluffychat/commit/4d8990a950cd3dfecab452caf22649051dd9064a)
+- [ ] [<code>chore: wrap everything in zone guarded</code>](https://github.com/krille-chan/fluffychat/commit/0196b0c2039c85193e6e2ec83a4b7191128e949f)
+- [ ] [<code>feat: enable matrix native oidc by default</code>](https://github.com/krille-chan/fluffychat/commit/2686f7447f7106e5b635955fcd3d8cd83d272e41)
+- [ ] [<code>build: (deps): bump video_player from 2.13.0 to 2.14.0</code>](https://github.com/krille-chan/fluffychat/commit/50b2c0b6166e4284ae2640fdca7d2a5234803dba)
+- [ ] [<code>build: (deps): bump chewie from 1.14.1 to 1.15.0</code>](https://github.com/krille-chan/fluffychat/commit/f0ef2b772238b642af828e5de1e8cc17937b5729)
+- [ ] [<code>chore: repair ar translation</code>](https://github.com/krille-chan/fluffychat/commit/ce2eb7acb2d4447f637f45401f52168edf9abae9)
+- [ ] [<code>chore: follow up error reports</code>](https://github.com/krille-chan/fluffychat/commit/c101eb28904eeec5c05e596f3e96e9ced09644bc)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -863,6 +995,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix claim on Microsoft (#23547)</code>](https://github.com/netdata/netdata.git/commit/c2626d3830751cf5f03deefbe40862900dfd2ee0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.11.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/2d3893a9f5436743a7db7cf6ec122700cdf0b532)
+- [ ] [<code>feat(health): index alerts by name for faster variable lookups (#23554)</code>](https://github.com/netdata/netdata.git/commit/8e6543f6ce2c9eb01cf2d71d9828f6faf3628ac5)
+- [ ] [<code>fix(go.d/snmp): make IPv4 interface facts baseline topology data (#23557)</code>](https://github.com/netdata/netdata.git/commit/82f570b07cd0281f6f1c88afc9499b2ab08856a5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#23556)</code>](https://github.com/netdata/netdata.git/commit/d0677fe0ea940ed6de1c1ce5e061fb0554c8d688)
+- [ ] [<code>fix(go.d/snmp_topology): enable UniFi topology profiles (#23561)</code>](https://github.com/netdata/netdata.git/commit/351c491df186cb38d338d027ab54ec9ade872a30)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -3152,8 +3289,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(bench): drop hybrid from the QDC bench matrix</code>](https://github.com/qualcomm/GenieX/commit/e951097bc3273496f65b7187e7dc316af126c543)
 - [ ] [<code>feat(sdk): inject tools into the QAIRT VLM chat template</code>](https://github.com/qualcomm/GenieX/commit/45e901c557224de02d73237328728d21c1031a1f)
 - [ ] [<code>test(qdc): skip test_mtp_multi_turn on QCS9075M</code>](https://github.com/qualcomm/GenieX/commit/b5522a4a383a2b6d8f4e7d072fdf4d2a2f74b865)
+- [ ] [<code>feat(cli): add --device override for llama_cpp device list</code>](https://github.com/qualcomm/GenieX/commit/78e3d1afa7ff5c3b6cb514cd569ca8a27de2cded)
 - [ ] [<code>Merge pull request #1360 from qualcomm/feat/qairt-vlm-tool-calls</code>](https://github.com/qualcomm/GenieX/commit/d9c6f89509ebd379f9ca7e68cae5e1a0f38cc394)
   - <sub>Tags: <code>v0.4.1-alpha.2</code></sub>
+- [ ] [<code>feat(sdk): accept an explicit device list as a compute unit</code>](https://github.com/qualcomm/GenieX/commit/841e339a52d50f68dba67fa56e6fd6685530c3ba)
+- [ ] [<code>feat(go): mention device lists in the invalid-compute error</code>](https://github.com/qualcomm/GenieX/commit/379192aa3a34e23d2903d8989443004cea1251f3)
+- [ ] [<code>fix(sdk): reuse VLM KV via char-level prefix match</code>](https://github.com/qualcomm/GenieX/commit/2ed35bd809e9175260454d3dcf0ce8d66e072c7a)
+- [ ] [<code>test(python): disable thinking in llm quality keyword cells</code>](https://github.com/qualcomm/GenieX/commit/a437edc8f8c0918aa9547f8523a8da5976638100)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -28060,6 +28202,137 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor: share media and process runtime helpers (#126490)</code>](https://github.com/openclaw/openclaw/commit/8b15dc944702827a818bfd741f431690f0266978)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(outbound): preserve first-reply behavior through durable delivery (#126205)</code>](https://github.com/openclaw/openclaw/commit/c6ecfd26e5f4ccaa0386f08d4a891a5674577817)
+- [ ] [<code>fix(agents): stop after terminal dynamic tool results (#126208)</code>](https://github.com/openclaw/openclaw/commit/41009e765c2202b67241826519d20abbf36cc3cd)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(telegram): preserve direct-message topic routing (#126207)</code>](https://github.com/openclaw/openclaw/commit/af3b86091f4bdc564c2df005259239c09cbc3e4f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(discord): route polls through canonical delivery (#126250)</code>](https://github.com/openclaw/openclaw/commit/0961247d9435909ae396094666e389caaf652880)
+- [ ] [<code>fix(acp): close unhealthy runtime handles (#126494)</code>](https://github.com/openclaw/openclaw/commit/3201a9f1db2e4cf66b1d40a978b1f31978a93783)
+- [ ] [<code>fix(process): keep signal forwarding through child errors (#126493)</code>](https://github.com/openclaw/openclaw/commit/3bfc9bc80451fa53c2628d4e552bdb9e10a8b209)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(cli): honor inherited tasks options (#117528)</code>](https://github.com/openclaw/openclaw/commit/bfc6bd3da5e4cd7f030b1919b7e637af5b1d03cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(llama-cpp): make endpoint auth transitions reproducible (#126498)</code>](https://github.com/openclaw/openclaw/commit/4118f31d8949909049fafb72ab1da6c6967c194c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(package): bound installed worker artifact parsing (#126491)</code>](https://github.com/openclaw/openclaw/commit/53fb8220cee8988885022fc1901e82347cd87c71)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(agents): consolidate ambient owner resolution (#126504)</code>](https://github.com/openclaw/openclaw/commit/19316660e41878a8050b86b4459180abc35b92cc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(skills): keep workshop revisions atomic (#126485)</code>](https://github.com/openclaw/openclaw/commit/e00154238832458cde0b436d5584057a97175e05)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): preserve dashboard side-panel selection (#126511)</code>](https://github.com/openclaw/openclaw/commit/6eb9344e7df680e668152c39054bab450437107d)
+- [ ] [<code>fix(telegram): finalize streamed questions in place (#126248)</code>](https://github.com/openclaw/openclaw/commit/53bd3165539af77d5b9ff617792d5fe9970880be)
+- [ ] [<code>fix(memory): honor turn tool policy during automatic recall (#126482)</code>](https://github.com/openclaw/openclaw/commit/29cfd195d19d8d6b0dab41f80f540bfc4a562872)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(cli): make multi-agent operations agent-owned (#123871)</code>](https://github.com/openclaw/openclaw/commit/eed64163b629600d7de248dc2589380e3ab0b4ee)
+- [ ] [<code>fix(memory): distinguish missing file reads (#125979)</code>](https://github.com/openclaw/openclaw/commit/35e0bc22ead2148f34b97944f88416810c9d70d7)
+- [ ] [<code>fix: group agent imports in onboarding</code>](https://github.com/openclaw/openclaw/commit/32223ac5367d790472e386c6a18be22f6236f835)
+- [ ] [<code>fix: allow backing out of agent imports (#126515)</code>](https://github.com/openclaw/openclaw/commit/441f0a3388bacb75ba337b4b4c663dd6d9e58b94)
+- [ ] [<code>fix(ui): balance completed-work spacing (#126303)</code>](https://github.com/openclaw/openclaw/commit/916eef4e996008d387207c53044afd8cf02dcc30)
+- [ ] [<code>fix(auto-reply): restore ambient room event silence (#126527)</code>](https://github.com/openclaw/openclaw/commit/ade0fb2189f5ff67c1a3cb367f6c51a09e441383)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): preserve requested corpus outcomes (#126530)</code>](https://github.com/openclaw/openclaw/commit/3fe833dfa4084ad79d4545093f39f192c2108317)
+- [ ] [<code>fix(cli): allow agent selection for direct inference (#125143)</code>](https://github.com/openclaw/openclaw/commit/641ccba793bce2a85cb823b1bceba45742cea54e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve: one alert surface, explained by Ask OpenClaw (#126155)</code>](https://github.com/openclaw/openclaw/commit/70b6f44f13e5a4c0c860e5412b9b5c3bb2272b1d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): stabilize settings and update recovery E2E (#126538)</code>](https://github.com/openclaw/openclaw/commit/f289685bf311d32205a92bb762c10775c30d64ed)
+- [ ] [<code>docs(gateway): recommend Access service tokens over route exemption (#126536)</code>](https://github.com/openclaw/openclaw/commit/29f86119e0c3794edacb133632c6933211ea1f31)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve GPT-5.6 Max and Ultra through Codex (#126492)</code>](https://github.com/openclaw/openclaw/commit/efc33f882e9bb7aea950651e7445f39017149d82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(models): preserve Codex selection for catalog-seeded models (#126531)</code>](https://github.com/openclaw/openclaw/commit/9441e3fe6e556379875731706151cb7759745bed)
+- [ ] [<code>fix(gateway): defer restored subagent recovery until ready (#126523)</code>](https://github.com/openclaw/openclaw/commit/4b55192f818c0bfd00cd2bb2d9447fd38dca7e39)
+- [ ] [<code>fix(memory): detect offline source drift in status (#126535)</code>](https://github.com/openclaw/openclaw/commit/6a637469a09b4e20637fb2056ba56bc9e154301e)
+- [ ] [<code>fix: New Session stays on Models unavailable after a missing catalog owner (#125450)</code>](https://github.com/openclaw/openclaw/commit/33744584f38f41699918220f69ffb8e37b7c5ecd)
+- [ ] [<code>fix(ui): give embedded settings sections the shared section rhythm (#126541)</code>](https://github.com/openclaw/openclaw/commit/0a8226c3db521cf9141a0c23ef43cbeadb568060)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): gate gateway RPC polling on the hello method catalog (#126540)</code>](https://github.com/openclaw/openclaw/commit/1bf3e4e9b87de2c035ab7c91a9b655cdf87fecb1)
+- [ ] [<code>fix(models): keep Claude CLI OAuth available in Control UI (#125471)</code>](https://github.com/openclaw/openclaw/commit/f61267528407d60bfd2d2ad54f7fb6ca8157c0ad)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(sessions): scope legacy-main owner notice to real legacy rows (#126551)</code>](https://github.com/openclaw/openclaw/commit/a947730c6645f71c4b45d754e7fcc219f4643b28)
+- [ ] [<code>fix(gateway): release channel startup gate before handoff (#126555)</code>](https://github.com/openclaw/openclaw/commit/bf03acef3932ad19e76ad7bb64a6edc5fe487d97)
+- [ ] [<code>fix(qa): isolate character eval artifacts (#126558)</code>](https://github.com/openclaw/openclaw/commit/dc59703a1614cfd2446946942370694909736066)
+- [ ] [<code>test(gateway): resolve mocked implementations without factory timing</code>](https://github.com/openclaw/openclaw/commit/e294c154a6c7aace5ded3425587f191f13ce3e29)
+- [ ] [<code>fix(crabbox): keep worker wallpaper in XFCE session (#126560)</code>](https://github.com/openclaw/openclaw/commit/c15f31df4942f2d70359f7bbc73d69f2c7618c0c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(openai): unify ChatGPT auth identity derivation in plugin SDK (#126544)</code>](https://github.com/openclaw/openclaw/commit/1b6c42d1f0efb870de27383cdf5fd0a0f6302994)
+- [ ] [<code>perf(test): fake TUI auth child timers (#126563)</code>](https://github.com/openclaw/openclaw/commit/c3051d453cc373dcdf3e96a50c497d8b3cb750f0)
+- [ ] [<code>ci: refit hybrid compact hints from measured Blacksmith runs</code>](https://github.com/openclaw/openclaw/commit/9cf5859d57fa5021f9ae1aa8b195b843142cf0d0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(ui): contain narrated tool details (#126348)</code>](https://github.com/openclaw/openclaw/commit/689ab6ec82b638f282c98f25599a4919e7e86da5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(onboard): report requested daemon install failure regardless of --skip-health (#122845)</code>](https://github.com/openclaw/openclaw/commit/a6a8f74ac3a3021b90d32c74d43ecc4e94e76e58)
+- [ ] [<code>test(gateway): give module-mocking Gateway tests a private module graph</code>](https://github.com/openclaw/openclaw/commit/49cd6009cc08fa4fcca7017607699dc01af1a0b1)
+- [ ] [<code>fix(ui): prioritize active session quota provider (#120557) (#122053)</code>](https://github.com/openclaw/openclaw/commit/2a79f747019c2b64888e4cfce477ff5790fc5b41)
+- [ ] [<code>fix(memory): keep tool guidance aligned with sources (#126552)</code>](https://github.com/openclaw/openclaw/commit/16bec3c7272887531b27137435738a3de4f8de90)
+- [ ] [<code>fix(lmstudio): expose read-only reachability probe for guided setup (#119134)</code>](https://github.com/openclaw/openclaw/commit/a19d9247979539337f7a60b6fcb48eee4ea270e3)
+- [ ] [<code>fix(memory): reject unknown --agent ids and keep the hint runnable (#126570)</code>](https://github.com/openclaw/openclaw/commit/75fcb1fbb9aa84017e0ce4103ee95465c8fb74a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(onboard): keep OpenRouter API keys with their provider (#126578)</code>](https://github.com/openclaw/openclaw/commit/921e9450133e78a9752692a5fb72ab4b12adf79c)
+- [ ] [<code>fix(onboard): keep token suppression in guided setup (#126580)</code>](https://github.com/openclaw/openclaw/commit/83c0f8117374a6e0a8e79070094ecc12ad0a1fb3)
+- [ ] [<code>refactor(sessions): remove thinking selection provenance (#126561)</code>](https://github.com/openclaw/openclaw/commit/966c233dcc5ce7c419b43250005cc0b6f578b201)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auth): keep a retired auth JSON from stranding a migrated store (#126562)</code>](https://github.com/openclaw/openclaw/commit/147edf47f37dc417c6abc3a02d5dc8ee08c2b2ae)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(test): gate lazy recovery proof capture (#126583)</code>](https://github.com/openclaw/openclaw/commit/828f1fa851f276084347b88e480a8829ddea4f79)
+- [ ] [<code>fix(replies): settle pre-aborted delivery immediately (#126582)</code>](https://github.com/openclaw/openclaw/commit/4d6c40ae302418959f373e53a5912bf8c8d37906)
+- [ ] [<code>fix(ui): read-only Agents identity editor stays stuck on Saving (#126568)</code>](https://github.com/openclaw/openclaw/commit/531fc9b36587367a512818c4c540382ef9da6e16)
+- [ ] [<code>fix(agents): reject unusable explicit spawn models (#125931)</code>](https://github.com/openclaw/openclaw/commit/366dbebd98ac35de6fe4a101c8ac80fb085d8a42)
+- [ ] [<code>fix(agents): continue oversized read lines (#126587)</code>](https://github.com/openclaw/openclaw/commit/5066bd782e656837a0a0a91969a47109b8469451)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): keep empty session groups compact (#126565)</code>](https://github.com/openclaw/openclaw/commit/764622342c57fd831ba182055e13f96702a6803b)
+- [ ] [<code>fix(sessions): preserve conversation preferences on reset (#126575)</code>](https://github.com/openclaw/openclaw/commit/4fd208fc6064563815e10a53648728a7c98bd684)
+- [ ] [<code>fix(macos): surface concrete Gateway start failure reason in onboarding (#121306)</code>](https://github.com/openclaw/openclaw/commit/b886eed3de8d7c6b1cc57188b9a0a70047705e9f)
+- [ ] [<code>refactor(agents): replace tool-failure warning heuristics with a two-rule policy (#126542)</code>](https://github.com/openclaw/openclaw/commit/980b07f4a2908b007254ac3b5b9902efa412850a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(package): clean dist before root packaging (#126577)</code>](https://github.com/openclaw/openclaw/commit/ab7fc490d68bdd0dc89199ddc0898e590070e13d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): refresh approval history when decisions resolve (#126579)</code>](https://github.com/openclaw/openclaw/commit/83978aec63a9adb30aa520566f3b0009f561bd04)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(mcp): repair channel lifecycle ownership (#126592)</code>](https://github.com/openclaw/openclaw/commit/10e707435ae673c338995f65f512f11b9043569a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(unit-fast): isolate computer-tool.test-helpers consumers (#125167)</code>](https://github.com/openclaw/openclaw/commit/a29d8c880330d3689dc4faf4859fb7e091b75e84)
+- [ ] [<code>perf(test): inject QA evidence command runner (#126596)</code>](https://github.com/openclaw/openclaw/commit/7f68741cdd9bbcacf73e78ad307597dc66446480)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): make formatNextRun weekday assertion locale-portable (#125164)</code>](https://github.com/openclaw/openclaw/commit/bd6802ffb65d516d6f5f1d87502ad286540684c9)
+- [ ] [<code>improve(ui): refine chat widget host and image actions (#125250)</code>](https://github.com/openclaw/openclaw/commit/68ae235318c01aeea6e62c793d3f79b9662b86ae)
+- [ ] [<code>fix: prevent incompatible cloud runtime dispatches (#126585)</code>](https://github.com/openclaw/openclaw/commit/1d2986b06fbe5d85bab5fda799abb880d28f3827)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(release): accept trusted Codex scan layouts (#126588)</code>](https://github.com/openclaw/openclaw/commit/45ed68e6ea62abd115d91481d31803e11269bd88)
+  - <sub>Tags: <code>release-publish/45ed68e6ea62-1787220256</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): fall back from tool search code under Electron (#122037)</code>](https://github.com/openclaw/openclaw/commit/607eb2efbf499196a7f07d8d63e5a234ed9e512f)
+- [ ] [<code>fix(cli): clarify cron channel plugin ids (#124655)</code>](https://github.com/openclaw/openclaw/commit/bb134fef12465a275e941a6b513a9125e8275176)
+- [ ] [<code>fix(agents): stop apply_patch end-of-file hunks from destroying earlier hunk lines (#124379)</code>](https://github.com/openclaw/openclaw/commit/c1aa335c4bcefae0447e5e409d948fb3c7e336a7)
+- [ ] [<code>fix(embedded-runner): flush partial streaming output before run budget abort (#116253)</code>](https://github.com/openclaw/openclaw/commit/69d30286eb5206fdef52007dc46b99c3e1fcaf9e)
+- [ ] [<code>fix(diffs): guard malformed tool arguments (#123087)</code>](https://github.com/openclaw/openclaw/commit/a509f07b65e6b94ae58576eea996c8d17699c52a)
+- [ ] [<code>fix(plugins): keep default slots implicit (#126442)</code>](https://github.com/openclaw/openclaw/commit/3b6fc03e022fa6bccab6b03054fe0662d7590f76)
+- [ ] [<code>fix(browser): resolve chrome-extension bundled dir from built package layout (#126279)</code>](https://github.com/openclaw/openclaw/commit/a2fe7c395d90a01801655822b59583fc2d6d53e2)
+- [ ] [<code>fix(gateway): prevent enrolled node recovery from blocking startup (#126601)</code>](https://github.com/openclaw/openclaw/commit/71cff695c1fe182d8acda7bd5739a7f38ff467c9)
+- [ ] [<code>fix(gateway): stop permanent protocol retry loops (#126600)</code>](https://github.com/openclaw/openclaw/commit/58f4c9a0a8cdb7328cebdc0b14baa39c757c2998)
+- [ ] [<code>fix(agents): preserve terminal tool completion (#126603)</code>](https://github.com/openclaw/openclaw/commit/c55d9b6d207be427eb878e3d257ae3c2db6ae836)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(nodes): preserve node inventory failures (#126609)</code>](https://github.com/openclaw/openclaw/commit/015913306f82195ec395ab5a5ead832c89fe277d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(gateway): isolate restart sentinel media mocks (#126606)</code>](https://github.com/openclaw/openclaw/commit/2c435f734f1684eb2640b5b09b75fefe206ad1c8)
+- [ ] [<code>fix(ui): keep sidebar chat rows separated during resize (#126610)</code>](https://github.com/openclaw/openclaw/commit/2ebe24e9b258fb946fc5af5443a88da248ab92a4)
+- [ ] [<code>fix(models): classify catalog timeouts by identity (#124288)</code>](https://github.com/openclaw/openclaw/commit/b668a21f07079f6212db68568edba1af5fd46c7f)
+- [ ] [<code>docs(plugins): show root CLI commands (#126621)</code>](https://github.com/openclaw/openclaw/commit/6932897bf9d0a9668b3ecd6ea63b0aecdf9d19da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): wait for outbox readiness in macOS test (#126617)</code>](https://github.com/openclaw/openclaw/commit/54dad919ae6f84bf6245b0421076c2dcf2316dd6)
+- [ ] [<code>fix(gateway): preserve agent owner for live events (#126608)</code>](https://github.com/openclaw/openclaw/commit/6d70d051a4c215726e8542847f4c9f40c9f41f57)
+- [ ] [<code>fix: spawned child prompt omits staged attachment file paths (#123676)</code>](https://github.com/openclaw/openclaw/commit/975228306010f14b0517539f4fe818ac398d35ea)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>perf(test): route TUI PTY tests exclusively (#126624)</code>](https://github.com/openclaw/openclaw/commit/594d6d6e4d23d028610a0cbcfafa1780b7a87b9b)
+- [ ] [<code>fix(release): remove stale plugin scan findings (#126632)</code>](https://github.com/openclaw/openclaw/commit/05c31c296ca7b4620b5ea37afb7afa5fe3d32838)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): keep shell compound commands readable (#122581)</code>](https://github.com/openclaw/openclaw/commit/a9ddc2fb1d940c4ac5a0ecba4f978bb8dd17a81b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): own plugin reload generations (#126627)</code>](https://github.com/openclaw/openclaw/commit/f20c6dacc34fcc91cfee85a6e2f0d63084fa9a15)
+- [ ] [<code>fix(telegram): recognize current-source message targets (#126625)</code>](https://github.com/openclaw/openclaw/commit/08d926d3a5b359f0771b04d56bbdb6dc695d3791)
+- [ ] [<code>fix(agents): run code-mode exec when a model sends a blank code alias (#126599)</code>](https://github.com/openclaw/openclaw/commit/bbee5467bcb9fa3807ce854c5d20bcfb98fdabcf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
