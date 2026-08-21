@@ -438,6 +438,11 @@
   - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>overview.js: Hide global.window_group when visible, update a comment.</code>](https://github.com/linuxmint/cinnamon/commit/7334d060683fcd0340412ce3f7bd0ec78963d179)
+- [ ] [<code>Adapt to muffin's new allocation and resource scale API</code>](https://github.com/linuxmint/cinnamon/commit/629cdb9ac5a6e66cb58d78d2a6a12ddc845a47b8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>resource-scale/allocataion: More updates for the new allocation and</code>](https://github.com/linuxmint/cinnamon/commit/4d16965a5a5e94cd57a7cb0f81ccb358ba05e2dc)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -821,9 +826,20 @@
 - [ ] [<code>[Wayland] Switch to stable linux-dmabuf (#840)</code>](https://github.com/linuxmint/muffin/commit/167e852cbc31da646c594db16e06e176c880e5a0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/muffin/commit/7d82fcc65ca692ee96dbdad83258a23ac0553c17)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Cleanup and refactor resource scale API (#793)</code>](https://github.com/linuxmint/muffin/commit/4729081ccef8b29bec46b90d96abeb21f3d9c75b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>wayland: represent layer-shell surfaces as MetaWindows</code>](https://github.com/linuxmint/muffin/commit/2ad1a538a9711d7bb8aeb3a07b138061e35e0348)
+- [ ] [<code>meta-wayland-outputs.c: Send global_remove immediately when a monitor</code>](https://github.com/linuxmint/muffin/commit/6de18a197c77207aeb7db14236a2c7342ebdde37)
+- [ ] [<code>meta-wayland-layer-shell.c: Fix MetaFeedbackActor scaling with hidpi.</code>](https://github.com/linuxmint/muffin/commit/3fab3bb090464725e29ca387da4a093d7c831b9e)
+- [ ] [<code>clutter-actor.c: Clear all stage views before emitting</code>](https://github.com/linuxmint/muffin/commit/b4761418994fbd6f8ce4e332ce2ea26e9a486859)
+- [ ] [<code>clutter-text.c: multiply existing pango scale attributes by the</code>](https://github.com/linuxmint/muffin/commit/7de7e66d8adbf5fb7de52ab1d523b1b87acb42d8)
+- [ ] [<code>clutter-actor.c: Show on all stage views when an actor has no</code>](https://github.com/linuxmint/muffin/commit/5e2a3fdf23559ca230b201732a8e93fba5ce8934)
+- [ ] [<code>meta-cursor-renderer-native.c: Raise fallback cursor threshold.</code>](https://github.com/linuxmint/muffin/commit/eadbebd70c957e4bc00c4d751eb90edc4442c6f5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
