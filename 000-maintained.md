@@ -233,6 +233,8 @@
 - [ ] [<code>chore: update flutter and yaru (#397)</code>](https://github.com/canonical/firmware-updater/commit/8cf88d4b889e4634a17386cadf5c91a2c826f8be)
 - [ ] [<code>fix: follow redirects in fvm install script</code>](https://github.com/canonical/firmware-updater/commit/9ac6a447cb1ac16e5404b92afc41ce66589b50af)
 - [ ] [<code>chore: fix fvm install script (#401)</code>](https://github.com/canonical/firmware-updater/commit/e2c133294bbec03f9f15374115f282d277e82c90)
+- [ ] [<code>application: Use a transparent background as view bg color</code>](https://github.com/canonical/firmware-updater/commit/47ab5d12628a5ef4d3785fe3cc2ef7d4e62301d6)
+- [ ] [<code>application: Use a transparent background as view bg color (#403)</code>](https://github.com/canonical/firmware-updater/commit/7ae205f48f408926d69bd977c40a9bbcb5df12e1)
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -1019,6 +1021,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Regenerate integrations docs (#23563)</code>](https://github.com/netdata/netdata.git/commit/c514962672c78a43a1eb2446436276f540bc3540)
 - [ ] [<code>fix(go.d/snmp): honor scalar fallback order (#23565)</code>](https://github.com/netdata/netdata.git/commit/a5b3db27298fad13c5432bcf3c8c536d59dde5ab)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/sts from 1.45.5 to 1.45.6 in /src/go (#23570)</code>](https://github.com/netdata/netdata.git/commit/3909f08af237c9d0c7e4f98024f4bf7f56ac8b55)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi from 1.36.0 to 1.36.1 in /src/go (#23567)</code>](https://github.com/netdata/netdata.git/commit/9fde2cabbd037f49b235a5c6ad85cbff11f0fe78)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.36 to 1.32.37 in /src/go (#23575)</code>](https://github.com/netdata/netdata.git/commit/f5bc4f6c0b26a1cc66240912e83f63da0178ee79)
+- [ ] [<code>build(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.1 in /src/go (#23574)</code>](https://github.com/netdata/netdata.git/commit/c0e650df06e9a7810afdd1f31ea942e5a2e41f39)
+- [ ] [<code>build(deps): bump github.com/aws/aws-sdk-go-v2/service/cloudwatch from 1.66.4 to 1.66.5 in /src/go (#23571)</code>](https://github.com/netdata/netdata.git/commit/3f1b7312c5b2da9e98470ddb78ec74cac95dc1f0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.11.0-75-nightly.</code>](https://github.com/netdata/netdata.git/commit/96f5c79df6f821cf9312a1299a3593776fbdf94f)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -28529,6 +28537,49 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix(discord): demote expected command truncation logs (#126824)</code>](https://github.com/openclaw/openclaw/commit/a4178c7eb15a0dd2b8b44804348e256f1a109a34)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): fence stale config-scoped loader failures (#126829)</code>](https://github.com/openclaw/openclaw/commit/ea77d4c7083c86498b977ca31136c75ca1e6ff65)
+- [ ] [<code>fix(plugin-state): bound expired row cleanup (#126827)</code>](https://github.com/openclaw/openclaw/commit/6b3f7272dc9c467d604f9da124e60132608eb0a5)
+- [ ] [<code>fix(ui): retire stale tools and skills after reconnects (#126826)</code>](https://github.com/openclaw/openclaw/commit/96cb0b9b49c14ea803283635a504a1a756452b18)
+- [ ] [<code>fix(gateway): honor local port for usage and stability queries (#126832)</code>](https://github.com/openclaw/openclaw/commit/21bab3a8ac395e00abc260e4d62a7cb6083b08d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(sandbox): canonicalize backend ownership (#126828)</code>](https://github.com/openclaw/openclaw/commit/1362490b804efe497be34a17e88f47ec9fa1b9c4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): message send cannot address channels from npm-installed plugins (#126700)</code>](https://github.com/openclaw/openclaw/commit/4c52d3fe9df3c5463876107e38c87b85ea64607c)
+- [ ] [<code>fix(web-fetch): extract readable content from XHTML pages (#126835)</code>](https://github.com/openclaw/openclaw/commit/cd5002610dea097989d84f8b6c6fdf9cd675c34d)
+- [ ] [<code>fix(workers): preserve results after scratch cleanup (#126849)</code>](https://github.com/openclaw/openclaw/commit/1d3d65e9246acff1757543552323919abb43a380)
+- [ ] [<code>fix(auth): create a fresh install with canonical shared-auth ownership (#126783)</code>](https://github.com/openclaw/openclaw/commit/a8a9f284fb91af6a9d78fe66f9141eb01e009b21)
+- [ ] [<code>fix(web-fetch): honor Unicode BOM before HTTP charset (#126854)</code>](https://github.com/openclaw/openclaw/commit/d00cbd1593f6642a1a072adc289d23019b76ba16)
+- [ ] [<code>fix(matrix): recover after late leases drain (#126712)</code>](https://github.com/openclaw/openclaw/commit/784a2287815c3de9802cfbed492ba071a22cca10)
+- [ ] [<code>feat(slack): add compact commentary progress (#126480)</code>](https://github.com/openclaw/openclaw/commit/67bcea131e02883577c8804785bd253d63ed66e4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): own post-ready drain cancellation (#126855)</code>](https://github.com/openclaw/openclaw/commit/6086ccb85bda5bc508dd49c6be0c986f4bea35c4)
+- [ ] [<code>fix(firecrawl): prevent canceled requests from caching late results (#126857)</code>](https://github.com/openclaw/openclaw/commit/6c9aae7ceeaf72c7d33c3a23f1586a7314648f5a)
+- [ ] [<code>fix(channels): keep started ingress deliveries admissible after their inherited root releases (#126590)</code>](https://github.com/openclaw/openclaw/commit/c972fda893ecbc15a3de1228f755e8e7afd35f61)
+- [ ] [<code>fix(openai): preserve OAuth realtime session policy (#126363)</code>](https://github.com/openclaw/openclaw/commit/7c959c85f91735b2051588883f603d633a6b35e7)
+- [ ] [<code>fix(agents): preserve explicit harness runtime selection (#126259)</code>](https://github.com/openclaw/openclaw/commit/c19bdb3a1d212b2999cc97d463ec784389bc87d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): invalidate replaced web runtime artifacts (#126867)</code>](https://github.com/openclaw/openclaw/commit/b00734bd4c7bcb4790e5ede74e8b69f2809f5844)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(heartbeat): report the cadence of active agent heartbeats (#126869)</code>](https://github.com/openclaw/openclaw/commit/40e3ab8784fc837b64d7efdc7cdf75e5e20ed481)
+- [ ] [<code>fix(qa): isolate packaged mock auth bootstrap (#126247)</code>](https://github.com/openclaw/openclaw/commit/fa71a6f27b2714ffbeebcb41acd6ac91ed702df6)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(install): defer success until verification (#126871)</code>](https://github.com/openclaw/openclaw/commit/e78b9d3ce4aa32ecd84cf5c961ff8cd2db48f6db)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): recover failed new-session navigation without duplicate tasks (#126873)</code>](https://github.com/openclaw/openclaw/commit/91b8a034535a1dab34a1cfe88b2caf52d1ee0c3a)
+- [ ] [<code>perf(matrix): replace lease drain test waits with fake timers (#126885)</code>](https://github.com/openclaw/openclaw/commit/a0786cf7413686fa21138a2b8234e9763b407bd7)
+- [ ] [<code>fix(cli): render QR JSON failures (#126884)</code>](https://github.com/openclaw/openclaw/commit/a73166b49d19e8f164a6dc87726d92abcd270be1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(codex): separate exec session transport (#126859)</code>](https://github.com/openclaw/openclaw/commit/500fd2cac91e332673af4ad7b3cf9df416323740)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(onboard): honor explicit system agent (#126861)</code>](https://github.com/openclaw/openclaw/commit/987d314181068bd54387d51095596fc7403a7009)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): enforce incognito session access (#126897)</code>](https://github.com/openclaw/openclaw/commit/3d77a28da8041fdefb4d128d219689d795d04998)
+- [ ] [<code>test: trim native test mirrors (#126896)</code>](https://github.com/openclaw/openclaw/commit/f0881cfaa9b2778c3dd9a456b8ed9d3319df0868)
+- [ ] [<code>fix(cron): deliver current-session completions to the source chat (#126860)</code>](https://github.com/openclaw/openclaw/commit/133d5fff6c947f3fadf3c66c67129ea763c394b8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(onboard): honor secret-input-mode ref for the generated gateway token (#126877)</code>](https://github.com/openclaw/openclaw/commit/df2cc8f2598a2a93c194efcccfa8d49a48b489c1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): render sandbox JSON failures (#126915)</code>](https://github.com/openclaw/openclaw/commit/afb430d10fa9c9b214322670434e86f53a572719)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
