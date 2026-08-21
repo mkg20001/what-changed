@@ -650,12 +650,21 @@
 
 - [ ] [<code>cinnamon: Adapt to PopupDialog changes.</code>](https://github.com/linuxmint/mint-l-theme/commit/7bc7688104f6d5dd83379dd3e023c3f3c43d0ff1)
 - [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-l-theme/commit/befefe02999d54434d69377cc04e71c05d02b3ed)
+- [ ] [<code>cinnamon: Support for gwl overflow buttons, updates for screensaver.</code>](https://github.com/linuxmint/mint-l-theme/commit/cfa89d611ad7388e6adabbd42bc979a1bf1b81a9)
+- [ ] [<code>Update .gitignore.</code>](https://github.com/linuxmint/mint-l-theme/commit/771062e022d406be50a09849b59fcb2b12e34356)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
 - [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
 - [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-themes/commit/1f786385bf01530426ebf7245a34ede3bd1f0e86)
 - [ ] [<code>cinnamon: Remove audio-device-selection-dialog.</code>](https://github.com/linuxmint/mint-themes/commit/0b320b989121e36d3961ed3cdf1fca8d9abeb277)
+- [ ] [<code>Mint-Y/cinnamon: add tinting to window-list and panel-launchers.</code>](https://github.com/linuxmint/mint-themes/commit/fdab26ecf59287ebbb4d8c06a2936d6420bc065e)
+- [ ] [<code>Mint-Y/cinnamon: Add support for grouped-window-list scroll buttons.</code>](https://github.com/linuxmint/mint-themes/commit/8708de44612e168b82e955e87146682489345c86)
+- [ ] [<code>Mint-Y/cinnamon: Add support for screensaver.</code>](https://github.com/linuxmint/mint-themes/commit/3e3629a33585c2a649b9a704d697fec141de0bf6)
+- [ ] [<code>Mint-X/cinnamon: Add support for grouped-window-list scroll-buttons.</code>](https://github.com/linuxmint/mint-themes/commit/d7150fc4f4d32fce2ab1bd15590b58ff52c90c0f)
+- [ ] [<code>Mint-X/cinnamon: Add support for screensaver.</code>](https://github.com/linuxmint/mint-themes/commit/35bca280fdd4a15d4bfe89f1a77ef8a53cec4f5f)
+- [ ] [<code>Mint-Y: Fix previous commit.</code>](https://github.com/linuxmint/mint-themes/commit/b4f07412e011111e7ccc46ba21d6a315a37ca300)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
@@ -932,10 +941,12 @@
 - [ ] [<code>dnd: Free path_str in the get_data_binder() functions.</code>](https://github.com/linuxmint/nemo/commit/2395cff59783c8586b292fa2dc9439aed1e07ba5)
 - [ ] [<code>eel-gtk-extensions.c: Restore Wayland popup workaround.</code>](https://github.com/linuxmint/nemo/commit/f4ab02656f15ced68ed449bfcc5240cd64d35198)
 - [ ] [<code>nemo-action.c: Fix find_token_type() - ignore invalid tokens. (#3779)</code>](https://github.com/linuxmint/nemo/commit/c605b752cd268b5dba16620f7f1bb403c7a72318)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/nemo/commit/1027f8590ea69dc377a65e37c55ea64160f6532f)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-odf-to-txt: fix IndexError in handle_data on leading text:s tag (#3826)</code>](https://github.com/linuxmint/nemo/commit/fb689da2855ffc15d5debdb757dfaf51c79c295e)
+- [ ] [<code>nemo-icon-container.c: Clean up interactive-search positioning</code>](https://github.com/linuxmint/nemo/commit/4a4f807ea5f746c6fc3ecaaeefccb5636744e681)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
