@@ -443,6 +443,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>resource-scale/allocataion: More updates for the new allocation and</code>](https://github.com/linuxmint/cinnamon/commit/4d16965a5a5e94cd57a7cb0f81ccb358ba05e2dc)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowManager.js: Reset the window position after a minimize effect.</code>](https://github.com/linuxmint/cinnamon/commit/d29b0006375f13483cecca9d5bbdaf926be3b194)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -839,6 +840,8 @@
 - [ ] [<code>clutter-text.c: multiply existing pango scale attributes by the</code>](https://github.com/linuxmint/muffin/commit/7de7e66d8adbf5fb7de52ab1d523b1b87acb42d8)
 - [ ] [<code>clutter-actor.c: Show on all stage views when an actor has no</code>](https://github.com/linuxmint/muffin/commit/5e2a3fdf23559ca230b201732a8e93fba5ce8934)
 - [ ] [<code>meta-cursor-renderer-native.c: Raise fallback cursor threshold.</code>](https://github.com/linuxmint/muffin/commit/eadbebd70c957e4bc00c4d751eb90edc4442c6f5)
+- [ ] [<code>wayland: Base output enter/leave on the window rect, not actor</code>](https://github.com/linuxmint/muffin/commit/e6edf37c43de54d747787743fec07a134599844a)
+- [ ] [<code>meta-window-wayland.c: Scale the move-grab anchor when crossing</code>](https://github.com/linuxmint/muffin/commit/25ba2de7f6d40cbcc5e38bcf175593df93af110a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
