@@ -432,6 +432,10 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.9 to 4.2.1</code>](https://github.com/krille-chan/fluffychat/commit/3d30c335a46460598bbb46b9e2380987cf6d119b)
 - [ ] [<code>build: (deps): bump matrix from 10.2.0 to 10.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bfbe68f7e89f8ad818e28334f9637adbddcf97bc)
 - [ ] [<code>chore: follow up livekit</code>](https://github.com/krille-chan/fluffychat/commit/dbc078c246cfe0af88a8bf03f1edd263e419e422)
+- [ ] [<code>chore: follow up livekit notifications</code>](https://github.com/krille-chan/fluffychat/commit/c77376eed4ded048966847018e8e32ca0857e948)
+- [ ] [<code>fix: iOS notification corrupt the database hotfix</code>](https://github.com/krille-chan/fluffychat/commit/472bb007da12588766ecd3ba5bb879398eaeeae8)
+- [ ] [<code>feat: Implement callkit for livekit calls</code>](https://github.com/krille-chan/fluffychat/commit/9e593cdf807941a2ca725c0c0f62cf6234b97462)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -628,6 +632,10 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.1.9 to 4.2.1</code>](https://github.com/krille-chan/fluffychat/commit/3d30c335a46460598bbb46b9e2380987cf6d119b)
 - [ ] [<code>build: (deps): bump matrix from 10.2.0 to 10.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bfbe68f7e89f8ad818e28334f9637adbddcf97bc)
 - [ ] [<code>chore: follow up livekit</code>](https://github.com/krille-chan/fluffychat/commit/dbc078c246cfe0af88a8bf03f1edd263e419e422)
+- [ ] [<code>chore: follow up livekit notifications</code>](https://github.com/krille-chan/fluffychat/commit/c77376eed4ded048966847018e8e32ca0857e948)
+- [ ] [<code>fix: iOS notification corrupt the database hotfix</code>](https://github.com/krille-chan/fluffychat/commit/472bb007da12588766ecd3ba5bb879398eaeeae8)
+- [ ] [<code>feat: Implement callkit for livekit calls</code>](https://github.com/krille-chan/fluffychat/commit/9e593cdf807941a2ca725c0c0f62cf6234b97462)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1070,6 +1078,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(aclk): clean up manifest publication record (#23580)</code>](https://github.com/netdata/netdata.git/commit/be8941f9270bf8917f194ae319d2911d3323bd7b)
 - [ ] [<code>Regenerate integrations docs (#23590)</code>](https://github.com/netdata/netdata.git/commit/3f38593704544682eb6797553207f883c353912a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs: repair generated Learn link sources (#23591)</code>](https://github.com/netdata/netdata.git/commit/c4a87326646b40213322e9eb4178ef3e0c5329b2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Align documentation checks with Learn runtime (#23593)</code>](https://github.com/netdata/netdata.git/commit/5f7691dfbf4b86ba956d2beba195fcf853d68536)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#23592)</code>](https://github.com/netdata/netdata.git/commit/04b1cf54270c4e21c02e322e577e7e96d547c9ee)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -29110,6 +29123,64 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>perf(line): skip empty inbound media projection (#127827)</code>](https://github.com/openclaw/openclaw/commit/04d174584d1b20c8bb3802576e04e4925ff7b4a3)
 - [ ] [<code>fix(ui): keep transcript disclosures anchored (#126272)</code>](https://github.com/openclaw/openclaw/commit/39cff92880f514873dbd794d6bdcf8b838548c29)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(signal): reuse parsed inbound payload (#127851)</code>](https://github.com/openclaw/openclaw/commit/2d0fff4ac548d9f24de14c9bf4ba9c02f9cfb63b)
+- [ ] [<code>perf(e2e): reuse one authorized Telegram Desktop session per Mantis run (#127835)</code>](https://github.com/openclaw/openclaw/commit/da0cb592ddbe3d4e0c322db68545cf0fdc3f8fe1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(e2e): record provider media content facts for Mantis proofs (#127830)</code>](https://github.com/openclaw/openclaw/commit/d9d44981fbe6ebb69e8718ea3aa18d783f33b4a3)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): sanitize node describe commands (#127856)</code>](https://github.com/openclaw/openclaw/commit/c7f5151f27e9aab68ad0763ec7f261d4f6866b04)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(mattermost): decode inbound websocket frames once (#127870)</code>](https://github.com/openclaw/openclaw/commit/95c193879acae8d3916a438a35a1b8ecec47939a)
+- [ ] [<code>fix(mantis): keep caller stdin for the lease-fenced command (#127871)</code>](https://github.com/openclaw/openclaw/commit/c7199713c283d2254c200d459a429230adba1da7)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(sqlite): isolate read-only snapshot preparation to stop WAL lock drops (#127855)</code>](https://github.com/openclaw/openclaw/commit/5248c2fac7c4c8bc06a75c68bdc98d091bd9af4e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(backup): validate git log limit strictly (#127875)</code>](https://github.com/openclaw/openclaw/commit/c5121ada6cbf541c68f0213d24f178c3b2cce982)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(mantis): script catalog-tool turns through Code Mode exec (#127878)</code>](https://github.com/openclaw/openclaw/commit/f4cb54578397aa4cced6a0fa563774b1e71be018)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(imessage): reuse prepared inbound account service (#127877)</code>](https://github.com/openclaw/openclaw/commit/90c951aabf9531d51c89d8a822040e5699275c30)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mantis): pin harness pdf tool model to the catalog model (#127882)</code>](https://github.com/openclaw/openclaw/commit/e8e656f451b8e6e059cffc9d5d98f6de256c9bab)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(channels): resolve registered plugins before agent workspace (#124709)</code>](https://github.com/openclaw/openclaw/commit/4f5905373d171d1bdef573fd287b42ef9da0c25d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): show channel probe busy state (#127903)</code>](https://github.com/openclaw/openclaw/commit/d3ad7108eb78a45bd0b1fc583bac925890c86031)
+- [ ] [<code>refactor(ui): share background task active count (#127832)</code>](https://github.com/openclaw/openclaw/commit/8ebc6bc8755506676b46d62c024d29b46839b4ad)
+- [ ] [<code>perf(ui): stop re-comparing the whole session catalog on every live event (#127819)</code>](https://github.com/openclaw/openclaw/commit/353d0aefafccdfd5e00521d7175011f25622655e)
+- [ ] [<code>refactor(tui): sanitize streamed markdown once per delta (#127838)</code>](https://github.com/openclaw/openclaw/commit/ea1cd39d6c9ac880eaa531e57c98219d8c559e57)
+- [ ] [<code>fix(agents): resolve pdf tool models through the canonical resolver (#127952)</code>](https://github.com/openclaw/openclaw/commit/71b5de40611144b2406c0d28c9cc459b64b693bb)
+- [ ] [<code>perf(whatsapp): reuse inbound message projection (#127958)</code>](https://github.com/openclaw/openclaw/commit/963fafbb16522239228d10383cf89356c84e2ab3)
+- [ ] [<code>perf(irc): reuse claimed inbound projection (#127966)</code>](https://github.com/openclaw/openclaw/commit/946aa39b5051c8f1336493775eb7bc1ec58617a2)
+- [ ] [<code>improve(ui): make agent switching faster and more visual (#126968)</code>](https://github.com/openclaw/openclaw/commit/43710901ae785890ababa958211a572af704f933)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mantis): prove the PR merged onto current main instead of the raw head (#127961)</code>](https://github.com/openclaw/openclaw/commit/6917a15bce84169528cb047cc3933ee3bff9f2e0)
+- [ ] [<code>perf(ui): stop rescanning the whole snapshot cache on every write (#127831)</code>](https://github.com/openclaw/openclaw/commit/df74a17b944cd4ec041a115197068f86f53faa9e)
+- [ ] [<code>perf(tui): stop blocking the editor on every path autocomplete keystroke (#127834)</code>](https://github.com/openclaw/openclaw/commit/259352aaf2233ad5a404331c6cebe7e3d0f6f410)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(ui): expose Advanced Settings accordion state (#127960)</code>](https://github.com/openclaw/openclaw/commit/74189fb354749acc6cc910fdf091276283f99f70)
+- [ ] [<code>perf(ui): stop hidden split panes from fetching data they never show (#127821)</code>](https://github.com/openclaw/openclaw/commit/31ce436b5f69e3343144f55b4a7cba9a656da1a9)
+- [ ] [<code>fix(agents): warn when configured image model entries fail to resolve (#127971)</code>](https://github.com/openclaw/openclaw/commit/222a212e78277fe5e418b0985f266d2a5283306a)
+- [ ] [<code>fix(ui): size agent menu grid to content (#127969)</code>](https://github.com/openclaw/openclaw/commit/70c2be7e6aab3e983ca0053b965b7b8812a62378)
+- [ ] [<code>perf(ui): keep split divider drag within frame budget (#127840)</code>](https://github.com/openclaw/openclaw/commit/f70947bf619f1daa47f188ad6466688d2cff7abc)
+- [ ] [<code>refactor(ui): drop the detail-panel message upgrade path that never runs (#127846)</code>](https://github.com/openclaw/openclaw/commit/276ceaf19a7c7fa22be8e704c8f5cf3af33d1c63)
+- [ ] [<code>perf(sessions): skip duplicate transcript root preparation (#127990)</code>](https://github.com/openclaw/openclaw/commit/6ea8a7111cbe1a7192c1cbd22150fe9b7b8cc5ed)
+- [ ] [<code>fix(tui): honor system-agent history limit (#127993)</code>](https://github.com/openclaw/openclaw/commit/8126d45242626e9026569a1880306990636bbc1b)
+- [ ] [<code>feat(ui): add a Claude CLI 200K/1M context-window switch to the model picker (#127951)</code>](https://github.com/openclaw/openclaw/commit/041938bc2f73201c763f53584a59e25664650fa6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(plugins): share schema validation format scope (#128004)</code>](https://github.com/openclaw/openclaw/commit/bb6dba54ef97aac71b8c7a62db2b77b57b1b5e3e)
+- [ ] [<code>test(auto-reply): clean reply dispatch lifecycle (#127814)</code>](https://github.com/openclaw/openclaw/commit/7d18cc4ccb6f6940e3509a860615df9403db9ce2)
+- [ ] [<code>perf(mantis): build proof lanes runtime-only (#128007)</code>](https://github.com/openclaw/openclaw/commit/2eecf3d3f2cc66467137345722233831dc34fdce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(openai): return structured failure for malformed OAuth token JSON (#122962)</code>](https://github.com/openclaw/openclaw/commit/0a35d54846a14540fc8ba8feaab8a2f3076b1fba)
+- [ ] [<code>fix: show WebChat attachments from active runs [AI-assisted] (#127879)</code>](https://github.com/openclaw/openclaw/commit/23854c39fc7d87b659d5ae1ab86a97880f2fd210)
+- [ ] [<code>fix(agents): heartbeat runs no longer block visible turns (#126853)</code>](https://github.com/openclaw/openclaw/commit/d0700b3bc26bc409e4d7aaaf38f7e1d71053b2f3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(protocol): export chat history cursor types (#128018)</code>](https://github.com/openclaw/openclaw/commit/d80a66cb113104053d2b69c6ac66597bbea7b0ee)
+- [ ] [<code>fix(gateway): record display-cap truncation structurally on projected chat messages (#126342)</code>](https://github.com/openclaw/openclaw/commit/736b0c424b7bc1f330d264f5c79a05cd6a4c30c2)
+- [ ] [<code>perf(slack): reuse thread history text projection (#128022)</code>](https://github.com/openclaw/openclaw/commit/07f2129c30097d6158bc11c07c49ca86fabebcd8)
+- [ ] [<code>fix(ui): refresh account models without repeated probes (#127725)</code>](https://github.com/openclaw/openclaw/commit/a4dbe235f8465e48c551f5c5522b4f6c8f6dae70)
+- [ ] [<code>fix(ui): anchor limited access status in header actions (#128024)</code>](https://github.com/openclaw/openclaw/commit/21a04cef93663b2c88ed12df2908fb2861797e71)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
