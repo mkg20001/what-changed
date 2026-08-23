@@ -444,6 +444,15 @@
 - [ ] [<code>resource-scale/allocataion: More updates for the new allocation and</code>](https://github.com/linuxmint/cinnamon/commit/4d16965a5a5e94cd57a7cb0f81ccb358ba05e2dc)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>windowManager.js: Reset the window position after a minimize effect.</code>](https://github.com/linuxmint/cinnamon/commit/d29b0006375f13483cecca9d5bbdaf926be3b194)
+- [ ] [<code>cinnamon-window-tracker.c/gwl: Track window attributes even if a</code>](https://github.com/linuxmint/cinnamon/commit/bc728cab9264e6cc649fb8e9741709631bff919b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>expo: Force layout immediately rather than building clones on the</code>](https://github.com/linuxmint/cinnamon/commit/7b8dbc70eefdc0d4362c1c54b0498f1bac499d4c)
+- [ ] [<code>cinnamon-looking-glass.py: Use XAppGtkWindow.</code>](https://github.com/linuxmint/cinnamon/commit/7c9f5778a8fc8060b5cf66228728303abad22814)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st: entry, icon, label, shadow - react to resource scale changes.</code>](https://github.com/linuxmint/cinnamon/commit/e468a567b06b339ebe87e4631254520c6101dc66)
+- [ ] [<code>popupMenu.js: Don't reposition the menu from inside the allocation</code>](https://github.com/linuxmint/cinnamon/commit/9343291f94e46ad80ad716f91658d1d63d18b43b)
+- [ ] [<code>screensaver: Make ScreensaverWidget fill its grid sector.</code>](https://github.com/linuxmint/cinnamon/commit/946b11881171b393bf0e63118314952873ef5a3f)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -539,8 +548,10 @@
 - [ ] [<code>passwordEntry: guard against None layout sources (#504)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1e8c655d6c6f9d308be1103ce265b508db2b509e)
 - [ ] [<code>Fix the desktop staying locked after entering the password with pygobject >= 3.57 (#508)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1ffa9338b508c21ccecb9e646e1fbe6f2ce60655)
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b873caa1bacb20c601c8bebdbbb9fb8fd3c061dc)
-  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>authClient.py: Fix typo.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d4c1d7fa1e98d571bd14cc09ceda57dd6c87f4fd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -851,6 +862,8 @@
 - [ ] [<code>meta-cursor-renderer-native.c: Raise fallback cursor threshold.</code>](https://github.com/linuxmint/muffin/commit/eadbebd70c957e4bc00c4d751eb90edc4442c6f5)
 - [ ] [<code>wayland: Base output enter/leave on the window rect, not actor</code>](https://github.com/linuxmint/muffin/commit/e6edf37c43de54d747787743fec07a134599844a)
 - [ ] [<code>meta-window-wayland.c: Scale the move-grab anchor when crossing</code>](https://github.com/linuxmint/muffin/commit/25ba2de7f6d40cbcc5e38bcf175593df93af110a)
+- [ ] [<code>delete.c: Guard delete/kill against unmanaging windows.</code>](https://github.com/linuxmint/muffin/commit/c53f74ab79cacef2bc5bd584be23db26ce681137)
+- [ ] [<code>clutter: Backport some relayout and allocation lifecycle fixes.</code>](https://github.com/linuxmint/muffin/commit/2c6b2af5ea0089fb7b386e2f10651028800998de)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
