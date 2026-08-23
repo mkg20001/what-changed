@@ -1083,6 +1083,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Align documentation checks with Learn runtime (#23593)</code>](https://github.com/netdata/netdata.git/commit/5f7691dfbf4b86ba956d2beba195fcf853d68536)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Regenerate integrations docs (#23592)</code>](https://github.com/netdata/netdata.git/commit/04b1cf54270c4e21c02e322e577e7e96d547c9ee)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.11.0-91-nightly.</code>](https://github.com/netdata/netdata.git/commit/a6680918063e5ff6f5148e61241807c91e37d6e9)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -29181,6 +29182,35 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>perf(slack): reuse thread history text projection (#128022)</code>](https://github.com/openclaw/openclaw/commit/07f2129c30097d6158bc11c07c49ca86fabebcd8)
 - [ ] [<code>fix(ui): refresh account models without repeated probes (#127725)</code>](https://github.com/openclaw/openclaw/commit/a4dbe235f8465e48c551f5c5522b4f6c8f6dae70)
 - [ ] [<code>fix(ui): anchor limited access status in header actions (#128024)</code>](https://github.com/openclaw/openclaw/commit/21a04cef93663b2c88ed12df2908fb2861797e71)
+- [ ] [<code>fix(agents): preserve admitted runtime generation for channel turns (#127217)</code>](https://github.com/openclaw/openclaw/commit/983782594807a23c006b49bd16172b1ba6980924)
+- [ ] [<code>fix(code-mode): reject overflow before dispatch (#128030)</code>](https://github.com/openclaw/openclaw/commit/83047a5dfadab2e04d6a08db45a19b141ccaa84f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: stop cron exec approval spam (#128031)</code>](https://github.com/openclaw/openclaw/commit/53aa9414fe671bac33d7bcc44156c2eac3eb9507)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(channels): preserve gateway context for inbound turns (#127962)</code>](https://github.com/openclaw/openclaw/commit/5ddf381eed710473eb24bd51edceb3e5bf7441cc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(models): reuse prepared metadata during browse (#127847)</code>](https://github.com/openclaw/openclaw/commit/a9e3b69750e0491ee219cf5fbfcc842f73b075f7)
+- [ ] [<code>feat(ui): environment differentiation for the Control UI (gateway.controlUi.environment) (#127711)</code>](https://github.com/openclaw/openclaw/commit/224d11f2221df3ff8b9c66667feacadb62fab445)
+- [ ] [<code>feat(audit): explain plugin and remote actions (#126027)</code>](https://github.com/openclaw/openclaw/commit/40a6b50cc1c6710fecb6a10df762bb67d4b8b5cd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(browser): streamline snapshot finalization (#128036)</code>](https://github.com/openclaw/openclaw/commit/d6679815a8357ea98f6f3c487ed0b77900bafc04)
+- [ ] [<code>fix(test): expose diagnostics when Vitest stalls (#128020)</code>](https://github.com/openclaw/openclaw/commit/b7cafbe7e82686b14c0f7c8e7af83194fd05ad42)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sessions): show collaboration details in CLI (#128035)</code>](https://github.com/openclaw/openclaw/commit/cc56ea534f78b9494afcd0a6fbf7b7cafaf8a418)
+- [ ] [<code>fix(ui): make multi-user session avatars legible (#128040)</code>](https://github.com/openclaw/openclaw/commit/aca83ac00c7b73dc99a4d679b2b21cc4c0cd89c2)
+- [ ] [<code>fix(ui): ignore malformed realtime talk audio frames instead of throwing (#119215)</code>](https://github.com/openclaw/openclaw/commit/bcb3e3f09850ec56f93103f289e37144103a2863)
+- [ ] [<code>perf(cron): skip history for future jobs (#128048)</code>](https://github.com/openclaw/openclaw/commit/a3c007fb45d3a1e55ab30a9d3f50cd631f9163cf)
+- [ ] [<code>fix: macOS onboarding waits for Gateway restart (#127713)</code>](https://github.com/openclaw/openclaw/commit/7d95cff39d61a583e976b9d2492462bcbb48aab0)
+- [ ] [<code>fix(matrix): guard malformed poll answers instead of throwing TypeError (#123231)</code>](https://github.com/openclaw/openclaw/commit/8f18edfa10ab52b83083da4d1fd4e0f7e2d2e43f)
+- [ ] [<code>fix: repair code mode preflight failures</code>](https://github.com/openclaw/openclaw/commit/c3ec166cbcdd405d7baef29a235f6a5f06a133cd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve code mode network errors (#128054)</code>](https://github.com/openclaw/openclaw/commit/844e781ca40952c98ee997b016e3cc5d2f12f9f3)
+- [ ] [<code>perf(ui): batch chat stream and outbox work into one frame (#127826)</code>](https://github.com/openclaw/openclaw/commit/b099741805b84fa1d09d561243793ef141bdecab)
+- [ ] [<code>perf(logging): reuse log level thresholds (#128061)</code>](https://github.com/openclaw/openclaw/commit/fc80a1d2998d00650b346290bbb71c4a0f0398f3)
+- [ ] [<code>perf(ui): stop a pending approval countdown from re-rendering the whole chat every second (#127844)</code>](https://github.com/openclaw/openclaw/commit/008412212f4334bf9fe83d36d3f93364991e2302)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): make login recovery commands copyable (#128047)</code>](https://github.com/openclaw/openclaw/commit/422e805877df64eee810583a20adc07dd57902d4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
