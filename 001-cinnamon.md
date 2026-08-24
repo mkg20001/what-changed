@@ -864,6 +864,7 @@
 - [ ] [<code>meta-window-wayland.c: Scale the move-grab anchor when crossing</code>](https://github.com/linuxmint/muffin/commit/25ba2de7f6d40cbcc5e38bcf175593df93af110a)
 - [ ] [<code>delete.c: Guard delete/kill against unmanaging windows.</code>](https://github.com/linuxmint/muffin/commit/c53f74ab79cacef2bc5bd584be23db26ce681137)
 - [ ] [<code>clutter: Backport some relayout and allocation lifecycle fixes.</code>](https://github.com/linuxmint/muffin/commit/2c6b2af5ea0089fb7b386e2f10651028800998de)
+- [ ] [<code>clutter: Don't gate pointer repicks on the redraw clip.</code>](https://github.com/linuxmint/muffin/commit/4014495b4c69ebec780ff7d86a0a3c8c2e088d55)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
