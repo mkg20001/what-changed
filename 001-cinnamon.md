@@ -453,6 +453,7 @@
 - [ ] [<code>popupMenu.js: Don't reposition the menu from inside the allocation</code>](https://github.com/linuxmint/cinnamon/commit/9343291f94e46ad80ad716f91658d1d63d18b43b)
 - [ ] [<code>screensaver: Make ScreensaverWidget fill its grid sector.</code>](https://github.com/linuxmint/cinnamon/commit/946b11881171b393bf0e63118314952873ef5a3f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>screenshot.js: Don't propagate button release events.</code>](https://github.com/linuxmint/cinnamon/commit/9384a500dae1af83978847391f3d2fc82490e592)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -865,6 +866,13 @@
 - [ ] [<code>delete.c: Guard delete/kill against unmanaging windows.</code>](https://github.com/linuxmint/muffin/commit/c53f74ab79cacef2bc5bd584be23db26ce681137)
 - [ ] [<code>clutter: Backport some relayout and allocation lifecycle fixes.</code>](https://github.com/linuxmint/muffin/commit/2c6b2af5ea0089fb7b386e2f10651028800998de)
 - [ ] [<code>clutter: Don't gate pointer repicks on the redraw clip.</code>](https://github.com/linuxmint/muffin/commit/4014495b4c69ebec780ff7d86a0a3c8c2e088d55)
+- [ ] [<code>window-x11.c: Restore unredirect-fullscreen pref check removed in</code>](https://github.com/linuxmint/muffin/commit/20e7015cb3ccead129ffc4020ee2c1b504bc2bed)
+- [ ] [<code>wayland: Implement scanout surface dmabuf feedback.</code>](https://github.com/linuxmint/muffin/commit/db167aa0802f7d95d416d36fe36663188c8668a5)
+- [ ] [<code>Wayland: bump wl_compositor to v6 for preferred_scale.</code>](https://github.com/linuxmint/muffin/commit/7b9d8210c5f8053379332faa3f6e8873e9d1e3dc)
+- [ ] [<code>wayland: Implement wp_fractional_scale_v1.</code>](https://github.com/linuxmint/muffin/commit/59fed310c8e5ef39cde44717c0ecdb1586bd08e1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Fix maximize transition broken by wp_fractional_scale_v1</code>](https://github.com/linuxmint/muffin/commit/d4a6c9644184d181319026e4e9099d6092ea4138)
+- [ ] [<code>logging: Add topic for Wayland scanout.</code>](https://github.com/linuxmint/muffin/commit/79b9c250f92f7075e9e1aa8b1ff26dea3aab478a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
