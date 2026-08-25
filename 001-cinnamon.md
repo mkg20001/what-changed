@@ -481,12 +481,14 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Remove desktop-file-links.py, bump meson requirement.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/acbe1b999a54d5d483f3b851d4f6be40e754d4e7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/218fd2d2fe76cb60a9b5420a8e33bacb79d12acd)
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>display: Use a ComboBox (once more) to select monitor scales.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b3648325342df85c2cff1a7359b996ef7d830530)
+- [ ] [<code>cc-display-settings.c: Fix permanently disabled underscan switch.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/06466991f12b4dae269ff668bef15383b73c7af7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -873,6 +875,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>wayland: Fix maximize transition broken by wp_fractional_scale_v1</code>](https://github.com/linuxmint/muffin/commit/d4a6c9644184d181319026e4e9099d6092ea4138)
 - [ ] [<code>logging: Add topic for Wayland scanout.</code>](https://github.com/linuxmint/muffin/commit/79b9c250f92f7075e9e1aa8b1ff26dea3aab478a)
+- [ ] [<code>monitor: Calculate fractional scales as exact quotients</code>](https://github.com/linuxmint/muffin/commit/e1e4cdf106b54f3e049c2b7a73fd463f1aebd05e)
+- [ ] [<code>display.c: Fix a warning when using the nested backend.</code>](https://github.com/linuxmint/muffin/commit/fc19b92479fdefd4ab5af365c5b415f62eb8e962)
+- [ ] [<code>build: Fix some dependency versions.</code>](https://github.com/linuxmint/muffin/commit/bfc02cff65bd01652832e34b98c2b55dbb165018)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>clutter-actor.c: Soften the check for guessed resource scale.</code>](https://github.com/linuxmint/muffin/commit/c13dc04153b1e10c0445151dcef1e1b513026355)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
