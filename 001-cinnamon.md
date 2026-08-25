@@ -454,6 +454,10 @@
 - [ ] [<code>screensaver: Make ScreensaverWidget fill its grid sector.</code>](https://github.com/linuxmint/cinnamon/commit/946b11881171b393bf0e63118314952873ef5a3f)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>screenshot.js: Don't propagate button release events.</code>](https://github.com/linuxmint/cinnamon/commit/9384a500dae1af83978847391f3d2fc82490e592)
+- [ ] [<code>screensaverWidget.js: Scale internal content when the workarea</code>](https://github.com/linuxmint/cinnamon/commit/4ef0b60e2d8a15c1128c36cf3df06dd4f07d65c5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>cinnamon-looking-glass: Add a tab for enabling muffin debug topics</code>](https://github.com/linuxmint/cinnamon/commit/558f70cce28778c2137cd314e17ac7ec643c12b9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -881,6 +885,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clutter-actor.c: Soften the check for guessed resource scale.</code>](https://github.com/linuxmint/muffin/commit/c13dc04153b1e10c0445151dcef1e1b513026355)
+- [ ] [<code>util: Add layer-shell debug topic, mark unused topics.</code>](https://github.com/linuxmint/muffin/commit/237e37b5ac9fde5d72029abf8211160d49c1d855)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
