@@ -458,6 +458,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>cinnamon-looking-glass: Add a tab for enabling muffin debug topics</code>](https://github.com/linuxmint/cinnamon/commit/558f70cce28778c2137cd314e17ac7ec643c12b9)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>expo: Avoid dirty duplication when moving apps to another workspace (#13830)</code>](https://github.com/linuxmint/cinnamon/commit/7867e8895088ed980947c15812a3f45d90ebc251)
+- [ ] [<code>popupMenu.js (x11): Don't leave a dead menu behind when the modal</code>](https://github.com/linuxmint/cinnamon/commit/d727f48fd6a640288565a7b963e7c92c10088476)
+- [ ] [<code>Add CinnamonGLSLEffect.get_pipeline() (#13939)</code>](https://github.com/linuxmint/cinnamon/commit/95af3abeba38b5e7dff533c3ff94815693e9a092)
+- [ ] [<code>add automatic volume decrease to 100% after disabling overamplification with higher volume set. (#13916)</code>](https://github.com/linuxmint/cinnamon/commit/dc924304ff2f4aa5d972ff54dd933a9358ee1faa)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -886,6 +891,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clutter-actor.c: Soften the check for guessed resource scale.</code>](https://github.com/linuxmint/muffin/commit/c13dc04153b1e10c0445151dcef1e1b513026355)
 - [ ] [<code>util: Add layer-shell debug topic, mark unused topics.</code>](https://github.com/linuxmint/muffin/commit/237e37b5ac9fde5d72029abf8211160d49c1d855)
+- [ ] [<code>meta-wayland-xdg-shell.c: Allow serial-less nested popups from</code>](https://github.com/linuxmint/muffin/commit/19360475f6fa45968a8d85e8f5e99d118be1713c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1151,8 +1157,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-sn-watcher: Fix capitalize() mangling non-ASCII titles.</code>](https://github.com/linuxmint/xapp/commit/94a348f16ec3a483fdb6c8a807a6de5f7f613c10)
 - [ ] [<code>3.3.4-unstable</code>](https://github.com/linuxmint/xapp/commit/c52e5f37ac96c467aa05c947a20fd1c0a22c8333)
-  - <sub>Tags: <code>3.3.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>test-scripts: Add submenus to some of our status icon clients.</code>](https://github.com/linuxmint/xapp/commit/639544dfaf7b276bc6334a827b5452b1dd5df9fc)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
