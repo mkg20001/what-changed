@@ -1017,6 +1017,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1041,6 +1042,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1065,6 +1067,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1089,6 +1092,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1113,6 +1117,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
