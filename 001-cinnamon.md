@@ -463,6 +463,7 @@
 - [ ] [<code>Add CinnamonGLSLEffect.get_pipeline() (#13939)</code>](https://github.com/linuxmint/cinnamon/commit/95af3abeba38b5e7dff533c3ff94815693e9a092)
 - [ ] [<code>add automatic volume decrease to 100% after disabling overamplification with higher volume set. (#13916)</code>](https://github.com/linuxmint/cinnamon/commit/dc924304ff2f4aa5d972ff54dd933a9358ee1faa)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Defer _setPanelHeight() out of the queue-relayout handler.</code>](https://github.com/linuxmint/cinnamon/commit/3853a79a175d3ddec028d1877b6c46d9450558d4)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -892,6 +893,10 @@
 - [ ] [<code>clutter-actor.c: Soften the check for guessed resource scale.</code>](https://github.com/linuxmint/muffin/commit/c13dc04153b1e10c0445151dcef1e1b513026355)
 - [ ] [<code>util: Add layer-shell debug topic, mark unused topics.</code>](https://github.com/linuxmint/muffin/commit/237e37b5ac9fde5d72029abf8211160d49c1d855)
 - [ ] [<code>meta-wayland-xdg-shell.c: Allow serial-less nested popups from</code>](https://github.com/linuxmint/muffin/commit/19360475f6fa45968a8d85e8f5e99d118be1713c)
+- [ ] [<code>meta-wayland-surface.c: Advertise a surface's scale when its output is known.</code>](https://github.com/linuxmint/muffin/commit/2eb790d0683b6a352cc70a38362326a575674fac)
+- [ ] [<code>meta-wayland-layer-shell.c: Reconfigure full-output surfaces when the</code>](https://github.com/linuxmint/muffin/commit/76a9a6f1b7ca2adb0922e7251b33b9b3dc5afe7c)
+- [ ] [<code>meta-wayland-layer-shell.c: Don't free the namespace early, so it</code>](https://github.com/linuxmint/muffin/commit/d2673208a8da51ec6969af89fd4acdae379b9848)
+- [ ] [<code>clutter-input-method.c: Ensure a stage for events.</code>](https://github.com/linuxmint/muffin/commit/0b7a6b9f171f2bf00c04ceae4947f80dab1ec169)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
