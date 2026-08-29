@@ -992,7 +992,17 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-odf-to-txt: fix IndexError in handle_data on leading text:s tag (#3826)</code>](https://github.com/linuxmint/nemo/commit/fb689da2855ffc15d5debdb757dfaf51c79c295e)
 - [ ] [<code>nemo-icon-container.c: Clean up interactive-search positioning</code>](https://github.com/linuxmint/nemo/commit/4a4f807ea5f746c6fc3ecaaeefccb5636744e681)
+- [ ] [<code>mount operations: Skip the process list lookup for unhandled mount</code>](https://github.com/linuxmint/nemo/commit/91037e9e165b1e3f38101bd44fad55ea8226614b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>i18n: Remove po folder, include nemo.xml (mime info) in the</code>](https://github.com/linuxmint/nemo/commit/7bb4d8d0c67a59ca158cd52f4d53e9048ec40593)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Run generate_additional_file.</code>](https://github.com/linuxmint/nemo/commit/a362e3d54180dd8e2f6050e663e8cc97c3a0ff0e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Simplify .desktop file handling, restore the polkit root</code>](https://github.com/linuxmint/nemo/commit/29fbc4b00005234dd92624a5620cc644525ba27c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
