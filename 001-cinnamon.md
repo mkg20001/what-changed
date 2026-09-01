@@ -897,7 +897,10 @@
 - [ ] [<code>meta-wayland-layer-shell.c: Reconfigure full-output surfaces when the</code>](https://github.com/linuxmint/muffin/commit/76a9a6f1b7ca2adb0922e7251b33b9b3dc5afe7c)
 - [ ] [<code>meta-wayland-layer-shell.c: Don't free the namespace early, so it</code>](https://github.com/linuxmint/muffin/commit/d2673208a8da51ec6969af89fd4acdae379b9848)
 - [ ] [<code>clutter-input-method.c: Ensure a stage for events.</code>](https://github.com/linuxmint/muffin/commit/0b7a6b9f171f2bf00c04ceae4947f80dab1ec169)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>meta-window.c: Apply edge resistance on shared monitor edges during</code>](https://github.com/linuxmint/muffin/commit/a386255c2983dc466c853df58a4fde9a6a288d30)
+- [ ] [<code>meta-barrier-native.c: Match X11 pointer barrier behavior.</code>](https://github.com/linuxmint/muffin/commit/cde5c6210e7d8c4239a8d4ba410bfdaeb12e0caa)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
