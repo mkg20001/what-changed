@@ -464,6 +464,7 @@
 - [ ] [<code>add automatic volume decrease to 100% after disabling overamplification with higher volume set. (#13916)</code>](https://github.com/linuxmint/cinnamon/commit/dc924304ff2f4aa5d972ff54dd933a9358ee1faa)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel.js: Defer _setPanelHeight() out of the queue-relayout handler.</code>](https://github.com/linuxmint/cinnamon/commit/3853a79a175d3ddec028d1877b6c46d9450558d4)
+- [ ] [<code>panel.js: Adjust pointer barrier positions based on session type,</code>](https://github.com/linuxmint/cinnamon/commit/6963863c6fe32052d98631f35ba1cc0ec2e60ad9)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
