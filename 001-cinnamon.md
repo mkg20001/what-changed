@@ -465,6 +465,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel.js: Defer _setPanelHeight() out of the queue-relayout handler.</code>](https://github.com/linuxmint/cinnamon/commit/3853a79a175d3ddec028d1877b6c46d9450558d4)
 - [ ] [<code>panel.js: Adjust pointer barrier positions based on session type,</code>](https://github.com/linuxmint/cinnamon/commit/6963863c6fe32052d98631f35ba1cc0ec2e60ad9)
+- [ ] [<code>expo, overview: Use a Clutter effect to shade backgrounds instead</code>](https://github.com/linuxmint/cinnamon/commit/101f790f9afa953a022f25b6a21ca1db5d75cddf)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -898,10 +900,13 @@
 - [ ] [<code>meta-wayland-layer-shell.c: Reconfigure full-output surfaces when the</code>](https://github.com/linuxmint/muffin/commit/76a9a6f1b7ca2adb0922e7251b33b9b3dc5afe7c)
 - [ ] [<code>meta-wayland-layer-shell.c: Don't free the namespace early, so it</code>](https://github.com/linuxmint/muffin/commit/d2673208a8da51ec6969af89fd4acdae379b9848)
 - [ ] [<code>clutter-input-method.c: Ensure a stage for events.</code>](https://github.com/linuxmint/muffin/commit/0b7a6b9f171f2bf00c04ceae4947f80dab1ec169)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>meta-window.c: Apply edge resistance on shared monitor edges during</code>](https://github.com/linuxmint/muffin/commit/a386255c2983dc466c853df58a4fde9a6a288d30)
 - [ ] [<code>meta-barrier-native.c: Match X11 pointer barrier behavior.</code>](https://github.com/linuxmint/muffin/commit/cde5c6210e7d8c4239a8d4ba410bfdaeb12e0caa)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>clutter-stage.c: Don't allocate relayout entries for detached actors.</code>](https://github.com/linuxmint/muffin/commit/4ba0a2d693cee87a15dbd718486d443bc55dc487)
+- [ ] [<code>clutter: Emit ::resource-scale-changed outside the stage-views walk.</code>](https://github.com/linuxmint/muffin/commit/263d10fb984b11813003f2464737441cb593b3eb)
+- [ ] [<code>clutter-actor.c: Guess a resource scale of 1 when there are no views.</code>](https://github.com/linuxmint/muffin/commit/21572140e7579eccd8aee459c46385de1cfe1cba)
+- [ ] [<code>meta-x11-background-actor.c: Don't override the bottom actor's opacity</code>](https://github.com/linuxmint/muffin/commit/ccb7213e51ead8228ea699331e1285c1fbc80fbf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
