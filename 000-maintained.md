@@ -1564,6 +1564,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>feat(go.d/snmp): add per-walk timing and preparation diagnostics (#23753)</code>](https://github.com/netdata/netdata.git/commit/6af5cf6d1b639126a26e9d645a909a675b378243)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(logs): rewrite the Logs section as the Logs Management operator's manual (#23687)</code>](https://github.com/netdata/netdata.git/commit/4b1cf3b75d87374be6b4cdade57263b39319b61a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: give the OpenTelemetry landing page a distinct rendered title (#23755)</code>](https://github.com/netdata/netdata.git/commit/3a8d4f7a4faa8b605d92fbbb54d1b00054f8ed1a)
+- [ ] [<code>Regenerate integrations docs (#23746)</code>](https://github.com/netdata/netdata.git/commit/66a1efe0006f4109f3b357723d835818209cf3c0)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -3530,11 +3535,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(sdk): support input_ids and get_model_info in qairt plugin</code>](https://github.com/qualcomm/GenieX/commit/0251b4820f3c258ea2df3ba8218bf1776e79b745)
 - [ ] [<code>chore: update subproject commit for geniex-qairt</code>](https://github.com/qualcomm/GenieX/commit/082d71064853b776d08a9bd8de099c5884b3a216)
 - [ ] [<code>chore(ci): drop dead .apk content-type branch in release.js</code>](https://github.com/qualcomm/GenieX/commit/5e4ad8798003869cb86ef7392c066001d7ac9f9b)
+- [ ] [<code>feat(sdk): load custom QNN library via GENIEX_QNN_LIB / --qnn-lib</code>](https://github.com/qualcomm/GenieX/commit/b60e077736a5418610d3bc1c2094a2685c435f42)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(sdk): support batched prompts in geniex-bench via --- separator</code>](https://github.com/qualcomm/GenieX/commit/1b5f5dc068c910b2b74dd07e77cf92ad64f80ac1)
 - [ ] [<code>feat(cli): fetch updates from S3 index instead of GitHub releases</code>](https://github.com/qualcomm/GenieX/commit/58ad54d19d98a4fcb02377f7b1fe11e4d7081a7f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(sdk): pull models from Docker Hub's ai/* namespace</code>](https://github.com/qualcomm/GenieX/commit/7e92e3092dbffcca83581475fabbb19538372374)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(sdk): resolve QAIRT SDK layout for custom QNN lib</code>](https://github.com/qualcomm/GenieX/commit/331109b2bbfb1ca28089f04c1e8f3e59665414d2)
+- [ ] [<code>docs(sdk): warn that GENIEX_QNN_LIB is ABI-unsafe / testing-only</code>](https://github.com/qualcomm/GenieX/commit/19d033ae836745e1e8ff63eac2c4079adec2aac3)
 - [ ] [<code>docs(linux): surface host-dependency setup as an install pre-step (#1167)</code>](https://github.com/qualcomm/GenieX/commit/2c6c24633d47429b700a76df7a43c80108f4ddde)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>feat(qairt): opt-in sliding window CLI flag and env var</code>](https://github.com/qualcomm/GenieX/commit/394e1743ebcabaa730e9a83e52c33d65415492f8)
@@ -3542,6 +3551,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(sdk): bump geniex-qairt submodule pointer</code>](https://github.com/qualcomm/GenieX/commit/31cddef0b98aa6198f6bd8ca5f90d4454e0e72af)
 - [ ] [<code>chore(sdk): bump geniex-qairt submodule pointer</code>](https://github.com/qualcomm/GenieX/commit/f3c98d19b95d0e49a2bec2804db0c9f8bce007bd)
 - [ ] [<code>Trim comments and update geniex-qairt submodule to main hash</code>](https://github.com/qualcomm/GenieX/commit/574be141bb2620e99861aac9884e29ba27be210d)
+- [ ] [<code>feat(qairt): universal workbench build — runtime QAIRT version dispatch</code>](https://github.com/qualcomm/GenieX/commit/6802bb3583fe456b5c89a99e3574573fabc847e3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ci(qairt): build every QNN version + stage all qairt-<ver> variants</code>](https://github.com/qualcomm/GenieX/commit/a818fc849e8c3a1f850612fb2f96a14a7e240dcb)
+  - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix(cli): align serve short aliases with infer/run</code>](https://github.com/qualcomm/GenieX/commit/a8d6402424952020c5afd8c9173d12287aae410f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci(build-sdk): build unsigned HTP skels when signing secret is absent</code>](https://github.com/qualcomm/GenieX/commit/146adf32b1114fd2da3bc88972f00c2481bda986)
@@ -3925,6 +3938,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1383 from qualcomm/fix/pull-skip-downloaded-precisions</code>](https://github.com/qualcomm/GenieX/commit/a8700425e31bed4487730912513e36da1a362c76)
   - <sub>Tags: <code>v0.5.1-alpha.2</code></sub>
+- [ ] [<code>style(qairt): apply clang-format-18 to registry.cpp and qnn_runtime_utils.h</code>](https://github.com/qualcomm/GenieX/commit/b62ab6761191b267a2c642e61e079d133046d604)
 - [ ] [<code>feat(cli): warn when a second Ctrl+C aborts serve's teardown</code>](https://github.com/qualcomm/GenieX/commit/80c86e62dbed38686c4ae2b494218fffe0ac5730)
 - [ ] [<code>refactor(sdk): guard ggml backend dir scan behind GGML_BACKEND_DL</code>](https://github.com/qualcomm/GenieX/commit/64c6dd672b82e768ad007b75931dcf822698bcb1)
 - [ ] [<code>fix(cli): match pre-run skip lists on the top-level command</code>](https://github.com/qualcomm/GenieX/commit/ead5947f8bf7c88752ca99ff440eda7aebb4d186)
@@ -3975,6 +3989,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v0.5.1-alpha.3</code></sub>
 - [ ] [<code>docs: document geniex model commands and RB3 Gen 2 VLM limit</code>](https://github.com/qualcomm/GenieX/commit/199f151141f476126119c676277d1b96544322d6)
 - [ ] [<code>ci(bench): add SmolVLM-2B and SmolVLM2-2.2B to the QDC bench matrix</code>](https://github.com/qualcomm/GenieX/commit/c8a5e98bc15595263cc19f550574f2dc6d6bbe42)
+- [ ] [<code>feat(qairt): bundled runtime by default, --qnn-lib as an optional override</code>](https://github.com/qualcomm/GenieX/commit/56738554f3382ee29796ee69e797eb4fac535804)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>feat(cli): stream text and tool calls as they complete</code>](https://github.com/qualcomm/GenieX/commit/2492d1bbf7fad962bcdc5298bb94ed99409263a0)
 - [ ] [<code>fix(cli): separate reasoning when the request carries tools</code>](https://github.com/qualcomm/GenieX/commit/bdfc1a2904fbc22cbab25bcb1df8ed1864e6a947)
 - [ ] [<code>refactor(cli): keep the tool-call formats package-private</code>](https://github.com/qualcomm/GenieX/commit/f418fb93f54cb849d29fd09c17889eeda261dc6d)
@@ -3997,10 +4014,50 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sdk): disable buggy Adreno xmem GEMM path from the llama.cpp bump</code>](https://github.com/qualcomm/GenieX/commit/5f5a578f8bc21416a6f4de6daa484199c64783e7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>fix(server): trigger keepalive reset from divergent conversations, not a header</code>](https://github.com/qualcomm/GenieX/commit/0b9b2ff3462075662887da0618f09384f0ff2fa8)
+- [ ] [<code>docs(qairt): point the override check at the line the plugin actually logs</code>](https://github.com/qualcomm/GenieX/commit/cddc177df7f4a5480e4187dadd62caa60eaca06f)
+- [ ] [<code>chore(qairt): bump the plugin submodule to the merged workbench-build tip</code>](https://github.com/qualcomm/GenieX/commit/119cc5c03033b10109c5ca37d2777b51b92977d8)
 - [ ] [<code>fix(sdk): zero the geniex-bench chat-message array before use</code>](https://github.com/qualcomm/GenieX/commit/dc90e7f66675159101b15d2e2bf53659bb4a1061)
   - <sub>Tags: <code>v0.5.1-alpha.4</code></sub>
 - [ ] [<code>fix(server): replay VLM media after auto-reset</code>](https://github.com/qualcomm/GenieX/commit/595b19d7303fb1b28e62e6a1ec763a0200d417eb)
 - [ ] [<code>fix(ci): use cgo wrapper for utils tests</code>](https://github.com/qualcomm/GenieX/commit/5415bdf19cc75ec70ba1906dacbe1522f2307987)
+- [ ] [<code>review: trim comments, and correct the accepted-runtime range in the docs</code>](https://github.com/qualcomm/GenieX/commit/0dc31590f88d314ef7c3d28b801b06c64f0939ab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(qairt): bump the plugin submodule to merged main (de4f166)</code>](https://github.com/qualcomm/GenieX/commit/38d7b8d000e76f6149aad594918eb433284cf739)
+- [ ] [<code>docs(run): drop the resolver short-circuit note</code>](https://github.com/qualcomm/GenieX/commit/5c2c365b3c38c016b4640e241dd90f157c3001a4)
+- [ ] [<code>feat(cli): accept --qnn-lib on serve</code>](https://github.com/qualcomm/GenieX/commit/bc68bd216ba66efad08809b600aeda4197c123d9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(sdk): add geniex_set_qairt_runtime_path</code>](https://github.com/qualcomm/GenieX/commit/49df1fb3157742738b61276428a76f8d36883b4f)
+- [ ] [<code>refactor(qairt): hand the runtime path down, drop the duplicate resolution</code>](https://github.com/qualcomm/GenieX/commit/1e97168d3d7feb8d2f64390ca4fdde8e4644bd5a)
+- [ ] [<code>feat(bindings): expose the QAIRT runtime path in Go, Python and Android</code>](https://github.com/qualcomm/GenieX/commit/467ffbe3fe83c91ff1109ca685cb3813315d1554)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(qairt): bump the plugin submodule to 4dbb6a1, document the new route</code>](https://github.com/qualcomm/GenieX/commit/828a211642a8eaae62067accc199cb5ad854af84)
+- [ ] [<code>feat(cli): add a qnn-lib config default, document the override</code>](https://github.com/qualcomm/GenieX/commit/75c94d27aac89d3fe2eb041befcbed04e15449c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): repair the Errorf format string in TestResolveQnnLib</code>](https://github.com/qualcomm/GenieX/commit/426c4fb2b034f0488cd859d0c996d69c851c176c)
+- [ ] [<code>feat(sdk): re-introduce ModelScope hub for geniex pull</code>](https://github.com/qualcomm/GenieX/commit/11289b55503801e6192ce6e63922fe0c108d3c2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ffi): move ModelScope hub routing coverage to model-manager</code>](https://github.com/qualcomm/GenieX/commit/c853b11a0bf49c192c86107adde7c0987901994c)
+- [ ] [<code>fix(sdk): route pasted ModelScope URLs to the ModelScope hub</code>](https://github.com/qualcomm/GenieX/commit/9f9016532c44003df2294a12281291f79a7693e0)
+- [ ] [<code>ci(qdc): skip fork runs without QDC credentials</code>](https://github.com/qualcomm/GenieX/commit/b54d7b69b0b29cde13045b58c63f3f5592b7e988)
+- [ ] [<code>fix(build): skip accelerator patches for disabled backends</code>](https://github.com/qualcomm/GenieX/commit/f0a9f5ca54e82fcf18b91af9ea90775e7a67f72d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>revert(qairt): drop the QAIRT-runtime-path C API and its downstream wiring</code>](https://github.com/qualcomm/GenieX/commit/e23632bbd8a2e4be95007d1be6be865335eb38d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>rename(qairt): GENIEX_QNN_LIB -> GENIEX_QAIRT_LIB</code>](https://github.com/qualcomm/GenieX/commit/c7858d58c23f2d112c9192f3fa30d8b551045600)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(qairt): bump the plugin submodule to the GENIEX_QAIRT_LIB rename</code>](https://github.com/qualcomm/GenieX/commit/6f3ddc941cd184aba15b352aa37ba6bb3709b554)
+- [ ] [<code>chore(qairt): bump the plugin submodule to the merged GENIEX_QAIRT_LIB rename</code>](https://github.com/qualcomm/GenieX/commit/917162ad88e4f120e9360d304ceb0fc802e3d144)
+- [ ] [<code>chore(qairt): bump the plugin submodule to native-KV bundle support</code>](https://github.com/qualcomm/GenieX/commit/7fd089af166886bcbfe361f195549a56504b6bed)
+- [ ] [<code>Merge pull request #1425 from qualcomm/chore/bump-qairt-native-kv</code>](https://github.com/qualcomm/GenieX/commit/10f7b634d73411422a3235d9f6fd66d75a6bc667)
+  - <sub>Tags: <code>v0.6.0-alpha.2</code></sub>
+- [ ] [<code>rename(cli): --qnn-lib -> --qairt-lib</code>](https://github.com/qualcomm/GenieX/commit/558f8cb7fe6a9368f51a819c298709fff08766d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1427 from qualcomm/rename/qnn-lib-to-qairt-lib</code>](https://github.com/qualcomm/GenieX/commit/8ef874860779309ba9c56d766a03ffc1e2df986e)
+  - <sub>Tags: <code>v0.6.0</code> <code>v0.6.0-alpha.3</code></sub>
+- [ ] [<code>fix: vlm does not have chat template applied in accuracy mode with prompt file</code>](https://github.com/qualcomm/GenieX/commit/9a4aaa263b872730ea2ea7cfb4d8caf0dbca46dd)
+- [ ] [<code>Merge pull request #1428 from qualcomm/fix/paul/bench_vlm</code>](https://github.com/qualcomm/GenieX/commit/d38369a19af007bc164986b4415d9f8952a97301)
+  - <sub>Tags: <code>v0.6.1</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -37754,6 +37811,150 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(sessions): stop labeling internal completion provenance as webchat (#128165)</code>](https://github.com/openclaw/openclaw/commit/e8635d831d8250311fe692d2b9fc55c89a128d0e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>perf: keep normal continuation diagnostics at debug level (#137328)</code>](https://github.com/openclaw/openclaw/commit/907f6956ee5eae23d8a44fe224fd8bcd5faefefd)
+- [ ] [<code>test: consolidate doctor security warning coverage (#137333)</code>](https://github.com/openclaw/openclaw/commit/9703a6de3443e80e7427c936beb897fa6cd75bb2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(doctor): reuse canonical transcript call guard (#137325)</code>](https://github.com/openclaw/openclaw/commit/bea9713f8f5e028d88af318ff8c8c2f0acbc21d8)
+- [ ] [<code>fix(release): restore reviewed Telegram waiver allowlist (#137118)</code>](https://github.com/openclaw/openclaw/commit/79f0df31c8eb99ae4f93b2a03cba9ee1c76efc7d)
+- [ ] [<code>fix(macos): keep gateway windows on their selected connections (#137089)</code>](https://github.com/openclaw/openclaw/commit/2074e04c27566a53459662236d35d20ecadb2819)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ui): simplify fixtures and await lazy diff highlighting (#137186)</code>](https://github.com/openclaw/openclaw/commit/1ad63b16142717026b8c63e953f640559e51740b)
+- [ ] [<code>perf: reuse Code Mode skill field patterns (#137340)</code>](https://github.com/openclaw/openclaw/commit/f9a43c083c7ddeb82c95faf6afcc6eef1edfcbd9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(release): read frozen auth profile store contract (#136828)</code>](https://github.com/openclaw/openclaw/commit/1fb3e0ca33847b5827a21cf5cb132d3f90ff49ad)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): restore Slack private QA startup (#137346)</code>](https://github.com/openclaw/openclaw/commit/84eb1ec03bf237ae2ad0ffacd3804d52c21162bc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): repair the Gateway E2E shard (browser suite project, skill resource argv, Codex diagnostic) (#137358)</code>](https://github.com/openclaw/openclaw/commit/d2a616bdf373a5b3cac0add8e9b2f70cd0802f42)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(queue): reuse shared deferred fixtures (#137338)</code>](https://github.com/openclaw/openclaw/commit/3fab0f55a36bf44f0713e52fd0014185dca46f2e)
+- [ ] [<code>fix(mcp): hide policy-denied plugin tools from ACP sessions [AI] (#136546)</code>](https://github.com/openclaw/openclaw/commit/aa78c175b966a44441f65ef29043ee462d407a70)
+- [ ] [<code>fix(openai): preserve ChatGPT HTTP status for retry pacing (#137146)</code>](https://github.com/openclaw/openclaw/commit/cfa7876d49a46b4f35838f81a11a4b1c630a0f89)
+- [ ] [<code>refactor(control-ui): consolidate mention inbox requests (#137375)</code>](https://github.com/openclaw/openclaw/commit/46018ecf111636e981c3ab1a0921ee73217c6274)
+- [ ] [<code>fix(ios): preserve chat live edge across keyboard transitions (#136660)</code>](https://github.com/openclaw/openclaw/commit/9939a924ee71d64188ce3aa74538ee6e97b995ab)
+- [ ] [<code>chore: reduce CI job count and database test overhead (#137352)</code>](https://github.com/openclaw/openclaw/commit/cddda4626f120b9ab0fbf3f9ae690208d5ed596c)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: target the source checkout in Control UI repair commands (#137354)</code>](https://github.com/openclaw/openclaw/commit/18a439fae99eed659d49c195de3bab30f1972366)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(qa-channel): preserve conversation kind for implicit actions (#137343)</code>](https://github.com/openclaw/openclaw/commit/8e78378407630fc9c18238329a3faf3a6b35e2a0)
+  - <sub>Tags: <code>release-publish/8e7837840763-1788451538</code></sub>
+- [ ] [<code>fix(ui): sidebar header controls read misaligned after the + button lost its border (#137317)</code>](https://github.com/openclaw/openclaw/commit/3755763d794977d861724fa28397ca9af91afcff)
+- [ ] [<code>test(channels): reuse shared indexed call guards (#137350)</code>](https://github.com/openclaw/openclaw/commit/d1b7a76047349d1c6edee49a7bf1556cc7fb2acc)
+- [ ] [<code>test(cron): reuse isolated run suite hooks (#137341)</code>](https://github.com/openclaw/openclaw/commit/9061e30f868b0324a5556c7e3f3e749a7932679b)
+- [ ] [<code>improve(ui): lift sidebar section headers on hover and mark online owners (#136985)</code>](https://github.com/openclaw/openclaw/commit/c478d74980c15b4768b653c51bf5c8146905eb7f)
+- [ ] [<code>fix(plugins): reject unverifiable pinned npm installs (#136725)</code>](https://github.com/openclaw/openclaw/commit/8f2f551cc1c2a960179c154a1f8e20f52c1867bc)
+- [ ] [<code>test(ui): finish dialog work when assertions fail (#137393)</code>](https://github.com/openclaw/openclaw/commit/b5f9636c016001ce0a43695eaa045b1714d47c05)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(qa): preserve RTT measurement provenance (#137406)</code>](https://github.com/openclaw/openclaw/commit/391ab8b4c7d43300e778c6805acb10128fd8f599)
+- [ ] [<code>fix(release): include src/plugins in the trusted plugin npm tooling checkout (#137405)</code>](https://github.com/openclaw/openclaw/commit/428fa8e0d3dac835628f6ac6466bb65ce175b249)
+  - <sub>Tags: <code>release-publish/428fa8e0d3da-1788453684</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#137420)</code>](https://github.com/openclaw/openclaw/commit/1b6eea93c8610221ba9052e986915199ee4b12a7)
+- [ ] [<code>fix(cron): preserve payload options when cloning automations (#137419)</code>](https://github.com/openclaw/openclaw/commit/318dd5090dbd27472b8b0c4665b0ecd2ec066bed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): bind release baselines to immutable candidates (#136914)</code>](https://github.com/openclaw/openclaw/commit/56b264d5df3bf80d65744ca794dacc91455c5c9b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>test(channels): compile ingress restart fixture (#137227)</code>](https://github.com/openclaw/openclaw/commit/61c67cc8a68677687caecd2a27251ff63226a097)
+- [ ] [<code>fix(backup): support managed config and credentials links (#136343)</code>](https://github.com/openclaw/openclaw/commit/0aa9ae9f3e3ee94fbc3233f07b9653ef1402e7e5)
+- [ ] [<code>fix(ui): show concrete model names in locked chats (#137041)</code>](https://github.com/openclaw/openclaw/commit/b53be772243219b8f4b95520107776761710953f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): recover duplicated system monitors (#137408)</code>](https://github.com/openclaw/openclaw/commit/42eb30be9f61a1e45af7fa73663ff6f5e2b88c23)
+- [ ] [<code>fix(gateway): prevent startup stalls on large agent configs (#136379)</code>](https://github.com/openclaw/openclaw/commit/12bdd0a1087a7cb65873e954f29505b05fb16ebe)
+- [ ] [<code>fix(codex): scope app approvals to native threads (#137383)</code>](https://github.com/openclaw/openclaw/commit/d2829f348d81e412a45bd0442fa8b4e74d7ea1db)
+- [ ] [<code>test: simplify entry diagnostic mocks (#137423)</code>](https://github.com/openclaw/openclaw/commit/e2eb664c5208004ed89e72ed4381f97804030215)
+- [ ] [<code>fix: make completion permission recovery actionable (#137431)</code>](https://github.com/openclaw/openclaw/commit/41344e0b7dbd5629f797c535c985fd87a323abe5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: consolidate QA jobs and reuse CLI test setup (#137421)</code>](https://github.com/openclaw/openclaw/commit/781f9639ce414316a70a467de9d4dd73e8dcc4f4)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(subagents): bound restored requester-settle recovery (#133057)</code>](https://github.com/openclaw/openclaw/commit/09ae220ea89111b41038b66121a521b1ee8f3c0f)
+- [ ] [<code>chore(ui): refresh control ui locales (#137445)</code>](https://github.com/openclaw/openclaw/commit/1de701bbc19b5c3212eab94d5b023f92cd32dae1)
+- [ ] [<code>fix(discord): preserve realtime speaker and playback ownership (#137433)</code>](https://github.com/openclaw/openclaw/commit/85d510c1352604727286976de4280f1a7c175992)
+- [ ] [<code>feat(gateway): hot reload terminal availability and shared channel policy (#137412)</code>](https://github.com/openclaw/openclaw/commit/951c268db0cb80445264e64796578b6cbe3279b6)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(android): order gateway shutdown and credential reuse (#137389)</code>](https://github.com/openclaw/openclaw/commit/0bc6bdc0b8d2f7a5c202c360c94ad5668dee69c1)
+- [ ] [<code>fix(systemd): preserve services after backslash comments (#137448)</code>](https://github.com/openclaw/openclaw/commit/793f2df0b1aa1461b1f76e8e5c500d4921b1fd2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ui): reuse canonical subscription deferred fixtures (#137429)</code>](https://github.com/openclaw/openclaw/commit/6883d5abc56429f448f83e5ba62812261e0a6702)
+- [ ] [<code>test(doctor): simplify platform note assertions (#137426)</code>](https://github.com/openclaw/openclaw/commit/1b68c30e348e796ec15a9e3bd6152d2411f22a73)
+- [ ] [<code>test(cli): reuse compiled runtime in fork recovery process test (#137460)</code>](https://github.com/openclaw/openclaw/commit/6f77913ec3f71d0aca4d0896a99a8e7d5ce94457)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(worker): fast-forward a cloud worker checkout to the pushed session branch (#137392)</code>](https://github.com/openclaw/openclaw/commit/61bba4f6646bcec7973c3d60d4e913c61b08cdf1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(control-ui): preserve multi-profile provider readiness (#122300)</code>](https://github.com/openclaw/openclaw/commit/84bbb1db5d2aa9bea8f37695a690f16e655b3a45)
+- [ ] [<code>fix(ci): enforce generated preflight checks (#137455)</code>](https://github.com/openclaw/openclaw/commit/617251ad4fa3c14511144382a7e96b74cb22fb2f)
+- [ ] [<code>fix: keep remote Doctor failures out of local recovery (#137465)</code>](https://github.com/openclaw/openclaw/commit/7315811a5686f33369e087d3d2b548948d90e128)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(scripts): consolidate SDK registration fixtures (#137468)</code>](https://github.com/openclaw/openclaw/commit/a7cbcfbb290f2c2528ad1e9194edcf84858783cb)
+- [ ] [<code>test(voice-call): share response cancellation fixtures (#137384)</code>](https://github.com/openclaw/openclaw/commit/6d44018b15af7a2b2d16919741cb9b43544baf8d)
+- [ ] [<code>fix(qa): keep candidate plugin loading within the candidate checkout (#137449)</code>](https://github.com/openclaw/openclaw/commit/7a89ddc07b06ca458a110b4b0f28d686808ba17b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(e2e): cover mobile pairing gateway upgrades (#137321)</code>](https://github.com/openclaw/openclaw/commit/27183e4286420d2b257a5cd53cf35dc1d8ad965e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>chore(i18n): refresh native locales (#137480)</code>](https://github.com/openclaw/openclaw/commit/6cd743c2a39fda64249213da58fd6ecf30242c3a)
+- [ ] [<code>fix(ci): preserve package provenance in candidates (#137487)</code>](https://github.com/openclaw/openclaw/commit/57fa8da66d42027a1cdc803fb84da536cc7ea073)
+- [ ] [<code>test: consolidate logging mock-call guards (#137481)</code>](https://github.com/openclaw/openclaw/commit/e84f3c96f5771a86c7a7b52dc193110936a312e4)
+- [ ] [<code>test(ci): reuse the default Node planner fixture (#137501)</code>](https://github.com/openclaw/openclaw/commit/0fa2c3c8f39b114afb441fdc8b0c9d7c0605b685)
+- [ ] [<code>fix(webchat): avoid duplicate captions when finalizing media replies (#137500)</code>](https://github.com/openclaw/openclaw/commit/6de0dba61775f0265567994273ba9e5fbb6d387e)
+- [ ] [<code>fix: point Doctor service recovery to the right commands (#137505)</code>](https://github.com/openclaw/openclaw/commit/a50ffb75e834dbca165b8d0c77be8084df675900)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(plugin-sdk): accept positional code ranges (#137510)</code>](https://github.com/openclaw/openclaw/commit/ee6d96c08aee5997bafd9e74711d9012635b8559)
+- [ ] [<code>test: skip capability discovery for the construction fixture (#137512)</code>](https://github.com/openclaw/openclaw/commit/41d427648c54a6d7717aa4f4293176fc9a35fc96)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(cron): reuse shared mock-call assertions (#137498)</code>](https://github.com/openclaw/openclaw/commit/99c589fefe69c11e75c31a7328b4cfa3063c8d7d)
+- [ ] [<code>test(ui): reuse canonical session test fixtures (#137511)</code>](https://github.com/openclaw/openclaw/commit/34128683c359d4867815429477f9e3ee984cf9d3)
+- [ ] [<code>fix(plugin-sdk): preserve legacy retry inputs (#137521)</code>](https://github.com/openclaw/openclaw/commit/7704b271d5c6c141f5bcfefc1c32d063ab88a70e)
+- [ ] [<code>fix(slack): settle recovered tool failures on completed progress cards (#137523)</code>](https://github.com/openclaw/openclaw/commit/1527556f14d15bd5f3da55ef99922219ad5045c2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(elevenlabs): reuse typed fetch fixtures (#137515)</code>](https://github.com/openclaw/openclaw/commit/bfb73ce78513b7c135fe02a098a4da4ef0f0d18d)
+- [ ] [<code>fix(ui): serialize exec picker arguments canonically (pb-457.1) (#137475)</code>](https://github.com/openclaw/openclaw/commit/183f1057ac785b24cadba2fe9f924632aa74cac3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): tolerate delayed release child titles (#137518)</code>](https://github.com/openclaw/openclaw/commit/e9886360d7b70a77c2db5f48a5cf5f68ee74ed60)
+- [ ] [<code>refactor(browser): centralize raw CDP sender (#136693)</code>](https://github.com/openclaw/openclaw/commit/d67726588e79bdb354f541b97892ac75cbdf5d6e)
+- [ ] [<code>refactor(config): derive schema wire types (#136692)</code>](https://github.com/openclaw/openclaw/commit/47e14ea4402e077a1c0092d509251a68af871257)
+- [ ] [<code>refactor(whatsapp): preserve typed socket events (#136691)</code>](https://github.com/openclaw/openclaw/commit/91099c6ad57964d236909ecbace1fb51aa284409)
+- [ ] [<code>refactor(protocol): canonicalize node presence reasons (#136697)</code>](https://github.com/openclaw/openclaw/commit/46f162a214cdc9d5c42955c2af6252d9eb053c92)
+- [ ] [<code>fix(slack): progress text shows literal backslashes around inline code and emphasis (#137526)</code>](https://github.com/openclaw/openclaw/commit/9480357e9cbf0001fb90518528d2b32a083f0408)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build: consume platform-specific fs-safe packages (#132240)</code>](https://github.com/openclaw/openclaw/commit/6d3a1b867ff62e5065c88575c2ff377aba8d85fe)
+  - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>improve: avoid unused migration runtime startup (#137529)</code>](https://github.com/openclaw/openclaw/commit/abced35963f442c4aad8a80c5315fc2797ce827a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): preserve operator connection during gateway focus (#137519)</code>](https://github.com/openclaw/openclaw/commit/47c96a6ff09c0d244dc26be1800694d4c8d540c2)
+- [ ] [<code>test(doctor): reuse canonical Claude note call guard (#137522)</code>](https://github.com/openclaw/openclaw/commit/2fc51067c1ee1736671763e83da30e0326693a51)
+- [ ] [<code>chore(deps): update cooled Oxfmt and harden declaration fixtures (#137004)</code>](https://github.com/openclaw/openclaw/commit/762063f08f0ee6b398840e21d29a37e4bc9027a3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): own cloud startup and teardown resources (#137071)</code>](https://github.com/openclaw/openclaw/commit/2640154bcf801cd18f92fa20b5c4172f0539b284)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sessions): cleanup fails on large archive backlogs (#137545)</code>](https://github.com/openclaw/openclaw/commit/8b553470f091a77a222621cb8a6166f884d99010)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(openai): support GPT-6 Astra (#137550)</code>](https://github.com/openclaw/openclaw/commit/eb7209375ac041dba3eae2b50016ff37c200c00d)
+- [ ] [<code>test(plugins): reuse the shared cleanup timer call guard (#137482)</code>](https://github.com/openclaw/openclaw/commit/8b5b1cba1f9de3a9a743e28116ca684e4033198c)
+- [ ] [<code>fix: avoid service install advice when installation is blocked (#137548)</code>](https://github.com/openclaw/openclaw/commit/f5c254cf95a6c88b779afd590894ee0b87d12420)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(exa): consolidate private helper coverage (#136874)</code>](https://github.com/openclaw/openclaw/commit/2d7ce2bbfd67ebb44aecbdb939b6358e4521b69f)
+- [ ] [<code>test(minimax): consolidate private helper coverage (#136873)</code>](https://github.com/openclaw/openclaw/commit/eb907ca86cc4a9081d01e7bde1e23b48b639ca1f)
+- [ ] [<code>test(moonshot): consolidate private helper coverage (#136871)</code>](https://github.com/openclaw/openclaw/commit/519f003be891ceba9cc07334fc78655ebc88b13a)
+- [ ] [<code>test(xai): consolidate private helper coverage (#136872)</code>](https://github.com/openclaw/openclaw/commit/50f6a6f2231a65c0d39e72e676565c0bae36aa60)
+- [ ] [<code>chore(android): forward-port the shipped 2026.8.2 pin to main (#137554)</code>](https://github.com/openclaw/openclaw/commit/bbf7f6e327a34afb4ccb4ebb4857a8861b8f4a9b)
+- [ ] [<code>fix(agent): stop aborting healthy model responses as idle timeouts while the provider stream is still active (#131929)</code>](https://github.com/openclaw/openclaw/commit/1830f31ed4a538a8d66e3ac1a80a9d7d25f386b1)
+- [ ] [<code>refactor(channels): restore plugin types at registry (#136690)</code>](https://github.com/openclaw/openclaw/commit/f23e28e390ba2fe7c3360524b7aaf19b4d70cb4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(voice-call): reuse canonical Twilio call guards (#137538)</code>](https://github.com/openclaw/openclaw/commit/f2bb54863d6abcb0ddbb52705b156a4814c0f2a4)
+- [ ] [<code>fix(update): preload config writer before source rebuild (#136535)</code>](https://github.com/openclaw/openclaw/commit/d9bb2a9881f150d7aa0bd9c8b65292222939a0b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): release queued sends after recorded idle (#131948)</code>](https://github.com/openclaw/openclaw/commit/d74d5719f924397e095f9b33b0e5cb68b9d785b9)
+- [ ] [<code>test(logging): reuse mock call presence guard (#137546)</code>](https://github.com/openclaw/openclaw/commit/44331af8613f4137ab17dfb07cd9febc46525823)
+- [ ] [<code>fix(openai): require discovery before offering Astra for OAuth (#137561)</code>](https://github.com/openclaw/openclaw/commit/8b1add5c4193fb79063cb80deebc3a5c78d76d43)
+- [ ] [<code>fix: keep accepted chat messages queued through retryable failures (#137267)</code>](https://github.com/openclaw/openclaw/commit/2010e3733272a7cfab693988e0e75e60177ffe40)
+- [ ] [<code>test: trim redundant gateway fixture work (#137564)</code>](https://github.com/openclaw/openclaw/commit/b122b21f051ca6efb613207ef9991a89046a6057)
+- [ ] [<code>fix(media): retain blocked generation references (#131921)</code>](https://github.com/openclaw/openclaw/commit/1f654d45a931c12a197fd1110cfdd67eca96c680)
+- [ ] [<code>improve(ui): align picker interaction feedback (#133650)</code>](https://github.com/openclaw/openclaw/commit/9acf0d48294c86c09dbb0016b914f75eca567290)
+- [ ] [<code>fix(release): resolve first frozen baseline (#137575)</code>](https://github.com/openclaw/openclaw/commit/6b788ee87f5edcf82d81dba653a89824afe52223)
+- [ ] [<code>feat(meta): add Muse Spark 1.3 models (#136553)</code>](https://github.com/openclaw/openclaw/commit/194b7f2a16196481a70c139fb31f1777bdfbdc12)
+- [ ] [<code>test(ui): reuse canonical plugin-page deferred fixtures (#137558)</code>](https://github.com/openclaw/openclaw/commit/d6f061521abe00c358fd3c771152255e9526fcc7)
+- [ ] [<code>test: avoid browser discovery in agent fixtures (#137582)</code>](https://github.com/openclaw/openclaw/commit/ff187401f6bbf3350bd5fad0634c1fc10778528f)
+- [ ] [<code>test(cron): reuse the shared call guard in list tests (#137556)</code>](https://github.com/openclaw/openclaw/commit/6d8d67fae53586b284cd2c3957901cd576f09be7)
+- [ ] [<code>refactor(openai): simplify TTS fetch fixtures (#137559)</code>](https://github.com/openclaw/openclaw/commit/ed69bc4719cce0363ddc5a80f0fc77be40208063)
+- [ ] [<code>fix(plugins): report newer releases behind official version pins (#137578)</code>](https://github.com/openclaw/openclaw/commit/629bedd123c7031973771a13d752af7796be3c2b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
