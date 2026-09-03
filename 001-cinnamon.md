@@ -467,6 +467,8 @@
 - [ ] [<code>panel.js: Adjust pointer barrier positions based on session type,</code>](https://github.com/linuxmint/cinnamon/commit/6963863c6fe32052d98631f35ba1cc0ec2e60ad9)
 - [ ] [<code>expo, overview: Use a Clutter effect to shade backgrounds instead</code>](https://github.com/linuxmint/cinnamon/commit/101f790f9afa953a022f25b6a21ca1db5d75cddf)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>cinnamon-looking-glass: Move muffin debug controls, add slow-down</code>](https://github.com/linuxmint/cinnamon/commit/6be54f7e13dba20d5088a473c86f6a61f9bc3690)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
