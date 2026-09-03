@@ -469,6 +469,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>cinnamon-looking-glass: Move muffin debug controls, add slow-down</code>](https://github.com/linuxmint/cinnamon/commit/6be54f7e13dba20d5088a473c86f6a61f9bc3690)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-looking-glass.py: Don't terminate when the window is</code>](https://github.com/linuxmint/cinnamon/commit/7c9a9c150fd5ed9bd3fad4d9643a1df2551259d0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>overview.js: Use the same animation mode for opening and closing.</code>](https://github.com/linuxmint/cinnamon/commit/acc91032551ea79fda8a4900dcbdc87b9ea5884d)
+- [ ] [<code>cinnamon-looking-glass.py: Add some clutter debug flags.</code>](https://github.com/linuxmint/cinnamon/commit/b6a533404f119319fbf98ed8943ddb07ebd8d11c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -908,6 +913,7 @@
 - [ ] [<code>clutter: Emit ::resource-scale-changed outside the stage-views walk.</code>](https://github.com/linuxmint/muffin/commit/263d10fb984b11813003f2464737441cb593b3eb)
 - [ ] [<code>clutter-actor.c: Guess a resource scale of 1 when there are no views.</code>](https://github.com/linuxmint/muffin/commit/21572140e7579eccd8aee459c46385de1cfe1cba)
 - [ ] [<code>meta-x11-background-actor.c: Don't override the bottom actor's opacity</code>](https://github.com/linuxmint/muffin/commit/ccb7213e51ead8228ea699331e1285c1fbc80fbf)
+- [ ] [<code>clutter-actor.c: Follow-up to 61eece4d2, additional rounding</code>](https://github.com/linuxmint/muffin/commit/f5afa7daf66999cfe67f2be73f93bd1536c8e1af)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
