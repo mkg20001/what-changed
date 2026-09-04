@@ -474,6 +474,8 @@
 - [ ] [<code>overview.js: Use the same animation mode for opening and closing.</code>](https://github.com/linuxmint/cinnamon/commit/acc91032551ea79fda8a4900dcbdc87b9ea5884d)
 - [ ] [<code>cinnamon-looking-glass.py: Add some clutter debug flags.</code>](https://github.com/linuxmint/cinnamon/commit/b6a533404f119319fbf98ed8943ddb07ebd8d11c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Migrate calendar backend to clockenstein (#13972)</code>](https://github.com/linuxmint/cinnamon/commit/bb4e38b9ea0b9a8e06edb84cf27e99ba4411a0b1)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1198,6 +1200,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>test-scripts: Add submenus to some of our status icon clients.</code>](https://github.com/linuxmint/xapp/commit/639544dfaf7b276bc6334a827b5452b1dd5df9fc)
 - [ ] [<code>sn-item.c: Address status notifier items by their registered bus name.</code>](https://github.com/linuxmint/xapp/commit/cb3b0065e9f1f7577053916b065d31d7826a1320)
+- [ ] [<code>sn-item.c: Remove unused prop_proxy.</code>](https://github.com/linuxmint/xapp/commit/b88afd06f4c09732a165c5db2e7d4d4845b4ebb0)
+- [ ] [<code>sn-item.c: Validate client-supplied icon pixmaps instead of crashing on a bad IconPixmap type. (#210)</code>](https://github.com/linuxmint/xapp/commit/da232a3de99aee2f154f1e6cc9a0e6522f036ec7)
+- [ ] [<code>xapp-sn-watcher.c: Match bus names exactly when removing an exiting client's items. (#211)</code>](https://github.com/linuxmint/xapp/commit/60d8f52d165aa0db7ca71f1c100f7a3912c235b0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
@@ -1215,6 +1220,17 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.5...HEAD)
 
+- [ ] [<code>Remove epub support</code>](https://github.com/linuxmint/xreader/commit/a5aecea074e8564b7a22f1ce054b31ec862974b7)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xreader/commit/83ab5947de273ee1922b2cd31e3822aa4c26fdd9)
+- [ ] [<code>4.6.6</code>](https://github.com/linuxmint/xreader/commit/8129dfc641409f2a2a68bce4d933baa8b3a1e0f4)
+  - <sub>Tags: <code>4.6.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Support Wayland (#727)</code>](https://github.com/linuxmint/xreader/commit/afab2ff363f3fa9ed4e89a7782bd1e7f2b6d49cd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
