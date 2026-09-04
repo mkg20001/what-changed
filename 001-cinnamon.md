@@ -681,6 +681,11 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f9f679c9bed2f2462040fed9872988e705bf5630 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f9f679c9bed2f2462040fed9872988e705bf5630...HEAD)
 
+- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-l-icons/commit/4444358235422cf929ff67d552bf3fabe604e41f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add xepub</code>](https://github.com/linuxmint/mint-l-icons/commit/f93a19e1dbe958a5ba9197df9c3e85452335ce47)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8,2</code>](https://github.com/linuxmint/mint-l-icons/commit/a3c9f5f521b74bec30bb132e99d0278b169fdae6)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
@@ -740,6 +745,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update Google Photos icon (#566)</code>](https://github.com/linuxmint/mint-y-icons/commit/c3eded88c8fb5f20f895a272f22fd1161a1cdb28)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add xepub</code>](https://github.com/linuxmint/mint-y-icons/commit/63f11c1f2c32005a5da0a300f66979fa30d1b48a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-y-icons/commit/226182ca08d780618198fe7337459b25e4c34b25)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.3</code>](https://github.com/linuxmint/mint-y-icons/commit/d06678f41104c07eca5212b70bcee4b6d907f350)
+  - <sub>Tags: <code>1.9.3</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1203,6 +1214,9 @@
 - [ ] [<code>sn-item.c: Remove unused prop_proxy.</code>](https://github.com/linuxmint/xapp/commit/b88afd06f4c09732a165c5db2e7d4d4845b4ebb0)
 - [ ] [<code>sn-item.c: Validate client-supplied icon pixmaps instead of crashing on a bad IconPixmap type. (#210)</code>](https://github.com/linuxmint/xapp/commit/da232a3de99aee2f154f1e6cc9a0e6522f036ec7)
 - [ ] [<code>xapp-sn-watcher.c: Match bus names exactly when removing an exiting client's items. (#211)</code>](https://github.com/linuxmint/xapp/commit/60d8f52d165aa0db7ca71f1c100f7a3912c235b0)
+- [ ] [<code>test-scripts: Add a pure StatusNotifer client test.</code>](https://github.com/linuxmint/xapp/commit/17e3c9261d4bf39051cfcfabcfc2a4fa3e79381a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>xapp-sn-watcher.c: Fix dbus invocation return value.</code>](https://github.com/linuxmint/xapp/commit/05e670f0bc7b13bb292bc8a2c61e6b98ebad7201)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
@@ -1228,9 +1242,12 @@
   - <sub>Tags: <code>4.6.6</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Support Wayland (#727)</code>](https://github.com/linuxmint/xreader/commit/afab2ff363f3fa9ed4e89a7782bd1e7f2b6d49cd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Block ev_sidebar_tree_selection_changed handler during sidebar destroy to avoid accidentally rewriting the last viewed page number. (#694)</code>](https://github.com/linuxmint/xreader/commit/4b0a851ac50717e5e3400cac9a0cdf0b5310d33e)
+- [ ] [<code>4.6.7</code>](https://github.com/linuxmint/xreader/commit/5f2f98fe8de37aeba78be03a0bbd8446bc644de5)
+  - <sub>Tags: <code>4.6.7</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
