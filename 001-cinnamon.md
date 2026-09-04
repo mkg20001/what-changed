@@ -1197,6 +1197,7 @@
   - <sub>Tags: <code>3.3.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>test-scripts: Add submenus to some of our status icon clients.</code>](https://github.com/linuxmint/xapp/commit/639544dfaf7b276bc6334a827b5452b1dd5df9fc)
+- [ ] [<code>sn-item.c: Address status notifier items by their registered bus name.</code>](https://github.com/linuxmint/xapp/commit/cb3b0065e9f1f7577053916b065d31d7826a1320)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
