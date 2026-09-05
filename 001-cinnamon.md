@@ -476,6 +476,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Migrate calendar backend to clockenstein (#13972)</code>](https://github.com/linuxmint/cinnamon/commit/bb4e38b9ea0b9a8e06edb84cf27e99ba4411a0b1)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon/commit/abcce95741bf0ae69d1de379d95345e28f1fbf70)
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -510,7 +513,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>display: Use a ComboBox (once more) to select monitor scales.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b3648325342df85c2cff1a7359b996ef7d830530)
 - [ ] [<code>cc-display-settings.c: Fix permanently disabled underscan switch.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/06466991f12b4dae269ff668bef15383b73c7af7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ebdde0248d4aced1aa1266cf94d1d17bad5e8ec7)
+  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -558,7 +563,12 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>entry-directories: skip entries whose desktop file id is not valid UTF-8 (#85)</code>](https://github.com/linuxmint/cinnamon-menus/commit/683df096bdeaf00cbbe28cf8b2681b8186bb9eb0)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>debian: fix and improve the packaging (#87)</code>](https://github.com/linuxmint/cinnamon-menus/commit/dbd9ebf7661ff29c04f4d90c5e48026d1fa94010)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-menus/commit/1461debf15c829672f4732b141d11fa00ec50d30)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
@@ -576,7 +586,9 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>authClient.py: Fix typo.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d4c1d7fa1e98d571bd14cc09ceda57dd6c87f4fd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/53f8eb80057969cb463f05547749e167cf2ebb60)
+  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -927,7 +939,10 @@
 - [ ] [<code>clutter-actor.c: Guess a resource scale of 1 when there are no views.</code>](https://github.com/linuxmint/muffin/commit/21572140e7579eccd8aee459c46385de1cfe1cba)
 - [ ] [<code>meta-x11-background-actor.c: Don't override the bottom actor's opacity</code>](https://github.com/linuxmint/muffin/commit/ccb7213e51ead8228ea699331e1285c1fbc80fbf)
 - [ ] [<code>clutter-actor.c: Follow-up to 61eece4d2, additional rounding</code>](https://github.com/linuxmint/muffin/commit/f5afa7daf66999cfe67f2be73f93bd1536c8e1af)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/muffin/commit/02efe06544095eb89ebe72a8cda89f324356d7f6)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1030,9 +1045,11 @@
 - [ ] [<code>i18n: Run generate_additional_file.</code>](https://github.com/linuxmint/nemo/commit/a362e3d54180dd8e2f6050e663e8cc97c3a0ff0e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Simplify .desktop file handling, restore the polkit root</code>](https://github.com/linuxmint/nemo/commit/29fbc4b00005234dd92624a5620cc644525ba27c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/nemo/commit/c136845de8cdbd29fd2ef886d870f96568fe2ede)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1217,7 +1234,9 @@
 - [ ] [<code>test-scripts: Add a pure StatusNotifer client test.</code>](https://github.com/linuxmint/xapp/commit/17e3c9261d4bf39051cfcfabcfc2a4fa3e79381a)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>xapp-sn-watcher.c: Fix dbus invocation return value.</code>](https://github.com/linuxmint/xapp/commit/05e670f0bc7b13bb292bc8a2c61e6b98ebad7201)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.3.5-unstable</code>](https://github.com/linuxmint/xapp/commit/ab027439ff1e7832ee2742902b00590184c23b86)
+  - <sub>Tags: <code>3.3.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
