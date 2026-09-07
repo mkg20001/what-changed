@@ -697,7 +697,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add xepub</code>](https://github.com/linuxmint/mint-l-icons/commit/f93a19e1dbe958a5ba9197df9c3e85452335ce47)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8,2</code>](https://github.com/linuxmint/mint-l-icons/commit/a3c9f5f521b74bec30bb132e99d0278b169fdae6)
+- [ ] [<code>1.8.2</code>](https://github.com/linuxmint/mint-l-icons/commit/5f5957bc87af839ffdcaa779d099b217bb6825a2)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
@@ -706,6 +706,8 @@
 - [ ] [<code>cinnamon: Support for gwl overflow buttons, updates for screensaver.</code>](https://github.com/linuxmint/mint-l-theme/commit/cfa89d611ad7388e6adabbd42bc979a1bf1b81a9)
 - [ ] [<code>Update .gitignore.</code>](https://github.com/linuxmint/mint-l-theme/commit/771062e022d406be50a09849b59fcb2b12e34356)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.0.8</code>](https://github.com/linuxmint/mint-l-theme/commit/b8a322c809f8ba91bb89cf7dfab8969dcb215db0)
+  - <sub>Tags: <code>2.0.8</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
@@ -718,7 +720,8 @@
 - [ ] [<code>Mint-X/cinnamon: Add support for grouped-window-list scroll-buttons.</code>](https://github.com/linuxmint/mint-themes/commit/d7150fc4f4d32fce2ab1bd15590b58ff52c90c0f)
 - [ ] [<code>Mint-X/cinnamon: Add support for screensaver.</code>](https://github.com/linuxmint/mint-themes/commit/35bca280fdd4a15d4bfe89f1a77ef8a53cec4f5f)
 - [ ] [<code>Mint-Y: Fix previous commit.</code>](https://github.com/linuxmint/mint-themes/commit/b4f07412e011111e7ccc46ba21d6a315a37ca300)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.4.1</code>](https://github.com/linuxmint/mint-themes/commit/1137411296d6b45cba42e01f1651107edd023077)
+  - <sub>Tags: <code>2.4.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
 
