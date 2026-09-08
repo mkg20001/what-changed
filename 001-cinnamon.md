@@ -691,13 +691,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f9f679c9bed2f2462040fed9872988e705bf5630 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f9f679c9bed2f2462040fed9872988e705bf5630...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5f5957bc87af839ffdcaa779d099b217bb6825a2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5f5957bc87af839ffdcaa779d099b217bb6825a2...HEAD)
 
-- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-l-icons/commit/4444358235422cf929ff67d552bf3fabe604e41f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add xepub</code>](https://github.com/linuxmint/mint-l-icons/commit/f93a19e1dbe958a5ba9197df9c3e85452335ce47)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.2</code>](https://github.com/linuxmint/mint-l-icons/commit/5f5957bc87af839ffdcaa779d099b217bb6825a2)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
@@ -728,44 +723,8 @@
 - [ ] [<code>Add support for ungoogled-chromium (#219)</code>](https://github.com/linuxmint/mint-x-icons/commit/045080051b513cb7d8bb56f13065397a513a179c)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.2...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.3...HEAD)
 
-- [ ] [<code>Modified ms-edge.svg to match newer version. (#526)</code>](https://github.com/linuxmint/mint-y-icons/commit/02c4a9414526a58212cab2c671a4f9f5374a55be)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add CopyQ icon (#528)</code>](https://github.com/linuxmint/mint-y-icons/commit/d73b7aeb446f0768dc12a97a35fca7876935180f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update YouTube Icons (#530)</code>](https://github.com/linuxmint/mint-y-icons/commit/cb7630828e4840d20b750504011ceeae9c384448)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add FreeFileSync icons (#531)</code>](https://github.com/linuxmint/mint-y-icons/commit/f38ffb2b68844f1196cd117dbd1e46bf3f1f4cab)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add REAPER icon (#532)</code>](https://github.com/linuxmint/mint-y-icons/commit/bf1fccc9695984e1f43bbbcd84f2e500d0df49ad)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>added lunar_client icons (#538)</code>](https://github.com/linuxmint/mint-y-icons/commit/419b262b36897fcf3261c5eadbaf369e6827c24b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add DaVinci Resolve symbolic link (#540)</code>](https://github.com/linuxmint/mint-y-icons/commit/de6bbbc1c1d0666513f93a049cd26d45d0c566c5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Google Gemini icon (#541)</code>](https://github.com/linuxmint/mint-y-icons/commit/1af1f1337224b48b1b72e54473218aba157f39f2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Added symlinks for spotify-launcher and vesktop (#542)</code>](https://github.com/linuxmint/mint-y-icons/commit/50a7685c6f0fb3894dd9b06be677405ceb0739e5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon for Counter-Strike 2 (#548)</code>](https://github.com/linuxmint/mint-y-icons/commit/7ca40a75584dc5053d4f9f8e7d3bd7df4a9fcf6c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Prism Launcher icon (#558)</code>](https://github.com/linuxmint/mint-y-icons/commit/5892bbc19a3293071339bb7df502165c7ebfb75f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update VirtualBox icon (#563)</code>](https://github.com/linuxmint/mint-y-icons/commit/4413906b9bd5deae6690627d26dc31b5f8c173a1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Google Drive icon (#564)</code>](https://github.com/linuxmint/mint-y-icons/commit/edd7e20615e92ffc427eb8f91101e4b7fdd2006f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Google Gmail icon (#565)</code>](https://github.com/linuxmint/mint-y-icons/commit/5ed62ba98e15a1ab1285b33623801c19f036f55b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Google Photos icon (#566)</code>](https://github.com/linuxmint/mint-y-icons/commit/c3eded88c8fb5f20f895a272f22fd1161a1cdb28)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add xepub</code>](https://github.com/linuxmint/mint-y-icons/commit/63f11c1f2c32005a5da0a300f66979fa30d1b48a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-y-icons/commit/226182ca08d780618198fe7337459b25e4c34b25)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.3</code>](https://github.com/linuxmint/mint-y-icons/commit/d06678f41104c07eca5212b70bcee4b6d907f350)
-  - <sub>Tags: <code>1.9.3</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -943,9 +902,11 @@
 - [ ] [<code>meta-x11-background-actor.c: Don't override the bottom actor's opacity</code>](https://github.com/linuxmint/muffin/commit/ccb7213e51ead8228ea699331e1285c1fbc80fbf)
 - [ ] [<code>clutter-actor.c: Follow-up to 61eece4d2, additional rounding</code>](https://github.com/linuxmint/muffin/commit/f5afa7daf66999cfe67f2be73f93bd1536c8e1af)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/muffin/commit/02efe06544095eb89ebe72a8cda89f324356d7f6)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meta-xwayland-dnd.c: Use two X11 DnD peer windows.</code>](https://github.com/linuxmint/muffin/commit/03106eff413b538b76eba8f2f087616add425e55)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1051,8 +1012,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/nemo/commit/c136845de8cdbd29fd2ef886d870f96568fe2ede)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>docs: fix parameter names left from the nautilus era (#3832)</code>](https://github.com/linuxmint/nemo/commit/678474cae4b6e2848de57a791f91957283478e5a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
