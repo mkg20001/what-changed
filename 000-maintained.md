@@ -203,6 +203,23 @@
 - [ ] [<code>feat: added translations verifier bot (#409)</code>](https://github.com/canonical/firmware-updater/commit/a2c13dbc02b3904e4cb84d6b3f0dffa5e31855ff)
 - [ ] [<code>fix: add missing permissions to gh action</code>](https://github.com/canonical/firmware-updater/commit/4c3fd82240a84ec2363bdfd0727c3586adbad7fe)
 - [ ] [<code>fix: add missing permissions to gh action (#410)</code>](https://github.com/canonical/firmware-updater/commit/1c6cedd9cbabbec0f029853bb00755ad5aef93d8)
+- [ ] [<code>Update wlreviser-bot.yaml with write permissions</code>](https://github.com/canonical/firmware-updater/commit/c1a377b951ec7b600d8a9e69cb69ccc9b8b9225a)
+- [ ] [<code>Update wlreviser-bot.yaml with write permissions (#411)</code>](https://github.com/canonical/firmware-updater/commit/a5eef16fb22d9170104bf6979d7d335a77abdb20)
+- [ ] [<code>fix(l10n): translated using Weblate (Occitan)</code>](https://github.com/canonical/firmware-updater/commit/9db6d59d88798712fd5a408d649d730a4366548d)
+- [ ] [<code>fix(l10n): added translation using Weblate (English (United Kingdom))</code>](https://github.com/canonical/firmware-updater/commit/e666c2ca16a2307ac5277e4cdd2074aec7c93690)
+- [ ] [<code>fix(l10n): translated using Weblate (Italian)</code>](https://github.com/canonical/firmware-updater/commit/f8bf88ce258ad5f3e63e41d81c0d59d88bc62181)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/aa5696b97469cfe9c4977825473dc4dfc4f75cd2)
+- [ ] [<code>fix(l10n): translated using Weblate (Galician)</code>](https://github.com/canonical/firmware-updater/commit/ffc319cb002968fe638a9c82aa0e34d35e94d05f)
+- [ ] [<code>fix(l10n): translated using Weblate (English (United Kingdom))</code>](https://github.com/canonical/firmware-updater/commit/43d2185ffe90ffa82852df47d4770718d4641521)
+- [ ] [<code>fix(l10n): translated using Weblate (Bosnian)</code>](https://github.com/canonical/firmware-updater/commit/c3a66099521c3edaa80766d2adf209d7e3207145)
+- [ ] [<code>fix(l10n): translated using Weblate (Galician)</code>](https://github.com/canonical/firmware-updater/commit/e7209022f69f05b4006f1724fd19be5a05374da1)
+- [ ] [<code>fix(l10n): translated using Weblate (Italian)</code>](https://github.com/canonical/firmware-updater/commit/6e4ed6774f19195c8bd0af31072cb88c180981ed)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/474d047e36c448b2d50bdb1d95dc57d45017ca5e)
+- [ ] [<code>fix(l10n): translated using Weblate (Italian)</code>](https://github.com/canonical/firmware-updater/commit/5790a835cebf00b4515730623edc99628f847094)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/865f468453b463ed80aaa82a63b6eaf7d1faca5d)
+- [ ] [<code>fix(l10n): translated using Weblate (English (United Kingdom))</code>](https://github.com/canonical/firmware-updater/commit/d0e90d2f3db3e819beb4cd246594df5c580c3a94)
+- [ ] [<code>regenerated files from translations</code>](https://github.com/canonical/firmware-updater/commit/88939ff18dc20cf781f402d9525d1ee48f257a4f)
+- [ ] [<code>fix(l10n): translations update from Hosted Weblate (#406)</code>](https://github.com/canonical/firmware-updater/commit/e5ebd5ea5d164f2ee46ad9f033681a6bd391722e)
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v2.8.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.8.0...HEAD)
 
@@ -1719,6 +1736,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(skills): add repo-skill-authoring (#23799)</code>](https://github.com/netdata/netdata.git/commit/2efad2abe45a04711bbb169601284b7307edd17d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(go.d/snmp): publish independent diagnostics and retain topology history (#23800)</code>](https://github.com/netdata/netdata.git/commit/0f699939dd70bae9935888d420e8d70fc9ef7021)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.11.0-283-nightly.</code>](https://github.com/netdata/netdata.git/commit/c5ac56f6602253185a2feca50ba650e37126eb9b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -41606,6 +41625,123 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ci): bound frozen fs-safe contract resolution (#141611)</code>](https://github.com/openclaw/openclaw/commit/b5d7cd1bf1e52697ca40444bb129952902efaed7)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>fix(status): report missing skill requirements (#141618)</code>](https://github.com/openclaw/openclaw/commit/f3076010caa4f247bb4f64ca154148b433240f6e)
+- [ ] [<code>refactor(tests): reuse Discord allowlist fixtures (#141622)</code>](https://github.com/openclaw/openclaw/commit/24d76fdc10a7e74d59bee91848af0952335a81bd)
+- [ ] [<code>fix(ui): avoid broken characters in download filenames (#141311)</code>](https://github.com/openclaw/openclaw/commit/fa273d6608171f43104ecc4e27e1bafe0579db73)
+- [ ] [<code>test(update): separate unavailable and corrupt plugin recovery (#141624)</code>](https://github.com/openclaw/openclaw/commit/9059a4607589cce0a17846bceb72311b826d74dc)
+- [ ] [<code>fix(telegram): keep successful album recovery quiet (#141601)</code>](https://github.com/openclaw/openclaw/commit/c1644710e86199e31a1742b29cc7f331fd1e794e)
+- [ ] [<code>refactor: simplify provider HTTP error normalization (#141623)</code>](https://github.com/openclaw/openclaw/commit/f11fb86b8e8befeec175e8d9474238e07b4d57e5)
+- [ ] [<code>fix(state): distinguish slow database validation stages (#141619)</code>](https://github.com/openclaw/openclaw/commit/de9fce55774ffaf759d5378135d0443828a62bb0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(chat): share model provider grouping (#141612)</code>](https://github.com/openclaw/openclaw/commit/82e84207d6006a531e7bb3a9b5e176df0e25559e)
+- [ ] [<code>test: remove duplicate collapsed activity case (#141630)</code>](https://github.com/openclaw/openclaw/commit/c8a55d6b8fdefc58247006b01d58296819c11c61)
+- [ ] [<code>test: keep Linux listener ports outside the client range (#141627)</code>](https://github.com/openclaw/openclaw/commit/48b66d4e53862e45441a1fd5b9660dcf51a2b0e8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(gateway): bound singleton event metadata reads (#141609)</code>](https://github.com/openclaw/openclaw/commit/80dc985ed3860ea6cff731b81e7b10f2b236e624)
+- [ ] [<code>fix(update): recover stale runs without stopping healthy gateways (#141562)</code>](https://github.com/openclaw/openclaw/commit/7f9bf1d79aef6bf7732f1bebb5823b5035699dd9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): classify background exec task blockers (#141588)</code>](https://github.com/openclaw/openclaw/commit/181caeda7beda650dbf28524776a66038556d762)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(tests): consolidate shared wake scheduler coverage (#141631)</code>](https://github.com/openclaw/openclaw/commit/d7497911f0bb6ff029d76bf4ab22000bc43c489a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(config): preserve authored settings through updates and setup (#140579)</code>](https://github.com/openclaw/openclaw/commit/07636e80c7161c7c486d4dc0c83e641328978218)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(codex): preserve process inspection scope in containment fixtures (#141634)</code>](https://github.com/openclaw/openclaw/commit/f73f03c697d695824d725a9228febd29112d732f)
+- [ ] [<code>refactor(tests): simplify dispatch policy fixtures (#141636)</code>](https://github.com/openclaw/openclaw/commit/96a9fd284eeec6398b7c85dae3c20d9c0eae92ca)
+- [ ] [<code>fix(ui): refresh selected usage details (#141632)</code>](https://github.com/openclaw/openclaw/commit/8ca8c8ef0e382df25e0c648f1337d78f19a1d463)
+- [ ] [<code>fix(test): preserve safe Linux ports on permission fallback (#141645)</code>](https://github.com/openclaw/openclaw/commit/420992d2ced72ad3dffb5776f48bdf2b27b29c96)
+- [ ] [<code>refactor(tests): remove duplicate memory resolver cases (#141650)</code>](https://github.com/openclaw/openclaw/commit/f43c3459e4f5204ea5e461b3989116814e165cf1)
+- [ ] [<code>fix(devices): use operator labels in node approval notices (#141649)</code>](https://github.com/openclaw/openclaw/commit/48698d831c4d873c8b5c73737a0d6ac4e9ec62b0)
+- [ ] [<code>chore(i18n): refresh native locales (#141543)</code>](https://github.com/openclaw/openclaw/commit/2d174720aa4ce477035c037e699744531d3261c1)
+- [ ] [<code>fix(update): validate artifact plugins against the staged version (#141610)</code>](https://github.com/openclaw/openclaw/commit/84395c0d09aa3d64343640f72524540ac19f0e06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(android): wait for save notices (#141635)</code>](https://github.com/openclaw/openclaw/commit/743321a482e8737827b4b56dd1bc012defe63ddd)
+- [ ] [<code>refactor: keep session recovery text independent of delivery runtime (#141629)</code>](https://github.com/openclaw/openclaw/commit/9fb6b2b5ec3b2cf1889912c5d6f030ffe31d2573)
+- [ ] [<code>refactor: remove unused prompt action discovery (#141659)</code>](https://github.com/openclaw/openclaw/commit/a73940d8bad4a450443f45e7f1ed0a207d27f1cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(skills): share readiness formatting (#141646)</code>](https://github.com/openclaw/openclaw/commit/4d81411ef967f9b892a3953f67c849dff3e6ba18)
+- [ ] [<code>refactor(tasks): require atomic store writes (#141662)</code>](https://github.com/openclaw/openclaw/commit/16b031d64ec3643d441c53e2643209640181ee43)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: preserve native CLI auth status in model lists (#141654)</code>](https://github.com/openclaw/openclaw/commit/29464d4ff7d6e7ac37e87a0e29064c930ea19439)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(update): simplify constant downgrade confirmation text (#141671)</code>](https://github.com/openclaw/openclaw/commit/4140743e31f8c3500ef9ab972105d5f273107b4e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: hide internal context in streamed reasoning previews (#141544)</code>](https://github.com/openclaw/openclaw/commit/59f57f3cc5fa4beaba0d2f08bcc7e5ed3d947b3e)
+- [ ] [<code>test(codex): await real root stop before injected quiescence (#141681)</code>](https://github.com/openclaw/openclaw/commit/693485b36510ee24cf97be4bdbfa2c3ff5547609)
+- [ ] [<code>test: reuse provider registries in catalog auth fixtures (#141682)</code>](https://github.com/openclaw/openclaw/commit/656f4fcff1ae94c391d85ed794aedaf36c66a2cc)
+- [ ] [<code>perf(talk): skip unused trailing wake-name distance (#141683)</code>](https://github.com/openclaw/openclaw/commit/a538bff490e7dda7fe61c61546e94f917518606e)
+- [ ] [<code>fix(tests): set explicit Doctor authority fixture permissions (#141672)</code>](https://github.com/openclaw/openclaw/commit/6883661e9e915c4ab0183a6f394614f66e1b1cb2)
+- [ ] [<code>fix(media): avoid false empty-body download diagnostics (#141674)</code>](https://github.com/openclaw/openclaw/commit/b1c16ede4469aa804f7fe0861f9c0b28eb3a935d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(btw): report usage for direct-provider answers (#141620)</code>](https://github.com/openclaw/openclaw/commit/e789c56ecd7f60d308532363568dca053da64c2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve state when gateway startup is refused (#141451)</code>](https://github.com/openclaw/openclaw/commit/31d7030616508727ee5618f13ced46f0f44327dd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: prevent multi-select tests leaking their resize observer (#141673)</code>](https://github.com/openclaw/openclaw/commit/381fd7239725c55cd960d15d0d590a3444cdb8e0)
+- [ ] [<code>test(release): require completed managed survivor evidence (#141663)</code>](https://github.com/openclaw/openclaw/commit/135d2700e7b62fe419c15b1688b0147e56589ef7)
+  - <sub>Tags: <code>release-publish/135d2700e7b6-1788829835</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(sdk): reuse UTF-8 report truncation (#141660)</code>](https://github.com/openclaw/openclaw/commit/c6138de0df9bb658b0c73442d4a271aa21c4bb6a)
+- [ ] [<code>fix(setup): New Agent fails with protected provider credentials (#141586)</code>](https://github.com/openclaw/openclaw/commit/a00606a55d85b0417fd6b15e7b3d99f09acd7520)
+- [ ] [<code>refactor(cron): separate script result parsing (#141688)</code>](https://github.com/openclaw/openclaw/commit/53ff0867149e1fd753cbfc9f67f79a28e6318f58)
+- [ ] [<code>test: observe Kova retry backoffs without waiting (#141693)</code>](https://github.com/openclaw/openclaw/commit/823ff3ed9ad61e03aecd0bec0421a5463d80eccf)
+- [ ] [<code>fix(doctor): release plugin resources after inspection (#141692)</code>](https://github.com/openclaw/openclaw/commit/5605b92d2e6be08c9c1fd0347e69f9e2a1d0dff9)
+- [ ] [<code>fix(android): show expanded catalog refresh failures (#141603)</code>](https://github.com/openclaw/openclaw/commit/904422ac4201c526449466b4003544daa723fc49)
+- [ ] [<code>fix(sqlite): report observed integrity timeout phases (#141669)</code>](https://github.com/openclaw/openclaw/commit/31a823079ed837c43ac0cd85a0c46d9dcbc6750c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): make TUI startup frame ordering deterministic (#141704)</code>](https://github.com/openclaw/openclaw/commit/cad71bedd44667e2d481fb68e7e88159a8d3f048)
+- [ ] [<code>refactor(transcripts): separate summary persistence from capture (#141695)</code>](https://github.com/openclaw/openclaw/commit/099546197aa09eda445659acdbef7e3d617f54d3)
+- [ ] [<code>fix(agents): preserve queued replies across session handoffs (#141718)</code>](https://github.com/openclaw/openclaw/commit/d12106ef815f9e36585cb53db639a1e447056cb1)
+- [ ] [<code>fix: prevent stale provider hooks and incorrect model alias selection (#141679)</code>](https://github.com/openclaw/openclaw/commit/ccd3a4414e5f941665679172d5e9f83a8a3ae14f)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>perf(cli): retire redundant binary-name resolution (#141713)</code>](https://github.com/openclaw/openclaw/commit/02fe272b105525469adadae586bd56cf7abcb074)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): update model availability after expiry or cooldown (#141727)</code>](https://github.com/openclaw/openclaw/commit/3ff3b1753349c658a7a8f32e8b121e3ad51aa210)
+- [ ] [<code>fix(agents): honor account selectors in agent summaries (#141724)</code>](https://github.com/openclaw/openclaw/commit/fc507515dfa9eb9afe1cd2d150cd490f33081529)
+- [ ] [<code>refactor(infra): remove retired restart test overrides (#141714)</code>](https://github.com/openclaw/openclaw/commit/b1f07a0edeffb00b4b626b0a3fa50847e399d244)
+- [ ] [<code>fix(updater): force-tolerant tag fetch so recreated upstream tags don't abort updates (#126816)</code>](https://github.com/openclaw/openclaw/commit/665d4fadbd475a4117dc90696ae2da1037afdb3c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): use frozen-compatible Node runtime tests (#141640)</code>](https://github.com/openclaw/openclaw/commit/348214aa79b1c14945d7552e7b543423e1c71bab)
+- [ ] [<code>fix(ci): accept frozen legacy same-version updates (#141652)</code>](https://github.com/openclaw/openclaw/commit/7038ee5f317a9f1807b9908d134cc9dbe0258f0b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): explain setup codes pasted as Gateway secrets (#141717)</code>](https://github.com/openclaw/openclaw/commit/1d5cb72a13ce70af9cf7e6afa2cf63cd33e93fcf)
+- [ ] [<code>feat(ui): render sidebar and chat from cached state before the Gateway connects (#141121)</code>](https://github.com/openclaw/openclaw/commit/24ae0fc1984c9563ebd7b4417489ddf6abd88d78)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(e2e): exercise the production log-tail limit (#141470)</code>](https://github.com/openclaw/openclaw/commit/cbd645ede52fb2966a474d9be79bab49f24b777d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): reject invalid password secrets at startup (#141720)</code>](https://github.com/openclaw/openclaw/commit/b3589c4248a47eb73fdc6b015286f02c35b600ba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sessions): reopen retained search hits after a reset (#141437)</code>](https://github.com/openclaw/openclaw/commit/d96e17bcbcda59d0a72afca04498e889ccb1abff)
+- [ ] [<code>refactor(ui): unify profile identity save lifecycle (#141730)</code>](https://github.com/openclaw/openclaw/commit/2634c04a64c4c6d40a364864808dc7908b61bb8a)
+- [ ] [<code>fix(talk): await connection cleanup during shutdown (#141706)</code>](https://github.com/openclaw/openclaw/commit/e94d0e97a6b927c9451814835cdd62a27e51e0ac)
+- [ ] [<code>refactor(slack): share reply segment projection (#141733)</code>](https://github.com/openclaw/openclaw/commit/6f46b37dc9c7d4155ee2d6e3988ec4848e8955d3)
+- [ ] [<code>fix(agents): preserve Code Mode data within context limits (#141417)</code>](https://github.com/openclaw/openclaw/commit/8678a4753ce1d85b0b9c60a0f2c32870c625e63f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(vitest): size every project against one host reading (#141716)</code>](https://github.com/openclaw/openclaw/commit/3af7d292eed75b8af92f588838ac42e47d2a86e1)
+- [ ] [<code>refactor(cli): share local onboarding decision (#141735)</code>](https://github.com/openclaw/openclaw/commit/2a6b2ed89f0ef27d0dabc436ed4f429f58db7f98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: skip browser assets in config RPC fixtures (#141741)</code>](https://github.com/openclaw/openclaw/commit/bc446dcb6558d1ce292a78766011ae199b4c5da7)
+- [ ] [<code>fix(agents): preserve shared history and deletion retries (#141731)</code>](https://github.com/openclaw/openclaw/commit/a620ab692463e0ade44db3745ea3da9ab01e0f90)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): unpublish retired relay endpoints before listener close (#141608)</code>](https://github.com/openclaw/openclaw/commit/d9183e4a565e8d4567137f3cddc6f955406710ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): separate prepared snapshot construction (#141711)</code>](https://github.com/openclaw/openclaw/commit/0a549d216805059cdb599bc70fbfe5ce3d06bd6b)
+- [ ] [<code>chore(ui): refresh control ui locales (#141750)</code>](https://github.com/openclaw/openclaw/commit/3245d91761f58cef3a93a55661302204d33d43f7)
+- [ ] [<code>refactor(web): share HTML tag scanning (#141726)</code>](https://github.com/openclaw/openclaw/commit/48d1551a3327a154ebba5caab03486ae82bf7479)
+- [ ] [<code>fix(ui): count displayed sessions in Usage (#141749)</code>](https://github.com/openclaw/openclaw/commit/77c45a9be74fe4860b0852519d28d690fc908449)
+- [ ] [<code>refactor(qa): remove unused script test accessors (#141751)</code>](https://github.com/openclaw/openclaw/commit/275b5bace4cf4b136f327b818e5a4cd76c8acb54)
+- [ ] [<code>fix(ui): respect empty thinking choices (#141696)</code>](https://github.com/openclaw/openclaw/commit/257b25c92a3fee6e040e10413aa22a3e3ba16c6d)
+- [ ] [<code>fix(update): identify blocked finalizer child processes (#141740)</code>](https://github.com/openclaw/openclaw/commit/a837c55f2e52226d0be9332f4c4758956e3f7684)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor(tests): share unreachable Gateway probe fixtures (#141758)</code>](https://github.com/openclaw/openclaw/commit/13ced0e758e1efba7d5e7f604b1671494201435b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(agents): separate prepared runtime retention (#141728)</code>](https://github.com/openclaw/openclaw/commit/da424a253cded4b5bc6ae17336116ed3649692b8)
+- [ ] [<code>fix: repair Workshop review targeting and release checks (#141575)</code>](https://github.com/openclaw/openclaw/commit/e545da46f6d895c13dd7c3a2ee28e048e524fa92)
+- [ ] [<code>fix(test): preserve Doctor config across SecretRef scenarios (#141768)</code>](https://github.com/openclaw/openclaw/commit/bf1a7c2af42ac5431f9bdbfa28d0d598edc29322)
+- [ ] [<code>perf(feishu): skip unnecessary card table admission work (#141770)</code>](https://github.com/openclaw/openclaw/commit/1e1385e0b0ba01587b6bb9022e5ccc075bd22815)
+- [ ] [<code>fix(matrix): avoid false readiness failures after unrelated config updates (#141757)</code>](https://github.com/openclaw/openclaw/commit/18b8a08c09824028fdb119148a2886f2de39be80)
+- [ ] [<code>fix(release): bind source admission and retain first-hop coverage (#141746)</code>](https://github.com/openclaw/openclaw/commit/009f929485cea13760d87bca66e5befb943765ad)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(gateway): share transcript idempotency key reader (#141772)</code>](https://github.com/openclaw/openclaw/commit/24abafb52803888dbdc51b0218d650c6df3b601c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
