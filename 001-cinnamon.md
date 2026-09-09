@@ -694,29 +694,11 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5f5957bc87af839ffdcaa779d099b217bb6825a2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5f5957bc87af839ffdcaa779d099b217bb6825a2...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
-- [ ] [<code>cinnamon: Adapt to PopupDialog changes.</code>](https://github.com/linuxmint/mint-l-theme/commit/7bc7688104f6d5dd83379dd3e023c3f3c43d0ff1)
-- [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-l-theme/commit/befefe02999d54434d69377cc04e71c05d02b3ed)
-- [ ] [<code>cinnamon: Support for gwl overflow buttons, updates for screensaver.</code>](https://github.com/linuxmint/mint-l-theme/commit/cfa89d611ad7388e6adabbd42bc979a1bf1b81a9)
-- [ ] [<code>Update .gitignore.</code>](https://github.com/linuxmint/mint-l-theme/commit/771062e022d406be50a09849b59fcb2b12e34356)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.0.8</code>](https://github.com/linuxmint/mint-l-theme/commit/b8a322c809f8ba91bb89cf7dfab8969dcb215db0)
-  - <sub>Tags: <code>2.0.8</code></sub>
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.1...HEAD)
 
-- [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
-- [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-themes/commit/1f786385bf01530426ebf7245a34ede3bd1f0e86)
-- [ ] [<code>cinnamon: Remove audio-device-selection-dialog.</code>](https://github.com/linuxmint/mint-themes/commit/0b320b989121e36d3961ed3cdf1fca8d9abeb277)
-- [ ] [<code>Mint-Y/cinnamon: add tinting to window-list and panel-launchers.</code>](https://github.com/linuxmint/mint-themes/commit/fdab26ecf59287ebbb4d8c06a2936d6420bc065e)
-- [ ] [<code>Mint-Y/cinnamon: Add support for grouped-window-list scroll buttons.</code>](https://github.com/linuxmint/mint-themes/commit/8708de44612e168b82e955e87146682489345c86)
-- [ ] [<code>Mint-Y/cinnamon: Add support for screensaver.</code>](https://github.com/linuxmint/mint-themes/commit/3e3629a33585c2a649b9a704d697fec141de0bf6)
-- [ ] [<code>Mint-X/cinnamon: Add support for grouped-window-list scroll-buttons.</code>](https://github.com/linuxmint/mint-themes/commit/d7150fc4f4d32fce2ab1bd15590b58ff52c90c0f)
-- [ ] [<code>Mint-X/cinnamon: Add support for screensaver.</code>](https://github.com/linuxmint/mint-themes/commit/35bca280fdd4a15d4bfe89f1a77ef8a53cec4f5f)
-- [ ] [<code>Mint-Y: Fix previous commit.</code>](https://github.com/linuxmint/mint-themes/commit/b4f07412e011111e7ccc46ba21d6a315a37ca300)
-- [ ] [<code>2.4.1</code>](https://github.com/linuxmint/mint-themes/commit/1137411296d6b45cba42e01f1651107edd023077)
-  - <sub>Tags: <code>2.4.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
 
@@ -1156,7 +1138,7 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.4 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.4...HEAD)
 
 
-#### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
 - [ ] [<code>Cancel tasks before closing xapp-icon-chooser-dialog (#193)</code>](https://github.com/linuxmint/xapp/commit/2ab3aaf4a09d0be636430462c496affb49310aa4)
 - [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
