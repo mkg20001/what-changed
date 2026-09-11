@@ -479,6 +479,11 @@
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon/commit/abcce95741bf0ae69d1de379d95345e28f1fbf70)
   - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>backgrounds: Implement per-monitor wallpaper, new background daemon.</code>](https://github.com/linuxmint/cinnamon/commit/3f134e604a084d7994f6cbeb088b4bfaf1d86631)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>cs_backgrounds.py: Hide the mode selector when only one monitor is</code>](https://github.com/linuxmint/cinnamon/commit/5983fb57cbb294f807953905cd6ce4684d044734)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -549,8 +554,13 @@
 - [ ] [<code>settings: Add prevent-focus-stealing</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8336b75f23cc230718106a21e597a299efb2f921)
 - [ ] [<code>org.cinnamon.desktop.keybindings.gschema: Add 'show-panels'</code>](https://github.com/linuxmint/cinnamon-desktop/commit/934d693ca8336271fc321f30f0b93f7029255129)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8bc14f9a51823db863d95b08948c9221adf4d3e1)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>background gschema: Add picture-uri-list and background-mode keys.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fbf145b0ddb6e3f72b95373085494f40e3c8d345)
+- [ ] [<code>libcinnamon-desktop: Mark gnome-bg as deprecated.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1d267a61d4266b1d2821cd82c3beb78b9256ea63)
+- [ ] [<code>i18n: Strip all translations except gnome-wall-clock.c and</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f24ae6d68228e40b5b872fc2c32f49258291d892)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -672,8 +682,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-xsettings-manager.c: Fix fcitx support for xwayland clients.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/18bb726dc21ac7127f50e7b2c9c3885d66dd34b6)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ca0a328ba03c9540b6ba5407603648689c29890f)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove background plugin.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/66fdf615d47cf9b7cd5095bfad6557a681ac6b6e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1213,8 +1227,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Block ev_sidebar_tree_selection_changed handler during sidebar destroy to avoid accidentally rewriting the last viewed page number. (#694)</code>](https://github.com/linuxmint/xreader/commit/4b0a851ac50717e5e3400cac9a0cdf0b5310d33e)
 - [ ] [<code>4.6.7</code>](https://github.com/linuxmint/xreader/commit/5f2f98fe8de37aeba78be03a0bbd8446bc644de5)
-  - <sub>Tags: <code>4.6.7</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>4.6.7</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ev-poppler.cc: Only read a link destination for GOTO_DEST actions</code>](https://github.com/linuxmint/xreader/commit/28ee72cc2779a3716b7d00da1aa87da992648d24)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
