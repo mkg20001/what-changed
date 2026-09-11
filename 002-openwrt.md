@@ -216,6 +216,7 @@
 - [ ] [<code>config: match the device when overriding vlan config entries</code>](https://git.openwrt.org/project/netifd.git/commit/c51979e379085f6e7b4a67a25c74eecd68cb5d4a)
 - [ ] [<code>config: keep vlan config entries until interfaces are parsed</code>](https://git.openwrt.org/project/netifd.git/commit/7e9928f0fc00c4188263bbcdf14ab28716f7255f)
 - [ ] [<code>config: accept 'true' for the interface disabled option</code>](https://git.openwrt.org/project/netifd.git/commit/e97e36f9b5b545866c40d9803bd39e257389647e)
+- [ ] [<code>proto-ucode: obtain script path via stdlib sourcepath()</code>](https://git.openwrt.org/project/netifd.git/commit/06d06c86d757196e56bb13a1a8d6d69df7cad04d)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
