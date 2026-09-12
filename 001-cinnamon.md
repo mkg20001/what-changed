@@ -484,6 +484,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>cs_backgrounds.py: Hide the mode selector when only one monitor is</code>](https://github.com/linuxmint/cinnamon/commit/5983fb57cbb294f807953905cd6ce4684d044734)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_display.py: Hide fractional scaling conntrols in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/82d5f372c8898fd248426c6644a78d89f63510d0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -519,8 +521,11 @@
 - [ ] [<code>display: Use a ComboBox (once more) to select monitor scales.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b3648325342df85c2cff1a7359b996ef7d830530)
 - [ ] [<code>cc-display-settings.c: Fix permanently disabled underscan switch.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/06466991f12b4dae269ff668bef15383b73c7af7)
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ebdde0248d4aced1aa1266cf94d1d17bad5e8ec7)
-  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>display panel: Call new ResetMonitorsConfig for reset-to-defaults.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3d2e6ef928a3a62ed8828b75a5859070c0ceeb57)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -902,6 +907,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meta-xwayland-dnd.c: Use two X11 DnD peer windows.</code>](https://github.com/linuxmint/muffin/commit/03106eff413b538b76eba8f2f087616add425e55)
+- [ ] [<code>monitor config: Use a different filename for wayland sessions, remove</code>](https://github.com/linuxmint/muffin/commit/76085b14cb13eca80f696c52b0a726afcb602fd5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
