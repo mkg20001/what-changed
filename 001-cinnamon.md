@@ -486,6 +486,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_display.py: Hide fractional scaling conntrols in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/82d5f372c8898fd248426c6644a78d89f63510d0)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>keyboardManager.js: Fix scaling of the keyboard flag in wayland.</code>](https://github.com/linuxmint/cinnamon/commit/d20c426244aacb018f0732fee94036ff38ab1efc)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -908,6 +909,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meta-xwayland-dnd.c: Use two X11 DnD peer windows.</code>](https://github.com/linuxmint/muffin/commit/03106eff413b538b76eba8f2f087616add425e55)
 - [ ] [<code>monitor config: Use a different filename for wayland sessions, remove</code>](https://github.com/linuxmint/muffin/commit/76085b14cb13eca80f696c52b0a726afcb602fd5)
+- [ ] [<code>clutter-offscreen-effect.c: Apply fbo offset before unscaling.</code>](https://github.com/linuxmint/muffin/commit/06cb087028c3904bfc2a438659e84085208b3892)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
