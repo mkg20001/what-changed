@@ -487,6 +487,8 @@
 - [ ] [<code>cs_display.py: Hide fractional scaling conntrols in Wayland.</code>](https://github.com/linuxmint/cinnamon/commit/82d5f372c8898fd248426c6644a78d89f63510d0)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>keyboardManager.js: Fix scaling of the keyboard flag in wayland.</code>](https://github.com/linuxmint/cinnamon/commit/d20c426244aacb018f0732fee94036ff38ab1efc)
+- [ ] [<code>cs_themes: hide the simplified settings button when no styles are installed (#13963)</code>](https://github.com/linuxmint/cinnamon/commit/1bfe7d0ae4fec4b4586777f48bde919255224bc2)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
