@@ -693,9 +693,10 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove background plugin.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/66fdf615d47cf9b7cd5095bfad6557a681ac6b6e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>csd-xsettings-manager.c: Fix cursor theme updates.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/612c0914c6184296fe6a20b8ea144c0c2d0ec172)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
