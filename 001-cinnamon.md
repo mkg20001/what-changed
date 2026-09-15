@@ -489,6 +489,11 @@
 - [ ] [<code>keyboardManager.js: Fix scaling of the keyboard flag in wayland.</code>](https://github.com/linuxmint/cinnamon/commit/d20c426244aacb018f0732fee94036ff38ab1efc)
 - [ ] [<code>cs_themes: hide the simplified settings button when no styles are installed (#13963)</code>](https://github.com/linuxmint/cinnamon/commit/1bfe7d0ae4fec4b4586777f48bde919255224bc2)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_general.py: Add scanout-fullscreen-windows, show the correct option</code>](https://github.com/linuxmint/cinnamon/commit/e2f7ee332619235f3414cfbe2636c029bf793792)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>calendar-server: Don't report out-of-range clockenstein events as removed</code>](https://github.com/linuxmint/cinnamon/commit/2166e60128397f09523ce72b837d564e2d7cd6dd)
+- [ ] [<code>calendar@cinnamon.org: Reload the selected date on removals, not today</code>](https://github.com/linuxmint/cinnamon/commit/4feaab62f793ee2139f62f0d793bd020de3121bd)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -913,6 +918,18 @@
 - [ ] [<code>meta-xwayland-dnd.c: Use two X11 DnD peer windows.</code>](https://github.com/linuxmint/muffin/commit/03106eff413b538b76eba8f2f087616add425e55)
 - [ ] [<code>monitor config: Use a different filename for wayland sessions, remove</code>](https://github.com/linuxmint/muffin/commit/76085b14cb13eca80f696c52b0a726afcb602fd5)
 - [ ] [<code>clutter-offscreen-effect.c: Apply fbo offset before unscaling.</code>](https://github.com/linuxmint/muffin/commit/06cb087028c3904bfc2a438659e84085208b3892)
+- [ ] [<code>meta-wayland-surface.c: Only log scanout failure reason once, not</code>](https://github.com/linuxmint/muffin/commit/2567d3807e37a788e5a6c4a37ef7a5b42589b946)
+- [ ] [<code>xwayland: Fix hidpi support, scanout matching.</code>](https://github.com/linuxmint/muffin/commit/7b304a1e2f1f3e71a435c58d28b30250ccc6fc22)
+- [ ] [<code>compositor: Don't let fully transparent windows block unredirect/scanout</code>](https://github.com/linuxmint/muffin/commit/1b2362dee0366e931a1e280b6fb5582bc764144d)
+- [ ] [<code>compositor.c: Merge x11 and wayland top-window implementations</code>](https://github.com/linuxmint/muffin/commit/cc8baadc18db6eb513bdd0462c2a3933a08ec437)
+- [ ] [<code>meta-compositor-native.c: Make direct scanout opt-in.</code>](https://github.com/linuxmint/muffin/commit/77033dead3854d14247e339bf6e55e4d9a9b4dea)
+- [ ] [<code>meta-renderer-native.c: Report direct scanout page flip failures.</code>](https://github.com/linuxmint/muffin/commit/03e3b4284d796c48f69b0a267e45d7235f56a3a1)
+- [ ] [<code>meta-renderer-native.c: Log when a scanout buffer's modifier differs</code>](https://github.com/linuxmint/muffin/commit/2600aef27c3409a443d3efaef42d752b2a9ad056)
+- [ ] [<code>compositor: Let a fullscreen window scan out from a subsurface.</code>](https://github.com/linuxmint/muffin/commit/48e0789460deaa427955f0ff9b20844f2efde041)
+- [ ] [<code>meta-compositor-native.c: Don't allocate a hash table every paint.</code>](https://github.com/linuxmint/muffin/commit/0e5396ef02b69d989609702bc18b4fb564b3e0bc)
+- [ ] [<code>meta-window-actor.c: Don't read back a zero-sized region.</code>](https://github.com/linuxmint/muffin/commit/e33e8a7e306308e5ea0641fd3682ca905ab41daa)
+- [ ] [<code>meta-renderer-native.c: Log a scanout rejection once, not every frame.</code>](https://github.com/linuxmint/muffin/commit/0f7db121c43fad7b9b0e41d5a5b2644f98e7de47)
+- [ ] [<code>prefs: Add scanout-fullscreen-windows setting.</code>](https://github.com/linuxmint/muffin/commit/04cec0c8b7affd3e8aefcb5e13fa24af6b99c940)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
