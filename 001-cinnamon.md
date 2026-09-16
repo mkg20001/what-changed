@@ -494,6 +494,8 @@
 - [ ] [<code>calendar-server: Don't report out-of-range clockenstein events as removed</code>](https://github.com/linuxmint/cinnamon/commit/2166e60128397f09523ce72b837d564e2d7cd6dd)
 - [ ] [<code>calendar@cinnamon.org: Reload the selected date on removals, not today</code>](https://github.com/linuxmint/cinnamon/commit/4feaab62f793ee2139f62f0d793bd020de3121bd)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>appsys: Fix UTF-8 handling when capitalizing executable names (#14001)</code>](https://github.com/linuxmint/cinnamon/commit/24ce2a5376f69a9f9ef709203a2c94d4d3c44947)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
