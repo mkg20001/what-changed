@@ -1258,7 +1258,12 @@
   - <sub>Tags: <code>4.6.7</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ev-poppler.cc: Only read a link destination for GOTO_DEST actions</code>](https://github.com/linuxmint/xreader/commit/28ee72cc2779a3716b7d00da1aa87da992648d24)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>build: Bring back compatibility with XApp 1.9.0</code>](https://github.com/linuxmint/xreader/commit/f5e9988faf74af5ca85177d581269525d5203268)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>4.6.8</code>](https://github.com/linuxmint/xreader/commit/f7c11200c13aa9c0c7e0066d6d218776c48f8d41)
+  - <sub>Tags: <code>4.6.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
