@@ -507,6 +507,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keyboardManager.js: Refresh SubscriptableFlagIcons when the ui</code>](https://github.com/linuxmint/cinnamon/commit/bd6ef4ad3b173fae38f241b5382a26b00ba7b7ff)
 - [ ] [<code>main.c: Tell Muffin when the atk-bridge wasn't loaded</code>](https://github.com/linuxmint/cinnamon/commit/0ad2c7ba0324fa31ab82ed6a58c549c937e894cb)
+- [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/cinnamon/commit/9661c8f323dcc7f966e973a08e9fb4e9c95e9948)
+  - <sub>Tags: <code>6.7.7-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -968,7 +971,9 @@
 - [ ] [<code>wayland: Require the locking window to appear focused for Xwayland too.</code>](https://github.com/linuxmint/muffin/commit/fb70c01b85a96fe65e424f1547a324fd05bd05bb)
 - [ ] [<code>x11: Scale relative pointer motion by the UI scaling factor.</code>](https://github.com/linuxmint/muffin/commit/e35820a82ed5d16ea24124d72cfd72a81a8fea89)
 - [ ] [<code>x11: Only block the ATK bridge if Cinnamon didn't load it</code>](https://github.com/linuxmint/muffin/commit/ae14649f2de7fa8a0c71e35afa3f4cc22be4aed8)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/muffin/commit/bda2ab79d8fa97631619fe37d502eaa6bfebfb94)
+  - <sub>Tags: <code>6.7.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1220,6 +1225,9 @@
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.4 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.4...HEAD)
 
+- [ ] [<code>landlock: Ignore kernel patch suffixes (#261)</code>](https://github.com/linuxmint/warpinator/commit/95be267e6abbe361c5f1363421af5c4540fbbb8a)
+- [ ] [<code>Add fake/malicious websites (#257)</code>](https://github.com/linuxmint/warpinator/commit/b9572e114f3ee8913e22581278fb7faf0bb29c31)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
