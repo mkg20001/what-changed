@@ -496,6 +496,17 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>appsys: Fix UTF-8 handling when capitalizing executable names (#14001)</code>](https://github.com/linuxmint/cinnamon/commit/24ce2a5376f69a9f9ef709203a2c94d4d3c44947)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>main.c: Only load atk-bridge if the accessibility bus is reachable</code>](https://github.com/linuxmint/cinnamon/commit/df4099683401475935f3908f27298559e4b2e093)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>cinnamon-looking-glass.py: Report session type in the headerbar.</code>](https://github.com/linuxmint/cinnamon/commit/deb3c94969c78ba2165158fa8086fe20d73d0647)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Don't log devices we don't care about</code>](https://github.com/linuxmint/cinnamon/commit/68392fbf25646ac90c32f44df27032f8243c0ced)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Show the window preview below the thumbnail, not over it</code>](https://github.com/linuxmint/cinnamon/commit/fe3bfc025461b3dd6484d2e17a95ce1b21e31550)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager.js: Refresh SubscriptableFlagIcons when the ui</code>](https://github.com/linuxmint/cinnamon/commit/bd6ef4ad3b173fae38f241b5382a26b00ba7b7ff)
+- [ ] [<code>main.c: Tell Muffin when the atk-bridge wasn't loaded</code>](https://github.com/linuxmint/cinnamon/commit/0ad2c7ba0324fa31ab82ed6a58c549c937e894cb)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -534,8 +545,10 @@
   - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>display panel: Call new ResetMonitorsConfig for reset-to-defaults.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3d2e6ef928a3a62ed8828b75a5859070c0ceeb57)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b348d94ed4ff96fbf0fde80869e5b9c8c1783b9e)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -574,8 +587,10 @@
 - [ ] [<code>background gschema: Add picture-uri-list and background-mode keys.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fbf145b0ddb6e3f72b95373085494f40e3c8d345)
 - [ ] [<code>libcinnamon-desktop: Mark gnome-bg as deprecated.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1d267a61d4266b1d2821cd82c3beb78b9256ea63)
 - [ ] [<code>i18n: Strip all translations except gnome-wall-clock.c and</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f24ae6d68228e40b5b872fc2c32f49258291d892)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9b338631f9c6cfed2ebe3092397ad429ce665157)
+  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -703,7 +718,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>csd-xsettings-manager.c: Fix cursor theme updates.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/612c0914c6184296fe6a20b8ea144c0c2d0ec172)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bc2dbb403c582e5d1a750e8d9c92c9273c772b3e)
+  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -723,6 +740,9 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5f5957bc87af839ffdcaa779d099b217bb6825a2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5f5957bc87af839ffdcaa779d099b217bb6825a2...HEAD)
 
+- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-l-icons/commit/8cbabfe41ae95d5480b7e4cc71ad71d5377c0842)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.3</code>](https://github.com/linuxmint/mint-l-icons/commit/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
@@ -734,9 +754,17 @@
 
 - [ ] [<code>Add support for ungoogled-chromium (#219)</code>](https://github.com/linuxmint/mint-x-icons/commit/045080051b513cb7d8bb56f13065397a513a179c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add icon links</code>](https://github.com/linuxmint/mint-x-icons/commit/6a88a3a8c501fd793eb7e5955b9a85ab1f43e225)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-x-icons/commit/348bd63059b14882b60130e3f7e22ae5d67d437c)
+  - <sub>Tags: <code>1.7.7</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.3...HEAD)
 
+- [ ] [<code>Add clockenstein-clocks</code>](https://github.com/linuxmint/mint-y-icons/commit/2498392b89246782901294ba7a228b070443fdbb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.4</code>](https://github.com/linuxmint/mint-y-icons/commit/e63dc801a5161ea2636148bc31c9edc86da2a474)
+  - <sub>Tags: <code>1.9.4</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -932,6 +960,14 @@
 - [ ] [<code>meta-window-actor.c: Don't read back a zero-sized region.</code>](https://github.com/linuxmint/muffin/commit/e33e8a7e306308e5ea0641fd3682ca905ab41daa)
 - [ ] [<code>meta-renderer-native.c: Log a scanout rejection once, not every frame.</code>](https://github.com/linuxmint/muffin/commit/0f7db121c43fad7b9b0e41d5a5b2644f98e7de47)
 - [ ] [<code>prefs: Add scanout-fullscreen-windows setting.</code>](https://github.com/linuxmint/muffin/commit/04cec0c8b7affd3e8aefcb5e13fa24af6b99c940)
+- [ ] [<code>x11: Don't let GTK load the accessibility bridge</code>](https://github.com/linuxmint/muffin/commit/7c31e6359efdb8928629b1618b7ac2c4acaecb59)
+- [ ] [<code>ui: Remove redundant gtk_init_check()</code>](https://github.com/linuxmint/muffin/commit/3f256989614fcff4955e6711f4cbe9dd1ce9e1d8)
+- [ ] [<code>clutter: Backport additional pointer repick triggers.</code>](https://github.com/linuxmint/muffin/commit/6e70adebbe9d847a409bdc397781d9dc2b124e3b)
+- [ ] [<code>cursor: Post the hardware cursor position from the input dispatch.</code>](https://github.com/linuxmint/muffin/commit/fca128fcc1d84690bf36f84e743cd8dd3fde54b4)
+- [ ] [<code>settings: Allow experimental-features entries as plain named flags.</code>](https://github.com/linuxmint/muffin/commit/1e669cd6d6209f2ab438a11a12a8682e93d66ab8)
+- [ ] [<code>wayland: Require the locking window to appear focused for Xwayland too.</code>](https://github.com/linuxmint/muffin/commit/fb70c01b85a96fe65e424f1547a324fd05bd05bb)
+- [ ] [<code>x11: Scale relative pointer motion by the UI scaling factor.</code>](https://github.com/linuxmint/muffin/commit/e35820a82ed5d16ea24124d72cfd72a81a8fea89)
+- [ ] [<code>x11: Only block the ATK bridge if Cinnamon didn't load it</code>](https://github.com/linuxmint/muffin/commit/ae14649f2de7fa8a0c71e35afa3f4cc22be4aed8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1041,7 +1077,10 @@
   - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>docs: fix parameter names left from the nautilus era (#3832)</code>](https://github.com/linuxmint/nemo/commit/678474cae4b6e2848de57a791f91957283478e5a)
+- [ ] [<code>window: Open favorites:///folder at its real location.</code>](https://github.com/linuxmint/nemo/commit/d193f98b42812982169f0eeaf95504e960bcc067)
+- [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/nemo/commit/5533191a85c202555dd832f1a5388fe85444c366)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
