@@ -597,8 +597,11 @@
 - [ ] [<code>i18n: Strip all translations except gnome-wall-clock.c and</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f24ae6d68228e40b5b872fc2c32f49258291d892)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9b338631f9c6cfed2ebe3092397ad429ce665157)
-  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gnome-wall-clock.c: Fix use-after-free in 'changed' signal handlers. (#276)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/5a4a7539fa4c7cabfc36e0ea224b942b1b703bde)
+- [ ] [<code>gnome-bg: don't serve a smaller cached pixbuf to a larger request (#277)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/daaf90120cab1170ac835f6bca6c6202558b124e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -731,8 +734,11 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>csd-xsettings-manager.c: Fix cursor theme updates.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/612c0914c6184296fe6a20b8ea144c0c2d0ec172)
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bc2dbb403c582e5d1a750e8d9c92c9273c772b3e)
-  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>schemas: Update some key descriptions.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/553c5220e2942489314501e9e20f8d79baf65300)
+- [ ] [<code>csd-power-manager.c: Remove duplicate lid-close handling.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/44a7b5d763dea6bf3c55d2aaff9df4684c91c784)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -981,8 +987,10 @@
 - [ ] [<code>x11: Scale relative pointer motion by the UI scaling factor.</code>](https://github.com/linuxmint/muffin/commit/e35820a82ed5d16ea24124d72cfd72a81a8fea89)
 - [ ] [<code>x11: Only block the ATK bridge if Cinnamon didn't load it</code>](https://github.com/linuxmint/muffin/commit/ae14649f2de7fa8a0c71e35afa3f4cc22be4aed8)
 - [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/muffin/commit/bda2ab79d8fa97631619fe37d502eaa6bfebfb94)
-  - <sub>Tags: <code>6.7.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-backend.c: Restore numlock state on resume for X11 sessions.</code>](https://github.com/linuxmint/muffin/commit/6cd304620afcf06e6b48ee37a4a3092b87ea3b8d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
