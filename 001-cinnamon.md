@@ -511,6 +511,10 @@
   - <sub>Tags: <code>6.7.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamon-calendar-server.py: Keep the same lifecycle for both backends</code>](https://github.com/linuxmint/cinnamon/commit/a9b6537659f510b926f046ad38154710e18d1f29)
+- [ ] [<code>menu: Sort search results to show apps and favorites before recent docs</code>](https://github.com/linuxmint/cinnamon/commit/042546fb8080482da1e00848d87beb602b9dead9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>test: Remove excluded files</code>](https://github.com/linuxmint/cinnamon/commit/cbf5a81d295ea4fd4b14339acb9d0d753b422002)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -673,8 +677,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Update build deps to reliably fetch the</code>](https://github.com/linuxmint/cinnamon-session/commit/3633be1a539d485a5e477cada5c22aaefe141f5c)
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/d10f4249d2d0009747a0d213196bde0f1c9449b1)
-  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use the existing user D-Bus session bus instead of spawning dbus-launch (#212)</code>](https://github.com/linuxmint/cinnamon-session/commit/25d30dc0479a12eda530e41f17a0a84d51f39c14)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
