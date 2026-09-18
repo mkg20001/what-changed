@@ -510,6 +510,7 @@
 - [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/cinnamon/commit/9661c8f323dcc7f966e973a08e9fb4e9c95e9948)
   - <sub>Tags: <code>6.7.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamon-calendar-server.py: Keep the same lifecycle for both backends</code>](https://github.com/linuxmint/cinnamon/commit/a9b6537659f510b926f046ad38154710e18d1f29)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
