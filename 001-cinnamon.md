@@ -555,8 +555,10 @@
 - [ ] [<code>display panel: Call new ResetMonitorsConfig for reset-to-defaults.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3d2e6ef928a3a62ed8828b75a5859070c0ceeb57)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b348d94ed4ff96fbf0fde80869e5b9c8c1783b9e)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cc-display-settings.ui: Wire up the underscan switch callback.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/606bc2fe69f11a48f76ccc540ce38b9ff5aa3aac)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
