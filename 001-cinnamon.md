@@ -1307,22 +1307,8 @@
   - <sub>Tags: <code>1.1.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.5...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.7 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.7...HEAD)
 
-- [ ] [<code>Remove epub support</code>](https://github.com/linuxmint/xreader/commit/a5aecea074e8564b7a22f1ce054b31ec862974b7)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xreader/commit/83ab5947de273ee1922b2cd31e3822aa4c26fdd9)
-- [ ] [<code>4.6.6</code>](https://github.com/linuxmint/xreader/commit/8129dfc641409f2a2a68bce4d933baa8b3a1e0f4)
-  - <sub>Tags: <code>4.6.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Support Wayland (#727)</code>](https://github.com/linuxmint/xreader/commit/afab2ff363f3fa9ed4e89a7782bd1e7f2b6d49cd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Block ev_sidebar_tree_selection_changed handler during sidebar destroy to avoid accidentally rewriting the last viewed page number. (#694)</code>](https://github.com/linuxmint/xreader/commit/4b0a851ac50717e5e3400cac9a0cdf0b5310d33e)
-- [ ] [<code>4.6.7</code>](https://github.com/linuxmint/xreader/commit/5f2f98fe8de37aeba78be03a0bbd8446bc644de5)
-  - <sub>Tags: <code>4.6.7</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ev-poppler.cc: Only read a link destination for GOTO_DEST actions</code>](https://github.com/linuxmint/xreader/commit/28ee72cc2779a3716b7d00da1aa87da992648d24)
 - [ ] [<code>build: Bring back compatibility with XApp 1.9.0</code>](https://github.com/linuxmint/xreader/commit/f5e9988faf74af5ca85177d581269525d5203268)
   - <sub>Files: <code>meson.build</code></sub>
