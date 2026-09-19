@@ -756,11 +756,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5f5957bc87af839ffdcaa779d099b217bb6825a2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5f5957bc87af839ffdcaa779d099b217bb6825a2...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ddb43425b35aaf15a8d5ba74059b5b72c2a383e2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2...HEAD)
 
-- [ ] [<code>Add clockenstein-calendar</code>](https://github.com/linuxmint/mint-l-icons/commit/8cbabfe41ae95d5480b7e4cc71ad71d5377c0842)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.3</code>](https://github.com/linuxmint/mint-l-icons/commit/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
@@ -768,21 +765,11 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.1...HEAD)
 
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.7...HEAD)
 
-- [ ] [<code>Add support for ungoogled-chromium (#219)</code>](https://github.com/linuxmint/mint-x-icons/commit/045080051b513cb7d8bb56f13065397a513a179c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon links</code>](https://github.com/linuxmint/mint-x-icons/commit/6a88a3a8c501fd793eb7e5955b9a85ab1f43e225)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-x-icons/commit/348bd63059b14882b60130e3f7e22ae5d67d437c)
-  - <sub>Tags: <code>1.7.7</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.3...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.4 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.4...HEAD)
 
-- [ ] [<code>Add clockenstein-clocks</code>](https://github.com/linuxmint/mint-y-icons/commit/2498392b89246782901294ba7a228b070443fdbb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.4</code>](https://github.com/linuxmint/mint-y-icons/commit/e63dc801a5161ea2636148bc31c9edc86da2a474)
-  - <sub>Tags: <code>1.9.4</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
