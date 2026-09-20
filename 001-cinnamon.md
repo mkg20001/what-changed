@@ -515,6 +515,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>test: Remove excluded files</code>](https://github.com/linuxmint/cinnamon/commit/cbf5a81d295ea4fd4b14339acb9d0d753b422002)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>lookingGlass.js: Fix captured-event signal connection.</code>](https://github.com/linuxmint/cinnamon/commit/38da27b5f9de0c52d275c9b0e63da66a8ea5a15c)
+- [ ] [<code>calendar applet: Fix allocation warning caused by grow-only label.</code>](https://github.com/linuxmint/cinnamon/commit/8d53cfc40259b448aa9b6a875c81b4245074c68b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
