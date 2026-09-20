@@ -1093,8 +1093,10 @@
 - [ ] [<code>docs: fix parameter names left from the nautilus era (#3832)</code>](https://github.com/linuxmint/nemo/commit/678474cae4b6e2848de57a791f91957283478e5a)
 - [ ] [<code>window: Open favorites:///folder at its real location.</code>](https://github.com/linuxmint/nemo/commit/d193f98b42812982169f0eeaf95504e960bcc067)
 - [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/nemo/commit/5533191a85c202555dd832f1a5388fe85444c366)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>desktop-icon-view: Remove unused x11-only middle-click handler.</code>](https://github.com/linuxmint/nemo/commit/51ac4c5e65e5b23953eb8f3915e6133524c95fe7)
+- [ ] [<code>cleanup: Remove unused depends and includes.</code>](https://github.com/linuxmint/nemo/commit/798619f4bcf0fdc9789294ab2315e80490501975)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
