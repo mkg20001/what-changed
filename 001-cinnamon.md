@@ -688,9 +688,12 @@
   - <sub>Tags: <code>6.7.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use the existing user D-Bus session bus instead of spawning dbus-launch (#212)</code>](https://github.com/linuxmint/cinnamon-session/commit/25d30dc0479a12eda530e41f17a0a84d51f39c14)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>csm-systemd: wait for logind's PrepareForShutdown before quitting (#215)</code>](https://github.com/linuxmint/cinnamon-session/commit/9409c18b05af6abbb8f0ac67314680211e8fd513)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -743,7 +746,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>schemas: Update some key descriptions.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/553c5220e2942489314501e9e20f8d79baf65300)
 - [ ] [<code>csd-power-manager.c: Remove duplicate lid-close handling.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/44a7b5d763dea6bf3c55d2aaff9df4684c91c784)
+- [ ] [<code>build: Remove leftover dependencies from background plugin removal</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b547e9772962593f8661cca74c586628cc59d249)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1122,6 +1128,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1147,6 +1154,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1172,6 +1180,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1197,6 +1206,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1222,6 +1232,7 @@
   - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
