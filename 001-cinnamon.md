@@ -518,6 +518,7 @@
 - [ ] [<code>lookingGlass.js: Fix captured-event signal connection.</code>](https://github.com/linuxmint/cinnamon/commit/38da27b5f9de0c52d275c9b0e63da66a8ea5a15c)
 - [ ] [<code>calendar applet: Fix allocation warning caused by grow-only label.</code>](https://github.com/linuxmint/cinnamon/commit/8d53cfc40259b448aa9b6a875c81b4245074c68b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian/control: Replace transitional network-manager-gnome package</code>](https://github.com/linuxmint/cinnamon/commit/36cd249c01d5f3da9ed1b78556cbff60648b9750)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -691,9 +692,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>csm-systemd: wait for logind's PrepareForShutdown before quitting (#215)</code>](https://github.com/linuxmint/cinnamon-session/commit/9409c18b05af6abbb8f0ac67314680211e8fd513)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>csm-consolekit.c: Some signal cleanup, use shutdown-prepared</code>](https://github.com/linuxmint/cinnamon-session/commit/51cb449561bb1d2b8afee8b6f9870cc1a1a91ecb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -747,9 +749,11 @@
 - [ ] [<code>schemas: Update some key descriptions.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/553c5220e2942489314501e9e20f8d79baf65300)
 - [ ] [<code>csd-power-manager.c: Remove duplicate lid-close handling.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/44a7b5d763dea6bf3c55d2aaff9df4684c91c784)
 - [ ] [<code>build: Remove leftover dependencies from background plugin removal</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b547e9772962593f8661cca74c586628cc59d249)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wacom: Use the GDK Wayland device node path on Wayland (#473)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/754b09c7c521ffae163d4480133f6740c7ab03de)
+- [ ] [<code>screensaver-proxy: stop losing track of inhibitors (#465)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e6faafba0cc591f3dd77813e2b88467b9beef158)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1240,7 +1244,9 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/pix/commit/1df5501390da4c27303d0902b17d2bfdf2537ac0)
 - [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.4.11</code>](https://github.com/linuxmint/pix/commit/f9688e772792c9e46d6a4268b7bcfbd2fbc3ba86)
+  - <sub>Tags: <code>3.4.11</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
@@ -1249,7 +1255,9 @@
 
 - [ ] [<code>landlock: Ignore kernel patch suffixes (#261)</code>](https://github.com/linuxmint/warpinator/commit/95be267e6abbe361c5f1363421af5c4540fbbb8a)
 - [ ] [<code>Add fake/malicious websites (#257)</code>](https://github.com/linuxmint/warpinator/commit/b9572e114f3ee8913e22581278fb7faf0bb29c31)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.0.5</code>](https://github.com/linuxmint/warpinator/commit/9d8c9a478747007695e1020913e0e344a1fad5c0)
+  - <sub>Tags: <code>2.0.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
@@ -1296,8 +1304,15 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>xapp-sn-watcher.c: Fix dbus invocation return value.</code>](https://github.com/linuxmint/xapp/commit/05e670f0bc7b13bb292bc8a2c61e6b98ebad7201)
 - [ ] [<code>3.3.5-unstable</code>](https://github.com/linuxmint/xapp/commit/ab027439ff1e7832ee2742902b00590184c23b86)
-  - <sub>Tags: <code>3.3.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build (meson): Make libgnomekbd an optional dependency.</code>](https://github.com/linuxmint/xapp/commit/9891b8bc44531e7efee8ff91f885b18a0135c806)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.3.6-unstable</code>](https://github.com/linuxmint/xapp/commit/a9d71e7551a2e99095dd1f037ca7720ca2a7dc8c)
+  - <sub>Tags: <code>3.3.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
@@ -1326,6 +1341,8 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xviewer/commit/becb779a65e7ef18dcd2edaed8cfcd62b4497ef4)
 - [ ] [<code>build: Add support for GIRepository-2.0.</code>](https://github.com/linuxmint/xviewer/commit/74d7d4ba2584c658ae6fb87208543671664943cc)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.4.17</code>](https://github.com/linuxmint/xviewer/commit/a06282279751c278f73e063ca7b461da68321719)
+  - <sub>Tags: <code>3.4.17</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
