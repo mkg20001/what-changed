@@ -519,6 +519,9 @@
 - [ ] [<code>calendar applet: Fix allocation warning caused by grow-only label.</code>](https://github.com/linuxmint/cinnamon/commit/8d53cfc40259b448aa9b6a875c81b4245074c68b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>debian/control: Replace transitional network-manager-gnome package</code>](https://github.com/linuxmint/cinnamon/commit/36cd249c01d5f3da9ed1b78556cbff60648b9750)
+- [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/cinnamon/commit/40d419f2c0951ace9f69155700993f611f22eca1)
+  - <sub>Tags: <code>6.7.8-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -562,7 +565,9 @@
   - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cc-display-settings.ui: Wire up the underscan switch callback.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/606bc2fe69f11a48f76ccc540ce38b9ff5aa3aac)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e9bf5e98fb4c81216b76f41d358a91575547443c)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -607,7 +612,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>gnome-wall-clock.c: Fix use-after-free in 'changed' signal handlers. (#276)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/5a4a7539fa4c7cabfc36e0ea224b942b1b703bde)
 - [ ] [<code>gnome-bg: don't serve a smaller cached pixbuf to a larger request (#277)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/daaf90120cab1170ac835f6bca6c6202558b124e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8fef0441145ddb27a2576d7321384da28d3ff304)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -695,7 +702,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>csm-consolekit.c: Some signal cleanup, use shutdown-prepared</code>](https://github.com/linuxmint/cinnamon-session/commit/51cb449561bb1d2b8afee8b6f9870cc1a1a91ecb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/06c858283919e6e1a1ae6dff611ada065b26fc78)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -753,7 +762,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>wacom: Use the GDK Wayland device node path on Wayland (#473)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/754b09c7c521ffae163d4480133f6740c7ab03de)
 - [ ] [<code>screensaver-proxy: stop losing track of inhibitors (#465)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e6faafba0cc591f3dd77813e2b88467b9beef158)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7e5fb6516a150205b0976f683e49e7339e927d0b)
+  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -992,7 +1004,10 @@
   - <sub>Tags: <code>6.7.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-backend.c: Restore numlock state on resume for X11 sessions.</code>](https://github.com/linuxmint/muffin/commit/6cd304620afcf06e6b48ee37a4a3092b87ea3b8d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/muffin/commit/963a573eff827d740ba8ce9592f3b2873aa0b952)
+  - <sub>Tags: <code>6.7.8-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1106,7 +1121,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>desktop-icon-view: Remove unused x11-only middle-click handler.</code>](https://github.com/linuxmint/nemo/commit/51ac4c5e65e5b23953eb8f3915e6133524c95fe7)
 - [ ] [<code>cleanup: Remove unused depends and includes.</code>](https://github.com/linuxmint/nemo/commit/798619f4bcf0fdc9789294ab2315e80490501975)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/nemo/commit/ed0bb24cedd880e3c3e25dbc410c7938fc295bde)
+  - <sub>Tags: <code>6.7.8-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1334,7 +1351,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>4.6.8</code>](https://github.com/linuxmint/xreader/commit/f7c11200c13aa9c0c7e0066d6d218776c48f8d41)
-  - <sub>Tags: <code>4.6.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>4.6.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fullscreen: Add support for Ctrl+L page selector (#729)</code>](https://github.com/linuxmint/xreader/commit/bf00d99fee9410496a08905eb66e08bd3d577fbf)
+- [ ] [<code>ev-window: avoid stacking duplicate focus-page-selector signal handlers</code>](https://github.com/linuxmint/xreader/commit/0b19be95c90db1298b12827d8d59ffa2c5ab887a)
+- [ ] [<code>4.6.9</code>](https://github.com/linuxmint/xreader/commit/a4e5ed2c916e6241efb7d9e86d01b709e45a18d8)
+  - <sub>Tags: <code>4.6.9</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
