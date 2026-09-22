@@ -1150,6 +1150,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 - [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1176,6 +1179,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 - [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1202,6 +1208,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 - [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1228,6 +1237,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 - [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1254,6 +1266,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
 - [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
