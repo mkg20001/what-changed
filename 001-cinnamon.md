@@ -529,6 +529,7 @@
 - [ ] [<code>cs_backgrounds.py: Allow the current background selection to be</code>](https://github.com/linuxmint/cinnamon/commit/55793790edd417264eecad163241856685c70768)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>backgroundManager.js: Clear picture-uri values after applying them</code>](https://github.com/linuxmint/cinnamon/commit/61c1b3d1cb1d83e263507fd59aede221bce9abf8)
+- [ ] [<code>screenshot: preserve selections and ignore input after cancellation (#13948)</code>](https://github.com/linuxmint/cinnamon/commit/48fdf68f49d0e3fffc83e48351e821dd57b646fa)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1358,8 +1359,10 @@
 - [ ] [<code>screenshot.c: Add support for Cinnamon's window-selection.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c615880e2fa364a7f5051aa44428bdf91bc7ab9)
 - [ ] [<code>screenshot.c: Support the 'target' option with xfce4-screenshooter.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/119f11dd653fc60ecaffe110730bdd1adf8ce1cf)
 - [ ] [<code>1.1.4-unstable</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4d78d6e9a1eb0c8584af3fe2b699737a4b4baa80)
-  - <sub>Tags: <code>1.1.4-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>1.1.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>screenshot.c: Return the correct code for color-pick cancellation</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d05f702023426e8bac589fdfb419cae2bd79bec8)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.7 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.7...HEAD)
 
