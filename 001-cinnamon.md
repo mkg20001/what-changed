@@ -522,6 +522,10 @@
 - [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/cinnamon/commit/40d419f2c0951ace9f69155700993f611f22eca1)
   - <sub>Tags: <code>6.7.8-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamon-background-daemon.c: Monitor image files for changes.</code>](https://github.com/linuxmint/cinnamon/commit/bea4e4f0dcfdd60cc31854b68ee49ab40300103e)
+- [ ] [<code>cinnamon-bg-list.c: Commit the outcome of load_single() to gsettings</code>](https://github.com/linuxmint/cinnamon/commit/41c7ee0e79f95f8f96c14850af2b1dd977e21c0c)
+- [ ] [<code>backgroundManager.js: Delay picture-uri listeners at startup, and</code>](https://github.com/linuxmint/cinnamon/commit/56a0482087378b9baeca2481a7014388c8d3a6f7)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
