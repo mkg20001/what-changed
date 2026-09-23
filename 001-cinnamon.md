@@ -526,6 +526,9 @@
 - [ ] [<code>cinnamon-bg-list.c: Commit the outcome of load_single() to gsettings</code>](https://github.com/linuxmint/cinnamon/commit/41c7ee0e79f95f8f96c14850af2b1dd977e21c0c)
 - [ ] [<code>backgroundManager.js: Delay picture-uri listeners at startup, and</code>](https://github.com/linuxmint/cinnamon/commit/56a0482087378b9baeca2481a7014388c8d3a6f7)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>cs_backgrounds.py: Allow the current background selection to be</code>](https://github.com/linuxmint/cinnamon/commit/55793790edd417264eecad163241856685c70768)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>backgroundManager.js: Clear picture-uri values after applying them</code>](https://github.com/linuxmint/cinnamon/commit/61c1b3d1cb1d83e263507fd59aede221bce9abf8)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1287,13 +1290,8 @@
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.4 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.4...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
 
-- [ ] [<code>landlock: Ignore kernel patch suffixes (#261)</code>](https://github.com/linuxmint/warpinator/commit/95be267e6abbe361c5f1363421af5c4540fbbb8a)
-- [ ] [<code>Add fake/malicious websites (#257)</code>](https://github.com/linuxmint/warpinator/commit/b9572e114f3ee8913e22581278fb7faf0bb29c31)
-- [ ] [<code>2.0.5</code>](https://github.com/linuxmint/warpinator/commit/9d8c9a478747007695e1020913e0e344a1fad5c0)
-  - <sub>Tags: <code>2.0.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
