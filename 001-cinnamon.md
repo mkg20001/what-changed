@@ -530,6 +530,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>backgroundManager.js: Clear picture-uri values after applying them</code>](https://github.com/linuxmint/cinnamon/commit/61c1b3d1cb1d83e263507fd59aede221bce9abf8)
 - [ ] [<code>screenshot: preserve selections and ignore input after cancellation (#13948)</code>](https://github.com/linuxmint/cinnamon/commit/48fdf68f49d0e3fffc83e48351e821dd57b646fa)
+- [ ] [<code>printers@cinnamon.org: Update the applet when the printer list is empty or unavailable, and check for system-config-printer (#13936)</code>](https://github.com/linuxmint/cinnamon/commit/67e4fb562d9b1ff8c9321b445bd04dd59365b6d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>xapp-status applet: harden against misbehaving clients and fix icon lifecycle issues (#13965)</code>](https://github.com/linuxmint/cinnamon/commit/c53f0580fb18b09478ab5e849a26f36d153c0eda)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -662,8 +666,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>authClient.py: Fix typo.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d4c1d7fa1e98d571bd14cc09ceda57dd6c87f4fd)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/53f8eb80057969cb463f05547749e167cf2ebb60)
-  - <sub>Tags: <code>6.7.3-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamonClient: don't block the main loop when activating a keyboard layout (#514)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/eab574fb253a6f4af7a8335d9a0230635a1a6f32)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -1133,7 +1139,11 @@
 - [ ] [<code>desktop-icon-view: Remove unused x11-only middle-click handler.</code>](https://github.com/linuxmint/nemo/commit/51ac4c5e65e5b23953eb8f3915e6133524c95fe7)
 - [ ] [<code>cleanup: Remove unused depends and includes.</code>](https://github.com/linuxmint/nemo/commit/798619f4bcf0fdc9789294ab2315e80490501975)
 - [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/nemo/commit/ed0bb24cedd880e3c3e25dbc410c7938fc295bde)
-  - <sub>Tags: <code>6.7.8-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.8-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-places-sidebar.c: Don't use gtk_get_current_event() for eject</code>](https://github.com/linuxmint/nemo/commit/dbddddb908a9e706417f0cdfecc229eceaa67d4f)
+- [ ] [<code>nemo-search-engine-advanced.c: Fix Unicode content search (#3829)</code>](https://github.com/linuxmint/nemo/commit/2e695993e3c2efe1097d2c8893acc3e848819913)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
