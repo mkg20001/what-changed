@@ -574,8 +574,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cc-display-settings.ui: Wire up the underscan switch callback.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/606bc2fe69f11a48f76ccc540ce38b9ff5aa3aac)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e9bf5e98fb4c81216b76f41d358a91575547443c)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>display: snap monitors to aligned centers in the arrangement view (#384)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/589756b23ce8dcac8d58a8b0abdc1040204de506)
+- [ ] [<code>cc-display-config-dbus.c: Don't warn on invalid monitor positions</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f411489577690d74960c9a5ff6207c417020c6c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -1362,6 +1365,7 @@
   - <sub>Tags: <code>1.1.4-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>screenshot.c: Return the correct code for color-pick cancellation</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d05f702023426e8bac589fdfb419cae2bd79bec8)
+- [ ] [<code>screenshot.c: complete each portal request exactly once</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/62b76c5f07aa840f3bc487fc07f7f44f5ed455ce)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.7 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.7...HEAD)
