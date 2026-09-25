@@ -545,6 +545,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>systray: fix icon loss on redisplay, timeout races, and teardown errors in the applet and tray manager (#13966)</code>](https://github.com/linuxmint/cinnamon/commit/22552ed64cf9c089d08cc948bfbfe09819501736)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>xapp-status: Account for resource scale in the file-icon load path</code>](https://github.com/linuxmint/cinnamon/commit/6e01efb79198c4d9e2ccdfb51bfbd69849f8578d)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
