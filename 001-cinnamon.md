@@ -534,6 +534,15 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>xapp-status applet: harden against misbehaving clients and fix icon lifecycle issues (#13965)</code>](https://github.com/linuxmint/cinnamon/commit/c53f0580fb18b09478ab5e849a26f36d153c0eda)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-screenshot: Don't warn on a cancelled area pick.</code>](https://github.com/linuxmint/cinnamon/commit/3db781315c1165db92c415f982f59aa5ce74a884)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-plugin/wm: Remove unused inhibit-shortcut dialog wiring.</code>](https://github.com/linuxmint/cinnamon/commit/8cc6551af0d644c363324042c7df8e4c00c69e6d)
+- [ ] [<code>KeybindingTable.py: Confirm when resetting a keybinding that conflicts</code>](https://github.com/linuxmint/cinnamon/commit/66a20e1a0ab45b24e862a27acd4d7fe15fdaa685)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>KeybindingWidgets.py (wayland): Only grab the keyboard when teaching</code>](https://github.com/linuxmint/cinnamon/commit/69715278268718418278e069a8d1d8cff8709726)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_keyboard.py: Use an infobar instead of tooltip for instructions</code>](https://github.com/linuxmint/cinnamon/commit/bac95fc52f8f80bd568d75b6711942de38375592)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1021,10 +1030,11 @@
   - <sub>Tags: <code>6.7.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-backend.c: Restore numlock state on resume for X11 sessions.</code>](https://github.com/linuxmint/muffin/commit/6cd304620afcf06e6b48ee37a4a3092b87ea3b8d)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>6.7.8-unstable</code>](https://github.com/linuxmint/muffin/commit/963a573eff827d740ba8ce9592f3b2873aa0b952)
-  - <sub>Tags: <code>6.7.8-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.8-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>inhibit-shortcuts-dialog: Fix use-after-free</code>](https://github.com/linuxmint/muffin/commit/385cd5c5727073d32abbe5734a115ebabcad368d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
