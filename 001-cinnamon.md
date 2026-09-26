@@ -547,6 +547,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>xapp-status: Account for resource scale in the file-icon load path</code>](https://github.com/linuxmint/cinnamon/commit/6e01efb79198c4d9e2ccdfb51bfbd69849f8578d)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver/sound applet: Create album art the same way, fix scaling</code>](https://github.com/linuxmint/cinnamon/commit/28da8e5add9836dbd3fcd1599a22a7d267f5da64)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notificationDaemon: Handle libnotify 0.8.8 icons and load file images</code>](https://github.com/linuxmint/cinnamon/commit/28b20b47a44796f26b674b27bb66bf1a1c415654)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1041,6 +1044,7 @@
   - <sub>Tags: <code>6.7.8-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>inhibit-shortcuts-dialog: Fix use-after-free</code>](https://github.com/linuxmint/muffin/commit/385cd5c5727073d32abbe5734a115ebabcad368d)
+- [ ] [<code>clutter-actor: Clear the size-request flags when a CONTENT_SIZE actor</code>](https://github.com/linuxmint/muffin/commit/362a17044591ab27840b0ec7b0b86e5d39d9cdd2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
