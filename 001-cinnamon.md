@@ -1314,13 +1314,8 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/pix/commit/1df5501390da4c27303d0902b17d2bfdf2537ac0)
-- [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
-- [ ] [<code>3.4.11</code>](https://github.com/linuxmint/pix/commit/f9688e772792c9e46d6a4268b7bcfbd2fbc3ba86)
-  - <sub>Tags: <code>3.4.11</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
@@ -1399,27 +1394,8 @@
 - [ ] [<code>screenshot.c: complete each portal request exactly once</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/62b76c5f07aa840f3bc487fc07f7f44f5ed455ce)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.7 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.7...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
 
-- [ ] [<code>ev-poppler.cc: Only read a link destination for GOTO_DEST actions</code>](https://github.com/linuxmint/xreader/commit/28ee72cc2779a3716b7d00da1aa87da992648d24)
-- [ ] [<code>build: Bring back compatibility with XApp 1.9.0</code>](https://github.com/linuxmint/xreader/commit/f5e9988faf74af5ca85177d581269525d5203268)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>4.6.8</code>](https://github.com/linuxmint/xreader/commit/f7c11200c13aa9c0c7e0066d6d218776c48f8d41)
-  - <sub>Tags: <code>4.6.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fullscreen: Add support for Ctrl+L page selector (#729)</code>](https://github.com/linuxmint/xreader/commit/bf00d99fee9410496a08905eb66e08bd3d577fbf)
-- [ ] [<code>ev-window: avoid stacking duplicate focus-page-selector signal handlers</code>](https://github.com/linuxmint/xreader/commit/0b19be95c90db1298b12827d8d59ffa2c5ab887a)
-- [ ] [<code>4.6.9</code>](https://github.com/linuxmint/xreader/commit/a4e5ed2c916e6241efb7d9e86d01b709e45a18d8)
-  - <sub>Tags: <code>4.6.9</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.17 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.17...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xviewer/commit/becb779a65e7ef18dcd2edaed8cfcd62b4497ef4)
-- [ ] [<code>build: Add support for GIRepository-2.0.</code>](https://github.com/linuxmint/xviewer/commit/74d7d4ba2584c658ae6fb87208543671664943cc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.4.17</code>](https://github.com/linuxmint/xviewer/commit/a06282279751c278f73e063ca7b461da68321719)
-  - <sub>Tags: <code>3.4.17</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
