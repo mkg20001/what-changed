@@ -57333,6 +57333,200 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(openai): retire the Sora video provider after the API shutdown (#159543)</code>](https://github.com/openclaw/openclaw/commit/4994ec450134ed826e6e4fb63f6a277aee53d4a1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): stop run waits from blocking graceful shutdown (#159699)</code>](https://github.com/openclaw/openclaw/commit/7e93157d88ee178e2ad3be4bf89f21e54eb18f93)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(mcp): bind idle cleanup to the lifecycle scheduler (#159481)</code>](https://github.com/openclaw/openclaw/commit/534b88aff663a06959ba82c50b3914ce9734a761)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(state): preserve database witnesses across managed restarts (#159753)</code>](https://github.com/openclaw/openclaw/commit/0722b96fe87a7b03e4b089caacdfeaec175f9852)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(android): control the agent browser inside chat (#159767)</code>](https://github.com/openclaw/openclaw/commit/f651a47ed73dd83ee25c227a7ff4adbdecdc8743)
+- [ ] [<code>fix(ui): align model picker search text with the reading direction (#159937)</code>](https://github.com/openclaw/openclaw/commit/e3c03d835e55f47d8e35883d9b4f10967b2f9b0d)
+- [ ] [<code>fix(test): prepare runtime for root-directory test runs (#159723)</code>](https://github.com/openclaw/openclaw/commit/e31adaac618581786d350aa49d66e678dedf41db)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): reduce pauses when searching large model lists (#159905)</code>](https://github.com/openclaw/openclaw/commit/b5b8a3318a2f739c15d9b1e4b8a86b6e1a14b02c)
+- [ ] [<code>fix: PR mentions appear as unrelated session banners (#158578)</code>](https://github.com/openclaw/openclaw/commit/6e505f7fba9cefaecfe22db4b3473843b24790f7)
+- [ ] [<code>fix(ci): keep ci.yml under GitHub's workflow size limit (#159855)</code>](https://github.com/openclaw/openclaw/commit/9133dc39932202dfcce08203f92fded300a7a26b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): retry config hot reload after transient lifecycle refusal (#159700)</code>](https://github.com/openclaw/openclaw/commit/e37b59dd330465aebeda63ed2310c79defe25755)
+- [ ] [<code>refactor(tool-search): retire tool_search_code in favor of structured search and Code Mode (#159398)</code>](https://github.com/openclaw/openclaw/commit/ce1ca899904364168fc63e11400c43de612ea5ca)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(telegram): preserve webhook delivery on 2026.9.6 hosts (#159844)</code>](https://github.com/openclaw/openclaw/commit/151643ac6021f0dfa27985f74473ffdf03908637)
+- [ ] [<code>perf(sessions): shorten guarded transcript write holds (#159898)</code>](https://github.com/openclaw/openclaw/commit/cdac42a4630ad31cfc5accc9ec4c18a0ab6d4b60)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(config): simplify guarded config writes (#159605)</code>](https://github.com/openclaw/openclaw/commit/6b890a5e01ec46600ac3fe3505e9c58733a05d8c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deps): update fs-safe to 0.21.1 (#159882)</code>](https://github.com/openclaw/openclaw/commit/3e88e97f9ff248edb664d7868f559ead25affea0)
+- [ ] [<code>refactor(qa-lab): deslop QA Lab fourth pass (#159582)</code>](https://github.com/openclaw/openclaw/commit/9a202d4c145b43a2eb2695e93fbb3d52a70ad67c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(ci): keep survivor and preview fixtures on current contracts</code>](https://github.com/openclaw/openclaw/commit/b2452cb2119924a1459efc2ff665d2c5dc225681)
+- [ ] [<code>refactor(ui): colocate omitted media status rendering (#159938)</code>](https://github.com/openclaw/openclaw/commit/6e61b6b5cf001bfa7dd45fde217a0f8f6e15fc71)
+- [ ] [<code>chore(i18n): refresh native locales (#159934)</code>](https://github.com/openclaw/openclaw/commit/4370f7095ac1b226799411b0e43f442456b33f32)
+- [ ] [<code>improve(ui): speed up searches in expanded automation lists (#159901)</code>](https://github.com/openclaw/openclaw/commit/e71571231be00a39ea88bcc02e7facb41ed23dff)
+- [ ] [<code>fix(maintainer): resolve merge admin evidence relative to the caller (#159936)</code>](https://github.com/openclaw/openclaw/commit/59aeddc766678793101cd5b0ad17c24c87652278)
+- [ ] [<code>feat(users): merge duplicate user profiles (#159889)</code>](https://github.com/openclaw/openclaw/commit/b1694b364c65666e4b9e9d95814c281228d5c0bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(ci): use measured budgets for bounded lint shards</code>](https://github.com/openclaw/openclaw/commit/a1ba139b5697bef432ad0d2d28e0aba75b8a43a6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(sessions): defer unused patch context copies (#159780)</code>](https://github.com/openclaw/openclaw/commit/45e7c8e380731a4b96c0b3f85adebf92bdd02d1c)
+- [ ] [<code>ci: collect exact pull request timing samples</code>](https://github.com/openclaw/openclaw/commit/ef681882ffe9781c814dc5b374dc10ddfe414e37)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#159954)</code>](https://github.com/openclaw/openclaw/commit/c7db55ddd806880e9160c851b17386ee27bf3b11)
+- [ ] [<code>fix(ui): soften clipped sidebar and conversation edges (#159915)</code>](https://github.com/openclaw/openclaw/commit/db61a52647ce317e62115defc6d30a7b71ef8a2b)
+- [ ] [<code>fix(qa): keep Telegram round-trip checks on the exercised route (#159284)</code>](https://github.com/openclaw/openclaw/commit/d038d1dbbfcf3ed5010912301a7d6c406003d231)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(channels): deslop Discord and Slack fourth pass (#159842)</code>](https://github.com/openclaw/openclaw/commit/13cf74eba440c2afd015df8d9d2cf1b9cc4aca13)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(openai): keep SIWC credentials out of unsupported media requests (#159920)</code>](https://github.com/openclaw/openclaw/commit/106752303d734f6a8d4473e70af8b1199db70789)
+- [ ] [<code>chore(ci): catch Node spawns in Bun-only installs (#159439)</code>](https://github.com/openclaw/openclaw/commit/47d9700dcf8c13ce16a5d3cd8725fb7cf31cb332)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ci): distinguish survivor recovery failure boundaries (#159751)</code>](https://github.com/openclaw/openclaw/commit/b7a0e00097cc0e2ff63961178a5688ec5885b792)
+  - <sub>Tags: <code>release-publish/b7a0e00097cc-1790552114</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(update,backup,doctor): remove low-value tests (batch d077) (#159952)</code>](https://github.com/openclaw/openclaw/commit/2a272980354c4e5875cad0e9a279fc38a424408d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: keep runs alive when another user's identity scopes change (#159939)</code>](https://github.com/openclaw/openclaw/commit/b90999ac8dbdb55244ec78fbfd587bf5ca9574ab)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): preserve end follow through measurement corrections (#159955)</code>](https://github.com/openclaw/openclaw/commit/3e0123b952f275a2cd61348fd96484e1676f257d)
+- [ ] [<code>fix: restore first-run provider styling and API-key choices (#159412)</code>](https://github.com/openclaw/openclaw/commit/4f33e1b223e52f5bedc6026d9d83232429ccfb94)
+- [ ] [<code>docs(agents): prefer local proof over CI spend</code>](https://github.com/openclaw/openclaw/commit/3880bb1394c2da9d3c67cdfaff648e023dcd863f)
+- [ ] [<code>improve(ui): move table controls below content (#159924)</code>](https://github.com/openclaw/openclaw/commit/ac5891921c3480e761681f3be830088c94038578)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: balance native test rows from measured timing</code>](https://github.com/openclaw/openclaw/commit/b3f4c0aa540be135b722bec27922f105611b598d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(slack): let verified linked admins assign sessions from Slack (#159694)</code>](https://github.com/openclaw/openclaw/commit/a2c698f3d3211e2aa4a135b2782db4316771dfc8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(codex): deslop Codex plugin fifth pass (#159726)</code>](https://github.com/openclaw/openclaw/commit/e4e485225184f418636d34cfd05c66a7b5ebd06c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(update,doctor): remove low-value tests (batch d078) (#159963)</code>](https://github.com/openclaw/openclaw/commit/d96b6742e5e8869b4ac57494905daa5fe504b7bf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#159967)</code>](https://github.com/openclaw/openclaw/commit/6bda31d42a07ba91defddfd91a54f7f1e494b6b8)
+- [ ] [<code>chore(i18n): refresh native locales (#159969)</code>](https://github.com/openclaw/openclaw/commit/08020670a2fb9db412f8f270a87f545545e2f0b2)
+- [ ] [<code>perf(ui): stop rail ticks restyling on every transcript row insertion (#159910)</code>](https://github.com/openclaw/openclaw/commit/501c69fb64fceed7761cc6a870306f7c2ebd67da)
+- [ ] [<code>fix(slack): keep top-level turns quiet and finish progress without "Working" (#159657)</code>](https://github.com/openclaw/openclaw/commit/da04ae795c8dc24b000916161aadbb2e9f352cd2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(ci): accelerate literal policy matching</code>](https://github.com/openclaw/openclaw/commit/5866192050b17b7744d93a66b575a6ac2a016d6e)
+- [ ] [<code>fix(subagents): keep completion recovery with its original owner (#159943)</code>](https://github.com/openclaw/openclaw/commit/1fea5ee10891ea6105f8757ec8695f9583a134ca)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: start Node tests alongside baseline ratchets</code>](https://github.com/openclaw/openclaw/commit/e337075dd7c0b60e164e78cbad75ac722dc5fbd9)
+- [ ] [<code>refactor(infra): deslop infra fourth pass (#158877)</code>](https://github.com/openclaw/openclaw/commit/e7908ca750b56fdd80dae59686bfcbafdb8892da)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(whatsapp): restore media uploads through proxies (#159851)</code>](https://github.com/openclaw/openclaw/commit/dd628a54504f8b72125ca92a7b158015e2ea4f07)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(scripts): deslop scripts/lib (#159362)</code>](https://github.com/openclaw/openclaw/commit/9491d5a5a3372a04416e0317f3040c41bad670d5)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): allow oversized PNG attachments (#159960)</code>](https://github.com/openclaw/openclaw/commit/5a5a0e7e8a64f288d98cfe9a1515fae34645126a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): include manifest-only plugins in extension test plans (#159981)</code>](https://github.com/openclaw/openclaw/commit/e205c9d6fced8f9201e5aa500a355ec93dbcff0b)
+- [ ] [<code>perf(gateway): reduce main-thread allocation for large history pages (#159585)</code>](https://github.com/openclaw/openclaw/commit/df1273803188cbc4bf7c2d282a9f9f14e3bbf393)
+- [ ] [<code>feat(ui): put the conversation header in the native titlebar row (#159932)</code>](https://github.com/openclaw/openclaw/commit/b3b74485057018b090b9b76a809b53a59cffd6f0)
+- [ ] [<code>fix(plugins): verify unchanged ordinary companions after native capture</code>](https://github.com/openclaw/openclaw/commit/68442a868e8741fa0a59f8dc58da67a37111af96)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(gateway): retain model owners during minimal metadata refresh</code>](https://github.com/openclaw/openclaw/commit/0fffd0de2e78fb86458dab11d2ec047e5144776f)
+- [ ] [<code>test(gateway): isolate default-token device identity stores</code>](https://github.com/openclaw/openclaw/commit/d21edfe3f88ba7e837765fab3a63452ce9efa992)
+- [ ] [<code>fix(terminal): terminals fail on OpenClaw's Bun build when Node is not installed (#159447)</code>](https://github.com/openclaw/openclaw/commit/8b07c92b2b476e8efb9c1b1000e100c0a8a8734f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(state): retire stale workers before replacement admission (#159944)</code>](https://github.com/openclaw/openclaw/commit/50864f52176af234dcf4baea0af7640421f67e79)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(release): keep frozen onboarding validation compatible (#159973)</code>](https://github.com/openclaw/openclaw/commit/7e3745e41cf70ff5fd15e1a36a84e44c5df1c0b2)
+- [ ] [<code>fix(gateway): keep paired diagnostics working across SSH routes (#159169)</code>](https://github.com/openclaw/openclaw/commit/cc70f934a15adab35551a6a1ff547b759c73753b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ui): scope deleted-session draft cleanup to its Gateway (#159341)</code>](https://github.com/openclaw/openclaw/commit/e66dc9aef6295fbf145c13dfe6aa9f172c75817e)
+- [ ] [<code>fix(reset): remove canonical SQLite session history (#159419)</code>](https://github.com/openclaw/openclaw/commit/c2495c54207fe34c910846e138d779f944c67dbc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: allow HTML widgets up to 10 MiB (#159970)</code>](https://github.com/openclaw/openclaw/commit/86c4bf83e699b702d3855d41711d8a4c0de7412f)
+- [ ] [<code>fix(ci): gate plugin lease contention after child setup (#159959)</code>](https://github.com/openclaw/openclaw/commit/1e9f0d090fab6c332b0f7a1fc5fcb4ec57d3e47a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ios): stabilize native release qualification (#159890)</code>](https://github.com/openclaw/openclaw/commit/cd7e0ee4ecd196b15c2d7756fe1453f1d09c5a1c)
+- [ ] [<code>improve(android): align icons and separate work pages from settings (#159961)</code>](https://github.com/openclaw/openclaw/commit/eec06229e49ce5f15cadbd1bdcc9739471077149)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): complete already-current updates before service membership guards (#159193)</code>](https://github.com/openclaw/openclaw/commit/018639af3b54d12d521f0ca89635934508aabf5f)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: shorten pull request control jobs and completion</code>](https://github.com/openclaw/openclaw/commit/1ea24b2dc36f809ff2113965ef4ca6ba6c1387f9)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(android): align Play Store icon with the app (#159964)</code>](https://github.com/openclaw/openclaw/commit/da6e11cf802afb8946cae58cf60f6eb14a1d914a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(codex): keep session-owner seeding out of fake-timer windows (#159986)</code>](https://github.com/openclaw/openclaw/commit/11c32c43137950e0b40972e3e25863af532a3eb7)
+- [ ] [<code>ci: honor the pinned Node version on hosted runners</code>](https://github.com/openclaw/openclaw/commit/84bf30fecf13c1c288fdb7d005152095c7230e88)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(workers): one network reset during the worker runtime download fails a cloud provision (#159546)</code>](https://github.com/openclaw/openclaw/commit/5cda19987e9853ee15aade10cedafa2edc630148)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ui): keep GitHub reference chips readable across themes (#153922)</code>](https://github.com/openclaw/openclaw/commit/72b76842012f405400a2b6b694f46bd62b7bca1c)
+- [ ] [<code>fix(tui): preserve CLI lifecycle context for terminal events</code>](https://github.com/openclaw/openclaw/commit/3067f9cf01ae8b3ce3ec6bb5b80d58f89989ad48)
+- [ ] [<code>fix(ui): work logs split when tasks resume automatically (#159997)</code>](https://github.com/openclaw/openclaw/commit/6ae3331e0da3458c6389d9bc4d470d4c62496225)
+- [ ] [<code>fix(ci): keep upgrade recipes compatible with frozen targets (#159996)</code>](https://github.com/openclaw/openclaw/commit/7c2fd96062ba00c6113b4c9597e7aefc6761856a)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(update): join state worker retirement before raw schema downgrade (#159885)</code>](https://github.com/openclaw/openclaw/commit/d5762144599057202965435ca2edf66216a2b07e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(gateway): read placement recovery facts through the state read worker (#159881)</code>](https://github.com/openclaw/openclaw/commit/b81e04f96e4e1edf1045b553e1ef757adf855675)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(i18n): refresh native locales (#160008)</code>](https://github.com/openclaw/openclaw/commit/38dbd361b708a1fd53e123cebc3fda7ffbc7e471)
+- [ ] [<code>fix(windows): recover Gateway restarts from SQLite sharing errors (#159347)</code>](https://github.com/openclaw/openclaw/commit/5232aba0030e48028810a6f0fc6e2b2410d1266b)
+  - <sub>Keywords: <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>fix: recover managed Gateways after updates and repairs (#159577)</code>](https://github.com/openclaw/openclaw/commit/96110f898a3aa343112708c88950d02d6bf6462e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(qa): cover private operator key handoff (#157966)</code>](https://github.com/openclaw/openclaw/commit/71f918d0fa434ed778aaa6d13b644d6b247da8a2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): show configured plugin failures in health reports (#118013)</code>](https://github.com/openclaw/openclaw/commit/06fb4362eb7cdde535d440683cf9cc0490d2e775)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): respect frozen plugin SDK closures (#160007)</code>](https://github.com/openclaw/openclaw/commit/0e40cf2be90fb662e744cfde0d25ee49ec1b3fa2)
+- [ ] [<code>fix(test): isolate Doctor fixtures from retention maintenance (#159992)</code>](https://github.com/openclaw/openclaw/commit/fb2487a903ab3b15fe72f599a7d0bb33c1ec0488)
+- [ ] [<code>fix(ci): keep reply-preview retention proof on Node (#159991)</code>](https://github.com/openclaw/openclaw/commit/52fc8af5db5c62e105837608b85e653007c8e11d)
+- [ ] [<code>fix(test): tick identity scope config writes until they settle</code>](https://github.com/openclaw/openclaw/commit/055d97a052479d38bcb9197f715cd5fc5adbad5a)
+- [ ] [<code>refactor(agents): deslop agent tools third pass (#159639)</code>](https://github.com/openclaw/openclaw/commit/103fbae905679aa0e91ee8fde830dfe4d5f3965c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: pack full extension lint into three jobs</code>](https://github.com/openclaw/openclaw/commit/af17bf3be57ad06ade39073f8636b8c21bea5d5a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>improve(openai): mark Sign in with ChatGPT as Beta (#160011)</code>](https://github.com/openclaw/openclaw/commit/ebd2bfc1dda50823efae5e17550e24915b4431b0)
+- [ ] [<code>fix(sessions): keep cleanup dry runs read-only (#159316)</code>](https://github.com/openclaw/openclaw/commit/8f2c35981951190849d06335bc1e2e5010562654)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(gateway): let operators disable client file and image uploads (#158567)</code>](https://github.com/openclaw/openclaw/commit/f2e526882c7e42731f15bc8a781c74fc3dad293a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): give composer status bars a uniform height (#160016)</code>](https://github.com/openclaw/openclaw/commit/f4031dce06a05248a819d1495a121d03dce8741f)
+- [ ] [<code>refactor(channels): deslop channel core third pass (#159811)</code>](https://github.com/openclaw/openclaw/commit/4e9eefe6e2bb7604e8ba1a80b93356c184619e45)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(ui): add a personal external browser preference (#159887)</code>](https://github.com/openclaw/openclaw/commit/cff990a848f6c8117996a53be1514e48b9ad4934)
+- [ ] [<code>fix(packaging): include required peers in fresh npm installs (#160015)</code>](https://github.com/openclaw/openclaw/commit/ce73f2c8f2a797caf8538cfd2867ac04ad31410e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(ui): organize sidebar session filters in one panel (#150605)</code>](https://github.com/openclaw/openclaw/commit/5bc7904344cbe9afb40040df17c1476ded8ebfd5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(computer): unchanged window reads never reach critical loop detection (#160019)</code>](https://github.com/openclaw/openclaw/commit/900971b43c8ec2d05cfa21aa90109986d907d82f)
+- [ ] [<code>perf(ui): defer focused browser document rendering</code>](https://github.com/openclaw/openclaw/commit/ec00e5842d3b4cc65a666a9d58050689dfa3c531)
+- [ ] [<code>test(gateway): retain the model fixture listener through startup</code>](https://github.com/openclaw/openclaw/commit/8c65491b79b3d3a2b615879c3e5c4658c9480d1d)
+- [ ] [<code>test(gateway): reserve the scripted spawn for parent turns</code>](https://github.com/openclaw/openclaw/commit/d94eac5484a9c9cb59572640e065ff9351480fe4)
+- [ ] [<code>test(gateway): disable background wakes in the first-turn fixture</code>](https://github.com/openclaw/openclaw/commit/8a14f266fcc907b0f1fecae9882caeb1b565c06a)
+- [ ] [<code>refactor(plugins): deslop plugin runtime fourth pass (#159600)</code>](https://github.com/openclaw/openclaw/commit/216b71a03133930056cd21938d29527eaafe281f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(extensions): deslop browser and memory plugins further (#159798)</code>](https://github.com/openclaw/openclaw/commit/fd9ac3eb9bdd5441f9fc335a49241e759cae8978)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): honor loaded stop policy in upgrade fixtures (#160000)</code>](https://github.com/openclaw/openclaw/commit/8232c28ba9ad43c6bf0bad92a9dcc4ed9fbfdbb2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>refactor(tool-search): name nested catalog call ids after tool_call (#159962)</code>](https://github.com/openclaw/openclaw/commit/66679bfa3ec1ec7bd360ad6af5a3a0c269d6bdcd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#160031)</code>](https://github.com/openclaw/openclaw/commit/bc487c61651e4faa01f05fc5afc4b938cfdf0768)
+- [ ] [<code>perf(ui): stop re-parsing loaded tool output on every history page (#160030)</code>](https://github.com/openclaw/openclaw/commit/1d7e5b0813d51b7d3e4baeb983064b2a8471e722)
+- [ ] [<code>fix(release): filter frozen SDK compatibility exports (#160033)</code>](https://github.com/openclaw/openclaw/commit/e03da9c87fedd4355ef474007b65bd65d930b98d)
+- [ ] [<code>test(transcripts): bind fixture paths to captured sessions (#160042)</code>](https://github.com/openclaw/openclaw/commit/d5c4dfced4a3c59274781edb0559beb18ed355d6)
+- [ ] [<code>ci: record complete Node test shard execution</code>](https://github.com/openclaw/openclaw/commit/eedec20b104d27684541949ca9b2bf1b314a397a)
+- [ ] [<code>ci: capture complete compiler and lint diagnostics</code>](https://github.com/openclaw/openclaw/commit/decfd9abba980996bf50fb1fd96599d88597639b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: tolerate verified main failures in PR gates</code>](https://github.com/openclaw/openclaw/commit/83fb6a3aa8ce8ff4e3abaa03bee96742248c83af)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>chore(deps): refresh dependencies through September 19 cutoff (#159401)</code>](https://github.com/openclaw/openclaw/commit/39373e69f8f877e77a41e0be158ea44146ad8615)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): preserve frozen-target managed restart coverage (#160043)</code>](https://github.com/openclaw/openclaw/commit/43d73d77a024a05ab495427ea4f456cc9a8541dd)
+  - <sub>Tags: <code>release-publish/43d73d77a024-1790562934</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(ui): project one session row without indexing the whole roster (#160045)</code>](https://github.com/openclaw/openclaw/commit/411047697a6a5e45b353dd3b73e93d67683a7e70)
+- [ ] [<code>fix(codex): stabilize sandbox HTTP cancellation test readiness (#160029)</code>](https://github.com/openclaw/openclaw/commit/ccfbc265f4e3eead91eef06d810a581c99ce0918)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: prevent false completion waits and publication stalls (#160036)</code>](https://github.com/openclaw/openclaw/commit/056e84786a061fdc92bd0ce5ff4eac23c6fa2e09)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(chat): hide explicitly removed queued messages (#159503)</code>](https://github.com/openclaw/openclaw/commit/366d2c59b0694ddb1dac74dd511d69f463e5145d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#160051)</code>](https://github.com/openclaw/openclaw/commit/3b1b98223e35a6ccdf4bafdfbe5785f6b2bf5a49)
+- [ ] [<code>fix(voice-call): load on supported 2026.9.6 hosts (#159987)</code>](https://github.com/openclaw/openclaw/commit/7c346c1c653ccb706de807f302962773fab277ac)
+- [ ] [<code>fix(test): bind jsdom preload to the active Vitest worker</code>](https://github.com/openclaw/openclaw/commit/7526f600cf104b51ee1ba60a4cf533d9e1449a01)
+- [ ] [<code>fix(test): retire checkout actors on denied lease reads</code>](https://github.com/openclaw/openclaw/commit/6d8d77725f717b39714f555b13d8c2b578a434cf)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
