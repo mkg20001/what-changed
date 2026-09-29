@@ -568,6 +568,7 @@
 - [ ] [<code>layout.js (x11): Exclude obscured desklet areas from input region</code>](https://github.com/linuxmint/cinnamon/commit/a41f98d5546c13a6cc476c5981e948cc3b393500)
 - [ ] [<code>cinnamon-screenshot.c: Capture at physical resolution on scaled Wayland</code>](https://github.com/linuxmint/cinnamon/commit/cc48d2be3c835c88e496343c4efafa0c2db11e5f)
 - [ ] [<code>layout.js: Skip input-rect computation and debug-overlay in Wayland</code>](https://github.com/linuxmint/cinnamon/commit/36eb79462a1c512eede21e447440ada2abbe9a3b)
+- [ ] [<code>st-scroll-bar.c: Respect disabled animations</code>](https://github.com/linuxmint/cinnamon/commit/aa840db2b249525537cfe9c8ba16e7b70a7b7254)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1067,6 +1068,7 @@
 - [ ] [<code>clutter-actor: Clear the size-request flags when a CONTENT_SIZE actor</code>](https://github.com/linuxmint/muffin/commit/362a17044591ab27840b0ec7b0b86e5d39d9cdd2)
 - [ ] [<code>keybindings (x11): Hold a pointer grab while the magnifier zoom</code>](https://github.com/linuxmint/muffin/commit/2ea4b44d3eea8806108a5b934985a55e2d94a768)
 - [ ] [<code>compositor: Paint viewport-scaled and Xwayland windows at resource</code>](https://github.com/linuxmint/muffin/commit/daf65679b64ac6972086f1b545cfc92343ae26ef)
+- [ ] [<code>events.c: Don't route pointer events to a window while a Clutter grab</code>](https://github.com/linuxmint/muffin/commit/2ff578156a66d002c3121e9cf17d7cfb0eb33c44)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
