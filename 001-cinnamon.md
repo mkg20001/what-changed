@@ -1465,6 +1465,7 @@
 - [ ] [<code>test-scripts: Update qt-system-tray and add -pixmap variant.</code>](https://github.com/linuxmint/xapp/commit/34de3a4ed28e1d399b5a6e4b50e2a0783b5baad5)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>favorite-vfs-file-enumerator.c: Fix infinite loop in next_file().</code>](https://github.com/linuxmint/xapp/commit/ccd8cd30e608ca6b9a534b3138e59788c21eb206)
+- [ ] [<code>test-scripts: Add test for file-based symbolic icons.</code>](https://github.com/linuxmint/xapp/commit/7e47f1ea9237048ff2d724c31ca0c96cc36f1883)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
