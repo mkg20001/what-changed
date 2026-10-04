@@ -578,9 +578,14 @@
 - [ ] [<code>appswitcher: Fix Alt+Shift+Tab (13717) (#13743)</code>](https://github.com/linuxmint/cinnamon/commit/30b8bc9599551bd6d22a455049c8baf2784b1ecd)
 - [ ] [<code>dnd.js: Don't leave the drag grab held when the drag actor is destroyed</code>](https://github.com/linuxmint/cinnamon/commit/2803c67d493bac8bd032df6898bca269153e887b)
 - [ ] [<code>power applet: disconnect signals and cancel pending calls on removal (#13949)</code>](https://github.com/linuxmint/cinnamon/commit/528fbedcaaaf34d2035a82a9ef852a75b822e874)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon/commit/c4f752f28d3c79cefe31d83592ca7611d41a1c61)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list/window-list: Drop client-pid fallback lookups.</code>](https://github.com/linuxmint/cinnamon/commit/55142127766847d6d50a7905cfae5f2c2b41ad14)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-window-tracker.c: Use meta_window_get_sandboxed_app_id()</code>](https://github.com/linuxmint/cinnamon/commit/eb42913fef9aa7174e73b17bf884cd999d460bd1)
+- [ ] [<code>xapp-status applet: Render absolute-path symbolic icons via a GFileIcon.</code>](https://github.com/linuxmint/cinnamon/commit/482cc6254419acf1388877747d53fd9ff5948625)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -853,11 +858,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ddb43425b35aaf15a8d5ba74059b5b72c2a383e2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [0b22e7cc69f11e8472065cfc9309add51f403cfc → HEAD](https://github.com/linuxmint/mint-l-icons/compare/0b22e7cc69f11e8472065cfc9309add51f403cfc...HEAD)
 
-- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-l-icons/commit/6704f76e4e2ff9bd81be0ddda413e0f44815003c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/mint-l-icons/commit/0b22e7cc69f11e8472065cfc9309add51f403cfc)
 - [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-l-icons/commit/39d64364af8d37510d7d345e009527518823f5f2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.8.5</code>](https://github.com/linuxmint/mint-l-icons/commit/dbf96f024f7d06905d35edb40a7f127b8e54af65)
@@ -1113,9 +1115,10 @@
 - [ ] [<code>wayland/xdg-shell: Ensure applied window geometry is always non-empty</code>](https://github.com/linuxmint/muffin/commit/e192d2e8957ce9ea0e8554a53e8a48295e684e52)
 - [ ] [<code>Restore edge-resistance-window setting (#828)</code>](https://github.com/linuxmint/muffin/commit/60223740c24dc88af552a00220ce3287220362a4)
 - [ ] [<code>build: Drop the unused dbus-1 dependency (#868)</code>](https://github.com/linuxmint/muffin/commit/7811cd96a80960a942cec33808b5f2970c6a7264)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>window.c: Resolve meta_window_get_pid() from the client pid</code>](https://github.com/linuxmint/muffin/commit/537aa58bba30c862715c48b3218201d5da02ef09)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
