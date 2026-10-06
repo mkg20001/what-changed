@@ -64072,6 +64072,55 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test(state): await deferred admission before checking refusal</code>](https://github.com/openclaw/openclaw/commit/95fb39d701389e0bb36539ac9969ce31f7370897)
 - [ ] [<code>test(infra): remove unused file descriptor helper</code>](https://github.com/openclaw/openclaw/commit/bedc8ae077ca0bab237425ff6e4a9d9b41f708d8)
+- [ ] [<code>test(state): deduplicate admission test routing (#165891)</code>](https://github.com/openclaw/openclaw/commit/876dd7520f7b4eb9a30933fbee90b173386ce540)
+- [ ] [<code>fix(ci): identify duplicate test owners in preflight</code>](https://github.com/openclaw/openclaw/commit/195e1cc6c1fb3b98960b1373006602af006b83b9)
+- [ ] [<code>perf(auth): move auth saves to workers and publish incrementally (#165644)</code>](https://github.com/openclaw/openclaw/commit/381b1e05d7f0fa572fdf085e7714d4f90864d4b5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(chat): bound history pages and reuse recovery cursors (#165897)</code>](https://github.com/openclaw/openclaw/commit/50f38c6ceb801f2b61e2ddb85e18f9ba2f83dbbf)
+- [ ] [<code>perf(workboard): speed up sessions board revision reads (#165896)</code>](https://github.com/openclaw/openclaw/commit/70cfa76a35450625b7d070b753e6778fbb78ffd8)
+- [ ] [<code>perf(gateway): acknowledge chat sends before skill preparation (#165608)</code>](https://github.com/openclaw/openclaw/commit/e532b82827670ccf49105e8399a9e121772c3f60)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(routing): remove redundant route-target guards (#165773)</code>](https://github.com/openclaw/openclaw/commit/0c7a83dd65c676b1c224458d06ce4bdb69ea51ac)
+- [ ] [<code>fix: doctor updates recover archives without leaving gateways stopped (#165854)</code>](https://github.com/openclaw/openclaw/commit/292c78d743d056f9543b8c61bb1ad087f7ac940e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: Gemini turn fails instead of retrying when the stream is cut mid-frame (#165870)</code>](https://github.com/openclaw/openclaw/commit/c20c6e5822d741c03831cac8ad805aace1735de3)
+- [ ] [<code>perf(session-entry): move cold and child patches to the worker (#165819)</code>](https://github.com/openclaw/openclaw/commit/b636e955661ee586e37333107df66e23f3d2f238)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(agents-gateway): deslop agents and gateway (#165907)</code>](https://github.com/openclaw/openclaw/commit/62b807dfa89dc0fce4fd5691a2a9933123a509ea)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(scripts): deslop scripts (#165908)</code>](https://github.com/openclaw/openclaw/commit/e72e0807acfa8c7ee3fa1fe429cc59e9d6c1c6e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(sessions): release lifecycle locks after queued admission cancellation (#165898)</code>](https://github.com/openclaw/openclaw/commit/9627e8a5d5ce3bde8d58e791108eff0df9cd3c49)
+- [ ] [<code>fix(gateway): cloud worker dispatch fails with incomplete built import closure when an external plugin ships hidden dist chunks (#165669)</code>](https://github.com/openclaw/openclaw/commit/b1f85addba465d80fd6ade4af09551d6fde2f417)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>perf(state): attribute read workers and remove a redundant pairing read (#165910)</code>](https://github.com/openclaw/openclaw/commit/c439876feddfa1a46d537c5f65adc69720c123cf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(agents): move bulk registry work off the Gateway thread (#165684)</code>](https://github.com/openclaw/openclaw/commit/ecd7875e3a4d933d05319cb9bce264e4597f9d82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(codex): prepare resident catalog ordering and title searches (#165911)</code>](https://github.com/openclaw/openclaw/commit/30b5c8e47ffece001de9732fcfb08440b5c189fc)
+- [ ] [<code>refactor(cli): deslop CLI and commands (#165900)</code>](https://github.com/openclaw/openclaw/commit/10481d69470bb22d9c9661d0e0051c147b339708)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(core): deslop internal types and guards (#165916)</code>](https://github.com/openclaw/openclaw/commit/282f796dfa057e1e21fcdd0f3686712578b0c0e9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(gateway): avoid full placement projections during reconciliation (#165922)</code>](https://github.com/openclaw/openclaw/commit/14fe10d01c75c84f3b0dc34ec274caf268fb86bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(gateway): avoid premature scheduler wakes (#165931)</code>](https://github.com/openclaw/openclaw/commit/3b9c3e35de61e83cabb20188a573804dd261dd92)
+- [ ] [<code>fix(update): keep checkout plugin skills loadable (#165882)</code>](https://github.com/openclaw/openclaw/commit/6636e2c8d50bea6e3ba90de167e8ce1bf341c111)
+- [ ] [<code>fix(agents): settled-turn finalization compacts, then rejects its own result (#165179)</code>](https://github.com/openclaw/openclaw/commit/3913c8bfc980a8ac098398798d7204ff4cce0bb0)
+- [ ] [<code>fix(ui): publish readable control UI assets (#165880)</code>](https://github.com/openclaw/openclaw/commit/eeaf71105524f6de132adbf73dd95a8e1b53e84e)
+- [ ] [<code>fix: unblock CI with patched source-map-js (#165902)</code>](https://github.com/openclaw/openclaw/commit/9c66e8f40532ffb29b658283168f3034f0f06c62)
+- [ ] [<code>perf(plugins): reuse instance identity across invocations (#165923)</code>](https://github.com/openclaw/openclaw/commit/4308a8fb8d929e515a4702afe248746afed8af45)
+- [ ] [<code>fix(daemon): verify launchd membership natively when launchctl denies PID domains (#163317)</code>](https://github.com/openclaw/openclaw/commit/e5b62e7c791427a300d0049d33918501605f1a80)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(qa): retain host ownership for staged auth saves</code>](https://github.com/openclaw/openclaw/commit/ad99343036ffbed53d8977790bdb4d28dd984db2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: complete October beta updater compatibility (#165855)</code>](https://github.com/openclaw/openclaw/commit/0e9f1bf7bcf142b931fefe9b0f721c762d00f762)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: compare Gateway runtimes without changing the benchmark driver (#165928)</code>](https://github.com/openclaw/openclaw/commit/d0b450bcf51b513abe2a884f09265d1fb362625c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(worktrees): bound cleanup and back off timed-out removals (#165913)</code>](https://github.com/openclaw/openclaw/commit/3c66417c08e3d96ab14930262aa3cd47feaa42ac)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): observe copy feedback before click acknowledgment (#165912)</code>](https://github.com/openclaw/openclaw/commit/70d7e3cf90ebe1d8b1eb4f6609d7606685677990)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
