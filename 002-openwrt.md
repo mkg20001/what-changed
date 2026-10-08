@@ -93,6 +93,11 @@
 - [ ] [<code>vlist: pass the tree as comparator context in VLIST_TREE_INIT</code>](https://git.openwrt.org/project/libubox.git/commit/7677b7a4f3a46f68e6f5ba6818f7b72fdd7dbaa0)
 - [ ] [<code>ustream: allow freeing the stream from within notify callbacks</code>](https://git.openwrt.org/project/libubox.git/commit/17f527fb6c30bf9073104f03337c2b7c03158bdb)
 - [ ] [<code>blobmsg: use flexible-array member in blobmsg_name()</code>](https://git.openwrt.org/project/libubox.git/commit/e7608b69283d919d031d13cc8e21692503f5dbea)
+- [ ] [<code>uloop: fill one event entry per descriptor on kqueue</code>](https://git.openwrt.org/project/libubox.git/commit/f9163076e12d3f99a63a59e7e852ed5f9a82df61)
+- [ ] [<code>uloop: report a hangup on kqueue as an error, like epoll</code>](https://git.openwrt.org/project/libubox.git/commit/6b4394f900af120e90521ed52b54aa2afe26958a)
+- [ ] [<code>uloop: fix edge trigger on kqueue</code>](https://git.openwrt.org/project/libubox.git/commit/ff8db08443b0928e6b5ad477aecbdb1322a011b6)
+- [ ] [<code>uloop: report a full socket hangup on kqueue as an error</code>](https://git.openwrt.org/project/libubox.git/commit/531dbb03cbfaefbbb77a6b93f215ceee52d574b9)
+- [ ] [<code>uloop: run kqueue interval callbacks after the events are collected</code>](https://git.openwrt.org/project/libubox.git/commit/da2d205a5cf3e877c45a2eec488218cbaf452e7d)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
