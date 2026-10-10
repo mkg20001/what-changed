@@ -605,8 +605,10 @@
 - [ ] [<code>cs_mouse.py: Fix edge-scrolling disable callback</code>](https://github.com/linuxmint/cinnamon/commit/6a9dce0e4acc51b5a3c9fd41328de45b20bbad46)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>applets: Small fixes for Wayland sessions</code>](https://github.com/linuxmint/cinnamon/commit/c9fd67221a0bc356a8e37bf28c7db6b383af880c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>global: Don't create a scope for D-Bus activated applications (#13926)</code>](https://github.com/linuxmint/cinnamon/commit/dde3003e4e9783b4a0bb348514c20c2ca655e28e)
+- [ ] [<code>util.js: Put spawned processes in their own systemd scope</code>](https://github.com/linuxmint/cinnamon/commit/6dce8a6347b223e26fa0b4a5eb1da3e578f55563)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -706,6 +708,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4252e0ba45f9a4fd0a4087dac7c20c0059197ea1)
 - [ ] [<code>org.cinnamon.desktop.keybindings: Add hover-click shortcut.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/981f906e45729e7aca42ea906e3e37de2d805896)
+- [ ] [<code>gnome-systemd: Actually create scopes for launched applications (#275)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94bb5c5ec05d65b0903a9b357232da3bf71aed33)
+- [ ] [<code>gnome-systemd.c: Don't warn if a process exited before its scope</code>](https://github.com/linuxmint/cinnamon-desktop/commit/43e7b6d7e89fbedd577ef4af4d1b9262c833a5d2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -796,8 +800,15 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>csm-consolekit.c: Some signal cleanup, use shutdown-prepared</code>](https://github.com/linuxmint/cinnamon-session/commit/51cb449561bb1d2b8afee8b6f9870cc1a1a91ecb)
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/06c858283919e6e1a1ae6dff611ada065b26fc78)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csm-manager.c: Stop cinnamon-session.target in the exit phase, not</code>](https://github.com/linuxmint/cinnamon-session/commit/83103a7aac01c22a58c5acdfc405db8381109541)
+- [ ] [<code>session: Add a drop-in for the application scopes cinnamon creates (#213)</code>](https://github.com/linuxmint/cinnamon-session/commit/9fdec3d1ffc646df51a123ce6ba650ed7286ebbc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>csm-autostart-app.c: Put application-phase autostart applications</code>](https://github.com/linuxmint/cinnamon-session/commit/1b00b8a4809cb92fa1eb48e1f6fc07fa29c712bb)
+- [ ] [<code>Add exempt-apps-from-oomd setting</code>](https://github.com/linuxmint/cinnamon-session/commit/addab3866df942ea0503f501a56c961a261b3154)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
