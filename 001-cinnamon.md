@@ -872,9 +872,12 @@
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f17910750fef1f32b4d1cec767b2f3fa41dc89c1)
 - [ ] [<code>gpm-common.c: Treat pending charge the same as pending discharge or</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ba81b7fcfb1e3d2e4e61ff7d482fe096ba40ff16)
 - [ ] [<code>power/automount: Ignore custom-screensaver-command in Wayland sessions</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/252e0d5b3133612e95cedace6c42f2197ab9e9e1)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>housekeeping: Add systemd OOM notification module (#454)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/89db53d353dc5515c043a5e5eecd0daa1a72b810)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-systemd-notify.c: Simplify i18n, do better reporting which app</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c6051245c6ea61766413733760d9ddb9d44d4b57)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1273,6 +1276,7 @@
 - [ ] [<code>nemo-icon-dnd.c: Fix reporting a successful drag result.</code>](https://github.com/linuxmint/nemo/commit/66eabf459bc86d03c24797274d0e3f60b9b7a7d8)
 - [ ] [<code>nemo-directory-async.c: Trust symlinks to launchers in system directories. (#3846)</code>](https://github.com/linuxmint/nemo/commit/86e0e3cad48eaef1dcc5890e40d0d6f0fed5b297)
 - [ ] [<code>nemo-mime-actions.c: Restore "Launch Anyway" when nemo cannot alter</code>](https://github.com/linuxmint/nemo/commit/6921be68a6dddbd23b4ac5ae58b3180bbae74d6b)
+- [ ] [<code>nemo-view.c: Always open a new window for open-as-root, make method</code>](https://github.com/linuxmint/nemo/commit/e5b6cfc1f5ede27ba9034ec55343e4eeaed66a8b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
