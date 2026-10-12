@@ -815,9 +815,10 @@
 - [ ] [<code>csm-autostart-app.c: Put application-phase autostart applications</code>](https://github.com/linuxmint/cinnamon-session/commit/1b00b8a4809cb92fa1eb48e1f6fc07fa29c712bb)
 - [ ] [<code>Add exempt-apps-from-oomd setting</code>](https://github.com/linuxmint/cinnamon-session/commit/addab3866df942ea0503f501a56c961a261b3154)
 - [ ] [<code>systemd: Exclude dbus.service from oomd coverage.</code>](https://github.com/linuxmint/cinnamon-session/commit/2605e63ecb42dcb27d5ace26d831dc74bd5fe61d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>systemd: Keep dbus.service running when the kernel OOM-kills one of its</code>](https://github.com/linuxmint/cinnamon-session/commit/c038bb411cd388abac031a41b857f3fb3276549e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
