@@ -630,8 +630,9 @@
 - [ ] [<code>grouped-window-list: Don't toggle scroll buttons from inside layout</code>](https://github.com/linuxmint/cinnamon/commit/b6184ebc2655c5d15396d3cf21ff87d7c0de175a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-looking-glass.py: Simplify session-type check.</code>](https://github.com/linuxmint/cinnamon/commit/6d6daba829f477316cb625997ce9634bf890cac8)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>backgroundManager.js: Don't attempt to restart after SessionOver</code>](https://github.com/linuxmint/cinnamon/commit/9c75a64ed50f6716f893b88abff168ae1fbc4e9d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -915,9 +916,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-systemd-notify.c: Simplify i18n, do better reporting which app</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c6051245c6ea61766413733760d9ddb9d44d4b57)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0b66e1e55446842b89faa9bd723cd57b1798595a)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
