@@ -262,6 +262,14 @@
 - [ ] [<code>system-dummy: log the bridge operations</code>](https://git.openwrt.org/project/netifd.git/commit/721103dbeafbeaa8b49864bae6734ae1d5da1c6b)
 - [ ] [<code>bridge: add the bridge-vlan option local_pvid</code>](https://git.openwrt.org/project/netifd.git/commit/f077e15544caeaa0f1278fe996ba2ff5ac04e20b)
 - [ ] [<code>bridge: make a kept dynamic vlan a tagged vlan of the bridge</code>](https://git.openwrt.org/project/netifd.git/commit/7ed52d1e649f2643f326987a4d09206b437da2e8)
+- [ ] [<code>ubus: walk a copy of procd's data in netifd_ubus_data_cb()</code>](https://git.openwrt.org/project/netifd.git/commit/866dffb41cac08c0030fe3ac782a672387913257)
+- [ ] [<code>main: end a helper with the netifd that started it</code>](https://git.openwrt.org/project/netifd.git/commit/8da363f546f579bfc039828e0bc4d061f878bcb0)
+- [ ] [<code>proto-ext: remove the host route when the interface goes down</code>](https://git.openwrt.org/project/netifd.git/commit/b359355f33490c0147e15078fd0c33e2d5470f9c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: generate ethtool-modes.h in an out-of-tree build</code>](https://git.openwrt.org/project/netifd.git/commit/80e17d8b74aa9841483d20b4de1425116f09eb04)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>main: end the helpers with SIGTERM when netifd exits</code>](https://git.openwrt.org/project/netifd.git/commit/edfe9877ee7dc60eb0cd5d9bb15a787c9489c012)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
