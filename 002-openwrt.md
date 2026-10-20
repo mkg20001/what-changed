@@ -274,6 +274,7 @@
 - [ ] [<code>bridge: apply a change of vlan_filtering to the running bridge</code>](https://git.openwrt.org/project/netifd.git/commit/d7d270a5a9a189175631d3a46c915afb881af3bc)
 - [ ] [<code>config: add a procd network-device entry in the pass of its type</code>](https://git.openwrt.org/project/netifd.git/commit/86d56ad76c67073c43593dfa6f86939d4a133145)
 - [ ] [<code>config: add a procd network-device entry without its uci section first</code>](https://git.openwrt.org/project/netifd.git/commit/2fec6e82409b029c36be6eb3c07938d77c52263a)
+- [ ] [<code>device: add a board.json default for the pse option</code>](https://git.openwrt.org/project/netifd.git/commit/06fc904585606ed5a1dfca233ecaa6be9a5ca599)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
