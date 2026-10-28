@@ -275,6 +275,18 @@
 - [ ] [<code>config: add a procd network-device entry in the pass of its type</code>](https://git.openwrt.org/project/netifd.git/commit/86d56ad76c67073c43593dfa6f86939d4a133145)
 - [ ] [<code>config: add a procd network-device entry without its uci section first</code>](https://git.openwrt.org/project/netifd.git/commit/2fec6e82409b029c36be6eb3c07938d77c52263a)
 - [ ] [<code>device: add a board.json default for the pse option</code>](https://git.openwrt.org/project/netifd.git/commit/06fc904585606ed5a1dfca233ecaa6be9a5ca599)
+- [ ] [<code>main: only use prctl() on linux</code>](https://git.openwrt.org/project/netifd.git/commit/1816971a93c35a05bddb577ddbedd61ce0873a18)
+- [ ] [<code>device: add IPv6 NDP tunable device options</code>](https://git.openwrt.org/project/netifd.git/commit/13c7e63045ef3c3fa4d75fdb61b9bdc4b3d015b4)
+- [ ] [<code>bridge: add per-VLAN multicast snooping</code>](https://git.openwrt.org/project/netifd.git/commit/19d2392ff5bb23a83f39a2caab4b7fa8e1729f98)
+- [ ] [<code>device: add ARP and per-family neighbour options</code>](https://git.openwrt.org/project/netifd.git/commit/add2e9e7a29e3795de947b73bb6c8b329d4ea6bd)
+- [ ] [<code>system-linux: empty the event queue before the link dump</code>](https://git.openwrt.org/project/netifd.git/commit/8a268294c8ebdd1aaf7acf2e6eae0eabcf8563da)
+- [ ] [<code>main: wait for the helpers before exiting</code>](https://git.openwrt.org/project/netifd.git/commit/e4b847c71b5094233240a76f3ae4afbebd7c0733)
+- [ ] [<code>vlandev, macvlan: delete a stale device before creating it</code>](https://git.openwrt.org/project/netifd.git/commit/bf7f2afae02ae3c79f66014351a29ca63c45dc39)
+- [ ] [<code>main: start no helper while netifd waits for its exit</code>](https://git.openwrt.org/project/netifd.git/commit/2922ee823259e9b4208e0e68bfdf57a83ddb73f6)
+- [ ] [<code>vrf: delete a stale device before creating it</code>](https://git.openwrt.org/project/netifd.git/commit/7d1555e10a6a88613e65d8eedb898a9d6a6ba6bf)
+- [ ] [<code>bridge: pass the bridge priority to the userspace STP daemon</code>](https://git.openwrt.org/project/netifd.git/commit/20be6d5c79085f2184d3bea3b4c9f0790e361ca0)
+- [ ] [<code>bridge: use a valid bridge priority as default</code>](https://git.openwrt.org/project/netifd.git/commit/ade072a34c937af2bdff2034f81449bd5a0a3a5b)
+- [ ] [<code>bridge: ignore a bridge priority above 65535</code>](https://git.openwrt.org/project/netifd.git/commit/a1e39a458f9601100ee6bf91b0d6800688cf6a5b)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
@@ -359,6 +371,7 @@
 - [ ] [<code>tests/fuzz: fix out-of-bounds read in header validation harness</code>](https://git.openwrt.org/project/ubus.git/commit/3930745d8593bb9dffb3d0755affcdefb37585e9)
 - [ ] [<code>tests/fuzz: use size of blob_attr, not of a pointer, in length guard</code>](https://git.openwrt.org/project/ubus.git/commit/b27014cf7978cd797d3f7933299b9d295e338178)
 - [ ] [<code>ubus/lua: store event handler ref without polluting the callback table</code>](https://git.openwrt.org/project/ubus.git/commit/414c60a2e29e72c2c4f573bc50ad54aef076d169)
+- [ ] [<code>libubus: add a pre-invoke callback for resolved object methods</code>](https://git.openwrt.org/project/ubus.git/commit/db20eff5535fe3126c05dc0edc029caf0e82fe10)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
