@@ -1459,6 +1459,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1500,6 +1501,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1541,6 +1543,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1582,6 +1585,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1623,6 +1627,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
