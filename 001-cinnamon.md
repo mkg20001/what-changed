@@ -975,7 +975,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6e4c6fdb9f44ea3c29b0ff9d28fd03206dc9d43c)
+- [ ] [<code>power: Rework backlight and sensor support</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1bf30bf49aa1eaa915e4697fe7d65995c84af84c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1430,6 +1433,9 @@
 - [ ] [<code>places-sidebar: Fix eject vs unmount tooltips</code>](https://github.com/linuxmint/nemo/commit/22a96d8bf8f8112970ccb3c6568b0250ff19d7a1)
 - [ ] [<code>nemo-action.c: Skip NULL parent locations when a uri_scheme is</code>](https://github.com/linuxmint/nemo/commit/738a1a27581a514be2c9a6e6a1e1e974b496a342)
 - [ ] [<code>nemo-window.c: Restore thumbnail regeneration on F5</code>](https://github.com/linuxmint/nemo/commit/dedc6a8610582fe8eaa063cf1059c7b5da0d745d)
+- [ ] [<code>Add a preview pane (#3650)</code>](https://github.com/linuxmint/nemo/commit/d08160614312bea0812594ec8992dc35b8488c0d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
