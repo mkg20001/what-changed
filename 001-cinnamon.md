@@ -659,7 +659,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
 - [ ] [<code>layout.js: Fix on-screen-keyboard positioning</code>](https://github.com/linuxmint/cinnamon/commit/4f0f8ed5442874d7a0cca45c17e5249b05d50caa)
+- [ ] [<code>grouped-window-list: Fix button labels after a workspace switch</code>](https://github.com/linuxmint/cinnamon/commit/7df9a1f5431be73720cbf01dcf6c34595546ee59)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1494,6 +1496,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1536,6 +1539,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1578,6 +1582,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1620,6 +1625,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1662,6 +1668,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
