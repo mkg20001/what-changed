@@ -660,6 +660,18 @@
 - [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
 - [ ] [<code>layout.js: Fix on-screen-keyboard positioning</code>](https://github.com/linuxmint/cinnamon/commit/4f0f8ed5442874d7a0cca45c17e5249b05d50caa)
 - [ ] [<code>grouped-window-list: Fix button labels after a workspace switch</code>](https://github.com/linuxmint/cinnamon/commit/7df9a1f5431be73720cbf01dcf6c34595546ee59)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: merge the WireGuard and VPN sections, label each row's kind (#13913)</code>](https://github.com/linuxmint/cinnamon/commit/981e964939a9456282e9a1569b1d555f26425b66)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Restore the VPN "More" overflow and drop the heading switch</code>](https://github.com/linuxmint/cinnamon/commit/549ac8361e00656fb5a561e350c849f8cf45f873)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs: add keywords (#13775)</code>](https://github.com/linuxmint/cinnamon/commit/fe618e6641c7040a08887146c8bb4fcd96120630)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Don't pass panel arguments to cinnamon-settings</code>](https://github.com/linuxmint/cinnamon/commit/7446bbf83c4176b1ac02d08b86163a0e9e4f25d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: clean up subscriptions and thumbnail callbacks</code>](https://github.com/linuxmint/cinnamon/commit/751f9de00f5308bca1f1f8c3a47aec66202c96d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: Fix stale labels, scroll flag and workspace</code>](https://github.com/linuxmint/cinnamon/commit/99887953df6e80aad96e8f3d27a9c4d844e51de5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
