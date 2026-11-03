@@ -98,6 +98,8 @@
 - [ ] [<code>uloop: fix edge trigger on kqueue</code>](https://git.openwrt.org/project/libubox.git/commit/ff8db08443b0928e6b5ad477aecbdb1322a011b6)
 - [ ] [<code>uloop: report a full socket hangup on kqueue as an error</code>](https://git.openwrt.org/project/libubox.git/commit/531dbb03cbfaefbbb77a6b93f215ceee52d574b9)
 - [ ] [<code>uloop: run kqueue interval callbacks after the events are collected</code>](https://git.openwrt.org/project/libubox.git/commit/da2d205a5cf3e877c45a2eec488218cbaf452e7d)
+- [ ] [<code>blobmsg_json: avoid out-of-bounds read on non-extended attributes</code>](https://git.openwrt.org/project/libubox.git/commit/20bea2ba777dec6e62e15415ded5ffd8be1a5f18)
+- [ ] [<code>uloop: use volatile sig_atomic_t for uloop_cancelled and uloop_status</code>](https://git.openwrt.org/project/libubox.git/commit/a396f38a8568a1d670c240465cd8d24fdfdf6463)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
