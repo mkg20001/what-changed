@@ -655,6 +655,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ci): schedule weekly CodeQL main scans (#488)</code>](https://github.com/openclaw/mcporter/commit/e8c7be5dfecd5b0ccfafc6ea402c94180c65602b)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix(release): trust current maintainer signing key (#490)</code>](https://github.com/openclaw/mcporter/commit/8babbc8458bf9209922fd274184791042867f18c)
+- [ ] [<code>fix(cli): preserve arguments and safe generated command behavior</code>](https://github.com/openclaw/mcporter/commit/7416aedef7a663a0901fc38a60088ca6edaaf229)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4075,6 +4077,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(qdc): show failure logs in the Android test summary</code>](https://github.com/qualcomm/GenieX/commit/f7bcd23653673b8acf1f70f9c1a6cfaf9fea69d7)
 - [ ] [<code>fix(cli): pass resolved Hugging Face token to pull</code>](https://github.com/qualcomm/GenieX/commit/87c5da456f21065bc5ca554fdf7663c5f902469d)
 - [ ] [<code>docs(docs): add BibTeX citation section to READMEs</code>](https://github.com/qualcomm/GenieX/commit/3c4a997e0e9eee368b4fbe0cb3828358e16ff896)
+- [ ] [<code>docs(docs): add Gemma 4 E4B example to MTP tutorial</code>](https://github.com/qualcomm/GenieX/commit/0034a7df7583ccd514ce3d40a344afc3b8138132)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -29353,6 +29356,86 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>improve(ci): reuse Watch RTC libraries across iOS project edits (#193076)</code>](https://github.com/openclaw/openclaw/commit/66b6cb23b34ba812bf7eeaef8567c2240a9d2afb)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(plugins): release failed loads when captures close (#192673)</code>](https://github.com/openclaw/openclaw/commit/81fd14cd272bf623fb9e04ce527c5d6d9d7aab1f)
+- [ ] [<code>chore(i18n): remove retired glossary hashes from native artifacts (#193081)</code>](https://github.com/openclaw/openclaw/commit/bf26a4c67e1045cd4b8a25af5377fb8525a6655a)
+- [ ] [<code>chore(ui): refresh control ui locales (#193088)</code>](https://github.com/openclaw/openclaw/commit/4fd81b415cbbf0be5176a0ce430336e39d812cc0)
+- [ ] [<code>fix(macos): preserve shortcuts pressed while the dashboard opens (#188646)</code>](https://github.com/openclaw/openclaw/commit/6eb30653306de274c9cfc8a44b4ea9ea4712db70)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(macos): avoid startup crashes from invalid custom Gateway hosts (#188683)</code>](https://github.com/openclaw/openclaw/commit/a04380b4ac7139c353bb8a82170afe7c15939e99)
+- [ ] [<code>fix(macos): New Thread exhausts memory during session creation (#186259)</code>](https://github.com/openclaw/openclaw/commit/cc595f5c0f6be5aedfad37507ef7c7dd2b50ee3c)
+- [ ] [<code>fix(auth): inline API-key failures break on PostgreSQL agent stores (#189901)</code>](https://github.com/openclaw/openclaw/commit/d9f4d4c7b228854d9851024d0a4fa247dd14c84c)
+- [ ] [<code>fix(whatsapp): retry DMs while LID identity is unavailable (#193052)</code>](https://github.com/openclaw/openclaw/commit/b1170e68ffbf19a1a211ea7ab9522672363cf4ad)
+- [ ] [<code>fix(macos): first dashboard open is slow in remote mode (#185435)</code>](https://github.com/openclaw/openclaw/commit/eb1b08bc5e8202d25b499b9f83a233bf19cbfe24)
+- [ ] [<code>fix: resolve native Windows Git plugin paths (#185654)</code>](https://github.com/openclaw/openclaw/commit/c013af3c93e15dcec25adac47e4390b28fddab1e)
+- [ ] [<code>fix(macos): reject malformed node command params (#189734)</code>](https://github.com/openclaw/openclaw/commit/aa401d8fbdd5ac7eb2755022744f33e996fae85b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(release): add read-only release:watch for any publish parent (#192607)</code>](https://github.com/openclaw/openclaw/commit/4671dd463e044be350fdbec2169c0444a62678b9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): restore OpenClawKit regression compilation (#193084)</code>](https://github.com/openclaw/openclaw/commit/8c411658c18b2787937e75db8c56faad10532590)
+- [ ] [<code>test(ui): restore main lint and UI tests (#193097)</code>](https://github.com/openclaw/openclaw/commit/8168f831574b180f4a1117a473b672b3d4157775)
+- [ ] [<code>fix(codex): clarify executable launch failures (#191918)</code>](https://github.com/openclaw/openclaw/commit/1ecd3a9d12974528f299ab885fa43009cb150c29)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: minimize downtime between full release validation cycles (#193095)</code>](https://github.com/openclaw/openclaw/commit/4d36c4b1ca5640e3968e6c281903cf0df031ef67)
+- [ ] [<code>test(gateway): expect revoked Goal returns to pause after Stop (#192387)</code>](https://github.com/openclaw/openclaw/commit/a1f99240c8367a0e012b401bed71831a3cc65026)
+- [ ] [<code>fix: show Gateway names for linked Slack mentions in Control UI (#192473)</code>](https://github.com/openclaw/openclaw/commit/d1d350f5f2a8dcbb53a39b0b9954159e225347b5)
+- [ ] [<code>fix(release): print core npm resume and report required candidate flags together (#192590)</code>](https://github.com/openclaw/openclaw/commit/b4a70cebd318bb67169c5d7800b419585812c186)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): retry EPIPE readbacks and reject gated ClawHub children on cleanup (#192589)</code>](https://github.com/openclaw/openclaw/commit/658e3db2a464336f399704c201dda521ed4fac33)
+- [ ] [<code>fix(macos): Launch at Login reports success after launchctl fails (#185024)</code>](https://github.com/openclaw/openclaw/commit/8526701724c109fd911837ba0fe4585b42fa50a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): label root config issues in reload logs (#191974)</code>](https://github.com/openclaw/openclaw/commit/ff16e59ced00688f861e92c5e35ec104edd1e76d)
+- [ ] [<code>fix(ui): Skill Workshop offers an enable button that cannot work (#193129)</code>](https://github.com/openclaw/openclaw/commit/e1cb4f4787a01f3132a2ff827b464290e55f6b66)
+- [ ] [<code>fix(macos): keep exec output that contains invalid UTF-8 (#188202)</code>](https://github.com/openclaw/openclaw/commit/ed125ca89a68c913b181efda0a5d43a7b4ddea9c)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(templates): fill loading view and fetch catalog overview once (#193118)</code>](https://github.com/openclaw/openclaw/commit/8ea2c9950e89140f2578dd6daab4001840c913d3)
+- [ ] [<code>fix: center pinned agents in Team sidebar (#193101)</code>](https://github.com/openclaw/openclaw/commit/75f9d4bcc9b8af6c2b352fb9ac83a5bea6561f1c)
+- [ ] [<code>fix(macos): Mac tab reloads forever when its page keeps crashing (#185437)</code>](https://github.com/openclaw/openclaw/commit/54c9f7afe4236814ad8d43fe5d5a3ec2121eb762)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(macos): session previews stay loading or stale after reopening the menu (#188635)</code>](https://github.com/openclaw/openclaw/commit/e531410a397e5cdb3c839ce69ac10283a70bcb21)
+- [ ] [<code>fix(matrix): forward-port 2026.10.10 startup and shutdown fixes (#192385)</code>](https://github.com/openclaw/openclaw/commit/ae420c504045e376d19152d4c5d7b8d89f232c04)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(macos): distinguish automatic first run from manual setup (#187914)</code>](https://github.com/openclaw/openclaw/commit/83a74589d30bbab769dd7c14d164619fd960404e)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(plugins): invalid feature ids leave directories and block retries (#193100)</code>](https://github.com/openclaw/openclaw/commit/75106128d7c7505cb1f95ecc2c5e5c3a91f7c370)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(macos): chat accent updates after Control UI changes (#185529)</code>](https://github.com/openclaw/openclaw/commit/79d467a82ca886ee9a9051b8cb155d401ef134c0)
+- [ ] [<code>chore(ui): refresh control ui locales (#193135)</code>](https://github.com/openclaw/openclaw/commit/f6428243dcf677bf9f7d479f74aa68a77579ed3b)
+- [ ] [<code>fix(exec-host): reject oversized macOS app requests before sending (#188681)</code>](https://github.com/openclaw/openclaw/commit/c0a2d4ca0d7a57ef58135ccb0c0f34c3726df971)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): make the nitSweep summary validation error actionable (#192606)</code>](https://github.com/openclaw/openclaw/commit/742b5144d391da0d5523291936a3c9b197350554)
+- [ ] [<code>fix(codex): forward-port 2026.10.10 thread ownership and cleanup fixes (#191830)</code>](https://github.com/openclaw/openclaw/commit/17b6ad41140190688c88ed443c7e2ad4067033d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(storage): forward-port SQLite admission and lease cleanup fixes (#192378)</code>](https://github.com/openclaw/openclaw/commit/06951a90db7ff9265e31e67c8042053764e76289)
+- [ ] [<code>fix(imessage): report Automation failures after Gateway updates (#186117)</code>](https://github.com/openclaw/openclaw/commit/982f3b1ee2b668afafe69c352d48baef470d2d20)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): load Unicode PowerShell completion files on Windows (#186508)</code>](https://github.com/openclaw/openclaw/commit/69d0f4c2f73761fa04cf61068b8bccc70bb98d49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): ignore empty plugin defaults when widening allowlists (#192380)</code>](https://github.com/openclaw/openclaw/commit/2cd45a3eaffc393003221d66105debaa611d9880)
+- [ ] [<code>fix(cron): run jobs added during startup without downtime deferral (#192379)</code>](https://github.com/openclaw/openclaw/commit/e7e8234a90abec23bc60b0cff3746be567cc3b6c)
+- [ ] [<code>fix(runtime): expire discovery and room caches on elapsed time (#193147)</code>](https://github.com/openclaw/openclaw/commit/2f183b38629c9ac8ace9b104a78ffd2ffac7a56c)
+- [ ] [<code>fix(gateway): flush startup diagnostics before readiness (#192383)</code>](https://github.com/openclaw/openclaw/commit/cab71dc06f8133c28e948183ee26bef97404f75a)
+- [ ] [<code>chore(i18n): refresh native locales (#193152)</code>](https://github.com/openclaw/openclaw/commit/2bae4959242eccbe89d9c8fcd97d739885fb5600)
+- [ ] [<code>fix(exec-host): allow macOS exec requests up to 1 MiB (#193143)</code>](https://github.com/openclaw/openclaw/commit/2ab82f7be824a62e9bc3f0262f06e7648f7b04cd)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(macos): restore Gateway accent after clearing Talk profile color (#193138)</code>](https://github.com/openclaw/openclaw/commit/32fff4b857b1e4df8c3b26b609218ca2a4c096a6)
+- [ ] [<code>fix(update): stop Gateway respawn loops during Doctor maintenance (#187104)</code>](https://github.com/openclaw/openclaw/commit/f8d52ec2b92b071e4cfd1e5e419a2d17c4de2b87)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(process): forward-port startup cleanup and shared lineage fixes (#192386)</code>](https://github.com/openclaw/openclaw/commit/6d08b6c7f0127937e6307a48ee4e47b9ef34433a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(macos): resolve typed gateway auth refs (#128175)</code>](https://github.com/openclaw/openclaw/commit/e83fccabd0b6513f2e3ce484d5b43641d39a0f19)
+- [ ] [<code>fix(oc-path): find rejects quoted filenames containing question marks (#193123)</code>](https://github.com/openclaw/openclaw/commit/d189a5541541e1641a544d6a60b411387f1698af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(release): keep blocked release work moving (#192829)</code>](https://github.com/openclaw/openclaw/commit/ffbbb514ba3b7d06d59ca8dd11521e100335da4d)
+- [ ] [<code>fix: stop line-limit checks from blocking release branches (#192806)</code>](https://github.com/openclaw/openclaw/commit/4a43644e7a7b455d6e257f1ab62fe00e74156a5f)
+- [ ] [<code>test(openai): GPT-Live RTP test needs no LAN or public STUN path (#188344)</code>](https://github.com/openclaw/openclaw/commit/045de861c944d696422308954e1bcd46cecf3185)
+- [ ] [<code>fix(openclaw-id): a replayed revocation no longer removes a device that was approved again (#193146)</code>](https://github.com/openclaw/openclaw/commit/0809cf31e69325036a8e76229a8d529a3d348a50)
+- [ ] [<code>fix(android): preserve accepted work when ending Talk (#188798)</code>](https://github.com/openclaw/openclaw/commit/5375b69c89bcae4a5c90f80a4413b7e8a7f9c0fa)
+- [ ] [<code>fix: Template details take too long to load (#193124)</code>](https://github.com/openclaw/openclaw/commit/11c8f236b330e8f51c03331dcd6ae0c661080e7b)
+- [ ] [<code>fix(ui): keep mobile session width checks aligned with device labels (#193162)</code>](https://github.com/openclaw/openclaw/commit/f77032845236b5f6093c81b12be9bc4bbf69c3da)
+- [ ] [<code>fix(release): scan plugin npm packs with publisher tooling early in FRV (#192591)</code>](https://github.com/openclaw/openclaw/commit/bca996c12f5568a125d2159fc87186213f1a705c)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(release): exit FRV continue on repeat child failure and flag ghost jobs (#192587)</code>](https://github.com/openclaw/openclaw/commit/2270152d224ae48de9a10f3fe26b4c594ac9e87d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
