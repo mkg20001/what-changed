@@ -1297,6 +1297,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/x509check): add tls_server_name option (#24636)</code>](https://github.com/netdata/netdata.git/commit/ba4d004a51133ea8556ec2c831d990f03bc14892)
 - [ ] [<code>Regenerate integrations docs (#24635)</code>](https://github.com/netdata/netdata.git/commit/24426d3b561749f511f1e23af144eeac2f8e979a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.12.0-464-nightly.</code>](https://github.com/netdata/netdata.git/commit/4ff41174762e2860f152da0c98b603e9bfa0b720)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -30458,6 +30459,60 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>refactor(gateway): reuse HTTP disconnect test deferreds (#194347)</code>](https://github.com/openclaw/openclaw/commit/ca4affe5ac398f05e578f54afd2cd1bb9e3bb2ec)
 - [ ] [<code>fix(release): align attribution gate with human credit policy (#194364)</code>](https://github.com/openclaw/openclaw/commit/266a7aa0fe69e2b5fe6445c4ceb1e15b5360c957)
+- [ ] [<code>fix(deepinfra): honor thinking off for Nemotron 3.5 Super VL (#192979)</code>](https://github.com/openclaw/openclaw/commit/d4d6fe725bff2be867784d666e1d2118b9e2f41a)
+- [ ] [<code>perf(ci): screen irrelevant boundary-test sources before parsing (#194372)</code>](https://github.com/openclaw/openclaw/commit/5c21ac1f0d69fcbe205fda2553afea45ce3b3874)
+- [ ] [<code>refactor(test): reuse deferred identity lookup gates (#194373)</code>](https://github.com/openclaw/openclaw/commit/d1be6e243ccd850329d93567cb3ffd71e0ff837d)
+- [ ] [<code>fix(release): authorize scoped 2026.11.2 Kova waiver (#194379)</code>](https://github.com/openclaw/openclaw/commit/efb980423985b290f5c294ba7b13ad4c2bd074d8)
+  - <sub>Tags: <code>release-publish/efb980423985-1794011730</code></sub>
+- [ ] [<code>improve(ci): scope provisioning tests to copied inputs (#194380)</code>](https://github.com/openclaw/openclaw/commit/2cd396e2ce18d363917bba128246e7d4ac01db91)
+- [ ] [<code>test(plugins): preserve browser package boundary roots</code>](https://github.com/openclaw/openclaw/commit/fe4e948d122b0a897be62efa45d2c78cd53c69d1)
+- [ ] [<code>test(release): assert retained waiver job evidence safely</code>](https://github.com/openclaw/openclaw/commit/0499ea98d2aa4a20132d3775e1d37cf14e4e58d1)
+- [ ] [<code>improve(ci): reuse compiler symbols across boundary guards (#194385)</code>](https://github.com/openclaw/openclaw/commit/11a9e5668b4aac5593cdc96227d689e6763e0533)
+- [ ] [<code>improve(ci): cut repeated Git setup in wrapper tests (#194389)</code>](https://github.com/openclaw/openclaw/commit/f4b9e811416df7b0b514aeefd1ae5120824fb289)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(ci): route browser fixtures through their owned inventories</code>](https://github.com/openclaw/openclaw/commit/38e89c9d589332cfc6b36780fae3b73888ec565d)
+- [ ] [<code>fix(infer): cancel interrupted image descriptions (#194391)</code>](https://github.com/openclaw/openclaw/commit/e43ec1e8357b2f2cb71948c20e9f3635e3a3d1b9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(ci): avoid SDK fixture setup in boundary tests (#194392)</code>](https://github.com/openclaw/openclaw/commit/23c0328d39d8f45b63a69fd90669a2cb33be216f)
+- [ ] [<code>test(ci): consolidate Kova waiver fixtures</code>](https://github.com/openclaw/openclaw/commit/04cc8c1e4328b873a3a5791eeecf5d4d213c34db)
+- [ ] [<code>fix(control-ui): avoid warm chat reload backtracking (#193217)</code>](https://github.com/openclaw/openclaw/commit/4c6f043aba48d2cc73968ed16186a506a492ea2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): align goal replacement cancel fixtures with composer mode</code>](https://github.com/openclaw/openclaw/commit/751785ce76d367cffb7d53dbfcefa5ae5eb23354)
+- [ ] [<code>refactor(test): share plugin reload product child fixture (#194390)</code>](https://github.com/openclaw/openclaw/commit/ed40c476f3df4e535c649c38585d8c0b0279b91e)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>improve(ci): limit update fixture checks to their inputs (#194400)</code>](https://github.com/openclaw/openclaw/commit/bbe11976927e1284e161fa00389584502cc5f2ad)
+- [ ] [<code>improve: reduce Android build GC overhead (#194382)</code>](https://github.com/openclaw/openclaw/commit/638a1851e7e6ea9b7ba07d6e673c5f8ce4d8e990)
+- [ ] [<code>fix(ui): open the mobile Where picker above when space below is short</code>](https://github.com/openclaw/openclaw/commit/0044f258b63a7b78f908ceeae2deac5f556cfad3)
+- [ ] [<code>test(update): exercise generation drift with a live WAL</code>](https://github.com/openclaw/openclaw/commit/3caa42353988bd9f30b1f5784a940dc640fffd19)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>improve(ci): reuse native import graph resolutions (#194401)</code>](https://github.com/openclaw/openclaw/commit/28549bb2526f6af55faa5a415d4eb5ba0e585048)
+- [ ] [<code>fix(media): cancel interrupted attachment downloads (#194399)</code>](https://github.com/openclaw/openclaw/commit/22b1aacbc054c003f6a7762d78b7c49da855ef38)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): wait for configured provider icon import (#194405)</code>](https://github.com/openclaw/openclaw/commit/c05e08f8e24eef4edd5390da7b8ca2c11e9810ab)
+- [ ] [<code>ui: move dialog closes and ghost icon actions onto IconButton (#194152)</code>](https://github.com/openclaw/openclaw/commit/aa9968db254260c899f97323297bc7bf2315c495)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): exclude test caches from compiler input discovery (#194407)</code>](https://github.com/openclaw/openclaw/commit/1e893abbd558255ae00ee69ee53289f23bbde383)
+- [ ] [<code>fix(ui): show only the time for same-day timestamps in tight rows (#194190)</code>](https://github.com/openclaw/openclaw/commit/200bd813fd5fd56c6bc5bda0bdd40151846c1b8c)
+- [ ] [<code>fix(plugins): restore Access plugin artwork</code>](https://github.com/openclaw/openclaw/commit/7407538a4a60e00105412c605e86917eebb190d0)
+- [ ] [<code>fix(cron): keep one-shot finalization working on PostgreSQL 16 (#194384)</code>](https://github.com/openclaw/openclaw/commit/7ab0143fc2288251377d0b355b1c78a30c1b55ac)
+- [ ] [<code>docs(users): explain that personal profiles from a past sign-in remain (#189371)</code>](https://github.com/openclaw/openclaw/commit/2658e45f6adb483bd675da363c3af8ecbd297b1d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): align IconButton consumer checks (#194416)</code>](https://github.com/openclaw/openclaw/commit/0fc9ca05b1ced6e17577c783b56051121cdb54fe)
+- [ ] [<code>fix(ui): Logs empty filter results lack status semantics (#183817)</code>](https://github.com/openclaw/openclaw/commit/b2f3f9ed420fd59ce9335a2d7bca50cb4723c856)
+- [ ] [<code>test(ui): control scroll idle in resize delivery fixture</code>](https://github.com/openclaw/openclaw/commit/1e1d26de90eb6c145976051378a323b5cf12005e)
+- [ ] [<code>chore(ui): refresh control ui locales (#194427)</code>](https://github.com/openclaw/openclaw/commit/01672fc7df92192997213da5310f31a976e59a13)
+- [ ] [<code>fix(apple): chat sends with large attachments time out on slow uplinks (#194214)</code>](https://github.com/openclaw/openclaw/commit/697754741cf9ed2f264952b93b516e46eebc0129)
+- [ ] [<code>fix(gateway): keep snapshot refresh after stale publication (#194421)</code>](https://github.com/openclaw/openclaw/commit/80795a82a614193bdf9f6bb3b98104d4ee94350a)
+- [ ] [<code>test(ui): scope keyboard status tooltip assertion</code>](https://github.com/openclaw/openclaw/commit/5e4684a1d8b031bd3eae670502d0b5470af213db)
+- [ ] [<code>fix(ios): mount Control UI pages under the advertised base path (#191178)</code>](https://github.com/openclaw/openclaw/commit/5cbe1abda85de6db54f01ac99897c2ba00a426b9)
+- [ ] [<code>fix(ui): contain composer dismiss touch targets (#194419)</code>](https://github.com/openclaw/openclaw/commit/531ba190606226fb7aa2d8b4e1c1f01ddf14283c)
+- [ ] [<code>fix(searxng): web_search reports "no results" when SearXNG's engines are unresponsive (#190619)</code>](https://github.com/openclaw/openclaw/commit/941b949f8c72566fd3b5ff9583418a36e08a2253)
+- [ ] [<code>fix(ui): tighter agent switcher rows and phone identity menu (#194133)</code>](https://github.com/openclaw/openclaw/commit/e814c50ed66c1c3849e596e32324c22100034f1c)
+- [ ] [<code>fix(tmux): match literal queries against session names only (#194434)</code>](https://github.com/openclaw/openclaw/commit/3c130c7268e1ea058c5ce93a4fd5d8301dbdabfa)
+- [ ] [<code>fix(ios): wrap chat markdown tables instead of clipping the last column (#191111)</code>](https://github.com/openclaw/openclaw/commit/4c4c873011110af6ab8171121cc7418b3b848d28)
+- [ ] [<code>fix(automations): keep standalone recurring work out of setup chats (#194377)</code>](https://github.com/openclaw/openclaw/commit/85fa72f36257dfbeb8198e6a694e066fb92c872e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ios): keep rejected shares from reporting sent (#191514)</code>](https://github.com/openclaw/openclaw/commit/06a5df2659599e96ecfa184f84a22d48abfb89fb)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
