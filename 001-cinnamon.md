@@ -1439,8 +1439,15 @@
 - [ ] [<code>clutter: Add missing pick clip and cache invalidation api.</code>](https://github.com/linuxmint/muffin/commit/ed4b6691a181371fe5a3f4602665f854d5129902)
 - [ ] [<code>constraints.c: Run constrain_to_single_monitor() on client decorated</code>](https://github.com/linuxmint/muffin/commit/d52ab46c74c679c375e398a3f0259b2cade94cef)
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/muffin/commit/97bc46dbe350abe9c2a4a3d83ad37206de9e124b)
-  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian/control: Recommend the libdecor GTK plugin.</code>](https://github.com/linuxmint/muffin/commit/cf29a50a8ee3ebc71565b3fdc93715f1f9d960e7)
+- [ ] [<code>xwayland: Set Xwayland's primary RandR output.</code>](https://github.com/linuxmint/muffin/commit/8088730064a18a8e5e3b84f6cb0bc0c45a14bef3)
+- [ ] [<code>cursor-renderer/native: Don't move the HW cursor onto a GPU it isn't realized on.</code>](https://github.com/linuxmint/muffin/commit/398528a98df749b470df787267e1b0da1ef114e4)
+- [ ] [<code>renderer/native: Use an external texture when the driver requires one.</code>](https://github.com/linuxmint/muffin/commit/18dd5338a200574f23dc6edd6c69edba5fc85ca4)
+- [ ] [<code>renderer/native: Wait for the primary GPU's fence before copying.</code>](https://github.com/linuxmint/muffin/commit/bc2720cd45234b0eb65618967b1df8a2f92a0562)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1628,6 +1635,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-file-operations.c: Fix warning in read-only error path.</code>](https://github.com/linuxmint/nemo/commit/6fde0100762c2ab088a9c935e877bef759682588)
 - [ ] [<code>nemo-places-sidebar.c: Don't show duplicated mounts</code>](https://github.com/linuxmint/nemo/commit/275b706d1ec4a97931cd1c5dd24dd32a1c61e703)
+- [ ] [<code>i18n: Don't translate placeholder strings</code>](https://github.com/linuxmint/nemo/commit/7f088d72342fd39752b69f7d0f3d00a08c89936a)
+- [ ] [<code>Clean up makepot, build-depends</code>](https://github.com/linuxmint/nemo/commit/87c663e1a4d28a090042f90e35716617cc2b9d99)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
