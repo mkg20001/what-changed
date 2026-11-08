@@ -785,6 +785,7 @@
 - [ ] [<code>KeybindingWidgets: Show an osd popup when teaching keybindings</code>](https://github.com/linuxmint/cinnamon/commit/37a8fdc72398a362b4e37942f5f6f36c2fb16830)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
+- [ ] [<code>inhibitor.js: Ignore warnings for short-lived inhibitors</code>](https://github.com/linuxmint/cinnamon/commit/5c5371457fea804ad6b170b692ee0dffbe425fec)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1937,8 +1938,10 @@
   - <sub>Tags: <code>3.3.7-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xapp/commit/150a1d5f556cd1f420e9c641481c50f37d93ab6d)
-  - <sub>Tags: <code>3.4.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>3.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-gtk-window: Re-bind the Wayland xapp_surface after hide/show</code>](https://github.com/linuxmint/xapp/commit/84df382d94eb55f2e29f5759eed4c569b39c1627)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
