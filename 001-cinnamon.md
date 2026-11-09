@@ -1449,6 +1449,7 @@
 - [ ] [<code>renderer/native: Wait for the primary GPU's fence before copying.</code>](https://github.com/linuxmint/muffin/commit/bc2720cd45234b0eb65618967b1df8a2f92a0562)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cursor-sprite-xcursor: Look cursors up by their CSS names first.</code>](https://github.com/linuxmint/muffin/commit/201dea7dd5de55eb38f259dc3574d4717c9c1357)
+- [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1868,6 +1869,12 @@
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
+- [ ] [<code>debian: packaging improvements from the Debian package (#25)</code>](https://github.com/linuxmint/python-xapp/commit/e72db3a13a20a64b050486c74ac2fb7b2c07ac2c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix a failure to reveal a key when all section keys have dependancies (#26)</code>](https://github.com/linuxmint/python-xapp/commit/45de701c482cf8145e185988275eef1bbf31be65)
+- [ ] [<code>3.0.4</code>](https://github.com/linuxmint/python-xapp/commit/40fbd369c5e4580c4a46c68ffb97ba68f5ea245f)
+  - <sub>Tags: <code>3.0.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
 
@@ -1982,3 +1989,11 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.17 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.17...HEAD)
 
+- [ ] [<code>Update control: Added depends to Recommends for showing heif files (#248)</code>](https://github.com/linuxmint/xviewer/commit/5f5887d0f40d0c7fa3db582b859095785ec80ef7)
+- [ ] [<code>Update state after opening images (#238)</code>](https://github.com/linuxmint/xviewer/commit/99f5bd1ca300cc5bed0b34807cee65fdb5009fbb)
+- [ ] [<code>Update control: Added libjpeg-dev to xviwer-dev depends (#239)</code>](https://github.com/linuxmint/xviewer/commit/9f0b51146101e2642595b13217b9951ffc75face)
+- [ ] [<code>debian/control: Fix libgdk-pixbuf-2.0 depend</code>](https://github.com/linuxmint/xviewer/commit/d6519b579b7e590442b0264eb4e656b5d8a2fd1b)
+- [ ] [<code>Fix various memory leaks when navigating files.</code>](https://github.com/linuxmint/xviewer/commit/7d10c47496eaa9bdf814c5a5f93888eb59a10c3a)
+- [ ] [<code>Select the next image when the current one is removed externally</code>](https://github.com/linuxmint/xviewer/commit/0955731e241b78a59c8f2c3e9f481ac17a9c325d)
+- [ ] [<code> Image Properties: add a Copy button to copy image info to the clipboard (#247)</code>](https://github.com/linuxmint/xviewer/commit/3b79d1b59d001e9836552e00ea7435eb7bd66356)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
