@@ -2,7 +2,12 @@
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Set license type on about dialog (#87)</code>](https://github.com/linuxmint/bulky/commit/b567d90496a38891e343b67cf2356d9d15f4310f)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Set prgname to application ID (#88)</code>](https://github.com/linuxmint/bulky/commit/da363493d54dd46a669303fcb90e258c44630391)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -1152,7 +1157,16 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.3...HEAD)
 
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>Mint-Y: Copy libadapta-1.5 into the built themes. (#558)</code>](https://github.com/linuxmint/mint-themes/commit/0319908572c8a12ef107dc0252680c17aa9b65c3)
+- [ ] [<code>Mint-Y/cinnamon: Style CheckBox2 (.check-box-2) (#559)</code>](https://github.com/linuxmint/mint-themes/commit/eea2ca4243d614e7b82db8f414198f1c82267b6f)
+- [ ] [<code>Mint-Y/build-themes.py: Use the same python shebang as the other scripts</code>](https://github.com/linuxmint/mint-themes/commit/5a09b60da35e43047e409126933bf890d01440f3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian/control: Add mising build deps</code>](https://github.com/linuxmint/mint-themes/commit/d5fad6d19b6bb8783c41f1fa531f9533468e492b)
+- [ ] [<code>update-variations: Use python-rich to show progress</code>](https://github.com/linuxmint/mint-themes/commit/0ec8487cd2f361d176d18c6bcc119bca3166de06)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Update variations</code>](https://github.com/linuxmint/mint-themes/commit/130999218c36c6498166ec7a1e779a8c7440aff7)
+- [ ] [<code>2.4.4</code>](https://github.com/linuxmint/mint-themes/commit/6c6095d69372bb91ef86c43723a0dc965d1bde6f)
+  - <sub>Tags: <code>2.4.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
@@ -1866,6 +1880,10 @@
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
+- [ ] [<code>image-viewer: Add equal, KP_Add and KP_Subtract keys for image-zoom (#245)</code>](https://github.com/linuxmint/pix/commit/f2a1a1d8a970bf6764c4cb7447427ddac869658a)
+- [ ] [<code>3.4.12</code>](https://github.com/linuxmint/pix/commit/25f0a7b5ef00922b79a67f0a804ff534d7370229)
+  - <sub>Tags: <code>3.4.12</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
@@ -1882,7 +1900,9 @@
 - [ ] [<code>Fix invalid IPv6 fallback address (#258)</code>](https://github.com/linuxmint/warpinator/commit/2c77be4618fa56e31d91bd55b9abb77c994b878d)
 - [ ] [<code>Handle missing IPv4 netmask during discovery (#260)</code>](https://github.com/linuxmint/warpinator/commit/9e3ffe3c4a4407317e7d68327bab165742eed89f)
 - [ ] [<code>warpinator.py: Clear starting flag on a failed start, reset menu item</code>](https://github.com/linuxmint/warpinator/commit/ac8b439b834a27960c6bf390af9bc1b15fb9cd87)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/warpinator/commit/21427ec1d336bcb2506e9e4ffb0f0cc28ace47ac)
+  - <sub>Tags: <code>2.0.6</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
@@ -1986,6 +2006,11 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
 
+- [ ] [<code>Avoid blocking filesystem checks in the recent documents menu (#733)</code>](https://github.com/linuxmint/xreader/commit/c1e3d83e93f56328f5b144b24eef5b44f5aad840)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>4.6.10</code>](https://github.com/linuxmint/xreader/commit/d9bc03250a410e47a958dcb23f662539de562a91)
+  - <sub>Tags: <code>4.6.10</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.17 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.17...HEAD)
 
@@ -1996,4 +2021,9 @@
 - [ ] [<code>Fix various memory leaks when navigating files.</code>](https://github.com/linuxmint/xviewer/commit/7d10c47496eaa9bdf814c5a5f93888eb59a10c3a)
 - [ ] [<code>Select the next image when the current one is removed externally</code>](https://github.com/linuxmint/xviewer/commit/0955731e241b78a59c8f2c3e9f481ac17a9c325d)
 - [ ] [<code> Image Properties: add a Copy button to copy image info to the clipboard (#247)</code>](https://github.com/linuxmint/xviewer/commit/3b79d1b59d001e9836552e00ea7435eb7bd66356)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>xviewer-list-store.c: Defer sort until finished loading images.</code>](https://github.com/linuxmint/xviewer/commit/09c2fb860766e35aa4e19615d59a44fadc88ebf2)
+- [ ] [<code>xviewer-window.c: Queue image load and transform jobs ahead of thumbnails.</code>](https://github.com/linuxmint/xviewer/commit/bf3c60392ecbd3f74c5fa830d2e0c1fb32e73a6b)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xviewer/commit/893f19548f5b6b99d2c8e99a89a3801a811481fb)
+- [ ] [<code>3.4.18</code>](https://github.com/linuxmint/xviewer/commit/1d5bf96f397bcb604feeeb555a5944825d7a932b)
+  - <sub>Tags: <code>3.4.18</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
