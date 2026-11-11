@@ -791,6 +791,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
 - [ ] [<code>inhibitor.js: Ignore warnings for short-lived inhibitors</code>](https://github.com/linuxmint/cinnamon/commit/5c5371457fea804ad6b170b692ee0dffbe425fec)
+- [ ] [<code>notificationDaemon.js: Fix regression from 1cc9c4b6816c</code>](https://github.com/linuxmint/cinnamon/commit/b9ca8e129e849e38bd3bc99d2fe8f131d3257caa)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1885,14 +1886,8 @@
   - <sub>Tags: <code>3.4.12</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
+#### [python313Packages.python-xapp](https://github.com/linuxmint/python3-xapp): [3.0.4 → HEAD](https://github.com/linuxmint/python3-xapp/compare/3.0.4...HEAD)
 
-- [ ] [<code>debian: packaging improvements from the Debian package (#25)</code>](https://github.com/linuxmint/python-xapp/commit/e72db3a13a20a64b050486c74ac2fb7b2c07ac2c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix a failure to reveal a key when all section keys have dependancies (#26)</code>](https://github.com/linuxmint/python-xapp/commit/45de701c482cf8145e185988275eef1bbf31be65)
-- [ ] [<code>3.0.4</code>](https://github.com/linuxmint/python-xapp/commit/40fbd369c5e4580c4a46c68ffb97ba68f5ea245f)
-  - <sub>Tags: <code>3.0.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
 
