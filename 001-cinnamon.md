@@ -809,10 +809,11 @@
 - [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
 - [ ] [<code>inhibitor.js: Ignore warnings for short-lived inhibitors</code>](https://github.com/linuxmint/cinnamon/commit/5c5371457fea804ad6b170b692ee0dffbe425fec)
 - [ ] [<code>notificationDaemon.js: Fix regression from 1cc9c4b6816c</code>](https://github.com/linuxmint/cinnamon/commit/b9ca8e129e849e38bd3bc99d2fe8f131d3257caa)
-  - <sub>Tags: <code>master.mint27</code></sub>
 - [ ] [<code>extension.js: Load require()'d modules once, natively</code>](https://github.com/linuxmint/cinnamon/commit/7751aae97d80f44eb8878d7ce8a04f98e784e595)
-  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>network applet: fix a TypeError when a sixth Wi-Fi network appears (#14120)</code>](https://github.com/linuxmint/cinnamon/commit/4652585653770632f98f9eb73e21a7dbdb534b1c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
