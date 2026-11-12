@@ -32620,6 +32620,60 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): session catalog stays disabled after cancelling continuation (#195782)</code>](https://github.com/openclaw/openclaw/commit/ba6147a8f33ee65ecc5430393e4badb19a527573)
 - [ ] [<code>refactor(update): reuse canonical path resolution (#197428)</code>](https://github.com/openclaw/openclaw/commit/3ce764f30be0ae2ea6e8fa30f16332e648c0d55a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): prevent cold-render chat activity test flakes (#197447)</code>](https://github.com/openclaw/openclaw/commit/cb8c84949925ed9e0d30daa179ebe8862ac2ff2e)
+- [ ] [<code>fix(ui): keep macOS font smoothing for chat text in sans-serif themes (#197458)</code>](https://github.com/openclaw/openclaw/commit/2b04ce7c0c0219b8dd80f5e32f5a208148ff8bca)
+- [ ] [<code>fix: overlap command cleanup with Gateway restart draining (#197457)</code>](https://github.com/openclaw/openclaw/commit/9a1052a6402d975c232e8aba0e619d9777cfef29)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(infra): time state-worker open phases in sqlite worker diagnostics (#197459)</code>](https://github.com/openclaw/openclaw/commit/88ff89bc21756db20d3d91d153be7f0376400a8e)
+- [ ] [<code>fix(usage): bill calls at the hosted catalog price when the bundled row already has one</code>](https://github.com/openclaw/openclaw/commit/c1666b0aa25a439bc6ce14c9dab8f48a692629b8)
+- [ ] [<code>fix(whatsapp): judge group metadata cache expiry on elapsed time (#193311)</code>](https://github.com/openclaw/openclaw/commit/f983b91889c04aea20f6676d2eeee0f0d38b973d)
+- [ ] [<code>fix(models): keep typed-only models out of chat pickers</code>](https://github.com/openclaw/openclaw/commit/55cac5900c1501824b6e28b11e026805a4a8997b)
+- [ ] [<code>fix: final delivery loses recovery custody after an RPC writer claim (#197427)</code>](https://github.com/openclaw/openclaw/commit/c659d0e8349a8a41f97522b87441be5c7fbee9a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: batch content searches across shared Git history (#197448)</code>](https://github.com/openclaw/openclaw/commit/4092d358a35afd2a8e2f28326175c8b631dd8855)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): stored pins override Last updated conversation order (#196513)</code>](https://github.com/openclaw/openclaw/commit/00541f2bce9e0faf0547e41da8546b4090a9244f)
+- [ ] [<code>fix(ui): stop missing completed device dialog animations (#197478)</code>](https://github.com/openclaw/openclaw/commit/8bd73cf99e9b48b3e84b90b4c1b3ebcebe09f6fb)
+- [ ] [<code>fix(ci): main push test-lines ratchet fails after hosted pricing tests (#197488)</code>](https://github.com/openclaw/openclaw/commit/b02e65704473de71d06b4d7ca46ee08f211ff9d7)
+- [ ] [<code>feat(advisor): move Advisor out of Labs (still off by default) (#197029)</code>](https://github.com/openclaw/openclaw/commit/43fc7446e83fdd71c0c93389cb1351fe8fa5ca76)
+- [ ] [<code>test: bring test lines back under the ceiling after catalog fixes</code>](https://github.com/openclaw/openclaw/commit/7814aa8d127a93d136cda3445d109b79c9edb43b)
+- [ ] [<code>fix: reduce transcript allocation when preparing native context seeds</code>](https://github.com/openclaw/openclaw/commit/fb83d658cf3b6257a43b322c1e701ba757a0d546)
+- [ ] [<code>fix: stop usage summaries from scanning entire agent databases (#197482)</code>](https://github.com/openclaw/openclaw/commit/74c72a05db98373be761758f5e9e473efb11e192)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(release): paginate original-merge coauthor credits (#186627)</code>](https://github.com/openclaw/openclaw/commit/305e5676447fd2edc7a0c82e8fae369bb60c0660)
+- [ ] [<code>fix(markdown): an escaped backtick no longer opens a streamed code span (#197483)</code>](https://github.com/openclaw/openclaw/commit/6548c068c3ce10e6155f8a128644526487e29662)
+- [ ] [<code>test: require completed OTel spans in content-capture checks (#197497)</code>](https://github.com/openclaw/openclaw/commit/d955bd599b82b041c15d2f1c9e93f567eaf77754)
+- [ ] [<code>fix(usage): custom proxies record $0 for vendor models instead of the vendor's API rate (#197275)</code>](https://github.com/openclaw/openclaw/commit/c7784484fa297d69c37976a22288713ec691d9fa)
+- [ ] [<code>chore(ui): refresh control ui locales (#197503)</code>](https://github.com/openclaw/openclaw/commit/7b3c6edf59ca7e8b3f6b849ef544fcc75e569fef)
+- [ ] [<code>fix: keep unused bundled meeting plugins off by default</code>](https://github.com/openclaw/openclaw/commit/0daf4f7b9284bee7360615c22c6d45a76f0d409f)
+- [ ] [<code>fix: LM Studio setup ignores configured output budgets (#197514)</code>](https://github.com/openclaw/openclaw/commit/8d269eb63c90a9dc17888d5d3c5cc2085e1e84a5)
+- [ ] [<code>fix: avoid restatting canonical warm database borrowers (#197446)</code>](https://github.com/openclaw/openclaw/commit/5e78e3516ae13a6a7612ed0ca715bc16503a3f51)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: main-session automations fail before the model call when the main session is used from a DM (#180603)</code>](https://github.com/openclaw/openclaw/commit/4f96534013f43264f8510560410a477b49d821d5)
+- [ ] [<code>fix: main CI rejects an unused agent message type export (#197521)</code>](https://github.com/openclaw/openclaw/commit/3978ab104ee658b03ebecf8cd5144c43f2271669)
+- [ ] [<code>feat: add native Celeris, Fastino, Nace and Perplexity decisions (#195641)</code>](https://github.com/openclaw/openclaw/commit/c4178498a0e5c60fc42a42ded74707efaff07c27)
+- [ ] [<code>fix(ui): only mark runs Interrupted when the Gateway aborted them (#196292)</code>](https://github.com/openclaw/openclaw/commit/8159c7a4651e78f67f55cff268eaf131b4c7c84b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(pr): retire auto requests held by older workflows (#197516)</code>](https://github.com/openclaw/openclaw/commit/47ad50865b714f2bf90bd1a26154571d7286764a)
+- [ ] [<code>fix(cli): cancel interrupted session tail selection reads (#197491)</code>](https://github.com/openclaw/openclaw/commit/92e914ee49dacffeed46d2754402823765d41a76)
+- [ ] [<code>fix(exec): stop session preview that lands after Ctrl+C (#197282)</code>](https://github.com/openclaw/openclaw/commit/5009fdd9c5778dbb07219a625f9db7f4eeb3db81)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(sessions): keep patch file checks off the Gateway thread (#197461)</code>](https://github.com/openclaw/openclaw/commit/082ed658f463b97a0c9ab470aec924f17bd9e555)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep directory watching from blocking the Gateway (#197445)</code>](https://github.com/openclaw/openclaw/commit/36afa92b2370c23bfd64d3f4a6f1b3aab68fd300)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(anthropic): claude-cli agents run under Claude Code's identity instead of OpenClaw's prompt (#197500)</code>](https://github.com/openclaw/openclaw/commit/542facfb249b7f279d32a38b11822357053feeff)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci: register bounded Windows link diagnostic (#197513)</code>](https://github.com/openclaw/openclaw/commit/b06aeb5b8c8621841c0a4da9570b5c7157b20aae)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(skills): stop library list/read replies that land after Ctrl+C (#197281)</code>](https://github.com/openclaw/openclaw/commit/dbef1538a293482900ac765aa23740b34facffeb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): rebuild never finishes on large indexes after updating (#196378)</code>](https://github.com/openclaw/openclaw/commit/3e7fb1bfca77d205cf4c049ea11e06d14797c29c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): surface refused service management on loaded restart (#197451)</code>](https://github.com/openclaw/openclaw/commit/b39ea600ddde581d619c93c6710e85d628f4914f)
+- [ ] [<code>fix(ci): release checks time out on serial compiler graphs (#197495)</code>](https://github.com/openclaw/openclaw/commit/ff148c221cf59a377331815c632f908482bc7e77)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(cron): scheduled jobs stay stopped after a native worker exits (#194048)</code>](https://github.com/openclaw/openclaw/commit/231fae1903a04b51df073b25b20906fb4d58799e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
