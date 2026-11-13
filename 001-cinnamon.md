@@ -1490,7 +1490,10 @@
 - [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
 - [ ] [<code>meta-cursor-sprite-xcursor.c: Make a few tweaks to dnd icons</code>](https://github.com/linuxmint/muffin/commit/32d693a03c3a413f3c1b9831a0a04e7328dd8f4b)
 - [ ] [<code>window: Don't hide override-redirect windows in show-desktop mode</code>](https://github.com/linuxmint/muffin/commit/efaa5ade12d7721ab2d1e50a6341f0ff6267190a)
+- [ ] [<code>cogl: Detect software rendering from GL_RENDERER</code>](https://github.com/linuxmint/muffin/commit/f504625d596eb535a28c72ae2033e94ba81b17c7)
+- [ ] [<code>cogl: Remove now-unused CoglGpuInfo</code>](https://github.com/linuxmint/muffin/commit/8221e86a28855ffabc31b248fd00eb0e71738414)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
