@@ -1686,6 +1686,7 @@
 - [ ] [<code>nemo-view.c: Optimize the escaping argument algorithm</code>](https://github.com/linuxmint/nemo/commit/390db04056b9add0638378af7af9498ce805996f)
 - [ ] [<code>nemo-preview-video.c: Fix seek/slider behavior</code>](https://github.com/linuxmint/nemo/commit/148b0d87bd29cff2c682f00acc04642fa35e94fd)
 - [ ] [<code>nemo-icon-container.c: Refresh icons when the scale factor changes</code>](https://github.com/linuxmint/nemo/commit/24f95a9c18cbee9bee01c4985304d34ecd054304)
+- [ ] [<code>nemo-view.c: Don't act on stale filterbar text</code>](https://github.com/linuxmint/nemo/commit/41d2f77caa9ad4d75d3bfb4670df61f71cd0e3e3)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
