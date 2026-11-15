@@ -1,30 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.3 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.3...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
-- [ ] [<code>Set license type on about dialog (#87)</code>](https://github.com/linuxmint/bulky/commit/b567d90496a38891e343b67cf2356d9d15f4310f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Set prgname to application ID (#88)</code>](https://github.com/linuxmint/bulky/commit/da363493d54dd46a669303fcb90e258c44630391)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix crash when loading large file lists (#90)</code>](https://github.com/linuxmint/bulky/commit/191886b920e21d0d00869b272b9922ed25689a8e)
-  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/bulky/commit/8f9c95410ebbad6ba5be66edc0bb1b33b4b62314)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>threading: Load files asynchronously</code>](https://github.com/linuxmint/bulky/commit/82512fe428e366614b039436dc983729b7fdd734)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>thread: Load change preview asynchronously</code>](https://github.com/linuxmint/bulky/commit/67441245b460a2ecec0a844ffeba7cc891d864e1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>thread: Don't show UI changes if thread is shorter than 150ms</code>](https://github.com/linuxmint/bulky/commit/c66bac2c22adb99c65c89382d8decb442afd8917)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>threading: Rename files asynchronously</code>](https://github.com/linuxmint/bulky/commit/3c04b6f76f99b463f97780ac984d1a30a699cc7a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Make the options persistent</code>](https://github.com/linuxmint/bulky/commit/e127ea46b8cfb5c849faf3355bd18b39a5b75e26)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/bulky/commit/853bfb626ee744e6aa703213f72ac8ce2fa86e23)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.3</code>](https://github.com/linuxmint/bulky/commit/b80db4f37824e74212365395309b737fc8735419)
-  - <sub>Tags: <code>4.3</code> <code>master.lmde7</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -1676,6 +1652,9 @@
 - [ ] [<code>nemo-preview-video.c: Fix seek/slider behavior</code>](https://github.com/linuxmint/nemo/commit/148b0d87bd29cff2c682f00acc04642fa35e94fd)
 - [ ] [<code>nemo-icon-container.c: Refresh icons when the scale factor changes</code>](https://github.com/linuxmint/nemo/commit/24f95a9c18cbee9bee01c4985304d34ecd054304)
 - [ ] [<code>nemo-view.c: Don't act on stale filterbar text</code>](https://github.com/linuxmint/nemo/commit/41d2f77caa9ad4d75d3bfb4670df61f71cd0e3e3)
+- [ ] [<code>file-operations: Pace copies to removable and network destinations (#3881)</code>](https://github.com/linuxmint/nemo/commit/a82b9fc3b17e308b3f91eb761913de903e428f05)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>progress info: free the condition variable and the mutex on finalize (#3877)</code>](https://github.com/linuxmint/nemo/commit/7df652f2de924f821dd5325564ad6ef38ac0ae6c)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -1900,25 +1879,14 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.12 → HEAD](https://github.com/linuxmint/pix/compare/3.4.12...HEAD)
 
-- [ ] [<code>image-viewer: Add equal, KP_Add and KP_Subtract keys for image-zoom (#245)</code>](https://github.com/linuxmint/pix/commit/f2a1a1d8a970bf6764c4cb7447427ddac869658a)
-- [ ] [<code>3.4.12</code>](https://github.com/linuxmint/pix/commit/25f0a7b5ef00922b79a67f0a804ff534d7370229)
-  - <sub>Tags: <code>3.4.12</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python3-xapp): [3.0.4 → HEAD](https://github.com/linuxmint/python3-xapp/compare/3.0.4...HEAD)
 
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.6 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.6...HEAD)
 
-- [ ] [<code>remote_registration.py: Fix TypeError when logging a failed cert request (#262)</code>](https://github.com/linuxmint/warpinator/commit/41ace3399be31d81d892680c10d8002e5f9817bd)
-- [ ] [<code>Fix invalid IPv6 fallback address (#258)</code>](https://github.com/linuxmint/warpinator/commit/2c77be4618fa56e31d91bd55b9abb77c994b878d)
-- [ ] [<code>Handle missing IPv4 netmask during discovery (#260)</code>](https://github.com/linuxmint/warpinator/commit/9e3ffe3c4a4407317e7d68327bab165742eed89f)
-- [ ] [<code>warpinator.py: Clear starting flag on a failed start, reset menu item</code>](https://github.com/linuxmint/warpinator/commit/ac8b439b834a27960c6bf390af9bc1b15fb9cd87)
-- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/warpinator/commit/21427ec1d336bcb2506e9e4ffb0f0cc28ace47ac)
-  - <sub>Tags: <code>2.0.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>manual-connect.ui: Allow copy/paste of ip addresses</code>](https://github.com/linuxmint/warpinator/commit/6b995b694d0d12e5684e4efe79f39a73bfe795ef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
