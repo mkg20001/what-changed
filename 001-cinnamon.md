@@ -788,6 +788,10 @@
 - [ ] [<code>extension.js: Load require()'d modules once, natively</code>](https://github.com/linuxmint/cinnamon/commit/7751aae97d80f44eb8878d7ce8a04f98e784e595)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>network applet: fix a TypeError when a sixth Wi-Fi network appears (#14120)</code>](https://github.com/linuxmint/cinnamon/commit/4652585653770632f98f9eb73e21a7dbdb534b1c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Restore notifications for connection events</code>](https://github.com/linuxmint/cinnamon/commit/0c2d0d6a716841559c1e35d80e143475ce1bf0e0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Don't leave signal handlers connected.</code>](https://github.com/linuxmint/cinnamon/commit/9935e2adcdd2192d352bee0978d7870ebacc6f24)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -907,8 +911,11 @@
 - [ ] [<code>libcvc: Don't crash when a card has no active profile (#280)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0e1ee840cf564229cbe01266ed5ba4f23a160192)
 - [ ] [<code>libcvc: handle missing active port in mixer control (#278)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9450ca962244ca799d3c145f7e41bd9b0f452e66)
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4f797bcfc999cae14d8e20864761eec2598681a8)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>mixer-control: Only reset stream-id for bluetooth devices</code>](https://github.com/linuxmint/cinnamon-desktop/commit/c0ed4518ff7b5b7abc5f7710dcf8227a05bd9720)
+- [ ] [<code>mixer-control: Populate source state field</code>](https://github.com/linuxmint/cinnamon-desktop/commit/793d432f0e795cceb88d4a7bc55e8616136956c6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
