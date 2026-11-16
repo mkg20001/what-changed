@@ -1566,6 +1566,7 @@
 - [ ] [<code>refactor(dem): one name per composition concept, one owner for redaction policies (#24803)</code>](https://github.com/netdata/netdata.git/commit/bc6b3c0df70d2c84dbeb53b50a62996bd28b628a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(dem): move whole-stack tests to their owners, tabulate publication modes, use synctest in monitor tests (#24802)</code>](https://github.com/netdata/netdata.git/commit/e9cb2dcbacd1c076be9f8ea192d3568e5cc0f0da)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.12.0-607-nightly.</code>](https://github.com/netdata/netdata.git/commit/567bdcfa67b15b047985621f9e0556d7ea7e7ef6)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -34562,6 +34563,119 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>perf(ci): overlap independent npm source checks (#199836)</code>](https://github.com/openclaw/openclaw/commit/7de4434e211e22752155dfc62a9665aaf78a56a3)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(templates): catalog shows image files in a Template as garbled text (#198823)</code>](https://github.com/openclaw/openclaw/commit/47c5db59fd62eced568fc91c63ca47f9bb7af9f4)
+- [ ] [<code>fix: reduce clean worktree removal stalls (#199777)</code>](https://github.com/openclaw/openclaw/commit/ea8cc3372de434a1876ab4d0925941d0befebfa4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: setup helper cannot install ClawHub Templates (#199064)</code>](https://github.com/openclaw/openclaw/commit/b58c23cac0f74ab00cdaa7166f3e9ca47702d4f3)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix: avoid repeated transcript copies during manual compaction (#199840)</code>](https://github.com/openclaw/openclaw/commit/675297f55a165c50533a980fa6e871218f030b5f)
+- [ ] [<code>fix(ui): Template detail page is missing the plugin page's security and version rail</code>](https://github.com/openclaw/openclaw/commit/4b0d586f272eb9310cf90bb054d878fed10c60bb)
+- [ ] [<code>fix(templates): catalog preview fails for a @publisher/slug Template link (#198831)</code>](https://github.com/openclaw/openclaw/commit/2657eb9c7929ab0b2fb5e8a87e10f8ffec09f78c)
+- [ ] [<code>test(auto-reply): expect the current item-conflict recovery message (#199846)</code>](https://github.com/openclaw/openclaw/commit/fc8363bf8b02edeca6c170fbed2fd72ae8e6c509)
+- [ ] [<code>fix(workboard): report planning state and worker-start failures (#199334)</code>](https://github.com/openclaw/openclaw/commit/cddd25e87e5a472fb091f86ec919ce9a08661fa9)
+- [ ] [<code>fix: unblock carrier-backed releases within a 12k request budget (#199853)</code>](https://github.com/openclaw/openclaw/commit/4b4c499a4ca7b5295e741f54cfbb847914dc01d0)
+  - <sub>Tags: <code>release-publish/4b4c499a4ca7-1794787539</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): Profile recovery points to unavailable actions (#199363)</code>](https://github.com/openclaw/openclaw/commit/ce49266c9a0791c969f49c49110061f509aaada3)
+- [ ] [<code>fix(state): restore dependency checks for upgrade internals (#199847)</code>](https://github.com/openclaw/openclaw/commit/f905d3f21c94998a77d3a074f7f7ad74dbd81220)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): GitHub help misstates agent accounts and cloud publishing (#199368)</code>](https://github.com/openclaw/openclaw/commit/89a8860851df1dbca550e8711d178391c9cdacce)
+- [ ] [<code>fix(templates): report an oversized or non-UTF-8 HEARTBEAT.md at validate (#198875)</code>](https://github.com/openclaw/openclaw/commit/718a2f8d98e1ad44d7b4475035de84a98d1b9111)
+- [ ] [<code>fix(ssh): preserve whitespace inside resolved identity filenames</code>](https://github.com/openclaw/openclaw/commit/b00e9f35dc7453730127a28c73d1e158f6f47bd1)
+- [ ] [<code>fix(ui): config warning dismissal promises permanent silence (#199376)</code>](https://github.com/openclaw/openclaw/commit/e8401f61b79ead5da24545b44ebc8cec54fcb3ef)
+- [ ] [<code>fix: report subagent requester waiting and consumption truthfully (#199695)</code>](https://github.com/openclaw/openclaw/commit/6d7a56de584adb5c2e05af229bf254c74b4dfd95)
+- [ ] [<code>fix(ui): notification test hides its Gateway-wide audience (#199372)</code>](https://github.com/openclaw/openclaw/commit/6bceab785951d068b98dd7f5f8daa3ebd6cb0c7a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(k8s): fail initialization when config seeding fails</code>](https://github.com/openclaw/openclaw/commit/e970cf66f7b357b8b10edf9e36d11b6045123e5a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): Security overstates command permission guarantees (#199441)</code>](https://github.com/openclaw/openclaw/commit/ac68da06dffa7941362deeab97d1035b7f044921)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(diagnostics): account for large authority receipt payloads (#199857)</code>](https://github.com/openclaw/openclaw/commit/a56ba88e924fad822fd8f447f1b67e82c13c6f42)
+- [ ] [<code>fix(ui): settings point to Raw on pages without a Raw tab (#199429)</code>](https://github.com/openclaw/openclaw/commit/db8bf2a00b6e7661ee83859fea79f67b143895c0)
+- [ ] [<code>test(ui): await lazy quota metrics before checking usage (#199860)</code>](https://github.com/openclaw/openclaw/commit/d8964fd1495376d776066011f913efe80c27be29)
+- [ ] [<code>fix(k8s): show deployment help without cluster access (#198914)</code>](https://github.com/openclaw/openclaw/commit/b83aae1c4e84836d7d8fc16e27c42ee5108ec168)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(templates): Template avatar path validates but does not resolve (#198813)</code>](https://github.com/openclaw/openclaw/commit/3d5b901246d979754625ad082c12922b5ca0cb55)
+- [ ] [<code>fix(ui): expired approvals claim an execution outcome (#199483)</code>](https://github.com/openclaw/openclaw/commit/3acd7581564fef1c11efa0885289c1d789eb6c30)
+- [ ] [<code>fix(ui): Secrets feedback confuses save counts and name rules (#199464)</code>](https://github.com/openclaw/openclaw/commit/b858e90c8fede29f00a279a7da6062b840802500)
+- [ ] [<code>fix(templates): missing Template or version reported as a ClawHub outage (#198816)</code>](https://github.com/openclaw/openclaw/commit/3f3160ea6faca98c18ed5769a81dc67f4721f083)
+- [ ] [<code>fix(test): retain MCP fixtures after cleanup failure (#199861)</code>](https://github.com/openclaw/openclaw/commit/6251732beacffb13f60c6350c19b5b0d8d093d91)
+- [ ] [<code>fix(knowledge): shorten write locks during large vault scans (#199859)</code>](https://github.com/openclaw/openclaw/commit/197b76a8a8b31db8ecaad3a39238e4b923b2eb5c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(ci): reuse Knip analysis across reports (#185851)</code>](https://github.com/openclaw/openclaw/commit/138cb7ddf58aca23de7de5a2d95966b681e9a7e4)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(templates): bundled dependency errors do not name the entry or reason (#198821)</code>](https://github.com/openclaw/openclaw/commit/2f02b32318696c18c788ba9bf2e400fec8eaa237)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(templates): second Template Add blocked once its MCP env var is set (#198605)</code>](https://github.com/openclaw/openclaw/commit/1945ce462e5c80e3c46f4179660c1a7c4017df90)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): align interrupted PR import pause expectation (#199864)</code>](https://github.com/openclaw/openclaw/commit/2824b9f5d2f3b4e82ef91f2c0e372e223c237b98)
+- [ ] [<code>fix(templates): CLI cannot resume an agent kept by a failed Add (#198727)</code>](https://github.com/openclaw/openclaw/commit/6f7f8a25bc0313ab7f144c3da771baec54f9da79)
+- [ ] [<code>fix(gateway): allow first database creation during session discovery (#199862)</code>](https://github.com/openclaw/openclaw/commit/c3e767dc937f28300e2d4239806784995508d91d)
+- [ ] [<code>fix: avoid worktree hydration waits behind shared ref writes (#199856)</code>](https://github.com/openclaw/openclaw/commit/d2bb33537b49ef0a9093b1b9c8451600ff022380)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): private-home CI checks time out on cold imports (#199865)</code>](https://github.com/openclaw/openclaw/commit/b85fa9f65873c671f4382ba4583049f901889dc9)
+- [ ] [<code>fix(ci): reject invalid pair benchmark options (#199871)</code>](https://github.com/openclaw/openclaw/commit/efc03e246247f66b6a2c38762c0a8f339bcb4086)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(templates): inline review and publish fail when ClawHub handle has uppercase letters (#199406)</code>](https://github.com/openclaw/openclaw/commit/a56ba896f17a71647074ff798f70ee0f51e3bda4)
+- [ ] [<code>fix(mcp-events): reject impossible event and subscription dates</code>](https://github.com/openclaw/openclaw/commit/79847449a9e38ab603612c5a516bf3c33e3f7d12)
+- [ ] [<code>fix(cli): keep backup git scope guard remedies in --json error output (#199850)</code>](https://github.com/openclaw/openclaw/commit/ef3547735df79f5475a4497f67931807f9fa9e53)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: honor ID agent limits in message action sends (#199863)</code>](https://github.com/openclaw/openclaw/commit/96eb3c04aa5ccb2d28ae04d6c6de2a95224e3f98)
+- [ ] [<code>fix(templates): Template Add says a plugin is disabled when it is only missing from plugins.allow (#199246)</code>](https://github.com/openclaw/openclaw/commit/6aae38f36ee8152c2294fb52f9b91bb174e146e3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): mobile publication repeats the selected account (#199217)</code>](https://github.com/openclaw/openclaw/commit/7d90a907c0ded71be3f9f89cb3ba799dcca7aceb)
+- [ ] [<code>fix(ui): embedded settings show oversized loading indicators (#199218)</code>](https://github.com/openclaw/openclaw/commit/6d6b7b7604d2826c606cca3172f34f613fcaaec7)
+- [ ] [<code>fix(a2a): inbound correlation test fails intermittently on unrelated PRs (#199882)</code>](https://github.com/openclaw/openclaw/commit/adf70ab2ecf56fcf80c8d9c0ed0ff667d18e4446)
+- [ ] [<code>fix(sessions): transcript facts backfill replays every covered session after a restart (#199873)</code>](https://github.com/openclaw/openclaw/commit/9e85a1a71795dd067c424923c4e187ab332852dd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): saving feedback fades like an unavailable control (#199219)</code>](https://github.com/openclaw/openclaw/commit/0b1ac8b0deeca86f3da2c8a4fe30df17718bbdf5)
+- [ ] [<code>fix(ui): publication status checks look idle while pending (#199215)</code>](https://github.com/openclaw/openclaw/commit/443e9730695d6fa1549d84d9f45187883e9570f1)
+- [ ] [<code>fix(plugins): keep Gateway responsive during initial plugin loading (#198302)</code>](https://github.com/openclaw/openclaw/commit/d0e09e419d7e2446f13c0277bfaa8a733876c612)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(cli): surface backup restore guard remedies in --json failures (#199869)</code>](https://github.com/openclaw/openclaw/commit/a97d3d4f033a258136c963f8c7d1fc55ee6cae92)
+- [ ] [<code>feat(templates): open Control UI chat and create the agent without a plan (#198070)</code>](https://github.com/openclaw/openclaw/commit/821b5cfe01943526d9606399178a49c95e190286)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor(ci): centralize independent Node/Bun runtime planning (#198278)</code>](https://github.com/openclaw/openclaw/commit/44522c44d695d04a64afc9d89e12de273b2a801c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): Usage filters change when Enter confirms IME input (#199872)</code>](https://github.com/openclaw/openclaw/commit/47b4b5e4e8eb1424e2ae6c629e383d73effb8dca)
+- [ ] [<code>chore(ui): refresh control ui locales (#199867)</code>](https://github.com/openclaw/openclaw/commit/064affcc8307b09079ae772fd117844f9a2d4404)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep steering queued through long-running tools (#199878)</code>](https://github.com/openclaw/openclaw/commit/717cfc32190aeb0842ca1f98b71a21c9f35b79f7)
+- [ ] [<code>fix: load earlier chat messages when upward input interrupts Latest (#199890)</code>](https://github.com/openclaw/openclaw/commit/ad09e3821ad152870e6915de901dfa108d538a9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: allow Team deployments after a controller host reboot (#199892)</code>](https://github.com/openclaw/openclaw/commit/ea8bbbb3b672b7df04d3747941d75cf7345a37fc)
+- [ ] [<code>fix(plugins): avoid blocking foreground work during reload recovery capture (#198262)</code>](https://github.com/openclaw/openclaw/commit/51f2fde771de02c116d4424549d50322371ecd30)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): Cmd+K compose forgets the last selected model (#199740)</code>](https://github.com/openclaw/openclaw/commit/5843ad96d3d3e95b16d333388682e6ceff3e6d26)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: coordinate release retro fixes in per-agent issue-body sections (#198258)</code>](https://github.com/openclaw/openclaw/commit/7e48c6be722ae307f8e47f258e2294ef5f3c2da5)
+- [ ] [<code>chore(ui): refresh control ui locales (#199903)</code>](https://github.com/openclaw/openclaw/commit/210e3c4282c5b3549b239f8c21a6788b08ba9a29)
+- [ ] [<code>fix(agents): snapshot shareable MCP catalog metadata as JSON (#199909)</code>](https://github.com/openclaw/openclaw/commit/f4d2e45592438dbaae12975e1c4223a991285b7a)
+- [ ] [<code>fix(openai): recover item conflicts before output and across runs (#199896)</code>](https://github.com/openclaw/openclaw/commit/e1f84d9cf7709ddb23e1e0ab0a906a298c363ee5)
+- [ ] [<code>chore(postgres): qualify watched-session prompts on the Gateway (#199881)</code>](https://github.com/openclaw/openclaw/commit/8e481bae22994e7741df4fe98bebaaff12082019)
+- [ ] [<code>fix(templates): catalog cards jump on load and icons arrive late (#199866)</code>](https://github.com/openclaw/openclaw/commit/2159567b9ffc17a770579d7e6487836789c67be5)
+- [ ] [<code>fix(ci): restore dependency checks for rollback fixtures (#199897)</code>](https://github.com/openclaw/openclaw/commit/ef8d709a05a391011ccb1dd1b2c931d0cf7e8095)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(agents): pin the expected state in exec wait guidance (#199663)</code>](https://github.com/openclaw/openclaw/commit/e4c5bd59eef5560cc44c37765511d35b702dd212)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(exec): keep the exit wake when the session id rotates (#199678)</code>](https://github.com/openclaw/openclaw/commit/8862ffc735fe6f5e553a69ea2fb7731a6b90fd87)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(models): retain catalog ownership across auth changes</code>](https://github.com/openclaw/openclaw/commit/7997daf5ded5b6d34c98f71bc2888870b1458efb)
+- [ ] [<code>fix(cron): preserve running turns across maintenance config edits (#199906)</code>](https://github.com/openclaw/openclaw/commit/e0f5790b9dea6f6f910392b440119c7a076b4e27)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): restore confirmed bulk-save receipt check (#199908)</code>](https://github.com/openclaw/openclaw/commit/c0bd05429308fb393efb38a20e212c633b60368f)
+- [ ] [<code>feat(templates): finish Add in a retryable setup conversation (#198603)</code>](https://github.com/openclaw/openclaw/commit/c3653666d67369bcb439b3b652714ecc285efc19)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(crabbox): require verified Boat cleanup release (#199531)</code>](https://github.com/openclaw/openclaw/commit/8cba1db4f2f90dd9c9cbe7a00b8c4a066eb3aadb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>improve(test): reuse compiled admission in orphan cleanup proof (#199879)</code>](https://github.com/openclaw/openclaw/commit/8acfe9878ded8d8b0b7a4d1ba9f1ed9ee6883df6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep mentions within ID connection permissions (#199919)</code>](https://github.com/openclaw/openclaw/commit/bd884017b2d9e795118036c4bcae25e3ffb01970)
+- [ ] [<code>fix: retain subagent results through Gateway restarts (#199868)</code>](https://github.com/openclaw/openclaw/commit/22f40422bb117865b59ac6b5a81678046f914ab8)
+- [ ] [<code>fix: session lookup rejects a database created during discovery (#199907)</code>](https://github.com/openclaw/openclaw/commit/af43a14a49e88286cceb8a18a41f8691ffe53ca5)
+- [ ] [<code>fix(test): restore fixture environment after cleanup failure (#199931)</code>](https://github.com/openclaw/openclaw/commit/59b74af7e1ae8cbe1ca664a0fe16b93fd44af5ca)
+- [ ] [<code>fix(release): qualify frozen candidates with independent tooling (#199758)</code>](https://github.com/openclaw/openclaw/commit/b95a1b9f4b060734d9b4b0eb1ab8adb69bec5f9b)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
