@@ -803,7 +803,11 @@
   - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>popupDialog.js: Return focus to the default window on close.</code>](https://github.com/linuxmint/cinnamon/commit/b8d58a7d231a1bfa1e1844c31d66b273fca8bf36)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+- [ ] [<code>cs_calendar.py: Don't keep a timezone change that wasn't applied.</code>](https://github.com/linuxmint/cinnamon/commit/7144c7f8498e9583185dd1b600bf660b751479ae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon/commit/7119678a7db3e760af04dfe23a2bb6233cf4fbf1)
+  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1499,7 +1503,10 @@
   - <sub>Tags: <code>6.8.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>events.c: Let window frames see crossing events again.</code>](https://github.com/linuxmint/muffin/commit/8d8a9c2c4f72233ed8a2ebb9ef9780e870f73859)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>wayland: Cancel selection sources that are set while unfocused</code>](https://github.com/linuxmint/muffin/commit/7cafa96578f6ad6088341029bbe4b15430379715)
+- [ ] [<code>6.8.4</code>](https://github.com/linuxmint/muffin/commit/610c5eb7d54c1a12fb2657ed993acb035319bddd)
+  - <sub>Tags: <code>6.8.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
