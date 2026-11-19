@@ -36131,6 +36131,53 @@
 - [ ] [<code>fix: explain why Doctor cannot restore a scheduled job’s account (#201550)</code>](https://github.com/openclaw/openclaw/commit/47e8649e0ae97535348371567eb10a82250da989)
 - [ ] [<code>fix: preserve subagent outcomes across Gateway interruptions (#201544)</code>](https://github.com/openclaw/openclaw/commit/82e52b648cf0428612904d60c37af3eb1d749a34)
 - [ ] [<code>fix: open OpenClaw ID sign-in in your default browser from the macOS app (#201555)</code>](https://github.com/openclaw/openclaw/commit/053fb62c6141c801fdd0f9bb2dfc3060a6fed912)
+- [ ] [<code>fix(sqlite): avoid draining a foreground owner from nested reclamation (#201557)</code>](https://github.com/openclaw/openclaw/commit/60ab512949440d12a4de809b314eada8df1d388d)
+- [ ] [<code>fix: reject message tables without a caption instead of silently dropping them (#196367)</code>](https://github.com/openclaw/openclaw/commit/e20e84ffa2e2a4c01b397b5ef2cd0f0f6bb20b35)
+- [ ] [<code>fix(ai): round-trip LiteLLM thought signatures on openai-completions routes (#186942)</code>](https://github.com/openclaw/openclaw/commit/826a79b4de07d1473c78da7926ca30457d9a7f98)
+- [ ] [<code>fix: Git checkout updates no longer fail before the new release starts on a schema change or a busy database (#201463)</code>](https://github.com/openclaw/openclaw/commit/2183caf789cb3d0e2987f859216a327ff6633ab5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: align Goal authority proof with admitted-run policy (#201567)</code>](https://github.com/openclaw/openclaw/commit/1b778b6650b7f7cf77b87361292a62e12b350ead)
+- [ ] [<code>test: account for unknown hook turn taint (#201568)</code>](https://github.com/openclaw/openclaw/commit/0321f852d91a0bd9c6448ecab353f3a96227933e)
+- [ ] [<code>fix: make early chat metadata reads retryable during startup (#201569)</code>](https://github.com/openclaw/openclaw/commit/7f059c01cd032a41517e6aacdc5598d4bb3b70bb)
+- [ ] [<code>fix: make release validation failures diagnosable (#201578)</code>](https://github.com/openclaw/openclaw/commit/96189709bc5042cac232926c541f27fe2efd1dfc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: keep one child completion failure from dropping sibling results (#201563)</code>](https://github.com/openclaw/openclaw/commit/5724f95182197bef11ed726debf42beee3eda002)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: reduce overlapping agent policy and execution suites (#198918)</code>](https://github.com/openclaw/openclaw/commit/c5f6eed45299476fe06611784328c9395fa43201)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(gateway): assert the restart marker production writes after #200533 (#201590)</code>](https://github.com/openclaw/openclaw/commit/17e19bf0bd8abb222de33ea204e29e172e4549eb)
+- [ ] [<code>perf(gateway): avoid repeated session row comparison and freezing (#201591)</code>](https://github.com/openclaw/openclaw/commit/02078202f318329663680c2bcc0a4738f8b883ec)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>perf: defer transcript search snippets and retain reader scope (#201566)</code>](https://github.com/openclaw/openclaw/commit/c4737e7cc8a545d8b0a0e5419c2153589ce9aca8)
+- [ ] [<code>fix: keep ChatGPT model discovery independent of npm (#201493)</code>](https://github.com/openclaw/openclaw/commit/779c260b2e8a90fb76475c7fa78fce1d39b85df1)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(browser): stop page text reads from returning another page's text after a navigation (#196659)</code>](https://github.com/openclaw/openclaw/commit/140e6bf92c820eb9d7592c285106b62668319d50)
+- [ ] [<code>fix: let read accept optional: false as a required read (#189494)</code>](https://github.com/openclaw/openclaw/commit/1039d56001339b029ee698ef3622e27ff99ce4e8)
+- [ ] [<code>fix(update): keep updating when a pre-migration database image does not fit (#201579)</code>](https://github.com/openclaw/openclaw/commit/ee12691b15c89561c2d3ff6ad0daa647b28ea681)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): scope plugin lifecycle search to Settings content (#201601)</code>](https://github.com/openclaw/openclaw/commit/4442518e37955f35875cf08cc81f341d4e53757a)
+- [ ] [<code>fix(worktrees): reuse retained templates across base commit changes (#201597)</code>](https://github.com/openclaw/openclaw/commit/a769dd01a714ccb2f030551da204871f20c5dc1c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>perf(agents): reuse registry membership for spawn admission (#201602)</code>](https://github.com/openclaw/openclaw/commit/7058196e3b15833b5bce2ca029862cf019e73bc9)
+- [ ] [<code>fix: show the Access page when you turn on OpenClaw ID with a plugin allowlist (#201556)</code>](https://github.com/openclaw/openclaw/commit/4424c6a23c60d841b57f08d21651c912360568fb)
+- [ ] [<code>feat(talk): report which speech-to-text path talk.catalog uses</code>](https://github.com/openclaw/openclaw/commit/d2f1f5fa11153bbef8af0930384f89d594a5c984)
+- [ ] [<code>fix: let package updates start while the Gateway is writing to an agent database (#201545)</code>](https://github.com/openclaw/openclaw/commit/911e7c1fab2ce53578c953bde1c0c1259a72bc53)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(models): stop recommending superseded HY4 Preview</code>](https://github.com/openclaw/openclaw/commit/01d20365e2ce5b57aa61114207712048d9365975)
+- [ ] [<code>fix: let maintainers land a PR after accepting missing proof</code>](https://github.com/openclaw/openclaw/commit/67aacbb676e55db620f56fbdb5132726d69ff512)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#201617)</code>](https://github.com/openclaw/openclaw/commit/e418de19df47cf5073cf9263c83cde2a118fcc9b)
+- [ ] [<code>fix(ui): load saved accounts before the account menu opens</code>](https://github.com/openclaw/openclaw/commit/7f6b6d795f48ceca58e5204a1f299c3a78269576)
+- [ ] [<code>fix(ui): remove the hover box from sidebar group header actions (#201612)</code>](https://github.com/openclaw/openclaw/commit/799c2eb91295b2f777fa649c20d4fc31d81a84ba)
+- [ ] [<code>fix(ui): use the Skills icon for Template skills (#201619)</code>](https://github.com/openclaw/openclaw/commit/fe1acecc4f41e93c926f33e7eebdfb55583ef21c)
+- [ ] [<code>improve(ui): list previewed files by name without file-kind icons (#201618)</code>](https://github.com/openclaw/openclaw/commit/04bc34f8dce5862aa8082dcdbe4a535666098d65)
+- [ ] [<code>fix: show the sign-in explanation when a proxy sign-in expires (#201584)</code>](https://github.com/openclaw/openclaw/commit/ff4a6c70d6b42d18db2be23cec73587cacbc57ac)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: Git checkout updates across a schema change no longer end as post-update-failed after the new release starts (#201600)</code>](https://github.com/openclaw/openclaw/commit/f5e7641768722a1063477d8d7b35c40bf63138ef)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(agents): stop licensing patch-forward repairs (#201628)</code>](https://github.com/openclaw/openclaw/commit/29f2687292466e9e70577814d2ecc4df92dd3570)
+- [ ] [<code>fix: keep release validation bounded and clean up session fixtures (#201623)</code>](https://github.com/openclaw/openclaw/commit/428d2047b766fcf0e8d426c1d967b0c8697b8625)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
