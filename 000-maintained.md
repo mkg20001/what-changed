@@ -36565,6 +36565,63 @@
 - [ ] [<code>docs: restore the OpenClaw 2026.11.5 release notes (#201913)</code>](https://github.com/openclaw/openclaw/commit/72702a3600f77f42f40b9387b3f353fa4a5fac1a)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>fix: keep proxy-signed-in automations running after proxy settings change (#202018)</code>](https://github.com/openclaw/openclaw/commit/0eb1fa3f7471ec2466cfa503d6b5252d3c94b591)
+- [ ] [<code>improve(ios): rebuild the chat transcript around the web reading model (#200592)</code>](https://github.com/openclaw/openclaw/commit/c9285dde971f6487e228aca1587d65fae90aa5de)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat: show planned automations and their controls in chat</code>](https://github.com/openclaw/openclaw/commit/fc58825c81bd466691afb484427677f9a99002fc)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(test): preserve native assets in Crabbox wrapper fixtures (#202168)</code>](https://github.com/openclaw/openclaw/commit/7cf4d0a5d64c19bbdf2bea395637029fbf03dddb)
+- [ ] [<code>fix: show the right agent and live activity when adding a template</code>](https://github.com/openclaw/openclaw/commit/97d10e0bb9e30beaca38fbd04c0e3617707e9922)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>improve: preview a Template without expanding its files in chat</code>](https://github.com/openclaw/openclaw/commit/d66f296eae1e4bb7572f4898960adc7ea0fda636)
+- [ ] [<code>fix: keep cold attachment preview loading from failing composer tests</code>](https://github.com/openclaw/openclaw/commit/1ade2b7a8899ea45934f93e7ede48443dff7d515)
+- [ ] [<code>chore(ui): refresh control ui locales (#202181)</code>](https://github.com/openclaw/openclaw/commit/4847357e6c11f1e0545158cb373a238134611c08)
+- [ ] [<code>fix: keep Doctor finding targets in upgrade failure reports (#202174)</code>](https://github.com/openclaw/openclaw/commit/cfbb2eb0db11a543c3e7244341af6b1a0700c080)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: stop automations posting a bare "Tool Call failed" after repeating their result (#202142)</code>](https://github.com/openclaw/openclaw/commit/3ecec137fd2eef72b97588665b27cb18d0cfb752)
+- [ ] [<code>docs: add PR and contributor counts to the 11.5 release notes (#202186)</code>](https://github.com/openclaw/openclaw/commit/6604ac5598e5d66b3018c0a3634f6935c344070a)
+- [ ] [<code>docs: remove the plus sign from the 11.5 release count (#202192)</code>](https://github.com/openclaw/openclaw/commit/9745e409c50eb061ca204de6065775e1dc8f2ccd)
+- [ ] [<code>chore(i18n): refresh native locales (#202187)</code>](https://github.com/openclaw/openclaw/commit/6daf01d2356a5976c5e6da54d5e60c24fc14322d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(templates): show the full category on View all without a second read</code>](https://github.com/openclaw/openclaw/commit/4718da87f4e5f17fb83a604e5b97c9aa9ab71e26)
+- [ ] [<code>fix: Mattermost and Feishu render agent callback buttons, Mattermost taps arrive once (#201973)</code>](https://github.com/openclaw/openclaw/commit/66fc4d8848c5ab6ff3d29c8c5d093cfc5a95de7d)
+- [ ] [<code>fix: return a busy child's steering receipt at once (#202139)</code>](https://github.com/openclaw/openclaw/commit/c3d658254b0835eb1663067163adcde6b4620401)
+- [ ] [<code>fix: preserve foreground exec output (#202177)</code>](https://github.com/openclaw/openclaw/commit/98d43aa38ad8a71d181b1d3c7d1b2998d5d7ba8a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): plan quiet automation before creating it (#202200)</code>](https://github.com/openclaw/openclaw/commit/72b63a35495e8c030d4229db2696c852b537fb11)
+- [ ] [<code>test: follow Template previews into the review dialog (#202198)</code>](https://github.com/openclaw/openclaw/commit/b34b667f9e61f80271bd1285e2481a45f772a7e2)
+- [ ] [<code>improve: show viewed images together in chat (#201435)</code>](https://github.com/openclaw/openclaw/commit/aeb463c17be2876ff04c9fafbe3847a13217c204)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(models): stop recommending superseded Kimi K3</code>](https://github.com/openclaw/openclaw/commit/8aa2808c7f4450a11de0b5900992cd231fb6b0c9)
+- [ ] [<code>fix(worktrees): keep completed chat sessions' worktrees for the idle window (#202204)</code>](https://github.com/openclaw/openclaw/commit/d7d546f292779a618e6749a4550f3752bab13850)
+- [ ] [<code>docs: update the 11.5 release counts after source review (#202221)</code>](https://github.com/openclaw/openclaw/commit/3126c82f7e0cca6027eb58bc9d7c4b8433ba5c9c)
+- [ ] [<code>fix(gateway): refresh native command channels when their registry is replaced (#199743)</code>](https://github.com/openclaw/openclaw/commit/626527a745ad5418a4966280a9848ba5baf182c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#202223)</code>](https://github.com/openclaw/openclaw/commit/d119c6b0035e141d47b68f59f283cc2ee91f10f7)
+- [ ] [<code>fix: bound background worktree deletion bursts (#202197)</code>](https://github.com/openclaw/openclaw/commit/58dbe4055043f7c090a03b3c8a610a9e521e3452)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(worker): wait for queued cleanup before idle work (#202224)</code>](https://github.com/openclaw/openclaw/commit/92d147da1552602f7636665e49dd75677b5e48d3)
+- [ ] [<code>fix(discord): agent presentation controls stop expiring (#201965)</code>](https://github.com/openclaw/openclaw/commit/a757a08f5f2674d584d738c45393df495a9a47da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): remove duplicate Swarm progress from chat (#202217)</code>](https://github.com/openclaw/openclaw/commit/afde14ed545cd5657a0bbfc60923c8b48530226f)
+- [ ] [<code>refactor(perf): reuse sandbox filesystem counters (#201958)</code>](https://github.com/openclaw/openclaw/commit/1b49aea997a9321b6c171338b2024845544162f5)
+- [ ] [<code>fix(test): retain standalone fixtures after cleanup failure (#202227)</code>](https://github.com/openclaw/openclaw/commit/d44f2632c4a7d51190368a019f639d697b747ae6)
+- [ ] [<code>improve(ui): show subagent avatars beside transcript names (#201407)</code>](https://github.com/openclaw/openclaw/commit/69eb76e6347b37573f91b01240e6b1d6c12871d2)
+- [ ] [<code>fix(ci): remove Blacksmith overflow from ordinary Boat runs (#202229)</code>](https://github.com/openclaw/openclaw/commit/7694d3ea64f0707d495aaa68239bf91e4eeda740)
+- [ ] [<code>chore(ui): refresh control ui locales (#202242)</code>](https://github.com/openclaw/openclaw/commit/6baee0f8e16cdf1063fb5f3e713237dbb1861227)
+- [ ] [<code>fix(test): report chat RPC failures without stray rejections (#201985)</code>](https://github.com/openclaw/openclaw/commit/085479ceeb4eb846b5821cc6b1ee713a45aad320)
+- [ ] [<code>fix(sessions): bound history run-input reads (#202234)</code>](https://github.com/openclaw/openclaw/commit/77dfd800710409bc397dc96dcfcec2acc7e567ca)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(ci): reuse captured compiler inputs before filesystem admission (#202235)</code>](https://github.com/openclaw/openclaw/commit/08d41d8d199c268d98d1319ca2b646dc192cb79e)
+- [ ] [<code>fix(gateway): share the directory watch helper with catalog workers (#201817)</code>](https://github.com/openclaw/openclaw/commit/ad5faae2cd64f0874df24037d7a14ee7bc4ffa79)
+- [ ] [<code>fix(agents): keep projected prompt updates out of later user turns (#201843)</code>](https://github.com/openclaw/openclaw/commit/ced3bf6184378697e4c274ced945c637bef35b12)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): freeze a prompt series' tool set at its first request (#201710)</code>](https://github.com/openclaw/openclaw/commit/4639df386419464c05424ae98561a5ac731ae296)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron): a session cron's reply reaches the model once (#201838)</code>](https://github.com/openclaw/openclaw/commit/b4ddf4b30fc59e1e82d7acbff6988ecc22a68194)
+- [ ] [<code>fix: stop unavailable chat widgets from flooding history reads (#202220)</code>](https://github.com/openclaw/openclaw/commit/c3caf57cac959dc0416a8a90d0393ff4354d70f3)
+- [ ] [<code>fix(update): keep legacy Git services on their release launcher (#202238)</code>](https://github.com/openclaw/openclaw/commit/aab18f4365821553df47f07d6e3ab232e394c5a0)
+- [ ] [<code>refactor: skip unused auth classification during tool preparation (#202233)</code>](https://github.com/openclaw/openclaw/commit/847884cbc0a17410abfe38367bc38a91178a656c)
+- [ ] [<code>fix(ci): run ordinary Mantis proof jobs on hosted Ubuntu (#202237)</code>](https://github.com/openclaw/openclaw/commit/0c17a059b0ac666e07d8f4ba77578366f8efd99a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
