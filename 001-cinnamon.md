@@ -1735,8 +1735,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>progress info: free the condition variable and the mutex on finalize (#3877)</code>](https://github.com/linuxmint/nemo/commit/7df652f2de924f821dd5325564ad6ef38ac0ae6c)
 - [ ] [<code>6.8.4</code>](https://github.com/linuxmint/nemo/commit/a1346a11bc4e1e1edb9a369f0dfdb6ce5111d8ee)
-  - <sub>Tags: <code>6.8.4</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/nemo/commit/33892205b0a584a44086b54b67b99266fc97e443)
+  - <sub>Tags: <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
