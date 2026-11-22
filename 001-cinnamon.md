@@ -1209,11 +1209,8 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.11 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.11...HEAD)
 
-- [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-l-theme/commit/88a9a2b80d46a2ebc6d98a0736334dd44538a38a)
-- [ ] [<code>2.0.11</code>](https://github.com/linuxmint/mint-l-theme/commit/7ab7979bdaed11ba83c8eb297b04736449a34688)
-  - <sub>Tags: <code>2.0.11</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.4...HEAD)
 
@@ -2015,12 +2012,8 @@
   - <sub>Tags: <code>3.4.13</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [python313Packages.python-xapp](https://github.com/linuxmint/python3-xapp): [3.0.4 → HEAD](https://github.com/linuxmint/python3-xapp/compare/3.0.4...HEAD)
+#### [python313Packages.python-xapp](https://github.com/linuxmint/python3-xapp): [3.0.5 → HEAD](https://github.com/linuxmint/python3-xapp/compare/3.0.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/python3-xapp/commit/f4296bcd390e1877f05bd23e4c2a5baa37c3e109)
-- [ ] [<code>3.0.5</code>](https://github.com/linuxmint/python3-xapp/commit/9472e945024c6a1ca4874360ada335d42874166e)
-  - <sub>Tags: <code>3.0.5</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.7 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.7...HEAD)
 
