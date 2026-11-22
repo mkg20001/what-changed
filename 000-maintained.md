@@ -1709,6 +1709,7 @@
 - [ ] [<code>build(deps): bump github.com/catonetworks/cato-go-sdk from 1.1.4 to 1.2.0 in /src/go (#24896)</code>](https://github.com/netdata/netdata.git/commit/1d70ef6a1b518eb62ce27bc69e8cd70d8c716563)
 - [ ] [<code>feat(packaging): share IP intelligence data between NetFlow and DEM (#24887)</code>](https://github.com/netdata/netdata.git/commit/10c14375dd3927c41c4560f2610e6abf2657f850)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.13.0-27-nightly.</code>](https://github.com/netdata/netdata.git/commit/536bc94746ff17edacd7e43e617fba0eb5a2bf89)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -37421,6 +37422,7 @@
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>fix(ci): account for completed empty Vitest selections (#203249)</code>](https://github.com/openclaw/openclaw/commit/7b63d36f6f35baef297620748b35777b3a76c522)
 - [ ] [<code>fix(openclaw-id): close signed-out peers with their own reason (#201734)</code>](https://github.com/openclaw/openclaw/commit/89596c51481e17fb7ba044adfcf44df53567ded4)
+  - <sub>Tags: <code>release-publish/89596c51481e-1795316013</code></sub>
 - [ ] [<code>fix(subagents): wake a yielded requester for each ready child result (#203176)</code>](https://github.com/openclaw/openclaw/commit/09d956bee838e0f1a169fb99a741c15fe81dadf4)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>feat: OpenClaw ID protocol for unlinking a claw from its own computer (#201750)</code>](https://github.com/openclaw/openclaw/commit/c56a9d40e7787e8b57636a22e60b70d63bed7e34)
@@ -37434,6 +37436,7 @@
 - [ ] [<code>fix(auth): CLI clients refuse to start after a macOS reboot renumbers the state volume (#188973)</code>](https://github.com/openclaw/openclaw/commit/2b46a6130923ef323f7ec0375c9c776d4b02a9b9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix: retain both errors when approval test cleanup fails (#203263)</code>](https://github.com/openclaw/openclaw/commit/6d2e5e84eedc437ee4fda8721b1e252b9393dcf6)
+  - <sub>Tags: <code>release-publish/6d2e5e84eedc-1795308759</code></sub>
 - [ ] [<code>fix(talk): answer the first talk.catalog read with its snapshot (#203283)</code>](https://github.com/openclaw/openclaw/commit/b0d799af9e52069f2d36b5635a77e43642b5c039)
 - [ ] [<code>fix: stop offering Retry for removed chat automations (#203276)</code>](https://github.com/openclaw/openclaw/commit/9170655ee2784810bdeadb7936c85334a691e406)
 - [ ] [<code>fix: test upgrades from released PostgreSQL installs (#202109)</code>](https://github.com/openclaw/openclaw/commit/5293cccd10a9d7a8c046aa405239c37275a3985e)
@@ -37534,6 +37537,26 @@
 - [ ] [<code>chore(ui): refresh control ui locales (#203360)</code>](https://github.com/openclaw/openclaw/commit/41dce5629f2703bb894a5409b0e6692fd4dd2ef3)
 - [ ] [<code>fix: keep Skill Workshop draft previews tidy and Undo on the skill page (#203285)</code>](https://github.com/openclaw/openclaw/commit/5d249c0e836fe407b21f1e15518808776ffdfc9c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#203366)</code>](https://github.com/openclaw/openclaw/commit/08f45d611b7daa405258aa14f234500140a60aaf)
+- [ ] [<code>improve: show complete 30-day Usage reports sooner (#203346)</code>](https://github.com/openclaw/openclaw/commit/8b3739c49d430b8ccb6ce46ad1d45fcadd59a83e)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): skip archive exit animations outside the sidebar viewport (#203368)</code>](https://github.com/openclaw/openclaw/commit/bb44e168d3461a83b02e42b1cd2949d403136bf0)
+- [ ] [<code>fix: keep one model’s cooldown deadline off other models (#203356)</code>](https://github.com/openclaw/openclaw/commit/7dde1e89fc29e51c08d4265537573b31d7d6058e)
+- [ ] [<code>fix: hide Move to cloud when no cloud profile is available (#203363)</code>](https://github.com/openclaw/openclaw/commit/5a3e6b1cb09bb886c4f9760d5d155353131e823a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: remove overlapping lines from the OpenClaw tool icon (#203376)</code>](https://github.com/openclaw/openclaw/commit/e566e993323385ce5c2ed64cffeecd4bd2ab07bb)
+- [ ] [<code>feat: choose a harness for primary and fallback models in Settings (#203358)</code>](https://github.com/openclaw/openclaw/commit/57443ce0321885f634ae2d35f65fbcafd3ca0858)
+- [ ] [<code>fix(ui): show app updates outside the conversation (#203357)</code>](https://github.com/openclaw/openclaw/commit/e76922592a733ed039b84d997d86ce1ca0e1fd34)
+- [ ] [<code>fix(ui): keep the right-docked Home actions clear of the window controls (#202733)</code>](https://github.com/openclaw/openclaw/commit/3909b96ffcc7aded02b25094e3980a67678a6872)
+- [ ] [<code>chore(ui): refresh control ui locales (#203384)</code>](https://github.com/openclaw/openclaw/commit/dbf7aaf95b63b2d4f37e356de42b84c87a5a2ab1)
+- [ ] [<code>fix: let guests file GitHub issues from project conversations (#203369)</code>](https://github.com/openclaw/openclaw/commit/3c8c7bf781fbf3e2c614a446eee0ad3a87b400fd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>improve(models): recommend Carbon and Neon before Argon</code>](https://github.com/openclaw/openclaw/commit/8621a7c6647f486fe9a712528b79e1ec7a9bb161)
+- [ ] [<code>test(ui): allow Customize sidebar assets in the Skills first-visit window (#203349)</code>](https://github.com/openclaw/openclaw/commit/1c6349de4405683074af2ae6fadc04a177434d85)
+- [ ] [<code>fix: check a recorded data-at-risk mark before repair or the next update acts on it (#201668)</code>](https://github.com/openclaw/openclaw/commit/a28f2117181c2881c85df7427eecbf21d04164d7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): correct provider-removal and lazy-notice tests (#203386)</code>](https://github.com/openclaw/openclaw/commit/1eacdff456ad0964d9b8cd65945913c6ebf50c4b)
+- [ ] [<code>fix: stop refusing chat reads before the main session exists (#203126)</code>](https://github.com/openclaw/openclaw/commit/ae8155cf5f5434132b578504716a60c62c3de4e6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
