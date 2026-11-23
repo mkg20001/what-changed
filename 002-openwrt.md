@@ -289,6 +289,11 @@
 - [ ] [<code>bridge: pass the bridge priority to the userspace STP daemon</code>](https://git.openwrt.org/project/netifd.git/commit/20be6d5c79085f2184d3bea3b4c9f0790e361ca0)
 - [ ] [<code>bridge: use a valid bridge priority as default</code>](https://git.openwrt.org/project/netifd.git/commit/ade072a34c937af2bdff2034f81449bd5a0a3a5b)
 - [ ] [<code>bridge: ignore a bridge priority above 65535</code>](https://git.openwrt.org/project/netifd.git/commit/a1e39a458f9601100ee6bf91b0d6800688cf6a5b)
+- [ ] [<code>system-linux: take over a bridge that exists when netifd adds it</code>](https://git.openwrt.org/project/netifd.git/commit/49181a38ee294cdd8b0e052f0295d30e7f9e9b16)
+- [ ] [<code>bridge: restart the bridge when another process deletes it</code>](https://git.openwrt.org/project/netifd.git/commit/d41ad322974d8d50db31cadf8b8d7ed95d51c281)
+- [ ] [<code>bridge: sync the vlans of a configured port on its hotplug del</code>](https://git.openwrt.org/project/netifd.git/commit/43fd43b423c2d15add285450ff601a121a31a265)
+- [ ] [<code>device: ignore a uevent add of a link that is not listed yet</code>](https://git.openwrt.org/project/netifd.git/commit/c372d0aaab3c3dff1cf191443347951c92bf71e2)
+- [ ] [<code>device: remove the hotplug members of a master before freeing it</code>](https://git.openwrt.org/project/netifd.git/commit/bd6f4d48123b8056edbe93819bd398d52035cc7e)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
@@ -374,6 +379,23 @@
 - [ ] [<code>tests/fuzz: use size of blob_attr, not of a pointer, in length guard</code>](https://git.openwrt.org/project/ubus.git/commit/b27014cf7978cd797d3f7933299b9d295e338178)
 - [ ] [<code>ubus/lua: store event handler ref without polluting the callback table</code>](https://git.openwrt.org/project/ubus.git/commit/414c60a2e29e72c2c4f573bc50ad54aef076d169)
 - [ ] [<code>libubus: add a pre-invoke callback for resolved object methods</code>](https://git.openwrt.org/project/ubus.git/commit/db20eff5535fe3126c05dc0edc029caf0e82fe10)
+- [ ] [<code>libubus: drop an object removed on a lost connection</code>](https://git.openwrt.org/project/ubus.git/commit/f5ccb296df8ddf4f9cbffa5238ca9772842c557e)
+- [ ] [<code>tests: cover the removal of an object on a lost connection</code>](https://git.openwrt.org/project/ubus.git/commit/536c6031bd8fc877a4dd2e1e727f780769f1e513)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: check the type id after a remove on a live connection</code>](https://git.openwrt.org/project/ubus.git/commit/db43fc7f813ceaed8e6344358f22f53fec85a7fb)
+- [ ] [<code>ubusd: refuse an object add with a type id it does not know</code>](https://git.openwrt.org/project/ubus.git/commit/a86a0996ca059cee41728be4cc1aa0507b2fb8a3)
+- [ ] [<code>libubus: register the type again when ubusd does not know its id</code>](https://git.openwrt.org/project/ubus.git/commit/3257dd6618e40302231e3584ca97ed96e9f2ae7e)
+- [ ] [<code>tests: cover a retry of an object add that ubusd also refuses</code>](https://git.openwrt.org/project/ubus.git/commit/3e3adf15c06c70207563f53713227f2def3ff2c9)
+- [ ] [<code>ubusd: refuse an object add whose signature it cannot register</code>](https://git.openwrt.org/project/ubus.git/commit/a34231ee11529213f9de318bf57c1b5c5952beb1)
+- [ ] [<code>libubus: keep an object under removal out of a reconnect</code>](https://git.openwrt.org/project/ubus.git/commit/6858c5b4cc72cf2de1e290de88ff5400e9723430)
+- [ ] [<code>tests: cover a reconnect and a nested remove during an object remove</code>](https://git.openwrt.org/project/ubus.git/commit/233d8872d13d8ec5be712832213d3c0ec4b172f2)
+- [ ] [<code>libubus: put a refused object back before queued messages run</code>](https://git.openwrt.org/project/ubus.git/commit/73944843209029c0091b91f2951dcb2dfdfe10dc)
+- [ ] [<code>libubus: hold queued handlers until a reconnect adds every object</code>](https://git.openwrt.org/project/ubus.git/commit/7456f0b04b4bd7de6f10b54c66fc9730173d8a75)
+- [ ] [<code>libubus: register event patterns again after a reconnect</code>](https://git.openwrt.org/project/ubus.git/commit/2345a02a84d747ddf7032c3ecf020a9c903db008)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>libubus: remove the handler object of a refused event register</code>](https://git.openwrt.org/project/ubus.git/commit/faa929a7e720815e972768ce1bb04c4e572a1332)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
