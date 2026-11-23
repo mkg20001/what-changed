@@ -347,78 +347,9 @@
 - [ ] [<code>fix: reverting core snap back to 24 until .iso-s are updated</code>](https://github.com/canonical/firmware-updater/commit/f707ecadeace63ae76a436b6bece9df6a25b41e1)
 - [ ] [<code>fix: reverting core snap back to 24 until .iso-s are updated (#452)</code>](https://github.com/canonical/firmware-updater/commit/671c18e41949b12f557538f88abe5d5e026b2cbf)
 
-#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v2.11.3 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.11.3...HEAD)
+#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v2.11.5 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.11.5...HEAD)
 
-- [ ] [<code>refactor: serialize push processing</code>](https://github.com/krille-chan/fluffychat/commit/37ab1e9519858838ca85d00acda0b7af666a1f0a)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix: hotfix do not use accessibility without mgiration in iOS keychain</code>](https://github.com/krille-chan/fluffychat/commit/f99c40a84104ba420318c1ae99a2cc64bf3b3620)
-- [ ] [<code>build: bump version</code>](https://github.com/krille-chan/fluffychat/commit/5a7d74726e67a047b17445c007f2ad77a3cb01dd)
-- [ ] [<code>build: (deps): bump light_compressor_v2 from 1.9.1 to 1.10.0</code>](https://github.com/krille-chan/fluffychat/commit/e94742b9e20ab35ab97df348e94d4b67b14b1ba0)
-- [ ] [<code>build: (deps): bump go_router from 18.0.2 to 18.1.0</code>](https://github.com/krille-chan/fluffychat/commit/b4fd228c89bb1867885ab339bb43092ad8d31552)
-- [ ] [<code>build: (deps): bump material_ui from 1.6.0 to 1.7.0</code>](https://github.com/krille-chan/fluffychat/commit/83c718257e6d999ab6dfdb7aca4421d655c0916e)
-- [ ] [<code>build: (deps): bump ogg_caf_converter from 0.1.4 to 0.4.1</code>](https://github.com/krille-chan/fluffychat/commit/a1db76a3c6294db148565a7175fc06a0a6a69224)
-- [ ] [<code>build: (deps): bump cupertino_ui from 1.1.2 to 1.1.3</code>](https://github.com/krille-chan/fluffychat/commit/08d10dd04af5dfcbbeb450540974218cbda490cf)
-- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/17e948bd66ade07f2edb4fd25e3a2124edd1136c)
-- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/37e8bfea3d9b285c1523c1725aeb75e3ccf6c016)
-- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.3.0 to 2.3.1</code>](https://github.com/krille-chan/fluffychat/commit/b904e5ec7b8882876dc678171b01df1f3a2751bf)
-- [ ] [<code>build: (deps): bump flutter_shortcuts_new from 2.0.0 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/7f566cba977b6c5813d74d8818788b077fed63fc)
-- [ ] [<code>Merge pull request #3855 from krille-chan/dependabot/pub/flutter_shortcuts_new-2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/db4ed06c87b1b028ff54d749bca8db89c0b2a9fe)
-  - <sub>Tags: <code>rc2.11.2-0</code></sub>
-- [ ] [<code>fix: ignore push when not logged in</code>](https://github.com/krille-chan/fluffychat/commit/3c033db575e2579d4f51e7c8031196416ec0bddb)
-- [ ] [<code>chore: add knoten.chat to recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/9888075485ed7ebe78b429107328b0214f334bd0)
-- [ ] [<code>feat: smoother swipe to reply without swipe_to_action</code>](https://github.com/krille-chan/fluffychat/commit/e146ff33888edd77b494f70d5ab7f189fc4eb8f5)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>refactor: clear up active notifications on sync on all platforms</code>](https://github.com/krille-chan/fluffychat/commit/ceb1331b0bc43346db4e7104e183c1f7884c918d)
-- [ ] [<code>chore: update agents guidelines</code>](https://github.com/krille-chan/fluffychat/commit/607edd5a765d32228af9dee012b1b2e4718cc729)
-- [ ] [<code>refactor: use flutter_local_notifications for web notifications</code>](https://github.com/krille-chan/fluffychat/commit/cf1b832aed8730c5179863a565dd7cf8894def42)
-- [ ] [<code>build: (deps): bump geolocator from 14.1.1 to 14.1.2</code>](https://github.com/krille-chan/fluffychat/commit/4ccc0cfb49c4b80a33f78828e71e352c352496bd)
-- [ ] [<code>Merge pull request #3876 from nikzen/feat/swipe-to-reply</code>](https://github.com/krille-chan/fluffychat/commit/cd32db64646b3f4e3591d48b4f01857b8f7ac6fd)
-  - <sub>Tags: <code>v2.11.2</code></sub>
 - [ ] [<code>build: (deps): bump flutter_vodozemac, vodozemac and matrix</code>](https://github.com/krille-chan/fluffychat/commit/cec82dcfb623ff6ce6626510793e78c388fb367d)
-- [ ] [<code>chore: follow up web notifications</code>](https://github.com/krille-chan/fluffychat/commit/4a29fea404989c82e4f6d40b48ddfd1ab5a20f12)
-- [ ] [<code>build: (deps): bump cupertino_ui from 1.1.3 to 1.1.4</code>](https://github.com/krille-chan/fluffychat/commit/5404c0b1be357d22129acdb5c4807c7537e32adc)
-- [ ] [<code>build: (deps): bump material_ui from 1.7.0 to 1.8.0</code>](https://github.com/krille-chan/fluffychat/commit/ca019d497ca58c6ccd7896e9525c190a70214d11)
-- [ ] [<code>build: (deps): bump go_router from 18.1.0 to 18.1.1</code>](https://github.com/krille-chan/fluffychat/commit/2ab784d43ae0afe0f96d365e3832a0febfec049b)
-- [ ] [<code>chore: update CONTRIBUTING.md</code>](https://github.com/krille-chan/fluffychat/commit/7d2c556cf31ac7f8ae4d5d952df0220c7ea627c8)
-- [ ] [<code>refactor: show animated avatars in user dialog, settings and room details</code>](https://github.com/krille-chan/fluffychat/commit/c1f0de15998f4af562119a77ad728431ef6cfdd2)
-- [ ] [<code>chore: add workflow</code>](https://github.com/krille-chan/fluffychat/commit/d22b65e379135107c2f51b9ce4a9d7fb39421a5a)
-- [ ] [<code>build: update Flutter to 3.47.8</code>](https://github.com/krille-chan/fluffychat/commit/aa7874c5dde7f1e2e91a6a899c96773a7c6b6fee)
-- [ ] [<code>chore: use popupmenus for avatar actions</code>](https://github.com/krille-chan/fluffychat/commit/58b15b55a2afc9f61d5ad67a76b04ed4e914d16d)
-- [ ] [<code>fix: show read receipts of hidden events</code>](https://github.com/krille-chan/fluffychat/commit/c1477f794504764294239f745fc120dcfe348d67)
-- [ ] [<code>build: (deps): bump docker/login-action from 4.6.0 to 4.7.0</code>](https://github.com/krille-chan/fluffychat/commit/1d28ebf7347914b82e1a76222368f6b34e293a55)
-- [ ] [<code>build: (deps): bump peter-evans/create-pull-request from 7 to 8</code>](https://github.com/krille-chan/fluffychat/commit/5922e0ca9843b0b38443a8b16b6fb38f16a612c8)
-- [ ] [<code>build: (deps): bump pasteboard from 0.5.0 to 0.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b8f503ac6e3d68a96004a3fd1755383561e607a0)
-- [ ] [<code>build: (deps): bump chewie from 1.17.2 to 1.17.4</code>](https://github.com/krille-chan/fluffychat/commit/e3af1a0302693edb08afb873a1579bdef6646ffb)
-- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.3.1 to 2.3.2</code>](https://github.com/krille-chan/fluffychat/commit/aa9d67404c872641dca8aac431f1c0e6f7581e83)
-- [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.4.4 to 2.4.5</code>](https://github.com/krille-chan/fluffychat/commit/223c643dd8f821447cb501dc654cf94915b70daf)
-- [ ] [<code>fix: do not use secure storage if not available</code>](https://github.com/krille-chan/fluffychat/commit/f62d9b3039377ce93fe7e2899f7c8eb015dadf9a)
-- [ ] [<code>chore: bump version</code>](https://github.com/krille-chan/fluffychat/commit/aade6d877fa7cc284e140fce7a2f4f39f652351a)
-  - <sub>Tags: <code>rc2.11.4-1</code> <code>v2.11.4</code></sub>
-- [ ] [<code>fix: cancelsend not sent reactions instead of redact</code>](https://github.com/krille-chan/fluffychat/commit/61cae0cbad22297047094336fcd22c5ea3eaa86a)
-- [ ] [<code>fix: android records broken ogg for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/31f7fffaadb8be701974df6da89ff61542e8010c)
-- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.3.2 to 22.3.3</code>](https://github.com/krille-chan/fluffychat/commit/34305bbb5064e96f6803e3a8336c5b829059f682)
-- [ ] [<code>build: (deps): bump livekit_client from 2.13.1 to 2.13.2</code>](https://github.com/krille-chan/fluffychat/commit/ffe851cd6ecc2a34fca997190618ca9f64eaed6d)
-- [ ] [<code>chore: use ubuntu 24.04 for ci</code>](https://github.com/krille-chan/fluffychat/commit/1db074c09927286829712203859b6f97f41c1d59)
-- [ ] [<code>chore: skip precheck on release ios</code>](https://github.com/krille-chan/fluffychat/commit/df090b11b2a53bcf3a9d979e7fef03a072f68eca)
-- [ ] [<code>chore: bump version</code>](https://github.com/krille-chan/fluffychat/commit/9096141000879a5bdf41a0a87e54fb6813072cbe)
-  - <sub>Tags: <code>rc2.11.5-1</code></sub>
-- [ ] [<code>chore: update to ubuntu 26.04</code>](https://github.com/krille-chan/fluffychat/commit/456771d1a7292297025fe85e099aaa99e6735fd0)
-- [ ] [<code>chore: update to flutter 3.47.9</code>](https://github.com/krille-chan/fluffychat/commit/17382cb230aa91e5d4222fdbe278425a23c9b357)
-  - <sub>Tags: <code>rc2.11.5-2</code></sub>
-- [ ] [<code>fix: open database in NSE in immutable mode</code>](https://github.com/krille-chan/fluffychat/commit/9ef7ff5e7fb90183765b0e458da3985e70b88261)
-- [ ] [<code>fix: compress parameter is ignored on video resizing</code>](https://github.com/krille-chan/fluffychat/commit/2c3896e0e98ac813a0ef3d6aeadaa8acf9582bcf)
-- [ ] [<code>build: (deps): bump go_router from 18.1.1 to 18.1.2</code>](https://github.com/krille-chan/fluffychat/commit/3e3a6f46879a4c90ae5a8bb6c6a99ce18db5bcf2)
-- [ ] [<code>build: (deps): bump archive from 4.5.2 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/378134129e72d178e8b0d5355706c73bc9026a57)
-- [ ] [<code>build: (deps): bump dart_code_linter from 4.4.2 to 4.4.4</code>](https://github.com/krille-chan/fluffychat/commit/8d1f037c4cd6e355426e8078cc446392bd184069)
-- [ ] [<code>build: (deps): bump file_picker from 13.1.0 to 13.3.0</code>](https://github.com/krille-chan/fluffychat/commit/453fdee8bb45250365d571feb4de119b247689a4)
-- [ ] [<code>Merge pull request #3933 from krille-chan/dependabot/pub/file_picker-13.3.0</code>](https://github.com/krille-chan/fluffychat/commit/62396e1ced8bc50e2d6c970e896a0b718a26d871)
-  - <sub>Tags: <code>rc2.11.5-3</code></sub>
-- [ ] [<code>build: (deps): bump file_picker from 13.3.0 to 13.3.2</code>](https://github.com/krille-chan/fluffychat/commit/41d543865cc18a387a4c4c1db04e9748c70dc26d)
-- [ ] [<code>build: (deps): bump lottie from 3.6.1 to 3.8.2</code>](https://github.com/krille-chan/fluffychat/commit/3cde44ac749d6f039d72bf562bbfd85150dad7e6)
-- [ ] [<code>Merge pull request #3962 from krille-chan/dependabot/pub/lottie-3.8.2</code>](https://github.com/krille-chan/fluffychat/commit/0dcca47da875bf068a3804dd4ed3c8b06855392a)
-  - <sub>Tags: <code>rc2.11.5-4</code></sub>
-- [ ] [<code>chore: restore first_unlock accessibility</code>](https://github.com/krille-chan/fluffychat/commit/24fc707edf14cebe9d2a56c4b0d032ca2aee42b9)
-  - <sub>Tags: <code>rc2.11.5-5</code> <code>v2.11.5</code></sub>
 - [ ] [<code>fix: redact reactions</code>](https://github.com/krille-chan/fluffychat/commit/52a733a308fe3115c10d28c5a6d7cb539f80fac9)
 - [ ] [<code>build: (deps): bump docker/login-action from 4.7.0 to 4.8.0</code>](https://github.com/krille-chan/fluffychat/commit/4d1ae45b498f90a887f3dfd4046777e9c3ac7d18)
 - [ ] [<code>build: (deps): bump cupertino_ui from 1.1.4 to 1.1.6</code>](https://github.com/krille-chan/fluffychat/commit/8c744bc98aa6120f79e10bb3921c1c53637f0473)
@@ -436,78 +367,9 @@
 - [ ] [<code>fix: do not drop badge on iOS on empty notifications</code>](https://github.com/krille-chan/fluffychat/commit/b938e3bb8ae918cfbc7178f94170e95369a95ad8)
 - [ ] [<code>fix: add file type to exported stickers</code>](https://github.com/krille-chan/fluffychat/commit/73ee452793dd5b4d277a3a1f0175ceeb19767e7e)
 
-#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.11.3 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.11.3...HEAD)
+#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.11.5 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.11.5...HEAD)
 
-- [ ] [<code>refactor: serialize push processing</code>](https://github.com/krille-chan/fluffychat/commit/37ab1e9519858838ca85d00acda0b7af666a1f0a)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix: hotfix do not use accessibility without mgiration in iOS keychain</code>](https://github.com/krille-chan/fluffychat/commit/f99c40a84104ba420318c1ae99a2cc64bf3b3620)
-- [ ] [<code>build: bump version</code>](https://github.com/krille-chan/fluffychat/commit/5a7d74726e67a047b17445c007f2ad77a3cb01dd)
-- [ ] [<code>build: (deps): bump light_compressor_v2 from 1.9.1 to 1.10.0</code>](https://github.com/krille-chan/fluffychat/commit/e94742b9e20ab35ab97df348e94d4b67b14b1ba0)
-- [ ] [<code>build: (deps): bump go_router from 18.0.2 to 18.1.0</code>](https://github.com/krille-chan/fluffychat/commit/b4fd228c89bb1867885ab339bb43092ad8d31552)
-- [ ] [<code>build: (deps): bump material_ui from 1.6.0 to 1.7.0</code>](https://github.com/krille-chan/fluffychat/commit/83c718257e6d999ab6dfdb7aca4421d655c0916e)
-- [ ] [<code>build: (deps): bump ogg_caf_converter from 0.1.4 to 0.4.1</code>](https://github.com/krille-chan/fluffychat/commit/a1db76a3c6294db148565a7175fc06a0a6a69224)
-- [ ] [<code>build: (deps): bump cupertino_ui from 1.1.2 to 1.1.3</code>](https://github.com/krille-chan/fluffychat/commit/08d10dd04af5dfcbbeb450540974218cbda490cf)
-- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/17e948bd66ade07f2edb4fd25e3a2124edd1136c)
-- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/37e8bfea3d9b285c1523c1725aeb75e3ccf6c016)
-- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.3.0 to 2.3.1</code>](https://github.com/krille-chan/fluffychat/commit/b904e5ec7b8882876dc678171b01df1f3a2751bf)
-- [ ] [<code>build: (deps): bump flutter_shortcuts_new from 2.0.0 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/7f566cba977b6c5813d74d8818788b077fed63fc)
-- [ ] [<code>Merge pull request #3855 from krille-chan/dependabot/pub/flutter_shortcuts_new-2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/db4ed06c87b1b028ff54d749bca8db89c0b2a9fe)
-  - <sub>Tags: <code>rc2.11.2-0</code></sub>
-- [ ] [<code>fix: ignore push when not logged in</code>](https://github.com/krille-chan/fluffychat/commit/3c033db575e2579d4f51e7c8031196416ec0bddb)
-- [ ] [<code>chore: add knoten.chat to recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/9888075485ed7ebe78b429107328b0214f334bd0)
-- [ ] [<code>feat: smoother swipe to reply without swipe_to_action</code>](https://github.com/krille-chan/fluffychat/commit/e146ff33888edd77b494f70d5ab7f189fc4eb8f5)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>refactor: clear up active notifications on sync on all platforms</code>](https://github.com/krille-chan/fluffychat/commit/ceb1331b0bc43346db4e7104e183c1f7884c918d)
-- [ ] [<code>chore: update agents guidelines</code>](https://github.com/krille-chan/fluffychat/commit/607edd5a765d32228af9dee012b1b2e4718cc729)
-- [ ] [<code>refactor: use flutter_local_notifications for web notifications</code>](https://github.com/krille-chan/fluffychat/commit/cf1b832aed8730c5179863a565dd7cf8894def42)
-- [ ] [<code>build: (deps): bump geolocator from 14.1.1 to 14.1.2</code>](https://github.com/krille-chan/fluffychat/commit/4ccc0cfb49c4b80a33f78828e71e352c352496bd)
-- [ ] [<code>Merge pull request #3876 from nikzen/feat/swipe-to-reply</code>](https://github.com/krille-chan/fluffychat/commit/cd32db64646b3f4e3591d48b4f01857b8f7ac6fd)
-  - <sub>Tags: <code>v2.11.2</code></sub>
 - [ ] [<code>build: (deps): bump flutter_vodozemac, vodozemac and matrix</code>](https://github.com/krille-chan/fluffychat/commit/cec82dcfb623ff6ce6626510793e78c388fb367d)
-- [ ] [<code>chore: follow up web notifications</code>](https://github.com/krille-chan/fluffychat/commit/4a29fea404989c82e4f6d40b48ddfd1ab5a20f12)
-- [ ] [<code>build: (deps): bump cupertino_ui from 1.1.3 to 1.1.4</code>](https://github.com/krille-chan/fluffychat/commit/5404c0b1be357d22129acdb5c4807c7537e32adc)
-- [ ] [<code>build: (deps): bump material_ui from 1.7.0 to 1.8.0</code>](https://github.com/krille-chan/fluffychat/commit/ca019d497ca58c6ccd7896e9525c190a70214d11)
-- [ ] [<code>build: (deps): bump go_router from 18.1.0 to 18.1.1</code>](https://github.com/krille-chan/fluffychat/commit/2ab784d43ae0afe0f96d365e3832a0febfec049b)
-- [ ] [<code>chore: update CONTRIBUTING.md</code>](https://github.com/krille-chan/fluffychat/commit/7d2c556cf31ac7f8ae4d5d952df0220c7ea627c8)
-- [ ] [<code>refactor: show animated avatars in user dialog, settings and room details</code>](https://github.com/krille-chan/fluffychat/commit/c1f0de15998f4af562119a77ad728431ef6cfdd2)
-- [ ] [<code>chore: add workflow</code>](https://github.com/krille-chan/fluffychat/commit/d22b65e379135107c2f51b9ce4a9d7fb39421a5a)
-- [ ] [<code>build: update Flutter to 3.47.8</code>](https://github.com/krille-chan/fluffychat/commit/aa7874c5dde7f1e2e91a6a899c96773a7c6b6fee)
-- [ ] [<code>chore: use popupmenus for avatar actions</code>](https://github.com/krille-chan/fluffychat/commit/58b15b55a2afc9f61d5ad67a76b04ed4e914d16d)
-- [ ] [<code>fix: show read receipts of hidden events</code>](https://github.com/krille-chan/fluffychat/commit/c1477f794504764294239f745fc120dcfe348d67)
-- [ ] [<code>build: (deps): bump docker/login-action from 4.6.0 to 4.7.0</code>](https://github.com/krille-chan/fluffychat/commit/1d28ebf7347914b82e1a76222368f6b34e293a55)
-- [ ] [<code>build: (deps): bump peter-evans/create-pull-request from 7 to 8</code>](https://github.com/krille-chan/fluffychat/commit/5922e0ca9843b0b38443a8b16b6fb38f16a612c8)
-- [ ] [<code>build: (deps): bump pasteboard from 0.5.0 to 0.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b8f503ac6e3d68a96004a3fd1755383561e607a0)
-- [ ] [<code>build: (deps): bump chewie from 1.17.2 to 1.17.4</code>](https://github.com/krille-chan/fluffychat/commit/e3af1a0302693edb08afb873a1579bdef6646ffb)
-- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.3.1 to 2.3.2</code>](https://github.com/krille-chan/fluffychat/commit/aa9d67404c872641dca8aac431f1c0e6f7581e83)
-- [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.4.4 to 2.4.5</code>](https://github.com/krille-chan/fluffychat/commit/223c643dd8f821447cb501dc654cf94915b70daf)
-- [ ] [<code>fix: do not use secure storage if not available</code>](https://github.com/krille-chan/fluffychat/commit/f62d9b3039377ce93fe7e2899f7c8eb015dadf9a)
-- [ ] [<code>chore: bump version</code>](https://github.com/krille-chan/fluffychat/commit/aade6d877fa7cc284e140fce7a2f4f39f652351a)
-  - <sub>Tags: <code>rc2.11.4-1</code> <code>v2.11.4</code></sub>
-- [ ] [<code>fix: cancelsend not sent reactions instead of redact</code>](https://github.com/krille-chan/fluffychat/commit/61cae0cbad22297047094336fcd22c5ea3eaa86a)
-- [ ] [<code>fix: android records broken ogg for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/31f7fffaadb8be701974df6da89ff61542e8010c)
-- [ ] [<code>build: (deps): bump flutter_local_notifications from 22.3.2 to 22.3.3</code>](https://github.com/krille-chan/fluffychat/commit/34305bbb5064e96f6803e3a8336c5b829059f682)
-- [ ] [<code>build: (deps): bump livekit_client from 2.13.1 to 2.13.2</code>](https://github.com/krille-chan/fluffychat/commit/ffe851cd6ecc2a34fca997190618ca9f64eaed6d)
-- [ ] [<code>chore: use ubuntu 24.04 for ci</code>](https://github.com/krille-chan/fluffychat/commit/1db074c09927286829712203859b6f97f41c1d59)
-- [ ] [<code>chore: skip precheck on release ios</code>](https://github.com/krille-chan/fluffychat/commit/df090b11b2a53bcf3a9d979e7fef03a072f68eca)
-- [ ] [<code>chore: bump version</code>](https://github.com/krille-chan/fluffychat/commit/9096141000879a5bdf41a0a87e54fb6813072cbe)
-  - <sub>Tags: <code>rc2.11.5-1</code></sub>
-- [ ] [<code>chore: update to ubuntu 26.04</code>](https://github.com/krille-chan/fluffychat/commit/456771d1a7292297025fe85e099aaa99e6735fd0)
-- [ ] [<code>chore: update to flutter 3.47.9</code>](https://github.com/krille-chan/fluffychat/commit/17382cb230aa91e5d4222fdbe278425a23c9b357)
-  - <sub>Tags: <code>rc2.11.5-2</code></sub>
-- [ ] [<code>fix: open database in NSE in immutable mode</code>](https://github.com/krille-chan/fluffychat/commit/9ef7ff5e7fb90183765b0e458da3985e70b88261)
-- [ ] [<code>fix: compress parameter is ignored on video resizing</code>](https://github.com/krille-chan/fluffychat/commit/2c3896e0e98ac813a0ef3d6aeadaa8acf9582bcf)
-- [ ] [<code>build: (deps): bump go_router from 18.1.1 to 18.1.2</code>](https://github.com/krille-chan/fluffychat/commit/3e3a6f46879a4c90ae5a8bb6c6a99ce18db5bcf2)
-- [ ] [<code>build: (deps): bump archive from 4.5.2 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/378134129e72d178e8b0d5355706c73bc9026a57)
-- [ ] [<code>build: (deps): bump dart_code_linter from 4.4.2 to 4.4.4</code>](https://github.com/krille-chan/fluffychat/commit/8d1f037c4cd6e355426e8078cc446392bd184069)
-- [ ] [<code>build: (deps): bump file_picker from 13.1.0 to 13.3.0</code>](https://github.com/krille-chan/fluffychat/commit/453fdee8bb45250365d571feb4de119b247689a4)
-- [ ] [<code>Merge pull request #3933 from krille-chan/dependabot/pub/file_picker-13.3.0</code>](https://github.com/krille-chan/fluffychat/commit/62396e1ced8bc50e2d6c970e896a0b718a26d871)
-  - <sub>Tags: <code>rc2.11.5-3</code></sub>
-- [ ] [<code>build: (deps): bump file_picker from 13.3.0 to 13.3.2</code>](https://github.com/krille-chan/fluffychat/commit/41d543865cc18a387a4c4c1db04e9748c70dc26d)
-- [ ] [<code>build: (deps): bump lottie from 3.6.1 to 3.8.2</code>](https://github.com/krille-chan/fluffychat/commit/3cde44ac749d6f039d72bf562bbfd85150dad7e6)
-- [ ] [<code>Merge pull request #3962 from krille-chan/dependabot/pub/lottie-3.8.2</code>](https://github.com/krille-chan/fluffychat/commit/0dcca47da875bf068a3804dd4ed3c8b06855392a)
-  - <sub>Tags: <code>rc2.11.5-4</code></sub>
-- [ ] [<code>chore: restore first_unlock accessibility</code>](https://github.com/krille-chan/fluffychat/commit/24fc707edf14cebe9d2a56c4b0d032ca2aee42b9)
-  - <sub>Tags: <code>rc2.11.5-5</code> <code>v2.11.5</code></sub>
 - [ ] [<code>fix: redact reactions</code>](https://github.com/krille-chan/fluffychat/commit/52a733a308fe3115c10d28c5a6d7cb539f80fac9)
 - [ ] [<code>build: (deps): bump docker/login-action from 4.7.0 to 4.8.0</code>](https://github.com/krille-chan/fluffychat/commit/4d1ae45b498f90a887f3dfd4046777e9c3ac7d18)
 - [ ] [<code>build: (deps): bump cupertino_ui from 1.1.4 to 1.1.6</code>](https://github.com/krille-chan/fluffychat/commit/8c744bc98aa6120f79e10bb3921c1c53637f0473)
@@ -1711,6 +1573,12 @@
   - <sub>Keywords: <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.13.0-27-nightly.</code>](https://github.com/netdata/netdata.git/commit/536bc94746ff17edacd7e43e617fba0eb5a2bf89)
 - [ ] [<code>libnetdata: stop forcing inlining of the buffer JSON helpers (#24882)</code>](https://github.com/netdata/netdata.git/commit/2560bd1da75f9e54b172203ca98360b0f3c07f11)
+- [ ] [<code>build: add -rdynamic only when a stack trace backend can use it (#24823)</code>](https://github.com/netdata/netdata.git/commit/62597ba4475141713920a3afcfcf7571092cfc62)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: run git describe only when the source directory is a checkout (#24764)</code>](https://github.com/netdata/netdata.git/commit/a61e51131a4062e86edd8f5f34598f579d607b4a)
+- [ ] [<code>fix(web): reject a bare LF or CR in the HTTP request line (#24783)</code>](https://github.com/netdata/netdata.git/commit/09f3edf6e60c9812705678289493f29d3188a44c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.13.0-32-nightly.</code>](https://github.com/netdata/netdata.git/commit/eb7375730d3f6be40117322f1bde1957b923a518)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -37565,6 +37433,7 @@
 - [ ] [<code>fix: keep sidebar branches closed during background child updates</code>](https://github.com/openclaw/openclaw/commit/6375a3690778be6d6e9ce8101c9efe8ba04c1ddf)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix: recognize BOM-prefixed CI evidence timestamps (#203410)</code>](https://github.com/openclaw/openclaw/commit/7bf1c3e7413206b30d47e22fcc76bf97ffb8de73)
+  - <sub>Tags: <code>release-publish/7bf1c3e74132-1795385695</code></sub>
 - [ ] [<code>fix: reject cross-conversation automation workspaces before saving</code>](https://github.com/openclaw/openclaw/commit/c0e3bc0fbff265919efaf4e5b52688c5feed28b2)
 - [ ] [<code>fix(gateway-protocol): regenerate validators for update notice fields (#203413)</code>](https://github.com/openclaw/openclaw/commit/c9c530d27dd3f18098dc61242c51a9d7dda9291f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
@@ -37652,6 +37521,160 @@
 - [ ] [<code>test(update): drop the OCM mid-request authority refusal retired by one-time admission (#203534)</code>](https://github.com/openclaw/openclaw/commit/0632420a317164a5aa9dd75abdfdd59b5644b6d0)
 - [ ] [<code>fix(agents): count a yield-armed exec wake as continuation evidence (#203554)</code>](https://github.com/openclaw/openclaw/commit/5626902006c89e29ca939eb8f8d86ca6e1511659)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): harness history moves only at compaction (#203559)</code>](https://github.com/openclaw/openclaw/commit/45b96ba60b1dcbe37ee633d9a70339061d842c7c)
+- [ ] [<code>refactor(infra): check exec approvals once at commit (#203572)</code>](https://github.com/openclaw/openclaw/commit/c0ead5b14f5116a932296188bbb0184eaf621a29)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: prioritize recommended models in picker search</code>](https://github.com/openclaw/openclaw/commit/ade6754263f9cab7a925259ce13cdac6efe67023)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: yield progress refresh during native process polling (#203580)</code>](https://github.com/openclaw/openclaw/commit/78309261e5087586b7a21418e029132c22115cc0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ui): keep first use free of automatic panels (#202599)</code>](https://github.com/openclaw/openclaw/commit/592b2aea2748d5697e547463cf19e5fc5cf62226)
+- [ ] [<code>fix: chat-requested updates no longer leave the Gateway stopped (#203555)</code>](https://github.com/openclaw/openclaw/commit/832fa6a51908e46d49f5dabab59e0eaa6fbcf1c3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: keep a conversation's OpenAI Responses continuation across background runs (#203568)</code>](https://github.com/openclaw/openclaw/commit/895c50368fee7c0a694ac78acd2e960d3310a84e)
+- [ ] [<code>fix(config): validate raw configs with the implicit main agent (#203583)</code>](https://github.com/openclaw/openclaw/commit/a1d41756d53aba98b64e6d3cfb5bac30669478fd)
+- [ ] [<code>fix: stop asking for Local Network access when setting up OpenClaw on this Mac (#202614)</code>](https://github.com/openclaw/openclaw/commit/5b684035a11ecb3d65c26a483d83ab8b494e61be)
+- [ ] [<code>fix: let a pnpm install update again after an update died after activating (#203486)</code>](https://github.com/openclaw/openclaw/commit/72f54f1a695a363a2c7e5425adb5f676e15a1cc3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): report host live-session refusals as host limits, not provider rate limits (#202602)</code>](https://github.com/openclaw/openclaw/commit/359e9c2e1e26140e08fb37ef35096bd53f1e6484)
+- [ ] [<code>fix: stop an update before it starts while a node service holds the state database (#203578)</code>](https://github.com/openclaw/openclaw/commit/19fcba1823d045d25ef912707ac1feb4e8e7efda)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: connect AI without being asked about conversation history or memory (#202601)</code>](https://github.com/openclaw/openclaw/commit/34ce936db81eb0073025c05c920ea0a1506f5f7d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore(ui): refresh control ui locales (#203599)</code>](https://github.com/openclaw/openclaw/commit/fabd295148a68c34a7a3aff73beb3b4f605ef304)
+- [ ] [<code>test(onboarding): expect no history choice in setup (#203598)</code>](https://github.com/openclaw/openclaw/commit/8d1d8eee77b8afafa073c6aca5aa602b60c6de20)
+- [ ] [<code>fix: let people choose an AI connection while local discovery runs (#202622)</code>](https://github.com/openclaw/openclaw/commit/76aaafaa106a03800874b3d3729d635c2b62dc04)
+- [ ] [<code>fix(install): let a Windows reinstall replace an existing openclaw command wrapper (#203588)</code>](https://github.com/openclaw/openclaw/commit/8ab246473799005efb51b47cd06910e696c7d3a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(goals): allow Goals on OpenClaw cloud workers (#201051)</code>](https://github.com/openclaw/openclaw/commit/7f019f6c5b8b63202f694bcbfccfa36138e25483)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: let Git installs without a global pnpm update again (#203564)</code>](https://github.com/openclaw/openclaw/commit/926eaaffa9f74a20bf1a3f70886d14c415e3bcab)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>refactor(gateway): check HTTP request authority once at admission (#203590)</code>](https://github.com/openclaw/openclaw/commit/f1a6dbd25380d95ee8f9b950b81ae80649e09801)
+- [ ] [<code>fix: keep the community invite out of the first Control UI visit (#202679)</code>](https://github.com/openclaw/openclaw/commit/fb62cc7b444a1d563f1feacf56ec187071d36907)
+- [ ] [<code>chore(i18n): refresh native locales (#203606)</code>](https://github.com/openclaw/openclaw/commit/50ff9d463371951ddedf58ef617b46b31cadec78)
+- [ ] [<code>fix: keep the chat working indicator quiet before tools run (#203610)</code>](https://github.com/openclaw/openclaw/commit/5ed0ae2e53ac40401f7c66fde9b0ea647e4d83e3)
+- [ ] [<code>feat: make provider sign-in easy to find in plugin settings (#203379)</code>](https://github.com/openclaw/openclaw/commit/c00e1854a506b700cc92828ddeaae84c7202a1ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): show Details dividers only between blocks (#203612)</code>](https://github.com/openclaw/openclaw/commit/d813b208b1f49eb52cb614add09d1c0cd4dfa74e)
+- [ ] [<code>fix: keep empty space between chat messages out of text selections (#203613)</code>](https://github.com/openclaw/openclaw/commit/70806e1a540552a600b97798ff1209c2e6d149b3)
+- [ ] [<code>fix: wrap Skills categories like Plugins (#203615)</code>](https://github.com/openclaw/openclaw/commit/3d2e3a27fde257c4d6dec4871482c66bb138fcbb)
+- [ ] [<code>chore(ui): refresh control ui locales (#203645)</code>](https://github.com/openclaw/openclaw/commit/a570ea59e8675bc7be4912fc0e86999071260ca0)
+- [ ] [<code>fix: keep a steered document's text in later runs (#203627)</code>](https://github.com/openclaw/openclaw/commit/20964c92c3efc5681ef4cb2b260a1147b0ab3381)
+- [ ] [<code>fix: let background reviews reuse their session's cached prompt (#203601)</code>](https://github.com/openclaw/openclaw/commit/a63a4297f32b34ea8a5bde528a2a8b01a0b513d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: remove misleading Gateway switch shortcut hints (#203646)</code>](https://github.com/openclaw/openclaw/commit/f225aa47b0217036154dba279dc11867287513bd)
+- [ ] [<code>fix: show background results to the model as labelled input, not its own replies (#203649)</code>](https://github.com/openclaw/openclaw/commit/95449145a82da65a5417bda6d6d6fff52ba04c0f)
+- [ ] [<code>fix: restore the previous macOS Dashboard spacing (#203651)</code>](https://github.com/openclaw/openclaw/commit/38ea444a4688a85e8b52aad7baa388e82449856a)
+- [ ] [<code>improve(ui): make sidebar avatar spinners easier to see (#203643)</code>](https://github.com/openclaw/openclaw/commit/d56bc3872650251789f2bd41e5a2925b0c5bb802)
+- [ ] [<code>fix: keep the desktop Details panel from scrolling sideways (#203652)</code>](https://github.com/openclaw/openclaw/commit/128d317933463bfbcdd7e69f6aca5afcb98d9140)
+- [ ] [<code>fix: keep command palette text as typed (#203666)</code>](https://github.com/openclaw/openclaw/commit/c88e6aecc8f7754538248b5d97aa0809a3f61078)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: align storage totals on phones (#203334)</code>](https://github.com/openclaw/openclaw/commit/0f379f48b76eec8c45971d3e4232d955b8c6122a)
+- [ ] [<code>feat(update): keep the Gateway running while package updates prepare (#203497)</code>](https://github.com/openclaw/openclaw/commit/689d524b3774ac01993a2777ef9a20ee700e6e90)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix: keep chat replies going when a GitHub confirmation arrives (#203621)</code>](https://github.com/openclaw/openclaw/commit/7afd748445cc746728fdc6c54f4de93cbe9fb996)
+- [ ] [<code>fix: align Select all with the session checkboxes below it (#203338)</code>](https://github.com/openclaw/openclaw/commit/3b35f8b28277e573cea630841bda99ee6b6b56d5)
+- [ ] [<code>fix: show HEIC photos in Control UI chat previews (#203585)</code>](https://github.com/openclaw/openclaw/commit/d1589dccd7b253fdd4f49380d747982e97a80302)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: keep keyboard focus around the standalone approval heading (#203616)</code>](https://github.com/openclaw/openclaw/commit/7bc9f7ec28f9668bce3b5beb299285777009895d)
+- [ ] [<code>refactor(agents): drop authority reads from the admitted-run receipt body (#203664)</code>](https://github.com/openclaw/openclaw/commit/27184bfdd127b2b3332d82b8d01e941e6a640a18)
+- [ ] [<code>improve(ui): make macOS titlebar sidebar toggles easier to scan (#203676)</code>](https://github.com/openclaw/openclaw/commit/0bc6bd400ebd30b11a9fc255f9cffef73df5544c)
+- [ ] [<code>fix: keep template names and publishers readable beside Add (#203623)</code>](https://github.com/openclaw/openclaw/commit/5b994c03c93aa0e680670a64e3fcd7d53dc51a1a)
+- [ ] [<code>fix: start compatible MOV attachments faster in chat (#203688)</code>](https://github.com/openclaw/openclaw/commit/80e233cdf6e6a1d7ce81f9fdb276e5d4246943f6)
+- [ ] [<code>fix: show full session names in the terminal picker (#203624)</code>](https://github.com/openclaw/openclaw/commit/7309de072d301ae716bc3bfa9c35e59993bfe5d4)
+- [ ] [<code>fix: align Debug snapshots to the same reading column (#203625)</code>](https://github.com/openclaw/openclaw/commit/d939efef65065d279f2e8d0ae4e27a336c51d7e1)
+- [ ] [<code>fix: keep dashboard preview reload instructions readable (#203618)</code>](https://github.com/openclaw/openclaw/commit/6db64bc16648e5e457c9b77244646b632aeeb91d)
+- [ ] [<code>fix: keep short memory import values beside their labels on phones (#203630)</code>](https://github.com/openclaw/openclaw/commit/948c233eaedf8adb05010caf611adbdddb824652)
+- [ ] [<code>fix(ui): keep attachment Download buttons neutral (#203692)</code>](https://github.com/openclaw/openclaw/commit/e6b42e31bc1522b8596958fbdd85c394b23fca7b)
+- [ ] [<code>fix: recover the Processes panel after session access changes (#203695)</code>](https://github.com/openclaw/openclaw/commit/8e248ca7317c0cd4a294ce034c552ad6e691d84e)
+- [ ] [<code>improve: show automation cards before archiving conversations (#203707)</code>](https://github.com/openclaw/openclaw/commit/f066f9cba3135d28a6ff7df1e1e1ba95684dda74)
+- [ ] [<code>fix(ui): continue only the flat Other session list on scroll (#200218)</code>](https://github.com/openclaw/openclaw/commit/307f04f07751c8774fef98b7559effc161b50e91)
+- [ ] [<code>fix: remove legacy cards from the Home sidebar (#203699)</code>](https://github.com/openclaw/openclaw/commit/42f8c5bcb9f51973338a3d26c0e75fe7c6be65d7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): follow the Open Models recovery action (#203740)</code>](https://github.com/openclaw/openclaw/commit/ab2da2bfe8c447acc8ec089ba3debcd1caffbcbc)
+- [ ] [<code>fix(update): let container installs update and official images start again (#203735)</code>](https://github.com/openclaw/openclaw/commit/58a3c7e9a8f2bd47369edd7a3af68df122ecf5c3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ui): exercise native discovery through current plugin settings (#203753)</code>](https://github.com/openclaw/openclaw/commit/676388ee28b8392a0e89660378d5eb93b9f485e2)
+- [ ] [<code>fix(ui): keep portal close errors on the failed preview (#199496)</code>](https://github.com/openclaw/openclaw/commit/6a3f0ace6539d6d18cb7453c2eb0cd88439c0320)
+- [ ] [<code>fix(ui): restore Retry after saved terminal recovery fails (#199462)</code>](https://github.com/openclaw/openclaw/commit/bdb444f3e9407605b2f73b7e8fdc282092ba82cf)
+- [ ] [<code>fix(webchat): keep GitHub publication receipts out of assistant replies (#203689)</code>](https://github.com/openclaw/openclaw/commit/7f65e073827d2c7dca12f81f53aee6585d1df780)
+- [ ] [<code>fix(ui): allow retrying failed Worktrees refreshes (#199494)</code>](https://github.com/openclaw/openclaw/commit/186b5b1548e62e7dba46f8dee71bd43845bd75ee)
+- [ ] [<code>fix: keep GitHub Checks compact in Link Reader on WebKit (#203679)</code>](https://github.com/openclaw/openclaw/commit/4ad6298e9e14c640794f6a40f8a2fde8802b657c)
+- [ ] [<code>feat: control individual plugin tools from Settings (#201453)</code>](https://github.com/openclaw/openclaw/commit/30ce000cdf48462d585143be92a06e7187c1e741)
+- [ ] [<code>fix: keep About build rows in place when copying fails (#203631)</code>](https://github.com/openclaw/openclaw/commit/c0a1c0c1a2b4a9d9ba4c54a3a9885ee8be0f604f)
+- [ ] [<code>test(ui): wait for initial configuration in provider usage tests (#203756)</code>](https://github.com/openclaw/openclaw/commit/20b72cde566113a27f1baecb9837efcd7cd3a5d4)
+- [ ] [<code>feat: move a conversation that has no project into one (#202306)</code>](https://github.com/openclaw/openclaw/commit/a567e783d8bd2db50e8d4aeefd62402989338bc9)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: label tied peaks once in the Activity chart (#203633)</code>](https://github.com/openclaw/openclaw/commit/617ab5fd16cf967ef9561fe64a483883444eee23)
+- [ ] [<code>fix: show bundled plugin page titles once on phones (#203634)</code>](https://github.com/openclaw/openclaw/commit/e4640a31cb18cecf74430f58939515f8ad92d784)
+- [ ] [<code>fix(ui): keep Incognito draft permissions after navigation (#199485)</code>](https://github.com/openclaw/openclaw/commit/d708e484adc6d34362d6070f0331e63636d92af6)
+- [ ] [<code>fix(update): convert package installs on hosts without a systemd user bus (#203769)</code>](https://github.com/openclaw/openclaw/commit/0694f95a705c7ea8cfd74e4102b62e6d7c9afe8d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): keep wizard text after validation rejects an answer (#199495)</code>](https://github.com/openclaw/openclaw/commit/f680d7a0b397efad598c8268fc327c5d9e65530a)
+- [ ] [<code>fix: keep long workspace and file paths readable in Agents (#203638)</code>](https://github.com/openclaw/openclaw/commit/b92ec93e2c4471295b7254d3196613ec01897e48)
+- [ ] [<code>fix(update): detect the unavailable macOS system Git before staging (#202934)</code>](https://github.com/openclaw/openclaw/commit/4097bc67aaf6518bccc871b5a0930f32de8125cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: show the full schedule, model and delivery details for saved automations (#203647)</code>](https://github.com/openclaw/openclaw/commit/3bd36c79b6c366cfad3fa5e1e4b17c3d74e554dc)
+- [ ] [<code>refactor(agents): delete the scheduled owner-only receipt re-check (#203760)</code>](https://github.com/openclaw/openclaw/commit/ad4f0b1baaad69c81e45d0a2dab56543d16f37e0)
+- [ ] [<code>fix: keep plugin buttons beside their description in the Apps catalog (#203644)</code>](https://github.com/openclaw/openclaw/commit/dd56cf3d6457f2ff1016ce5b1a5dbeda51a0c783)
+- [ ] [<code>fix: keep the search hint and delivery failures readable in automation run history (#203653)</code>](https://github.com/openclaw/openclaw/commit/236ae56199e0763d847a377a55cf1b5096b6a3bc)
+- [ ] [<code>fix: show full account and destination IDs in channel connection warnings (#203654)</code>](https://github.com/openclaw/openclaw/commit/906732230050acb8009af7c37368f951dc712060)
+- [ ] [<code>fix: show the full channel ID when an agent’s status refresh fails (#203655)</code>](https://github.com/openclaw/openclaw/commit/742126fc9e205de6b599d7f6a6a6e107b5dff482)
+- [ ] [<code>test(ui): select the clipped sidebar archive row by geometry (#203772)</code>](https://github.com/openclaw/openclaw/commit/e9a76b4c6bc9844480d726c773527273e5e7c794)
+- [ ] [<code>chore(ui): refresh control ui locales (#203795)</code>](https://github.com/openclaw/openclaw/commit/9788d8ac5027c194a94937522d0e9fe6770ce4d7)
+- [ ] [<code>fix: keep cloud snapshot menus within reach beside long profile names (#203656)</code>](https://github.com/openclaw/openclaw/commit/e8a1ad853be82267b47c7adbc81f3c2ae91c836b)
+- [ ] [<code>fix: show Gateway uptime beside the machine name in Connection settings (#203659)</code>](https://github.com/openclaw/openclaw/commit/f21a637a769dc64466ed7884956c2434f8fefdfe)
+- [ ] [<code>chore(i18n): refresh native locales (#203800)</code>](https://github.com/openclaw/openclaw/commit/9edd83f2e89a23196d886b30258197b6eb9b297e)
+- [ ] [<code>fix: keep Send within reach when you expand long paths in Custodian history (#203660)</code>](https://github.com/openclaw/openclaw/commit/6fd9ea331bb4e8001414ebfd4445df4cf325d34f)
+- [ ] [<code>fix(ui): match the dashboard icon to mobile chat controls (#202295)</code>](https://github.com/openclaw/openclaw/commit/8c87695196c26beb7be3eed3b25b7709335004dd)
+- [ ] [<code>refactor(agents): bind only the caller's session source into the run registry (#203788)</code>](https://github.com/openclaw/openclaw/commit/d55f9859118d7076422520f1eb36f159ff99a331)
+- [ ] [<code>fix: open widget options without closing the focused dashboard (#203663)</code>](https://github.com/openclaw/openclaw/commit/40d8a3953663a1595a0941739d5af9a05b662770)
+- [ ] [<code>fix: show keyboard focus around the log stream on tablets and desktops (#203674)</code>](https://github.com/openclaw/openclaw/commit/03adaa4a0edc2585f2967782c895361f206caf4f)
+- [ ] [<code>fix: wrap long device names before the dialog’s Close button (#203668)</code>](https://github.com/openclaw/openclaw/commit/6088907a1d9b4d25879a8d562e62836b52848051)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ui): stop showing zero usage for pending session rows (#199497)</code>](https://github.com/openclaw/openclaw/commit/7bedca8c87a9b4df8d5d186d2cadb28b621f57ff)
+- [ ] [<code>fix: keep Lobsterdex cards in place when the visit count reaches ten (#203672)</code>](https://github.com/openclaw/openclaw/commit/53643d71f0c53d4b08ad12cfcb3337a4a1f2eb4c)
+- [ ] [<code>fix(update): preserve plugin consent and target the invoking installation (#203504)</code>](https://github.com/openclaw/openclaw/commit/b3e8b855109570707484aeb8422d1b1e2ca7fad3)
+  - <sub>Tags: <code>release-publish/b3e8b8551095-1795390643</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: show the full Knowledge store name and sharing details on phones (#203636)</code>](https://github.com/openclaw/openclaw/commit/c7ac4f1ff62709a6689601e8da19fa43009c5083)
+- [ ] [<code>fix: keep dashboard preview errors readable at larger text sizes (#203617)</code>](https://github.com/openclaw/openclaw/commit/dfe0032eb195522749ba2b8388338abf8baf0726)
+- [ ] [<code>fix: wrap long saved provider names in Talk settings (#203620)</code>](https://github.com/openclaw/openclaw/commit/32c3db71581964e867dc7b5d0c40982b6fed0e18)
+- [ ] [<code>fix: fit translated and enlarged size labels in the Systems viewer (#203622)</code>](https://github.com/openclaw/openclaw/commit/69189a81e4ca08e238582a18c86ba9707d50b312)
+- [ ] [<code>docs: clarify receipt recovery before restarting release validation (#203826)</code>](https://github.com/openclaw/openclaw/commit/04710379be84659875c940d39a3fe27bd4065d32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep old and new values visible in pending settings changes (#203639)</code>](https://github.com/openclaw/openclaw/commit/d46a1f03b6baa675321d7b0d2d1f113d8df708df)
+- [ ] [<code>test(e2e): retire package-installed-recovery cuts that target the retired in-place package path (#203808)</code>](https://github.com/openclaw/openclaw/commit/f85296eb89173a49b6100f32b4639eb3922f16ee)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: make unassigned daily usage bars readable (#203626)</code>](https://github.com/openclaw/openclaw/commit/08f2c58d9e4a72b7e0b35591ef6340eeeb0b524e)
+- [ ] [<code>fix: show full theme names in the Appearance picker (#203640)</code>](https://github.com/openclaw/openclaw/commit/fe82cb964843856bfc7fc309dc0ce7826c66c36f)
+- [ ] [<code>fix(ci): remove unused Mantis pnpm cache restore (#203816)</code>](https://github.com/openclaw/openclaw/commit/68c5ec155e6ba7ea466dfe719fa1617fd1495194)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ui): stop attaching removed app resources to another server (#199487)</code>](https://github.com/openclaw/openclaw/commit/62ac4c6549fdbec2605be83d2c478129cad1be96)
+- [ ] [<code>fix: keep approval history in place while revoking a standing grant (#203642)</code>](https://github.com/openclaw/openclaw/commit/a8dafbe82202248113ceafbc3a3529d3b4b475e5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: show the whole dashboard gallery focus ring on phones (#203336)</code>](https://github.com/openclaw/openclaw/commit/6c68f81f5c202657c07d642c3b1e9c2a29626232)
+- [ ] [<code>fix: align Automation section help on tablets and restore its full phone tap target (#203650)</code>](https://github.com/openclaw/openclaw/commit/1692cb83f791512bb33ac6d7273689f0a3355989)
+- [ ] [<code>fix: keep language and font pickers aligned when you change selections (#203658)</code>](https://github.com/openclaw/openclaw/commit/93fd283bc0fa70a12d32ee6310ac38bd50bae67a)
+- [ ] [<code>improve(ui): round the corners of chat messages (#203827)</code>](https://github.com/openclaw/openclaw/commit/85b04a4e30177cbae2129a0c621cbda0bfdeb5f5)
+- [ ] [<code>fix: keep keyboard focus visible on scrollable Settings tabs (#203670)</code>](https://github.com/openclaw/openclaw/commit/815452b473273ecdccc75b12ab9c065c85e227c6)
+- [ ] [<code>fix(release): support exact cancelled-step risk grants (#203832)</code>](https://github.com/openclaw/openclaw/commit/41b8e9f42614980cffd0282b9918201d9639b0da)
+  - <sub>Tags: <code>release-publish/41b8e9f42614-1795392576</code></sub>
+- [ ] [<code>fix: show the full focus outline on wrapped device help links (#203667)</code>](https://github.com/openclaw/openclaw/commit/0428e6df3c4a532f04c894f51b7a16140b176e98)
+- [ ] [<code>feat(release): release fast-track system (#201080)</code>](https://github.com/openclaw/openclaw/commit/973fbff587bcb0aed172a426470a52d255fc7a43)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test(ui): align app card footers when actions wrap (#203833)</code>](https://github.com/openclaw/openclaw/commit/eb5e78aad9af15feff6d51738c1380d0dbf2e71c)
+- [ ] [<code>fix: keep the Labs prediction model picker still when you change models (#203671)</code>](https://github.com/openclaw/openclaw/commit/a20d56cf0180d4306334933287e3b704ba6bb010)
+- [ ] [<code>fix: keep dismissed automation failures out of the Inbox (#202689)</code>](https://github.com/openclaw/openclaw/commit/6986a307262daa71ad0b5dbe294f82bf1edde12c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: keep Send available after switching models in Cmd+K (#203838)</code>](https://github.com/openclaw/openclaw/commit/dc73bd7122c847a8429df95da179a663ccfe7a0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): include release launcher in installed runtime fixture (#203846)</code>](https://github.com/openclaw/openclaw/commit/4a75d53968967449576105649f05d0adc701ffb4)
+- [ ] [<code>fix(ui): align nested rows in the desktop Subagents panel (#202491)</code>](https://github.com/openclaw/openclaw/commit/ddec8201ec631dacbead665a671b266917496564)
+- [ ] [<code>ci: inventory retained native worker lifecycles (#203835)</code>](https://github.com/openclaw/openclaw/commit/45ba2979494947eb38e71766a2eb402c87de19ef)
+- [ ] [<code>fix(cron): optional-silent cron run fails after the agent collects its collector child's result (#164949)</code>](https://github.com/openclaw/openclaw/commit/6c2ff3380a92da67e40483157b395906539bfca7)
+- [ ] [<code>fix(ui): keep chat attachment cards readable on phones (#203711)</code>](https://github.com/openclaw/openclaw/commit/461b02a48f587c038427570062eb785493c32bc7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
