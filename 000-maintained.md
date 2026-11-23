@@ -37675,6 +37675,73 @@
 - [ ] [<code>ci: inventory retained native worker lifecycles (#203835)</code>](https://github.com/openclaw/openclaw/commit/45ba2979494947eb38e71766a2eb402c87de19ef)
 - [ ] [<code>fix(cron): optional-silent cron run fails after the agent collects its collector child's result (#164949)</code>](https://github.com/openclaw/openclaw/commit/6c2ff3380a92da67e40483157b395906539bfca7)
 - [ ] [<code>fix(ui): keep chat attachment cards readable on phones (#203711)</code>](https://github.com/openclaw/openclaw/commit/461b02a48f587c038427570062eb785493c32bc7)
+- [ ] [<code>fix: open new chats without a Home parent (#203694)</code>](https://github.com/openclaw/openclaw/commit/3e7e1ce50fbe1316582bf551377af3391f801080)
+- [ ] [<code>fix: name the agent when a followed-up child finishes (#201426)</code>](https://github.com/openclaw/openclaw/commit/c7adbfbda33651b76ce75781bcc0cc8d95cfdcf3)
+- [ ] [<code>fix: show earlier attachments in Session files (#201458)</code>](https://github.com/openclaw/openclaw/commit/962a3ed32478cbf7e037b34b1cff086d9a2f08cb)
+- [ ] [<code>test(ui): locate the model device-code option by its label (#203853)</code>](https://github.com/openclaw/openclaw/commit/9777554844e12d96c99c5dc8277a48c14569f6b8)
+- [ ] [<code>fix: seal release evidence with the admitted evaluator (#203854)</code>](https://github.com/openclaw/openclaw/commit/0a61096ec05dc5e90c9342aa3a193371be97af81)
+  - <sub>Tags: <code>release-publish/0a61096ec05d-1795395690</code></sub>
+- [ ] [<code>fix(ui): keep Inbox update details readable (#202617)</code>](https://github.com/openclaw/openclaw/commit/eb2a082414944e868bb81b962ccb7372305ccd72)
+- [ ] [<code>fix: stop PR CI watchers blocking on superseded security checks (#203213)</code>](https://github.com/openclaw/openclaw/commit/026bb966cd148cf1ad903de5a303e240ac257497)
+- [ ] [<code>chore(test): remove unused updater fixture helpers (#203836)</code>](https://github.com/openclaw/openclaw/commit/5908eee98fd4a8f930708ee5e0a0045730c2bc3f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): show migration warnings from the configured database (#203849)</code>](https://github.com/openclaw/openclaw/commit/3fade25732b15fe2d2c3872902385300688e6ef6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): follow account menu keyboard order (#203857)</code>](https://github.com/openclaw/openclaw/commit/cd2d18d45d7ae98c66a83ac4196daa17d8bfa936)
+- [ ] [<code>fix: show session Details alongside the Home sidebar (#203701)</code>](https://github.com/openclaw/openclaw/commit/3fe6e3bfb12ee3274747b580b94bf9fd1fa15a8f)
+- [ ] [<code>improve(ui): rank named settings first and improve Cmd+K session search (#200301)</code>](https://github.com/openclaw/openclaw/commit/b674a83db5d675c721af68412af3805b4b1acd05)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep Mac Browser tabs visible behind the command palette (#203661)</code>](https://github.com/openclaw/openclaw/commit/4b94c6d136f6bd533bb7a76274c09186eb94b81e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep the compaction strip readable in narrow chats (#203698)</code>](https://github.com/openclaw/openclaw/commit/25f8e3d03440a9c466c5aa11772eb791317d879a)
+- [ ] [<code>fix: keep SQLite read receipts stable (#203850)</code>](https://github.com/openclaw/openclaw/commit/2960ee5365b01d5ea42c3904effa2ee4b9178bb8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(cron): configure a model for scheduled policy fixtures (#203856)</code>](https://github.com/openclaw/openclaw/commit/6b66e88e0671779eab3697da487ecc7cd04dda16)
+- [ ] [<code>test(gateway): exercise the onboarding transcript commit guard (#203859)</code>](https://github.com/openclaw/openclaw/commit/5bde6a145d8405fec426df85ee65cee2896099da)
+- [ ] [<code>fix: keep short branch names compact in New Session (#203852)</code>](https://github.com/openclaw/openclaw/commit/5bc681c1f8e1d4ab4fb7591211789fb8fb1bf61d)
+- [ ] [<code>chore(ui): refresh control ui locales (#203864)</code>](https://github.com/openclaw/openclaw/commit/c4c3df433099e32b7161d21643b305462f35feb9)
+- [ ] [<code>fix(tlon): require approval before responding in group DMs (#202775)</code>](https://github.com/openclaw/openclaw/commit/6eb70d4ece4de1744cb88bdb7a2bfcf1f2351448)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory): keep scope hashes stable across locales (#201865)</code>](https://github.com/openclaw/openclaw/commit/b49b45a49bcd9d7c4d49d6f85a67ff9a53bdcbf0)
+- [ ] [<code>docs: distinguish stall profiles from interrupt samples</code>](https://github.com/openclaw/openclaw/commit/b31ea65546ff94c630619534eeda8871e8d3f843)
+- [ ] [<code>fix(test): exercise pairing and Stop effect guards (#203862)</code>](https://github.com/openclaw/openclaw/commit/9da54c08016f6a9b833ad87771662119e6664922)
+- [ ] [<code>refactor(gateway): check runtime and HTTP authority once at request start (#203847)</code>](https://github.com/openclaw/openclaw/commit/14f185bfca8d8d58b26af0cd4d1272eb8baf3bb0)
+- [ ] [<code>fix(test): count detached cron result inputs (#203868)</code>](https://github.com/openclaw/openclaw/commit/d5c8befeec1f17c437969e3ec983144e4edf847c)
+- [ ] [<code>improve(ui): make theme background artwork opt-in (#203308)</code>](https://github.com/openclaw/openclaw/commit/ae1e9ee0fe765e1fcbeda2468f39761537f79f04)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(plugins): trim redundant metadata test plumbing (#198961)</code>](https://github.com/openclaw/openclaw/commit/f53a149f0997049ba237537266b192e222c653f3)
+- [ ] [<code>fix(test): restore Slack download revocation checks (#203874)</code>](https://github.com/openclaw/openclaw/commit/d6ccabcdfb543f46ccf03f03a67679910f27744b)
+- [ ] [<code>test(ui): ignore the clipped phone heading in access layout (#203878)</code>](https://github.com/openclaw/openclaw/commit/ee9fb85d09602803e30039abfa4573c4a9453ad0)
+- [ ] [<code>test(ui): measure the Gateway heading grid track (#203879)</code>](https://github.com/openclaw/openclaw/commit/db6a1bb7d231f9ebfc60ff8938834c3f7ad457f1)
+- [ ] [<code>fix: reuse release evidence after orchestration-only repairs (#203885)</code>](https://github.com/openclaw/openclaw/commit/8a6443a48a04fd1a3f41216f9a8b8dbf228253dc)
+  - <sub>Tags: <code>release-publish/8a6443a48a04-1795400964</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: filter shared sessions by owner or involvement (#203063)</code>](https://github.com/openclaw/openclaw/commit/177e5545ddfbdba894ef5b1a3a342ed65e1c8edf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): select a supported runtime for failure reporting (#203818)</code>](https://github.com/openclaw/openclaw/commit/03dc1d1ad66494e0f8a00ad1d2199e2ec3f10aec)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>chore(release): close out 2026.11.7 on main (#203880)</code>](https://github.com/openclaw/openclaw/commit/4e2e0383d5fad4785c1911e95d72f3dbb391b6f1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(release): reuse original ClawHub bytes after partial publication (#203888)</code>](https://github.com/openclaw/openclaw/commit/49795c31df01d405cf9930ecdf817333e41473d1)
+  - <sub>Tags: <code>release-publish/49795c31df01-1795402770</code></sub>
+- [ ] [<code>test: trim infrastructure state and cron diagnostics (#198919)</code>](https://github.com/openclaw/openclaw/commit/b151c830713020fe0de9e37c3d21b76671fe0add)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): allow fifteen minutes for macOS handoff package checks (#203896)</code>](https://github.com/openclaw/openclaw/commit/82848e3103dbe31aa5190c4eee888f54ecefd7b5)
+- [ ] [<code>refactor(agents): delete the receipt boolean and the MCP grant and settle-batch receipts (#203892)</code>](https://github.com/openclaw/openclaw/commit/096214ac84dc31a2945d901bccc81e2229eb7efa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): recognize successful no-op release updates (#203883)</code>](https://github.com/openclaw/openclaw/commit/7d0cc1ec81573b6da960913164ac5c7189084738)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: refresh catalog scroll edges and show the installed skills count (#202715)</code>](https://github.com/openclaw/openclaw/commit/89540c0adc7c6ede5042f684af8d2e786b762010)
+- [ ] [<code>fix: preserve restarted child results and gateway test ownership (#203839)</code>](https://github.com/openclaw/openclaw/commit/92e92d76b921e51be2f92f9e536da8102e7eb7b8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(update): point update changes at src/update and mark the in-place updater as a bridge (#203914)</code>](https://github.com/openclaw/openclaw/commit/2e8c1ad0aa97c5bcd512cad8ed1d6259d13f811d)
+- [ ] [<code>fix: keep dashboard toasts above Mac Browser tabs (#203675)</code>](https://github.com/openclaw/openclaw/commit/d2915cd01c60dc46fd56c7c485322ba0ca497f9a)
+- [ ] [<code>improve: make common Chat controls quicker to open (#203669)</code>](https://github.com/openclaw/openclaw/commit/577af7ba2a502c84b7d7a0ee3bce233f11e06f62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): finish provider sign-in after reconnecting (#203900)</code>](https://github.com/openclaw/openclaw/commit/b9bb7a99494aac52c3a6f9b1b29227bbfaaae84c)
+- [ ] [<code>docs(update): proof rules for update-path changes (#203915)</code>](https://github.com/openclaw/openclaw/commit/4937b26a81882c4c63290ba029bb867a869cda0f)
+- [ ] [<code>fix(state): preserve maintenance contention across state worker replies (#203902)</code>](https://github.com/openclaw/openclaw/commit/e42e2404dc3383c4f4b2ccfc00610bf36857b586)
+- [ ] [<code>refactor(agents): delete captureAdmittedRunActiveAssertion and the Stop-only tool-caller captures (#203920)</code>](https://github.com/openclaw/openclaw/commit/70d12e6d8bd16b49b486da6622d09dfbfd80d31a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
