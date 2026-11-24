@@ -4550,6 +4550,7 @@
 - [ ] [<code>docs(sdk): update bundled QAIRT version</code>](https://github.com/qualcomm/GenieX/commit/6b85aa1f97c54eeb79b9c6d3f5b0b5a5c0a1b5c4)
 - [ ] [<code>Merge pull request #1698 from qualcomm/chore/bump-geniex-qairt-251</code>](https://github.com/qualcomm/GenieX/commit/db47ff2b50ee227f35e215215c2bc35c634378ca)
   - <sub>Tags: <code>v0.12.0-rc.1</code></sub>
+- [ ] [<code>fix(cli): restore the Gemma 4 thought opener after a tool response</code>](https://github.com/qualcomm/GenieX/commit/c7fc449752171bfa6e81179102c57adabbd06b21)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -38051,6 +38052,56 @@
 - [ ] [<code>fix(macos): require Shift-Command-R to reload the dashboard (#203948)</code>](https://github.com/openclaw/openclaw/commit/aef014c81e93b52f171533f6c1a0b01d3a38dbf2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs(release): keep parallel release lines ledger-only and coverage explicit (#204385)</code>](https://github.com/openclaw/openclaw/commit/0956e14e6814a849a58130ffbb154303e15bbdc4)
+- [ ] [<code>chore(ui): refresh control ui locales (#204369)</code>](https://github.com/openclaw/openclaw/commit/80180388d04dadb2966c5322d15a14cd7119c8ec)
+- [ ] [<code>fix(gateway): record Tailscale Control UI sources without a paired browser key (#204388)</code>](https://github.com/openclaw/openclaw/commit/efaeb858b5f3bb22848a3a209a94aa32c79178fc)
+- [ ] [<code>fix(ci): model every Solid lazy named-export loader in the UI for Knip (#204389)</code>](https://github.com/openclaw/openclaw/commit/f85e5863887bc252087c9efe4824d5aebbd06097)
+- [ ] [<code>fix: restore the subtle background behind composer file icons (#203865)</code>](https://github.com/openclaw/openclaw/commit/336a2d11e475d43dc60ec15a1be63acf7b1aee29)
+- [ ] [<code>fix(ui): align sidebar loading rows with navigation items (#203969)</code>](https://github.com/openclaw/openclaw/commit/8a67e235e8d798b9625b2836a91d9eb86c9d3ee0)
+- [ ] [<code>fix(agents): keep the replayed user turn in history after compaction (#204313)</code>](https://github.com/openclaw/openclaw/commit/39bddddee54477b0534417e1ed9dbb2127c897bf)
+- [ ] [<code>fix: bring attachments closer to the draft in the command palette (#203967)</code>](https://github.com/openclaw/openclaw/commit/636b4b8636baf55f13de3e2fd865cb7eba60c548)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: remove the “Título:” prefix from generated session names (#203872)</code>](https://github.com/openclaw/openclaw/commit/918d2f59ee155556aa6e89343233c4d6f44fec0e)
+- [ ] [<code>fix(test): capture the SQLite close method without an unbound reference (#204397)</code>](https://github.com/openclaw/openclaw/commit/3091ba81dfce065d9f94e2854a9c61da95e0a841)
+- [ ] [<code>fix: open older session links without reloading chat (#203947)</code>](https://github.com/openclaw/openclaw/commit/cb4f301c6bb7e27946f2cb98ef283f4500dcd6fa)
+- [ ] [<code>fix: run unconfigured cyber models at Daybreak Red outside the Control UI (#204325)</code>](https://github.com/openclaw/openclaw/commit/862c71e4cda9538927c678535b955b819aa9716b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugin-sdk): let API comparison resolve runtime-only imports</code>](https://github.com/openclaw/openclaw/commit/faeaf62d4a7ecbb71cb855aa500dfa60a1194ab7)
+- [ ] [<code>fix: Gemini receives attached videos again on installed builds (#204415)</code>](https://github.com/openclaw/openclaw/commit/b4cc3bc1ec3215f9d0548117b7d38d86755f27ff)
+- [ ] [<code>refactor(gateway): check the cron creator grant's issuer once (#204395)</code>](https://github.com/openclaw/openclaw/commit/6889108e667e0cf384c875aff3f29e6619b2ba0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): keep a Home press scrolling to older chat history (#204416)</code>](https://github.com/openclaw/openclaw/commit/9913a32f5fe3b49311d25d78300e3da2229cf9c7)
+- [ ] [<code>fix(ui): show Linear artwork in chat tool activity (#204414)</code>](https://github.com/openclaw/openclaw/commit/4708bac523976c1546f84f790ded7db3fa65dcf5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): raise fast-track limits to 20 commits and 15k lines (#204430)</code>](https://github.com/openclaw/openclaw/commit/3c4bab6bca632c3a370ef68183366e0e80fa61ee)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: fix Doctor truncation and Telegram automation fixtures for prerelease FRV</code>](https://github.com/openclaw/openclaw/commit/fe798154eeebf7864fe3be0a62dd8d399c09bc9b)
+- [ ] [<code>test: make OpenAI version and CI runtime fixtures prerelease-safe</code>](https://github.com/openclaw/openclaw/commit/14cb3b8a80c63d52707417bf8448bb984bb00e08)
+- [ ] [<code>fix(gateway): report removed worktrees before diff baseline capture</code>](https://github.com/openclaw/openclaw/commit/d63e054d057fca215d4f330a52c99cda15fc1ba2)
+- [ ] [<code>fix(update): report an already-installed artifact as current (#204426)</code>](https://github.com/openclaw/openclaw/commit/4d99cbb87a57c81c6fad10cc73151e05e5ba6ecb)
+- [ ] [<code>fix(msteams): respect agent media roots in replies (#204026)</code>](https://github.com/openclaw/openclaw/commit/9776ca461cdd37583a608276c52926d1bf1edae0)
+- [ ] [<code>fix: let Ask OpenClaw show channel guides on multi-agent gateways (#204341)</code>](https://github.com/openclaw/openclaw/commit/f7aa7e363b2bedf06394cdd4635337550f0e5703)
+- [ ] [<code>fix(release): authenticate retained publication artifacts on main (#204438)</code>](https://github.com/openclaw/openclaw/commit/14b0d80ed2a04a0a90501c0eb7f8381ae37aba9a)
+  - <sub>Tags: <code>release-publish/14b0d80ed2a0-1795502870</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: show a Template's image as soon as its new agent's chat opens (#204364)</code>](https://github.com/openclaw/openclaw/commit/b8c95a3ba2753d406425287b3a59a485b6a96847)
+- [ ] [<code>fix: let finished background commands reach the agent before an active goal advances (#204265)</code>](https://github.com/openclaw/openclaw/commit/463d7748595d7d47fc2b7166ca67d293516a69e6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: reject special-use IPv6 destinations consistently (#204027)</code>](https://github.com/openclaw/openclaw/commit/23f6f8cf5d10fe6f8f6a3217b6d27f860d8b1b20)
+- [ ] [<code>fix: keep Granola meeting import running after a meeting is deleted</code>](https://github.com/openclaw/openclaw/commit/d31463cca15f5eb9aa242ac3d37dcdac32d5dad9)
+- [ ] [<code>test(update): drop the wall-clock exit deadline from the launcher IPC test (#204452)</code>](https://github.com/openclaw/openclaw/commit/a4eb11709489cade65190b963119d447f2d40c35)
+- [ ] [<code>docs: add 2026.11.8 release notes and backfill 2026.11.5 & 2026.11.7 (#204175)</code>](https://github.com/openclaw/openclaw/commit/1a9766e4c15e9f7d7fdc598e34accc393a380161)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(release): compare advisory jobs structurally (#204460)</code>](https://github.com/openclaw/openclaw/commit/673b65f0e8b92e0f4e22544579c65fc5253ad749)
+  - <sub>Tags: <code>release-publish/673b65f0e8b9-1795505285</code></sub>
+- [ ] [<code>test: size compaction fixtures from the shared 85% trigger (#204443)</code>](https://github.com/openclaw/openclaw/commit/8bc8109271dd91aa33bd425503cb829082730fc4)
+- [ ] [<code>perf(gateway): avoid redundant session row publication work (#204456)</code>](https://github.com/openclaw/openclaw/commit/e0a771d48ca2faa3a63adaa41243632298447518)
+- [ ] [<code>docs: add verified release scale lines to 2026.11.5 and 2026.11.8 (#204473)</code>](https://github.com/openclaw/openclaw/commit/db2a56b3d1c7eb9182a60c13562319785f86ff4c)
+- [ ] [<code>test(gateway): let an admitted Template Add finish after device revocation (#204464)</code>](https://github.com/openclaw/openclaw/commit/74345066c9b4adea57c71ffc5168bc297f93cd5b)
+- [ ] [<code>fix(openai): offer only the speed tiers an API key's account advertises (#204392)</code>](https://github.com/openclaw/openclaw/commit/8f6f67b75ee8af22b3ee61d4b67690c68ae38cf4)
+- [ ] [<code>test(cache): compare Responses prefixes through one envelope projection (#204437)</code>](https://github.com/openclaw/openclaw/commit/9ac436d290612174a2800dcd8ec270504538ed8e)
+- [ ] [<code>improve: finish Template setup sooner and say what is being set up (#204365)</code>](https://github.com/openclaw/openclaw/commit/d21d4209a1d7665ede8ed8ea3b9fcced5c391025)
+- [ ] [<code>test(update): remove dead test control flow (#204470)</code>](https://github.com/openclaw/openclaw/commit/5818f20e3c507647a7a98a335bcdc3749f079b2e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
