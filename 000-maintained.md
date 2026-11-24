@@ -1599,6 +1599,7 @@
 - [ ] [<code>rrdcontext: queue context SQL writes instead of running SQLite under the context lock (#24824)</code>](https://github.com/netdata/netdata.git/commit/676ec4dacb53211f8e79fea82ed37821ba77fd68)
 - [ ] [<code>otel-plugin: remove legacy OTel logs support; unknown config options are warnings (#24907)</code>](https://github.com/netdata/netdata.git/commit/a5b25bb636333d40809b3ff5061f2aa92468738a)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.13.0-48-nightly.</code>](https://github.com/netdata/netdata.git/commit/1812b265cb3a277d050ab7f2c2ba37859ecf56a7)
 
 #### [netplan](https://github.com/canonical/netplan): [1.2.2 → HEAD](https://github.com/canonical/netplan/compare/1.2.2...HEAD)
 
@@ -4547,6 +4548,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(sdk): bump geniex-qairt to bundle QAIRT 2.51</code>](https://github.com/qualcomm/GenieX/commit/cfd8739ad3e47d435c773a7e4c5a0ffb1c71ca1c)
 - [ ] [<code>docs(sdk): update bundled QAIRT version</code>](https://github.com/qualcomm/GenieX/commit/6b85aa1f97c54eeb79b9c6d3f5b0b5a5c0a1b5c4)
+- [ ] [<code>Merge pull request #1698 from qualcomm/chore/bump-geniex-qairt-251</code>](https://github.com/qualcomm/GenieX/commit/db47ff2b50ee227f35e215215c2bc35c634378ca)
+  - <sub>Tags: <code>v0.12.0-rc.1</code></sub>
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20260420.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -37970,6 +37973,84 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat(agents): keep idle prompt caches warm with read-only prewarms (#204219)</code>](https://github.com/openclaw/openclaw/commit/b36ba3fed244dd7383e9d8da6c1a41eb9406e005)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): remove mobile qualification from Gateway validation (#200555)</code>](https://github.com/openclaw/openclaw/commit/3cc31b25860037e5e86ce7c75a6c7e3bdd0dcb42)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(release): retry immutable ClawHub recovery transfers (#204254)</code>](https://github.com/openclaw/openclaw/commit/2ecd257f1334100986c91468ce2b529ebb483743)
+  - <sub>Tags: <code>release-publish/2ecd257f1334-1795472134</code></sub>
+- [ ] [<code>test(gateway): assert the structured denial for revoked session history (#204255)</code>](https://github.com/openclaw/openclaw/commit/eba6997829c9b2fc77a755ee864a907845a3ee29)
+- [ ] [<code>fix: remove repeated details after an update rolls back (#204253)</code>](https://github.com/openclaw/openclaw/commit/2e90b7627631580126dd43b3f006eb6be8aa88f1)
+- [ ] [<code>fix: preserve managed GitHub exec on packaged Windows (#201712)</code>](https://github.com/openclaw/openclaw/commit/6af45b657fdbe5b37809aeed95effdfe68783e4a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test(gateway): drop the stale mid-turn revocation step from screen routing</code>](https://github.com/openclaw/openclaw/commit/4efdef5994f534859766e46dcab13dcb7d1e68b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): embed system prompt in input on ChatGPT Responses when uncached (#202372) (#202720)</code>](https://github.com/openclaw/openclaw/commit/8b17822bec4f36582bf5e15743087b32fd3460b1)
+- [ ] [<code>fix: add templates without requiring model sign-in (#204234)</code>](https://github.com/openclaw/openclaw/commit/8eb7c5628a142575a2b2c5109a5ba71aba3ef3e8)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: drop mid-run refusal tests left red by #204155 and #204134 (#204270)</code>](https://github.com/openclaw/openclaw/commit/1f4e88fbda0b27fddc387dea67d297547050e95d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): settle every undelivered child completion into history; drop delivery dispositions (#204260)</code>](https://github.com/openclaw/openclaw/commit/57dd84bd1e0f4b23159dec4e270edc4f6bd094f8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(sessions): unread advances only when a run ends with a new visible reply (#204281)</code>](https://github.com/openclaw/openclaw/commit/7986fe16880081dba490850f77b7eefa609e53d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: stop Git checkouts on 2026-11-17 main updaters from half-switching on a schema change (#204275)</code>](https://github.com/openclaw/openclaw/commit/8b167650d702fb5c930ed4332820827d7f1c9aec)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(gateway): reuse accepted session row child links (#204274)</code>](https://github.com/openclaw/openclaw/commit/1e8a4b7162fa253b3bf578aa80504ecb9c2819f5)
+- [ ] [<code>test(ui): make the attachment filename fit check independent of installed CJK fonts</code>](https://github.com/openclaw/openclaw/commit/34c8570c297ab436fd61cd3a1ec70da0e6e81d03)
+- [ ] [<code>fix(ci): select every transitive importer test for agent, compaction and transport owners (#204292)</code>](https://github.com/openclaw/openclaw/commit/ba2046d48e1784b79121a3de358534df73622760)
+- [ ] [<code>fix: keep OpenAI account limits aligned while loading</code>](https://github.com/openclaw/openclaw/commit/190d26d26c50247e055a81f8904b4c38cd34c7bd)
+- [ ] [<code>fix: keep prompt-history diagnostics accurate between turns (#203422)</code>](https://github.com/openclaw/openclaw/commit/941e80567e600f18f900d27b1f383c67a5f25ae6)
+- [ ] [<code>refactor: drop the admitted operator authority re-check and the lifetime ratchet (R6z) (#204249)</code>](https://github.com/openclaw/openclaw/commit/75cab7d1e9f503f429285848111123d76d2a9644)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(qa): expect empty child completions to settle as parent history (#204299)</code>](https://github.com/openclaw/openclaw/commit/f1debfde108afe1ff4078abb6c247bd6cfa8cad2)
+- [ ] [<code>fix(release): apply approved waivers during receipt recovery (#204300)</code>](https://github.com/openclaw/openclaw/commit/92c476640812a359536417f72708548ff5a140d6)
+  - <sub>Tags: <code>release-publish/92c476640812-1795484722</code></sub>
+- [ ] [<code>feat(templates): sign in to ClawHub from a private draft</code>](https://github.com/openclaw/openclaw/commit/ff9c567e0c30099900c0b9f134abdda488593819)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: let setup verify Codex without a runtime override (#204296)</code>](https://github.com/openclaw/openclaw/commit/effc2eeba218635fd0ce4ad52e026b9ec0392d43)
+- [ ] [<code>docs(release): keep retrospective tracking in the ledger (#204318)</code>](https://github.com/openclaw/openclaw/commit/ee3e08c2f499dde1e1c46867b783d092482fb362)
+- [ ] [<code>fix(ci): drop an unselected whole group's timeout from selected Node jobs (#204314)</code>](https://github.com/openclaw/openclaw/commit/0921f9fa128a853bd2e7dd008b5eb15fa7f9bb08)
+- [ ] [<code>fix(ci): recognize the daemon runtime probe regenerated by #201712 (#204315)</code>](https://github.com/openclaw/openclaw/commit/665c286ac732c92e24d3ea58f978c34b6f0fc916)
+- [ ] [<code>test(vitest): keep database-worker files out of the shared-core project (#204316)</code>](https://github.com/openclaw/openclaw/commit/60dede98ad3001e6c78621edd8cc1cb6e426d27a)
+- [ ] [<code>chore(ui): refresh control ui locales (#204320)</code>](https://github.com/openclaw/openclaw/commit/29bc3e3ee37076e9aa256c83ca5f9e02c609fd9a)
+- [ ] [<code>fix: restore compact failed-reply cards in the Control UI (#204303)</code>](https://github.com/openclaw/openclaw/commit/1ce543270b2f73f38a28210608b9746a37eecdc9)
+- [ ] [<code>docs(release): release agents own Plugin SDK API acknowledgement (#204326)</code>](https://github.com/openclaw/openclaw/commit/7cbf1585ed737dd0b42fb28ea82082dc851ed4e3)
+- [ ] [<code>fix: explain when OpenAI voice needs an API key (#204200)</code>](https://github.com/openclaw/openclaw/commit/86fcb81e64c02b29e64892ed8549a639ecd6dc0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): restore signed Gateway releases and completion-owned Store requests (#204332)</code>](https://github.com/openclaw/openclaw/commit/766f6157f4d36e7338df8cd7f6934a711bfb1f4b)
+- [ ] [<code>fix(agents): a member on the global session gets a reply again (#204335)</code>](https://github.com/openclaw/openclaw/commit/63125678512dc25eae802393f2c0cdfa12c14a6b)
+- [ ] [<code>chore(ui): refresh control ui locales (#204348)</code>](https://github.com/openclaw/openclaw/commit/01640493f9beb60d5acef48c3e9a671a249cb1b6)
+- [ ] [<code>fix: keep a goal advancing after a background command's completion turn (#204327)</code>](https://github.com/openclaw/openclaw/commit/0b295654fa143f49169f5141a402f2de7237c42d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): keep workspace Git imports off the main thread (#204336)</code>](https://github.com/openclaw/openclaw/commit/a21974cdddd19770d09364f5852ae81ecc2bc076)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>fix: open the new agent chat after importing a Template</code>](https://github.com/openclaw/openclaw/commit/04ddd0ebe84e4c2c5da8f2a40abbe1779b7527d8)
+- [ ] [<code>fix(test): surface transfer boundary failures without cleanup hang (#203411)</code>](https://github.com/openclaw/openclaw/commit/0a9c7cca6b91ff06eb328650998821a3641aa60d)
+- [ ] [<code>fix(release): print a verified verdict and pinned candidate inputs (#201198)</code>](https://github.com/openclaw/openclaw/commit/91f37156b50019824969c5b4c3c9f7405106ba84)
+- [ ] [<code>fix: make Daybreak one toggle that follows the chat's model (#204302)</code>](https://github.com/openclaw/openclaw/commit/5a4cb12e029d1d715fcf93bf1dcb69241a2120fd)
+- [ ] [<code>chore(ui): refresh control ui locales (#204357)</code>](https://github.com/openclaw/openclaw/commit/b0678469a491f3879cee52ea8357aa1c94314e0a)
+- [ ] [<code>fix(ci): enforce bundled npm install retry deadline (#204280)</code>](https://github.com/openclaw/openclaw/commit/58d998355fcb959b357bf5b24d2ae56ed1e3760a)
+- [ ] [<code>improve(ci): start long upgrade checks before the final validation wave (#202894)</code>](https://github.com/openclaw/openclaw/commit/8e742ebfb3baad810ab9e4c7548088120fee27ce)
+- [ ] [<code>fix(ci): bound agent owner PR selection to same-directory importers and a declared behavior set (#204346)</code>](https://github.com/openclaw/openclaw/commit/5754fac480d82bb35d1be2d8b3681eccba2339d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: clarify setup instructions for account sign-in</code>](https://github.com/openclaw/openclaw/commit/c237dbd5bf18fbdad8d73d3de18693e23196c0b6)
+- [ ] [<code>fix: repair worker placement and node-host CI fixtures (#204359)</code>](https://github.com/openclaw/openclaw/commit/a546be7fb764dd464af5f15de521037b621e151b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: comment on live elements in inline widgets (#201028)</code>](https://github.com/openclaw/openclaw/commit/431e55252246b028c98a1442a0e65daf66c452b8)
+- [ ] [<code>fix(release): reuse child evidence across release tooling changes (#204360)</code>](https://github.com/openclaw/openclaw/commit/b8d72ac2cd49247b10135ca8049b23601067f8a0)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test(qa): assert the failed child status lands once in parent history (#204367)</code>](https://github.com/openclaw/openclaw/commit/b5263df3d3221e098949ac7f9ede0a55e711b8fc)
+- [ ] [<code>fix: read GitHub previews with the connected GitHub CLI account (#203952)</code>](https://github.com/openclaw/openclaw/commit/902cb3f2f13f26214e019f00d78c72574c2f210d)
+- [ ] [<code>improve: welcome guests in the agent's own voice</code>](https://github.com/openclaw/openclaw/commit/e41bd5d91ec3fe46cd64126890aa40c1f057fafe)
+- [ ] [<code>fix: recognize valid Git plugin installation provenance</code>](https://github.com/openclaw/openclaw/commit/0f3fc70ff0aab2a661463f9ac09b9a0412187ba4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(tests): stop recovery and output checks racing lazy UI loads (#204304)</code>](https://github.com/openclaw/openclaw/commit/1abe75e3452df4ab517c5a25074578425924dde0)
+- [ ] [<code>fix(ci): run the builds selected tests need (#202514)</code>](https://github.com/openclaw/openclaw/commit/ad2f629e55fc8b2b0fb8e3af8acc58f572ac6232)
+- [ ] [<code>test(browser): forward lstat options in install-layout ownership mocks (#204380)</code>](https://github.com/openclaw/openclaw/commit/ad629bc24807952c17dfdd3affc8bfdcd62d595b)
+- [ ] [<code>fix(ui): clarify pending guest suggestions</code>](https://github.com/openclaw/openclaw/commit/22a57c95b6c5647017fe665d6bfb55c4e2c137bd)
+- [ ] [<code>fix: keep hidden macOS dashboards connected until closed (#203974)</code>](https://github.com/openclaw/openclaw/commit/df8bc495c2a748a09ec3941be56e8230c415f41a)
+- [ ] [<code>fix(macos): require Shift-Command-R to reload the dashboard (#203948)</code>](https://github.com/openclaw/openclaw/commit/aef014c81e93b52f171533f6c1a0b01d3a38dbf2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(release): keep parallel release lines ledger-only and coverage explicit (#204385)</code>](https://github.com/openclaw/openclaw/commit/0956e14e6814a849a58130ffbb154303e15bbdc4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
