@@ -1,9 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.4 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.4...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.5 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/8dd98a5e8c79c565da5f2b5df6ec517f34b9b308)
-- [ ] [<code>4.5</code>](https://github.com/linuxmint/bulky/commit/8673cd6f7a683821af4fca794c56bb4801771f04)
-  - <sub>Tags: <code>4.5</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -1199,7 +1196,11 @@
 - [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/4a70f48c5a1fb88427fb58925d410950e168ae98)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/6165c19f7101121c826738999abaa7e222dc1c23)
-  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.1</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/1260b1b875e0d324e11cb100db009a62883b4e08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/fc885f2ccf247ca289d67af52d6347816588a7ff)
+  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.3 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.3...HEAD)
 
@@ -2033,8 +2034,10 @@
 
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/14ba07ee2522c3779f8dd99ebef02512f838ba8c)
 - [ ] [<code>2.0.8</code>](https://github.com/linuxmint/warpinator/commit/8003729dc56b5681feded2eba971a7839cd26a3e)
-  - <sub>Tags: <code>2.0.8</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>2.0.8</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>interceptors.py: Limit the size of decompressed chunks</code>](https://github.com/linuxmint/warpinator/commit/5174d810f27e503826892c25846ab17d90aa799b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
@@ -2164,6 +2167,15 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.11 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.11...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/5fe6123d47ea1df171b7265b114ace8c4b1b4b4a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>4.6.12</code>](https://github.com/linuxmint/xreader/commit/1835317976a0b8cd66cce5b9a2adbceb789f01dc)
+  - <sub>Tags: <code>4.6.12</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.19 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.19...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/477b6b7d02c3e2f8060fda2c1a47768fc8200a6f)
+- [ ] [<code>3.4.20</code>](https://github.com/linuxmint/xviewer/commit/6e56f9e6522c0f2f3493d0baeb247899af33029c)
+  - <sub>Tags: <code>3.4.20</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
