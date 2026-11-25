@@ -1223,9 +1223,13 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
+- [ ] [<code>Add some missing office template links</code>](https://github.com/linuxmint/mint-x-icons/commit/13fb1b91e7ecaff88a91c71fe69482c324f7f869)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.8...HEAD)
 
+- [ ] [<code>Generate missing office template symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/9c07f0a7d0e84fee774c06024c942f244f1c5e09)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
