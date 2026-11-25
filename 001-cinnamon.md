@@ -830,7 +830,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>keyringPrompt.js: Allow correcting the password after a failed check</code>](https://github.com/linuxmint/cinnamon/commit/3cce207e8ed1190e2240990c4b0432d72820f601)
 - [ ] [<code>screenShield.js: Fix tab-to-focus cycling</code>](https://github.com/linuxmint/cinnamon/commit/48a33f9b315c58b49d803a1413fe60297dda8425)
+- [ ] [<code>gestures: settings cleanup, additional runtime fixes</code>](https://github.com/linuxmint/cinnamon/commit/5b9713a555f76b5c387a40b51057e65ed3e2a62c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
