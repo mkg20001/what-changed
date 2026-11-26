@@ -39144,6 +39144,47 @@
 - [ ] [<code>feat: confine native node worker filesystem access (#193823)</code>](https://github.com/openclaw/openclaw/commit/772a9eb4a8d65b614cf6cdb9c8c6c77d66f52744)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>fix(markdown): an image whose alt text uses **bold** shows the asterisks (#196196)</code>](https://github.com/openclaw/openclaw/commit/6e56bd4d485901793dd43c6c17c583ef23a523b8)
+- [ ] [<code>fix: keep chat sending when the streaming formatter is unavailable</code>](https://github.com/openclaw/openclaw/commit/664bb5f1253d836f822be7f2189a21f0804e2c5f)
+- [ ] [<code>fix(i18n): translate the conversation People label as participants (#204361)</code>](https://github.com/openclaw/openclaw/commit/54dc56391a7e8579299d69e0edf9c421b836b508)
+- [ ] [<code>improve: reduce sidebar work for large automation inventories (#205693)</code>](https://github.com/openclaw/openclaw/commit/4aab24d86ef1230c3ac958e3009182a62fd29bb5)
+- [ ] [<code>fix: keep complete meeting searches when pasting or reopening filters (#205686)</code>](https://github.com/openclaw/openclaw/commit/d3d3ca31bc2c9ea875b7b1e6856edea6afdca446)
+- [ ] [<code>refactor(subagents): retire finished child rows by one rule instead of two handed-off flags (#205482)</code>](https://github.com/openclaw/openclaw/commit/0fa34123b3228bc3daea2cdb3cd4b4eccfbea0e1)
+- [ ] [<code>chore(ui): refresh control ui locales (#205717)</code>](https://github.com/openclaw/openclaw/commit/cdadcea9047c83025b9c462abf25811d0f3c8add)
+- [ ] [<code>fix(workboard): let bulk label edits continue after a selected card is archived (#205700)</code>](https://github.com/openclaw/openclaw/commit/973e0ba78f7b970dafdd9166c6598a572a5d0d46)
+- [ ] [<code>fix: preserve the full query when searching session transcripts (#205704)</code>](https://github.com/openclaw/openclaw/commit/427900b2d53987797eae1dd47f8a77ee16588b40)
+- [ ] [<code>fix(workboard): preserve pasted board names and column text (#205707)</code>](https://github.com/openclaw/openclaw/commit/9ad935f281e018f9c6941dc1bf20fddc809d1a83)
+- [ ] [<code>improve(auth): avoid copying shell key lists during provider discovery (#205725)</code>](https://github.com/openclaw/openclaw/commit/b1d355fcc9fcf91a4514c2612ce7b33211c710b6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: skip unused model rows during credential refresh (#205728)</code>](https://github.com/openclaw/openclaw/commit/e4517b0ef2f4e366668e0e00a909297e5a9bf3b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): remove unused role and workflow exports (#205720)</code>](https://github.com/openclaw/openclaw/commit/40f3903e6e2bf06e90341bf67baf41f527795658)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(test): align role matrix with saved assignments (#205721)</code>](https://github.com/openclaw/openclaw/commit/1140fc54a32dc3715e8f95f62f541ae634e97c18)
+- [ ] [<code>test(gateway): configure writer for publication wake proof (#205748)</code>](https://github.com/openclaw/openclaw/commit/3c60b818aeccfccf46de5cf4a1cfb15ba1324718)
+- [ ] [<code>fix(ui): name the connected account, apply the sign-in's recommended model, show full model names (#205742)</code>](https://github.com/openclaw/openclaw/commit/0f1bb35f4d3d50d5bced8c5b4a75b5cc8b2bcb4f)
+- [ ] [<code>fix(auto-reply): tell a channel sender why their queued input was refused (#205751)</code>](https://github.com/openclaw/openclaw/commit/9137b6ec8e7c350473cee99644008a98816e5d27)
+- [ ] [<code>test(auto-reply): pin queued channel restart and collected sender authority (#203464, #203463) (#205757)</code>](https://github.com/openclaw/openclaw/commit/ecd534c544c151e8d477a0b245261a9dbbe63559)
+- [ ] [<code>fix: keep the full search query when testing a provider (#205662)</code>](https://github.com/openclaw/openclaw/commit/83a30248922d247fcd6223a133443e2d3ae15db3)
+- [ ] [<code>chore(ui): refresh control ui locales (#205765)</code>](https://github.com/openclaw/openclaw/commit/f861b120522be3db5c72f1a5200fb6062a95a17f)
+- [ ] [<code>fix(diagnostics): bound Claude CLI content before encoding (#205749)</code>](https://github.com/openclaw/openclaw/commit/ea7f7431dc6800329b038a148e60c3b4d40df0d7)
+- [ ] [<code>fix(models): release superseded remote catalog snapshots</code>](https://github.com/openclaw/openclaw/commit/1e7216ff679b5c689c0fa71015126846dc29c00a)
+- [ ] [<code>fix(ci): keep node workspace helpers private (#205756)</code>](https://github.com/openclaw/openclaw/commit/ac4474bf9141822a8f5012210e4692454bcfc4de)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(install): check source build memory before installing dependencies (#205735)</code>](https://github.com/openclaw/openclaw/commit/0d6d318d25147618f6debabf539362868d71f1be)
+- [ ] [<code>chore(ui): refresh control ui locales (#205773)</code>](https://github.com/openclaw/openclaw/commit/794699900cd125599d5055a2349243e6c0965daf)
+- [ ] [<code>docs: explain source-build memory before installation (#195428)</code>](https://github.com/openclaw/openclaw/commit/83a950cd51051690da1235141554a883a99ad4b8)
+- [ ] [<code>fix(mcp): compile tool output validators on first call, not at catalog load (#199327) (#199346)</code>](https://github.com/openclaw/openclaw/commit/eb704f55cad9e5a47a516c4bbb2bc542a3dcfc4a)
+- [ ] [<code>fix: keep reminder scheduling visible in crowded Code Mode sessions (#187392)</code>](https://github.com/openclaw/openclaw/commit/f76b87badadd0c4d244d6529fb4da41894eb8b83)
+- [ ] [<code>docs(lmstudio): embedding model fails to load on a small host (#199552)</code>](https://github.com/openclaw/openclaw/commit/3b8b42669103cca8a4ce6219979782d4d6ef47ce)
+- [ ] [<code>fix: explain how to reopen an unavailable automation link</code>](https://github.com/openclaw/openclaw/commit/ccaaedf0548d83b375a595269a444dcea4c82887)
+- [ ] [<code>feat: let plugins explain provider errors in chat</code>](https://github.com/openclaw/openclaw/commit/9f68c3ffaae4c9d3068be3e2427cc0b921349c4f)
+- [ ] [<code>feat: define exec settings for Dedicated workers (#205571)</code>](https://github.com/openclaw/openclaw/commit/b8c9305ae2271fb0a72191fd37a0445556da4690)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(lmstudio): report the context of a failed embedding preload (#205747)</code>](https://github.com/openclaw/openclaw/commit/92d40cbd98217c6ccdef583ded341eab691d206f)
+- [ ] [<code>feat(models): split sign out on this device from disconnect account (#205759)</code>](https://github.com/openclaw/openclaw/commit/1a660f87c7f0e187cb87cbe52a9e86f646a135f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: release generated model rows after a hosted catalog expires (#205766)</code>](https://github.com/openclaw/openclaw/commit/254f60242899cc591331f32def20f18261ea2157)
+- [ ] [<code>fix: let memory indexing finish for large PostgreSQL chat histories (#201826)</code>](https://github.com/openclaw/openclaw/commit/8fea10c4543eb3c7e586a277b0a1d274a7d974dd)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -39257,19 +39298,11 @@
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 504
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.87.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
