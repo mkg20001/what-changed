@@ -828,8 +828,9 @@
 - [ ] [<code>keyringPrompt.js: Allow correcting the password after a failed check</code>](https://github.com/linuxmint/cinnamon/commit/3cce207e8ed1190e2240990c4b0432d72820f601)
 - [ ] [<code>screenShield.js: Fix tab-to-focus cycling</code>](https://github.com/linuxmint/cinnamon/commit/48a33f9b315c58b49d803a1413fe60297dda8425)
 - [ ] [<code>gestures: settings cleanup, additional runtime fixes</code>](https://github.com/linuxmint/cinnamon/commit/5b9713a555f76b5c387a40b51057e65ed3e2a62c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>bug_report.yaml: Add session-type question</code>](https://github.com/linuxmint/cinnamon/commit/f68dcb5fca8decfe11f08efdfa96ed28f781ef56)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1557,6 +1558,7 @@
 - [ ] [<code>x11/group: Try harder to find the associated group</code>](https://github.com/linuxmint/muffin/commit/13b160eb920335d45078696a98b98827c27bbcb3)
 - [ ] [<code>clutter-stage-view.c: Restore the offscreen blit pipeline</code>](https://github.com/linuxmint/muffin/commit/e6fafc4b748c6e1d93c94f4514e1d7ef6a76331f)
 - [ ] [<code>wayland: Bump connection buffer size to 1MB (#899)</code>](https://github.com/linuxmint/muffin/commit/6b9858ee0981bcc95b93b6bdd5dc71b037cad01b)
+- [ ] [<code>bug_report.yaml: Add session-type question</code>](https://github.com/linuxmint/muffin/commit/1ec03af1755f3de2da2bdf97aa4572fae6b3a918)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1760,8 +1762,11 @@
 - [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/nemo/commit/33892205b0a584a44086b54b67b99266fc97e443)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>6.8.5</code>](https://github.com/linuxmint/nemo/commit/bf7e43f6bd12f43f990c774fca693fa9f7cae4eb)
-  - <sub>Tags: <code>6.8.5</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-window-slot.c: Don't focus background tabs when loading</code>](https://github.com/linuxmint/nemo/commit/a2f30439565e69715f8ffe9383477cb67fbdd534)
+- [ ] [<code>bug_report.yaml: Add session type question</code>](https://github.com/linuxmint/nemo/commit/dfebf65a1d6da339154c02528b762aab28aa7efb)
+  - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -2015,13 +2020,8 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.13 → HEAD](https://github.com/linuxmint/pix/compare/3.4.13...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.14 → HEAD](https://github.com/linuxmint/pix/compare/3.4.14...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/ecdd0a405e2643e40852c65fcb2df05beea72086)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.14</code>](https://github.com/linuxmint/pix/commit/643e0e4d9412322b1ec8141cd24a6c55e7c892bc)
-  - <sub>Tags: <code>3.4.14</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python3-xapp): [3.0.5 → HEAD](https://github.com/linuxmint/python3-xapp/compare/3.0.5...HEAD)
 
@@ -2030,12 +2030,8 @@
   - <sub>Tags: <code>3.0.6</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.7 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.7...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.8 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/14ba07ee2522c3779f8dd99ebef02512f838ba8c)
-- [ ] [<code>2.0.8</code>](https://github.com/linuxmint/warpinator/commit/8003729dc56b5681feded2eba971a7839cd26a3e)
-  - <sub>Tags: <code>2.0.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>interceptors.py: Limit the size of decompressed chunks</code>](https://github.com/linuxmint/warpinator/commit/5174d810f27e503826892c25846ab17d90aa799b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
