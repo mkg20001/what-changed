@@ -830,7 +830,16 @@
 - [ ] [<code>gestures: settings cleanup, additional runtime fixes</code>](https://github.com/linuxmint/cinnamon/commit/5b9713a555f76b5c387a40b51057e65ed3e2a62c)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>bug_report.yaml: Add session-type question</code>](https://github.com/linuxmint/cinnamon/commit/f68dcb5fca8decfe11f08efdfa96ed28f781ef56)
+- [ ] [<code>touchegg-client: Fix a leak on every gesture signal</code>](https://github.com/linuxmint/cinnamon/commit/6212121046086ff8e189de7a74a47666a5926cb5)
+- [ ] [<code>toucheggGestureSource.js: Rotate touchscreen swipes to match rotation</code>](https://github.com/linuxmint/cinnamon/commit/51a17c29ca2194509b1fc88c22d156528ce3792e)
+- [ ] [<code>gwl: Don't re-add closing windows in showAllWorkspaces mode</code>](https://github.com/linuxmint/cinnamon/commit/d3fcda22d9fe88ec56b22094991363a5412ad7fb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Fix workspace bookkeeping on workspace removal</code>](https://github.com/linuxmint/cinnamon/commit/7c1e648b0c3ffe674519021914f65a8d847a3c2a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>appswitcher: Destroy the background actor when closing the 3D switchers (#14162)</code>](https://github.com/linuxmint/cinnamon/commit/5069dc78ca63ca0f0c26d28bc201259ddb003b36)
+- [ ] [<code>calendar applet: Don't capitalize the custom tooltip format (#14165)</code>](https://github.com/linuxmint/cinnamon/commit/5ef21c6d3fb76803cd4e0fc5b804840f380330da)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1559,6 +1568,8 @@
 - [ ] [<code>clutter-stage-view.c: Restore the offscreen blit pipeline</code>](https://github.com/linuxmint/muffin/commit/e6fafc4b748c6e1d93c94f4514e1d7ef6a76331f)
 - [ ] [<code>wayland: Bump connection buffer size to 1MB (#899)</code>](https://github.com/linuxmint/muffin/commit/6b9858ee0981bcc95b93b6bdd5dc71b037cad01b)
 - [ ] [<code>bug_report.yaml: Add session-type question</code>](https://github.com/linuxmint/muffin/commit/1ec03af1755f3de2da2bdf97aa4572fae6b3a918)
+- [ ] [<code>x11: Honor window gravity when unframing a window</code>](https://github.com/linuxmint/muffin/commit/e2cb1fa6abd5f45d90643e8dd5df2602740899ea)
+- [ ] [<code>monitor-manager: Add meta_monitor_manager_get_monitor_rotation()</code>](https://github.com/linuxmint/muffin/commit/b4df2b0139ed9bffd9bf8198a9b78d5b9593ac7b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -2033,6 +2044,9 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.8 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.8...HEAD)
 
 - [ ] [<code>interceptors.py: Limit the size of decompressed chunks</code>](https://github.com/linuxmint/warpinator/commit/5174d810f27e503826892c25846ab17d90aa799b)
+- [ ] [<code>warpinator-send.nemo_action: Simplify/speed-up visibility check</code>](https://github.com/linuxmint/warpinator/commit/77e3994066fdb410dea4e45a606a6389ae154b72)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/warpinator/commit/9ccbcf93a81652c38d0cb4dda4082a94277b79a5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
