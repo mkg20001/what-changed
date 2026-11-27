@@ -838,6 +838,16 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>appswitcher: Destroy the background actor when closing the 3D switchers (#14162)</code>](https://github.com/linuxmint/cinnamon/commit/5069dc78ca63ca0f0c26d28bc201259ddb003b36)
 - [ ] [<code>calendar applet: Don't capitalize the custom tooltip format (#14165)</code>](https://github.com/linuxmint/cinnamon/commit/5ef21c6d3fb76803cd4e0fc5b804840f380330da)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>hotCorner.js: Destroy pointer barriers when a corner is destroyed</code>](https://github.com/linuxmint/cinnamon/commit/acd8a700067486c4f63765952a9b2c12bf134b18)
+- [ ] [<code>gestures: Disable touchscreen gestures in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/c1d5e11e1f6a3598cab41624ee50db935d2a1d30)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Don't run relayout on a removed monitor</code>](https://github.com/linuxmint/cinnamon/commit/e97c26a57aac8d1af1f0c75178bca94e732f286e)
+- [ ] [<code>cs_default: Also set the web browser as default for HTML files (#14138)</code>](https://github.com/linuxmint/cinnamon/commit/7ab2a2a64797e27bc9957eac0740ff44c46fb1cf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu@cinnamon.org: Don't show all app buttons after the menu has already closed. (#14161)</code>](https://github.com/linuxmint/cinnamon/commit/4e824623a67a03573876c3a057fcb91c569ffe41)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_gestures.py: Move Settings tab to the end, fix default button</code>](https://github.com/linuxmint/cinnamon/commit/2f255e61842a2ca251ab6d7ed7839d1652438b1f)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -1777,6 +1787,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-window-slot.c: Don't focus background tabs when loading</code>](https://github.com/linuxmint/nemo/commit/a2f30439565e69715f8ffe9383477cb67fbdd534)
 - [ ] [<code>bug_report.yaml: Add session type question</code>](https://github.com/linuxmint/nemo/commit/dfebf65a1d6da339154c02528b762aab28aa7efb)
+- [ ] [<code>nemo-ui-utilities.c: Fix double free in nemo_make_action_uuid_for_path() (#3905)</code>](https://github.com/linuxmint/nemo/commit/365c80e5d73b444c1d6b0977af2f04bad2acc026)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -2047,6 +2058,7 @@
 - [ ] [<code>warpinator-send.nemo_action: Simplify/speed-up visibility check</code>](https://github.com/linuxmint/warpinator/commit/77e3994066fdb410dea4e45a606a6389ae154b72)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/warpinator/commit/9ccbcf93a81652c38d0cb4dda4082a94277b79a5)
+- [ ] [<code>util.py: Fix TypeError when a received path cannot be resolved (#266)</code>](https://github.com/linuxmint/warpinator/commit/f79520b955071479d3390c1a6608cafbd0b14ac1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
@@ -2126,8 +2138,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/f650d0015d161013de5ae843cd135d8a9c8e0753)
 - [ ] [<code>3.4.3</code>](https://github.com/linuxmint/xapp/commit/2f3a6689555732a96d6663deb90a825d552c3d7c)
-  - <sub>Tags: <code>3.4.3</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>3.4.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-icon-chooser-dialog.c: Hide the dialog on response</code>](https://github.com/linuxmint/xapp/commit/702292ac043781f73cf3468adafe65c9ad873e3c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
