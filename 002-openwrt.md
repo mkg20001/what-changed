@@ -100,6 +100,11 @@
 - [ ] [<code>uloop: run kqueue interval callbacks after the events are collected</code>](https://git.openwrt.org/project/libubox.git/commit/da2d205a5cf3e877c45a2eec488218cbaf452e7d)
 - [ ] [<code>blobmsg_json: avoid out-of-bounds read on non-extended attributes</code>](https://git.openwrt.org/project/libubox.git/commit/20bea2ba777dec6e62e15415ded5ffd8be1a5f18)
 - [ ] [<code>uloop: use volatile sig_atomic_t for uloop_cancelled and uloop_status</code>](https://git.openwrt.org/project/libubox.git/commit/a396f38a8568a1d670c240465cd8d24fdfdf6463)
+- [ ] [<code>CMakeLists: provide PkgConfig generation and install</code>](https://git.openwrt.org/project/libubox.git/commit/8d82a5fb25cd5cb89bbdc097379832213cdca5f5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>CMakeLists: correctly reference the PkgConfig file</code>](https://git.openwrt.org/project/libubox.git/commit/184418767364cacbab01525b533a8717d5e117e1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
@@ -467,6 +472,9 @@
 - [ ] [<code>uclient-fetch: attach credentials to the proxy target, not the proxy</code>](https://git.openwrt.org/project/uclient.git/commit/03b17e4fc793d4e58ae68871f27fc3af9de87eed)
 - [ ] [<code>uclient-fetch: don't run the progress meter in spider mode</code>](https://git.openwrt.org/project/uclient.git/commit/74c07b12f7ab3a9420a41fb53fb050e66c533377)
 - [ ] [<code>uclient-fetch: handle init_request failure on the 204 resume retry</code>](https://git.openwrt.org/project/uclient.git/commit/daad21fa2c17cae54d37149bf27bb3dd78e50a3f)
+- [ ] [<code>CMakeLists: provide PkgConfig generation and install</code>](https://git.openwrt.org/project/uclient.git/commit/bdfafcd6f3004b8654575a0a06718904f6ae52b1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
