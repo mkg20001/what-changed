@@ -848,8 +848,10 @@
 - [ ] [<code>menu@cinnamon.org: Don't show all app buttons after the menu has already closed. (#14161)</code>](https://github.com/linuxmint/cinnamon/commit/4e824623a67a03573876c3a057fcb91c569ffe41)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_gestures.py: Move Settings tab to the end, fix default button</code>](https://github.com/linuxmint/cinnamon/commit/2f255e61842a2ca251ab6d7ed7839d1652438b1f)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboard@cinnamon.org: Calculate required width instead of hardcoding</code>](https://github.com/linuxmint/cinnamon/commit/171b8c7ba3e36080534a5208552cf20e14ce7154)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
